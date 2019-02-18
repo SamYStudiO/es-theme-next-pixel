@@ -115,9 +115,9 @@ Next systems are not supported yet, they will display the same image as favorite
 ### Download
 2 packages are availables with 1080p or 720p images. Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially 1080p. If you have any issues with image loading you should switch to 720p version.
 
-**[DOWNLOAD es-next-pixel-1080p](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
+**[DOWNLOAD es-next-pixel-1080p-0.7.1](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
 
-**[DOWNLOAD es-next-pixel-720p](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
+**[DOWNLOAD es-next-pixel-720p-0.7.1](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
 
 ### License
 MIT License

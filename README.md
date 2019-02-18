@@ -63,11 +63,11 @@ To install theme drag and drop next-pixel folder into your recalbox/system/.emul
 
 
 ### Options
-COLORSET 	: chose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
-ICONSET 	: chose icons used for bottom left help (same as recalbox-next).
-SYSTEMVIEW 	: chose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > TRANSITION STYLE > INSTANT for a better look and feel**.
-GAMELISTVIEW	: chose gamelist view (same as recalbox next but 4/3 where removed), for each one you can chose to display or hide "pixel" border.
-REGION		: chose your region to adjust logo/console images (same as recalbox-next).
+- COLORSET 	: chose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
+- ICONSET 	: chose icons used for bottom left help (same as recalbox-next).
+- SYSTEMVIEW 	: chose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > TRANSITION STYLE > INSTANT for a better look and feel**.
+- GAMELISTVIEW	: chose gamelist view (same as recalbox next but 4/3 where removed), for each one you can chose to display or hide "pixel" border.
+- REGION		: chose your region to adjust logo/console images (same as recalbox-next).
 
 
 ### Multiple game themes

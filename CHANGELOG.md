@@ -1,9 +1,9 @@
 ### Changelog
-2019/02/xx - 0.7.1
-- Add new colorset called "game accent", this add some possible configurations with colorset option.
+2019/02/19 - 0.7.1
+- Add new colorset called "game accent", this add some possible configurations with colorset option and improve some assets quality.
 - Fix psx Final Fantasy VII game theme was not "pixelate"
 - When a system has multiple game themes, system folder is now duplicate instead of media files inside it, this make it easier to switch game theme
-- 720p and 1080p images are non longer available as separate standalone downloads, 2 donwloads package are now available from github, one including 720p and another one including 1080p images
+- 720p and 1080p images are non longer available as separate standalone downloads, 2 downloads package are now available from github, one including 720p and another one including 1080p images
 
 2019/02/17 - 0.7
 - Add new system view using right vertical wheel (it replaces horizontal view as default system view to switch back to horizontal check theme options)

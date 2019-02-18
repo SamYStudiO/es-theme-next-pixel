@@ -1,5 +1,5 @@
 # es-next-pixel
-Theme 'next-pixel' for [recalbox](https://www.recalbox.com/) and based on 'recalbox-next' theme. Donwload links are available at the bottom, **do not clone or donwload master branch as it does not contain any images**
+Theme 'next-pixel' for [recalbox](https://www.recalbox.com/) and based on 'recalbox-next' theme. Donwload links are available at the bottom, **do not clone or donwload master branch as it does not contain any images**.
 
 This theme is designed to display a fullscreen image for every system that best defined it (or as best as possible) avoiding using ingame footage. Most of these systems will have a custom music that match that game.
 
@@ -109,8 +109,8 @@ Next systems are not supported yet, they will display the same image as favorite
 
 ### Copyright
 - This theme use pictures/musics found over internet, if you think any images/musics used in this theme are your ownership or is subject to copyright please contact me (contact[at]samystudio.net), I'll remove them.
-- Theme is based on recabox-next theme so some assets may be licensed by recalbox (https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets.
-- Camera icon is from https://www.shareicon.net.
+- Theme is based on recabox-next theme so some assets may be licensed by [recalbox](https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets.
+- Camera icon is from [shareicon](https://www.shareicon.net).
 
 ### Download
 2 packages are availables with 1080p or 720p images. Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially 1080p. If you have any issues with image loading you should switch to 720p version.

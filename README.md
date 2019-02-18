@@ -1,8 +1,11 @@
 # es-next-pixel
-Theme 'next-pixel' for [recalbox](https://www.recalbox.com/) and based on 'recalbox-next' theme. Donwload links are available at the bottom, **do not clone or donwload master branch as it does not contain any images**)
+Theme 'next-pixel' for [recalbox](https://www.recalbox.com/) and based on 'recalbox-next' theme. Donwload links are available at the bottom, **do not clone or donwload master branch as it does not contain any images**
 
-This theme is designed to display a full screen image for every system that best defined it (or as best as possible) avoiding using ingame footage. Most of these systems will have a custom music that match that game.
-It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. **It works best with 16/9 screens**.
+This theme is designed to display a fullscreen image for every system that best defined it (or as best as possible) avoiding using ingame footage. Most of these systems will have a custom music that match that game.
+
+It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
+
+**It works best with 16/9 screens**.
 
 Here are some configuration examples:
 

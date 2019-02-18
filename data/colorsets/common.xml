@@ -1,0 +1,26 @@
+<theme>
+
+    <formatVersion>4</formatVersion>
+	
+	<view name="system">
+		
+		<text name="logoText">
+			<color>ffffff</color>
+		</text>
+		
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
+			<color>ffffff</color>
+		</text>
+		
+	</view>
+	
+	<view name="system, menu, basic, detailed">
+	
+		<helpsystem name="help">
+			<textColor>ffffff</textColor>
+			<iconColor>ffffff</iconColor>
+		</helpsystem>
+		
+	</view>
+	
+</theme>

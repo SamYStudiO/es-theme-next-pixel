@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Manufacturer : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1995 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Units sold : 2 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Media : BS-X Application Cartridge + optional 8MB Memory Pak</text>
+		</text>
+		<text name="info5" extra="true">
+			<text></text>
+		</text>
+		<text name="info6" extra="true">
+			<text>The Satellaview is a satellite modem peripheral for Nintendo's</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Super Famicom system. Bundled with the Satellaview</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>came a slotted application cartridge with the title</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>BS-X : The Story of The Town Whose Name Was Stolen.</text>
+		</text>
+		
+	</view>
+	
+</theme>

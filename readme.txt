@@ -1,0 +1,180 @@
+Theme 'next-pixel' released by mYSt and based on 'recalbox-next' theme.
+Works best with 16/9 screens.
+
+
+Installation
+=========
+To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then start/restart your recalbox.
+
+
+Options
+=========
+COLORSET 	: chose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
+ICONSET 	: chose icons used for bottom left help (same as recalbox-next).
+SYSTEMVIEW 	: chose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > TRANSITION STYLE > INSTANT for a better look and feel**.
+GAMELISTVIEW	: chose gamelist view (same as recalbox next but 4/3 where removed), for each one you can chose to display or hide "pixel" border.
+REGION		: chose your region to adjust logo/console images (same as recalbox-next).
+
+
+Multiple game themes
+=========
+Some systems may contain several game themes, in that case system folder is duplicated with "2" suffix [folder]2 (for example cavestory2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]2 to [folder] (then you need to restart recalbox if it was running).
+Actual systems with multiple game themes (first one is default):
+- cavestory : 2 images available
+- psx : Crash Bandicoot, Final Fantasy VII
+- snes : Zelda, Final Fantasy VI
+
+Missing systems
+=========
+Next systems are not supported yet, they will display the same image as favorites/screenshots and play recalbox-next theme random music.
+- amiga600
+- amiga1200
+- amigacd32
+- amigacdtv
+- amstradcpc
+- apple2
+- atari800
+- atarist
+- channelf
+- commodore64
+- lutro
+- moonlight
+- msx
+- msx1
+- msx2
+- naomi
+- oric
+- pc
+- pc98
+- pcfx
+- ports
+- samcoupe
+- thomson
+- x68000
+- zx81
+- zxspectrum
+
+
+Copyright
+=========
+- This theme use pictures/musics found over internet, if you think any images/musics used in this theme are your ownership or is subject to copyright please contact me (contact[at]samystudio.net), I'll remove them.
+- Theme is based on recabox-next theme so some assets may be licensed by recalbox (https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets.
+- Camera icon is from https://www.shareicon.net.
+
+
+Changelog
+=========
+2019/02/18 - 0.7.1
+- Add new colorset called "game accent", this add some possible configurations with colorset option.
+- Fix psx Final Fantasy VII game theme was not "pixelate"
+- When a system has multiple game themes, system folder is now duplicate instead of media files inside it, this make it easier to switch game theme
+- 720p and 1080p images are non longer available as separate downloads, 2 donwloads package are now available, one including 720p and another one including 1080p images
+
+2019/02/17 - 0.7
+- Add new system view using right vertical wheel (it replaces horizontal view as default system view to switch back to horizontal check theme options)
+- Modify a bit horizontal system view for consistency with new vertical view (old system view still available as "horizontal legacy")
+- Modify light/dark colorset option, system views now use this option as well and 2 options have been added to mixin light/dark beetwen system and gamelist view. Light is now default option
+- Add atomiswave support
+- Add new system logos and default background (amigacdtv, channelf, naomi, oric, samcoupe)
+- Fix n64 image (was pixelate behing system logos, from 0.6 only)
+- Change scummvm image and music (still using Monkey Island as game theme)
+- Add snes Final Fantasy VI game theme alternative (check "Multiple game themes" section to know how to switch theme)
+- Favorites/screenshots logos/consoles tweaking
+- Definitely fix those logo borders consistency (some logos may look a bit larger though)
+- Add next pixel menu icons
+- Minor optimisations (images now include some assets to reduce a bit memory impact)
+- Code cleanup and refactoring (but gamelistviews)
+
+2019/02/10 - 0.6
+- Add 3ds support
+- Add gamecube support
+- Add saturn support
+- Add wii support
+- Add pokemini support (using same image as gameboy color, no specific music for now, play default random recalbox music)
+- Add jaguar support
+- Add 3do support
+- Add ds and fds support with same image
+- Add intellivision support
+- Add supergrafx support
+- Add satellaview support (using same image as snes but bs zelda music)
+- Add sufami support (no specific music for now, play default random recalbox music)
+- Add wonderswan color support
+- Add wonderswan support
+- Add vectrex support (no specific music for now, play default random recalbox music)
+- Add odyssey2/videopac support (no specific music for now, play default random recalbox music)
+- Add sg1000 support
+- Add cavestory alternative image
+- Change fba_libretro and colecovision image (still Donkey Kong but i hope better one)
+- Change pcengine game theme as image was not consistent with others (showing in game footage)
+- Change lynx music (same but lynx version :)
+- Modify atari 2600 image so we can't read game title anymore
+- Modify favorite/imageviewer logo and remove their "console" logo
+- Fix neogeocd, 3ds, ds logos to match other logos style
+- Flip several system images for consistency and in prevision of right vertical wheel
+- Move images to system root folder and rename system.ogg files to music.ogg
+
+2019/02/03 - 0.5
+- Add neogeocd support
+- Add daphne support
+- Add fba support (use pacman as atari 5200)
+- Add fba_libretro support (use donkey kong as colecovision 5200)
+- Add an option to show all system info in addition to actual no info or 4 lines option
+- Add an option for game list view to hide "pixel border"
+- Fix psx background was Final Fantasy VII instead of Crash Bandicoot by default
+- Fix some very low level musics
+- Update system release date for each region when possible (JP, USA, EUR)
+- 720p is now default resolution instead of 1080p (check installation guide to know how to switch image resolution)
+
+2019/01/27 - 0.4
+- Add dreamcast support
+- Add psp support
+- Add pcengine cd support
+- Add colecovision support
+- Change atari 2600 image
+- Improve basic/gamelist view design
+
+2018/12/24 - 0.3
+- Add segacd/megacd support
+- Add scummvm support
+- Add mame support
+- Add cavestory support
+- Add psx Final Fantasy alternative to Crash bandicoot
+
+2018/12/20 - 0.2
+- Add prboom support
+- Add light/dark colorset chooser from theme settings
+- Change Game Gear image and sound to have a different one from Megadrive/Genesis
+- All systems logos should now have a consistent weight and white border (even "unsupported" systems)
+- All musics should have a consistent music volume
+- Minor gamelist view tweaking
+
+2018/12/16 - 0.1
+- Initial release
+
+
+License
+=========
+
+MIT License
+
+Copyright (c) 2018 mYSt
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+

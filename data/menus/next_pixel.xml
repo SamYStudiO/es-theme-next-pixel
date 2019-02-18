@@ -1,0 +1,55 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="menu">
+	
+		<menuText name="menufooter">
+			<fontSize>.025</fontSize>
+			<color>ffffffff</color>
+		</menuText>
+		
+		<menuText name="menutext">
+			<fontSize>.035</fontSize>
+			<color>ffffffff</color>
+			<separatorColor>ffffffff</separatorColor>
+			<selectorColor>ffffffff</selectorColor>
+			<selectedColor>333333FF</selectedColor>
+		</menuText>
+		
+		<menuTextSmall name="menutextsmall">
+			<fontSize>.028</fontSize>
+			<color>ffffffff</color>
+		</menuTextSmall>
+		
+		<menuText name="menutitle">
+			<fontSize>.04</fontSize>
+			<color>ffffffff</color>
+		</menuText>
+		
+		<menuBackground name="menubg">
+			<color>222222ee</color>
+			<path>./../arts/frame.png</path>
+			<fadePath>./../arts/scroll_gradient.png</fadePath>
+		</menuBackground>
+		
+		<menuIcons name="menuicons">
+			<iconKodi>./../arts/menu_icons/Kodi.png</iconKodi>
+			<iconSystem>./../arts/menu_icons/System.png</iconSystem>
+			<iconUpdates>./../arts/menu_icons/Updates.png</iconUpdates>
+			<iconGames>./../arts/menu_icons/Games.png</iconGames>
+			<iconControllers>./../arts/menu_icons/Controllers.png</iconControllers>
+			<iconUI>./../arts/menu_icons/UI.png</iconUI>
+			<iconSound>./../arts/menu_icons/Sound.png</iconSound>
+			<iconNetwork>./../arts/menu_icons/Network.png</iconNetwork>
+			<iconScraper>./../arts/menu_icons/Scraper.png</iconScraper>
+			<iconAdvanced>./../arts/menu_icons/Advanced.png</iconAdvanced>
+			<iconQuit>./../arts/menu_icons/Quit.png</iconQuit>
+			<iconRestart>./../arts/menu_icons/Restart.png</iconRestart>
+			<iconShutdown>./../arts/menu_icons/Shutdown.png</iconShutdown>
+			<iconFastShutdown>./../arts/menu_icons/Fastshutdown.png</iconFastShutdown>			
+		</menuIcons>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,29 @@
+﻿<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<!-- color 575942 -->
+
+	<view name="system">
+	
+		<image name="background" extra="true" />
+	
+		<image name="system_carousel_background" extra="true">
+			<color>575942</color>
+		</image>
+		
+		<image name="system_carousel_border" extra="true">
+			<color>575942</color>
+		</image>
+	
+		<image name="systemInfoBack" extra="true">
+			<color>575942</color>
+		</image>
+		
+		<carousel name="systemcarousel">
+			<color>57594299</color>
+		</carousel>
+		
+	</view>
+	
+</theme>

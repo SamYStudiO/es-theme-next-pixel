@@ -9,45 +9,7 @@ It is based on recabox-next theme so you'll get all advantages of it (region set
 
 Here are some configuration examples:
 
-![0.jpg](http://samystudio.net/nextpixel/0.jpg)
- 
-![1.jpg](http://samystudio.net/nextpixel/1.jpg)
- 
-![2.jpg](http://samystudio.net/nextpixel/2.jpg)
- 
-![3.jpg](http://samystudio.net/nextpixel/3.jpg)
- 
-![4.jpg](http://samystudio.net/nextpixel/4.jpg)
- 
-![5.jpg](http://samystudio.net/nextpixel/5.jpg)
- 
-![6.jpg](http://samystudio.net/nextpixel/6.jpg)
- 
-![7.jpg](http://samystudio.net/nextpixel/7.jpg)
- 
-![8.jpg](http://samystudio.net/nextpixel/8.jpg)
- 
-![9.jpg](http://samystudio.net/nextpixel/9.jpg)
- 
-![10.jpg](http://samystudio.net/nextpixel/10.jpg)
- 
-![11.jpg](http://samystudio.net/nextpixel/11.jpg)
- 
-![12.jpg](http://samystudio.net/nextpixel/12.jpg)
- 
-![13.jpg](http://samystudio.net/nextpixel/13.jpg)
- 
-![14.jpg](http://samystudio.net/nextpixel/14.jpg)
- 
-![15.jpg](http://samystudio.net/nextpixel/15.jpg)
- 
-![16.jpg](http://samystudio.net/nextpixel/16.jpgg)
- 
-![17.jpg](http://samystudio.net/nextpixel/17.jpg)
- 
-![18.jpg](http://samystudio.net/nextpixel/18.jpg)
- 
-![19.jpg](http://samystudio.net/nextpixel/19.jpg)
+
 
 ### Installation
 To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then start/restart your recalbox.

@@ -9,57 +9,48 @@ It is based on recabox-next theme so you'll get all advantages of it (region set
 
 Here are some configuration examples:
 
-![0_1550437238698_screenshot-2019-02-17T20-19-01-679Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/ccb9d4f8-51e9-477f-af0a-9ad24561b68c.jpg)
- 
-![0_1550437235084_screenshot-2019-02-17T20-19-12-243Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/843550d7-31ce-4c43-92c0-24cc5345b5d4.jpg)
- 
-![0_1550437231981_screenshot-2019-02-17T20-19-55-699Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/40233855-6da9-4540-a46d-0c1da978c7cf.jpg)
- 
-![0_1550437228299_screenshot-2019-02-17T20-20-36-380Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/63aecb23-a68c-473f-a8d2-ebba6b04a777.jpg)
- 
-![0_1550437225071_screenshot-2019-02-17T20-21-00-005Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/2550e737-b2f1-48a9-ae31-9fab798bf8c3.jpg)
- 
-![0_1550437221835_screenshot-2019-02-17T20-21-09-922Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/4b8341b4-4869-4a9d-a2be-99324dd2071a.jpg)
- 
-![0_1550437218536_screenshot-2019-02-17T20-21-58-888Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/5d2ad5c4-73f9-44a7-9927-1cffbaaddc6d.jpg)
- 
-![0_1550437214703_screenshot-2019-02-17T20-22-10-000Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/d3953da3-9010-40de-ab0f-87c7d07f4ccd.jpg)
- 
-![0_1550437211449_screenshot-2019-02-17T20-22-48-099Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/c44ee442-af8d-43e7-84a3-84501523c4ee.jpg)
- 
-![0_1550437207846_screenshot-2019-02-17T20-23-31-319Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/0091fcb4-5f5e-439c-a63c-580484d1e6b9.jpg)
- 
-![0_1550437204202_screenshot-2019-02-17T20-23-37-027Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/b9ed0e64-6d27-4a7a-9017-99c78cc92920.jpg)
- 
-![0_1550437200589_screenshot-2019-02-17T20-23-48-983Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/7476bf50-b9cc-4590-8eac-a91d8325920b.jpg)
- 
-![0_1550437197228_screenshot-2019-02-17T20-25-18-659Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/adc40f7a-5b0f-4cf8-a787-57b3df71f29c.jpg)
- 
-![0_1550437192985_screenshot-2019-02-17T20-25-27-643Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/bd370dec-6b6c-432a-a091-cbd831ec99f0.jpg)
- 
-![0_1550437188068_screenshot-2019-02-17T20-25-35-134Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/d3f3f7b5-de72-46a1-b83a-28486fa8ecbf.jpg)
- 
-![0_1550437183142_screenshot-2019-02-17T20-26-20-314Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/4aa988d0-28c9-4bdf-a37a-44161d1cccde.jpg)
- 
-![0_1550437178768_screenshot-2019-02-17T20-26-31-216Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/d6564dcb-aa9d-42c6-9654-f0b467e7049b.jpg)
- 
-![0_1550437174962_screenshot-2019-02-17T20-26-43-109Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/fc1dc950-bc71-456c-99db-f2442894ed2b.jpg)
- 
-![0_1550437170739_screenshot-2019-02-17T20-29-50-563Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/48d9420a-8fba-4a1c-9407-171e9daa0d4e.jpg)
- 
-![0_1550437164161_screenshot-2019-02-17T20-30-06-703Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/9dbc11e3-a3a1-4089-acfc-ed7457ee9f4d.jpg)
- 
-![0_1549193629110_screenshot-2019-02-03T10-44-08-126Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/bf678cfa-db3c-4386-8e93-85ecdf249e62.jpg)
- 
-No border theme check theme options
-![0_1549193632002_screenshot-2019-02-03T10-44-08-127Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/95c19856-8b42-4b64-8377-881064c066cd.jpg)
- 
-Light theme check theme options
-![0_1549193635094_screenshot-2019-02-03T10-45-06-716Z.jpg](https://s3-eu-west-1.amazonaws.com/forums.recalbox.com/d47d453f-3c31-4a03-aad5-73098147b33b.jpg)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/0.jpg)
 
+![1](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/1.jpg)
+
+![2](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/2.jpg)
+
+![3](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/3.jpg)
+
+![4](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/4.jpg)
+
+![5](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/5.jpg)
+
+![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/6.jpg)
+
+![7](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/7.jpg)
+
+![8](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/8.jpg)
+
+![9](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/9.jpg)
+
+![10](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/10.jpg)
+
+![11](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/11.jpg)
+
+![12](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/12.jpg)
+
+![13](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/13.jpg)
+
+![14](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/14.jpg)
+
+![15](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/15.jpg)
+
+![16](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/16.jpg)
+
+![17](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/17.jpg)
+
+![18](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/18.jpg)
+
+![19](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/19.jpg)
 
 ### Installation
-To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then start/restart your recalbox.
+To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then start/restart your recalbox and choose next-pixel theme from recalbox options (UI SETTINGS > THEME SET).
 
 
 ### Options

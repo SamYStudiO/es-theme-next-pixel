@@ -1,4 +1,12 @@
 ### Changelog
+2019/02/xx - 0.8
+- Add amigacd32 support
+- Add amigacdtv support
+- Add amiga600 support (using same game theme as scummvm)
+- Add amiga1200 support
+- Add c64 support
+- Fix to8, zx81, zxspectrum logos
+
 2019/02/19 - 0.7.1
 - Add new colorset called "game accent", this add some possible configurations with colorset option and improve some assets quality.
 - Fix psx Final Fantasy VII game theme was not "pixelate"

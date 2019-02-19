@@ -50,7 +50,7 @@ Here are some configuration examples:
 ![19](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/19.jpg)
 
 ### Installation
-To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then start/restart your recalbox.
+To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then start/restart your recalbox and choose next-pixel theme from recalbox options (UI SETTINGS > THEME SET).
 
 
 ### Options

@@ -1,6 +1,6 @@
 ### Changelog
 2019/02/xx - 0.8
-- Add pc support
+- Add pc/dos support
 - Add amigacd32 support
 - Add amigacdtv support
 - Add amiga600 support (using same game theme as scummvm)

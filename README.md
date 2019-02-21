@@ -71,19 +71,14 @@ Actual systems with multiple game themes (first one is default):
 ### Missing systems
 Next systems are not supported yet, they will display the same image as favorites/screenshots and play recalbox-next theme random music.
 - amstradcpc
-- apple2
-- atari800
-- atarist
 - channelf
 - lutro
 - moonlight
 - msx
 - msx1
 - msx2
-- naomi
 - oric
 - pc98
-- pcfx
 - ports
 - samcoupe
 - thomson

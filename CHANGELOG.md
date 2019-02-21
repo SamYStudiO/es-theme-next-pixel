@@ -1,12 +1,18 @@
 ### Changelog
 2019/02/xx - 0.8
+- Add pcfx support
+- Add apple2 support
+- Add atari800 support
+- Add atarist support
 - Add pc/dos support
 - Add amigacd32 support
 - Add amigacdtv support
-- Add amiga600 support (using same game theme as scummvm)
+- Add amiga600 support
 - Add amiga1200 support
 - Add c64 support
-- Fix to8, zx81, zxspectrum logos
+- Minor fix on several logos
+- Smooth a bit noisy images
+- Improve n64 console contrast with background
 
 2019/02/19 - 0.7.1
 - Add new colorset called "game accent", this add some possible configurations with colorset option and improve some assets quality.

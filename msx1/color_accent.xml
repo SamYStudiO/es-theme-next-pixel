@@ -2,26 +2,26 @@
 
 	<formatVersion>4</formatVersion>
 
-	<!-- color 7c6c6b -->
+	<!-- color 393944 -->
 
 	<view name="system">
 	
 		<image name="background" extra="true" />
 	
 		<image name="system_carousel_background" extra="true">
-			<color>7c6c6b</color>
+			<color>393944</color>
 		</image>
 		
 		<image name="system_carousel_border" extra="true">
-			<color>7c6c6b</color>
+			<color>393944</color>
 		</image>
 	
 		<image name="systemInfoBack" extra="true">
-			<color>7c6c6b</color>
+			<color>393944</color>
 		</image>
 		
 		<carousel name="systemcarousel">
-			<color>7c6c6b99</color>
+			<color>39394499</color>
 		</carousel>
 		
 	</view>

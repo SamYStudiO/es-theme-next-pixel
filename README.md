@@ -74,9 +74,6 @@ Next systems are not supported yet, they will display the same image as favorite
 - channelf
 - lutro
 - moonlight
-- msx
-- msx1
-- msx2
 - oric
 - pc98
 - ports

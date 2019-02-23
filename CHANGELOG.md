@@ -1,5 +1,8 @@
 ### Changelog
 2019/02/xx - 0.8
+- Add msx support
+- Add msx1 support
+- Add msx2 support
 - Add pcfx support
 - Add apple2 support
 - Add atari800 support

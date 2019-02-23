@@ -67,6 +67,7 @@ Actual systems with multiple game themes (first one is default):
 - cavestory : 2 images available
 - psx : Crash Bandicoot, Final Fantasy VII
 - snes : Zelda, Final Fantasy VI
+- atarist : 2 images available
 
 ### Missing systems
 Next systems are not supported yet, they will display the same image as favorites/screenshots and play recalbox-next theme random music.
@@ -77,11 +78,7 @@ Next systems are not supported yet, they will display the same image as favorite
 - oric
 - pc98
 - ports
-- samcoupe
 - thomson
-- x68000
-- zx81
-- zxspectrum
 
 
 ### Copyright

@@ -1,5 +1,9 @@
 ### Changelog
 2019/02/xx - 0.8
+- Add zxspectrum support (no specific music for now, play default random recalbox music)
+- Add zx81 support (no specific music for now, play default random recalbox music)
+- Add x68000 support
+- Add samcoupe support (same game as lynx but samcoupe music)
 - Add msx support
 - Add msx1 support
 - Add msx2 support

@@ -49,6 +49,7 @@ Here are some configuration examples:
 
 ![19](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/19.jpg)
 
+
 ### Installation
 To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then start/restart your recalbox and choose next-pixel theme from recalbox options (UI SETTINGS > THEME SET).
 
@@ -69,6 +70,7 @@ Actual systems with multiple game themes (first one is default):
 - snes : Zelda, Final Fantasy VI
 - atarist : 2 images available
 
+
 ### Missing systems
 Next systems are not supported yet, they will display the same image as favorites/screenshots and play recalbox-next theme random music.
 - amstradcpc
@@ -76,7 +78,6 @@ Next systems are not supported yet, they will display the same image as favorite
 - lutro
 - moonlight
 - oric
-- pc98
 - ports
 - thomson
 
@@ -86,12 +87,14 @@ Next systems are not supported yet, they will display the same image as favorite
 - Theme is based on recabox-next theme so some assets may be licensed by [recalbox](https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets (so this theme MIT license is only applicable for xml files).
 - Camera icon is from [shareicon](https://www.shareicon.net).
 
+
 ### Download
 2 packages are availables with 1080p or 720p images. Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially 1080p. If you have any issues with image loading you should switch to 720p version.
 
 **[DOWNLOAD es-next-pixel-1080p-0.7.1](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
 
 **[DOWNLOAD es-next-pixel-720p-0.7.1](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
+
 
 ### License
 MIT License

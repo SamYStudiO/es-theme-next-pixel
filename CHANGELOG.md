@@ -1,5 +1,6 @@
 ### Changelog
 2019/02/xx - 0.8
+- Add pc98 support
 - Add zxspectrum support (no specific music for now, play default random recalbox music)
 - Add zx81 support (no specific music for now, play default random recalbox music)
 - Add x68000 support

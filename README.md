@@ -76,7 +76,6 @@ Next systems are not supported yet, they will display the same image as favorite
 - amstradcpc
 - channelf
 - lutro
-- moonlight
 - oric
 - ports
 - thomson

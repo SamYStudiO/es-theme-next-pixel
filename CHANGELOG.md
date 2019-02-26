@@ -22,6 +22,7 @@
 - Minor fix on several logos
 - Smooth a bit noisy images
 - Improve n64 console contrast with background
+- Some musics normalization
 
 2019/02/19 - 0.7.1
 - Add new colorset called "game accent", this add some possible configurations with colorset option and improve some assets quality.

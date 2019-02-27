@@ -1,5 +1,5 @@
 ### Changelog
-2019/02/xx - 0.8
+2019/02/27 - 0.8
 - Add moonlight support
 - Add pc98 support
 - Add zxspectrum support (no specific music for now, play default random recalbox music)

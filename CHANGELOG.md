@@ -1,4 +1,29 @@
 ### Changelog
+2019/02/27 - 0.8
+- Add moonlight support
+- Add pc98 support
+- Add zxspectrum support (no specific music for now, play default random recalbox music)
+- Add zx81 support (no specific music for now, play default random recalbox music)
+- Add x68000 support
+- Add samcoupe support (same game as lynx but samcoupe music)
+- Add msx support
+- Add msx1 support
+- Add msx2 support
+- Add pcfx support
+- Add apple2 support
+- Add atari800 support
+- Add atarist support
+- Add pc/dos support
+- Add amigacd32 support
+- Add amigacdtv support
+- Add amiga600 support
+- Add amiga1200 support
+- Add c64 support
+- Minor fix on several logos
+- Smooth a bit noisy images
+- Improve n64 console contrast with background
+- Some musics normalization
+
 2019/02/19 - 0.7.1
 - Add new colorset called "game accent", this add some possible configurations with colorset option and improve some assets quality.
 - Fix psx Final Fantasy VII game theme was not "pixelate"

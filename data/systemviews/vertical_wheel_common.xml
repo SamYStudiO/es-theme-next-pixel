@@ -26,7 +26,7 @@
 				<color>00000000</color>
 				<logoScale>2</logoScale>
 				<logoSize>1 .05</logoSize>
-				<logoRotation>10</logoRotation>
+				<logoRotation>-10</logoRotation>
 				<logoRotationOrigin>2.8 .5</logoRotationOrigin>
 				<maxLogoCount>7</maxLogoCount>
 				<logoAlignment>right</logoAlignment>

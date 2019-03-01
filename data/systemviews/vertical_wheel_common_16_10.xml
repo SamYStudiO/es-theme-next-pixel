@@ -1,0 +1,97 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+	
+	<feature supported="carousel">
+  
+		<view name="system">
+
+			<image name="system_carousel_background" extra="true">
+				<origin>1 .5</origin>
+				<pos>1 .5</pos>
+				<maxSize>2 1</maxSize>
+				<path>./../arts/system_carousel_vertical_wheel_background.png</path>
+			</image>
+			
+			<image name="system_carousel_border" extra="true">
+				<origin>1 .5</origin>
+				<maxSize>2 1</maxSize>
+				<pos>.999 .5</pos>
+				<path>./../arts/system_carousel_vertical_wheel_border.png</path>
+			</image>
+		
+			<carousel name="systemcarousel">
+				<type>vertical_wheel</type>
+				<pos>.875 .5</pos>
+				<origin>1 .5</origin>
+				<size>1 1</size>
+				<color>00000000</color>
+				<logoScale>2</logoScale>
+				<logoSize>1 .05</logoSize>
+				<logoRotation>-10</logoRotation>
+				<logoRotationOrigin>2.8 .5</logoRotationOrigin>
+				<maxLogoCount>7</maxLogoCount>
+				<logoAlignment>right</logoAlignment>
+				<color>ffffff00</color>
+			</carousel>
+
+			<image name="systemInfoBackground" extra="true">
+				<pos>.9 .57</pos>
+				<origin>.5 0</origin>
+				<size>.2 .03</size>
+				<path>./../arts/system_info_background_gradient.png</path>
+			</image>
+
+			<text name="systemInfo">
+				<origin>.5 0</origin>
+				<alignment>center</alignment>
+				<pos>.9 .58</pos>
+				<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+				<fontSize>.021</fontSize>
+				<size>.16 .01</size>
+				<color>ffffff</color>
+			</text>
+
+		</view>
+
+	</feature>
+	
+	<view name="system">
+	
+		<image name="background" extra="true">
+			<origin>1 .5</origin>
+			<pos>1 .5</pos>
+			<maxSize>2 1</maxSize>
+			<path>./../../$system/background_wheel.jpg</path>
+		</image>
+		
+		<image name="console" extra="true">
+			<pos>.9 .55</pos>
+			<maxSize>.15 .24</maxSize>
+			<origin>.5 1</origin>
+			<zIndex>20</zIndex>
+		</image>
+		
+	</view>
+	
+	<view name="system, basic, detailed">
+		
+		<image name="logo">
+			<path>./../../$system/data/logo_right.svg</path>
+		</image> 
+		
+		<image name="logo" region="eu">
+			<path>./../../$system/data/eu/logo_right.svg</path>
+		</image> 
+		
+		<image name="logo" region="us">
+			<path>./../../$system/data/us/logo_right.svg</path>
+		</image> 
+		
+		<image name="logo" region="jp">
+			<path>./../../$system/data/jp/logo_right.svg</path>
+		</image>
+		
+	</view>
+	
+</theme>

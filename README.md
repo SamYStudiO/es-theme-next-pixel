@@ -2,10 +2,9 @@
 Theme *next-pixel* for [recalbox](https://www.recalbox.com/) and based on *recalbox-next* theme. Download links are available at the bottom, **do not clone or download master branch as it does not contain any images**.
 
 This theme is designed to display a fullscreen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music that match that game.
-
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
-Theme is compatible with 16:9, 16:10 and 4:3 screens.
+**Theme is compatible with 16:9, 16:10 and 4:3 screens**.
 
 Here are some screenshots using different theme settings:
 
@@ -58,7 +57,7 @@ To install theme drag and drop next-pixel folder into your recalbox/system/.emul
 - COLORSET 	: chose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
 - ICONSET 	: chose icons used for bottom left help (same as recalbox-next).
 - SYSTEMVIEW 	: chose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > TRANSITION STYLE > INSTANT for a better look and feel**.
-- GAMELISTVIEW	: chose gamelist view (same as recalbox next but 4/3 where removed), for each one you can chose to display or hide "pixel" border.
+- GAMELISTVIEW	: chose gamelist view, for each one you can chose to display or hide "pixel" border.
 - REGION		: chose your region to adjust logo/console images (same as recalbox-next).
 
 
@@ -92,7 +91,7 @@ Several packages are available depending on your screen ratio and resolution. Ac
 #### 16:9 and 16:10 screens
 2 packages are available with 1080p (full hd screens) or 720p (hd screens) images.
 
-Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. If you have any issues with image loading you should switch to 720p version. When switching to 720p from a 1080p screen, i highly recommend to force recalbox to run at 720p as it will greatly improve image quality. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. If you have any issues with image loading you should switch to 720p version. When switching to 720p from a 1080p screen, **i highly recommend to force recalbox to run at 720p as it will greatly improve image quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=1
 - hdmi_mode=4
 

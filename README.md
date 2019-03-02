@@ -77,7 +77,6 @@ Next systems are not supported yet, they will display the same image as favorite
 - channelf
 - lutro
 - oric
-- ports
 - thomson
 
 

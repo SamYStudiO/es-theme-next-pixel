@@ -96,7 +96,7 @@ Some devices like Raspberry Pi may lead to memory issues when using a lot of ima
 - hdmi_group=1
 - hdmi_mode=4
 
-Don't forget to remove '#' char if present
+Don't forget to remove '#' char if present.
 
 16:10 users, you'll have to remove and rename one file to make it fully compatible with this ratio when using vertical wheel, after installing theme, go to [theme folder]/data/systemviews, then remove *vertical_wheel_common* file and rename *vertical_wheel_common_16_10* to *vertical_wheel_common* and that's it!
 
@@ -105,7 +105,7 @@ Don't forget to remove '#' char if present
 **[DOWNLOAD es-next-pixel-720p-0.8](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
 
 #### 4:3 screens
-One package is available (with  1024x768 images)
+One package is available (with  1024x768 images).
 
 **[DOWNLOAD es-next-pixel-crt-0.8](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
 

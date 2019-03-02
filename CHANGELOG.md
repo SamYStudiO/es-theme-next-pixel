@@ -1,4 +1,11 @@
 ### Changelog
+2019/03/03 - 0.8.1
+- Add 4/3 screens support
+- Add 16/10 screens support
+- Add ports support (using cavestory game theme and prboom game theme as alternative)
+- Fix layout on 720p screens
+- Fix wheel scrolling direction
+
 2019/02/27 - 0.8
 - Add moonlight support
 - Add pc98 support

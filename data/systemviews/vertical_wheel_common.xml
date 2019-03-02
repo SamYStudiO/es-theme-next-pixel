@@ -7,26 +7,28 @@
 		<view name="system">
 
 			<image name="system_carousel_background" extra="true">
-				<origin>1 0</origin>
-				<pos>1 0</pos>
+				<origin>1 .5</origin>
+				<pos>1 .5</pos>
+				<maxSize>2 1</maxSize>
 				<path>./../arts/system_carousel_vertical_wheel_background.png</path>
 			</image>
 			
 			<image name="system_carousel_border" extra="true">
-				<origin>1 0</origin>
-				<pos>.999 0</pos>
+				<origin>1 .5</origin>
+				<maxSize>2 1</maxSize>
+				<pos>.999 .5</pos>
 				<path>./../arts/system_carousel_vertical_wheel_border.png</path>
 			</image>
 		
 			<carousel name="systemcarousel">
 				<type>vertical_wheel</type>
-				<pos>.9 0</pos>
-				<origin>1 0</origin>
+				<pos>.9 .5</pos>
+				<origin>1 .5</origin>
 				<size>1 1</size>
 				<color>00000000</color>
 				<logoScale>2</logoScale>
 				<logoSize>1 .05</logoSize>
-				<logoRotation>10</logoRotation>
+				<logoRotation>-10</logoRotation>
 				<logoRotationOrigin>2.8 .5</logoRotationOrigin>
 				<maxLogoCount>7</maxLogoCount>
 				<logoAlignment>right</logoAlignment>
@@ -57,6 +59,9 @@
 	<view name="system">
 	
 		<image name="background" extra="true">
+			<origin>1 .5</origin>
+			<pos>1 .5</pos>
+			<maxSize>2 1</maxSize>
 			<path>./../../$system/background_wheel.jpg</path>
 		</image>
 		

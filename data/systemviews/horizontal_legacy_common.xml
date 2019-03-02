@@ -38,6 +38,9 @@
 	<view name="system">
 		
 		<image name="background" extra="true">
+			<pos>.5 .5</pos>
+			<origin>.5 .5</origin>
+			<maxSize>2 1</maxSize>
 			<path>./../../$system/background_legacy.jpg</path>
 		</image>
 		

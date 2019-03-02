@@ -41,10 +41,7 @@
 	
 	<view name="system, basic, detailed">
 	
-		<image name="background" extra="true">
-			<pos>0 0</pos>
-			<size>1 1</size>
-		</image>
+		<image name="background" extra="true" />
 	
 		<image name="console" extra="true">
 			<path>./$system/data/console.svg</path>

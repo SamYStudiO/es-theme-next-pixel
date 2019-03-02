@@ -1,5 +1,7 @@
 ### Changelog
-2019/03/xx
+2019/03/xx - 0.8.1
+- Add 4/3 screens suppport
+- Add 16/10 screens support
 - Add ports support (using cavestory game theme and prboom game theme as alternative)
 - Fix wheel scrolling direction
 

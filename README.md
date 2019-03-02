@@ -7,7 +7,7 @@ It is based on recabox-next theme so you'll get all advantages of it (region set
 
 Theme is compatible with 16:9, 16:10 and 4:3 screens.
 
-Here are some configuration examples:
+Here are some screenshots using different theme settings:
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/0.jpg)
 

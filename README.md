@@ -87,7 +87,7 @@ Next systems are not supported yet, they will display the same image as favorite
 
 
 ### Download
-Several packages are available depending on your screen ratio and resolution. Actually theme is is fully supported on 16:9, 16:10 and 4:3 screens.
+Several packages are available depending on your screen ratio and resolution. Actually theme fully supports 16:9, 16:10 and 4:3 screens.
 
 #### 16:9 and 16:10 screens
 2 packages are availables with 1080p (full hd screens) or 720p (hd screens) images.

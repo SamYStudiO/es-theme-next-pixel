@@ -5,7 +5,7 @@ This theme is designed to display a fullscreen image for every system that best 
 
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
-**It works best with 16/9 screens**.
+Theme is compatible with 16:9, 16:10 and 4:3 screens.
 
 Here are some configuration examples:
 
@@ -88,11 +88,27 @@ Next systems are not supported yet, they will display the same image as favorite
 
 
 ### Download
-2 packages are availables with 1080p or 720p images. Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially 1080p. If you have any issues with image loading you should switch to 720p version.
+Several packages are available depending on your screen ratio and resolution. Actually theme is is fully supported on 16:9, 16:10 and 4:3 screens.
+
+#### 16:9 and 16:10 screens
+2 packages are availables with 1080p (full hd screens) or 720p (hd screens) images.
+
+Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. If you have any issues with image loading you should switch to 720p version. When switching to 720p from a 1080p screen, i highly recommand to force recalbox to run at 720p as it will greatly improve image quality. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+- hdmi_group=1
+- hdmi_mode=4
+
+Don't forget to remove '#' char if present
+
+16:10 users, you'll have to remove and rename one file to make it fully compatible with this ratio when using vertical wheel, after installing theme, go to [theme folder]/data/systemviews, then remove *vertical_wheel_common* file and rename *vertical_wheel_common_16_10* to *vertical_wheel_common* and that's it!
 
 **[DOWNLOAD es-next-pixel-1080p-0.8](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
 
 **[DOWNLOAD es-next-pixel-720p-0.8](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
+
+#### 4:3 screens
+One package is available (with  1024x768 images)
+
+**[DOWNLOAD es-next-pixel-crt-0.8](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
 
 
 ### License

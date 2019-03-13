@@ -1,0 +1,125 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+	
+	<view name="detailed">
+	
+		<image name="rating_logo" extra="true">
+			<origin>1 .5</origin>
+			<!--<pos>.738 .29</pos>-->
+			<pos>2 2</pos>
+			<size>.035 .04</size>
+			<path>./../arts/game_info_rating.svg</path>
+			<zIndex>50</zIndex>
+		</image>
+		
+		<rating name="md_rating">
+			<origin>1 .5</origin>
+			<size>0 .037</size>
+			<pos>.718 .29</pos>
+			<filledPath>./../../$system/data/icon_filled.svg</filledPath>
+			<unfilledPath>./../../$system/data/icon_empty.svg</unfilledPath>
+		</rating>
+		
+		<image name="release_date_logo" extra="true">
+			<origin>1 .5</origin>
+			<pos>.745 .35</pos>
+			<size>.04 .04</size>
+			<path>./../arts/game_info_releasedate.svg</path>
+			<zIndex>50</zIndex>
+		</image>
+		
+		<datetime name="md_releasedate">
+			<pos>.638 .33</pos>
+			<fontSize>.027</fontSize>
+		</datetime>
+		
+		<image name="publisher_logo" extra="true">
+			<origin>1 .5</origin>
+			<pos>.752 .41</pos>
+			<size>.04 .04</size>
+			<path>./../arts/game_info_publisher.svg</path>
+			<zIndex>50</zIndex>
+		</image>
+		
+		<text name="md_publisher">
+			<pos>.589 .405</pos>
+			<size>.11 .01</size>
+			<alignment>right</alignment>
+		</text>
+		
+		<image name="developer_logo" extra="true">
+			<origin>1 .5</origin>
+			<pos>.754 .47</pos>
+			<size>.04 .04</size>
+			<path>./../arts/game_info_developer.svg</path>
+			<zIndex>50</zIndex>
+		</image>
+		
+		<text name="md_developer">
+			<pos>.591 .465</pos>
+			<size>.11 .01</size>
+			<alignment>right</alignment>
+		</text>
+		
+		<image name="genre_logo" extra="true">
+			<origin>1 .5</origin>
+			<pos>.754 .53</pos>
+			<size>.04 .04</size>
+			<path>./../arts/game_info_genre.svg</path>
+			<zIndex>50</zIndex>
+		</image>
+		
+		<text name="md_genre">
+			<pos>.591 .525</pos>
+			<size>.11 .01</size>
+			<alignment>right</alignment>
+		</text>
+		
+		<image name="players_logo" extra="true">
+			<origin>1 .5</origin>
+			<pos>.752 .59</pos>
+			<size>.04 .04</size>
+			<path>./../arts/game_info_players.svg</path>
+			<zIndex>50</zIndex>
+		</image>
+		
+		<text name="md_players">
+			<pos>.589 .585</pos>
+			<size>.11 .01</size>
+			<alignment>right</alignment>
+		</text>
+		
+		<image name="lastplayed_logo" extra="true">
+			<origin>1 .5</origin>
+			<!--<pos>.747 .65</pos>-->
+			<pos>2 2</pos>
+			<size>.04 .04</size>
+			<path>./../arts/game_info_lastplayed.svg</path>
+			<zIndex>50</zIndex>
+		</image>
+		
+		<datetime name="md_lastplayed">
+			<!--<pos>.637 .63</pos>-->
+			<pos>2 2</pos>
+		</datetime>
+		
+		<image name="playcount_logo" extra="true">
+			<origin>1 .5</origin>
+			<!--<pos>.738 .71</pos>-->
+			<pos>.745 .65</pos>
+			<size>.04 .04</size>
+			<path>./../arts/game_info_playcount.svg</path>
+			<zIndex>50</zIndex>
+		</image>
+		
+		<text name="md_playcount">
+			<!--<pos>.565 .635</pos>-->
+			<pos>.585 .645</pos>
+			<size>.11 .01</size>
+			<alignment>right</alignment>
+		</text>
+		
+	</view>
+	
+</theme>

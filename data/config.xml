@@ -29,23 +29,16 @@
 	
 	<include subset="systemview" name="1a-vertical wheel, info short (4 lines)">./systemviews/vertical_wheel_short_info.xml</include>
 	<include subset="systemview" name="1b-vertical wheel, info (all lines)">./systemviews/vertical_wheel_all_info.xml</include>
-	<include subset="systemview" name="1c-vertical wheel, no info">./systemviews/vertical_wheel_no_info.xml</include>
+	<include subset="systemview" name="1c-vertical wheel, no info">./systemviews/vertical_wheel_common.xml</include>
 	<include subset="systemview" name="2a-horizontal, info short (4 lines)">./systemviews/horizontal_short_info.xml</include>
 	<include subset="systemview" name="2b-horizontal, info (all lines)">./systemviews/horizontal_all_info.xml</include>
-	<include subset="systemview" name="2c-horizontal, no info">./systemviews/horizontal_no_info.xml</include>
+	<include subset="systemview" name="2c-horizontal, no info">./systemviews/horizontal_common.xml</include>
 	<include subset="systemview" name="3a-horizontal legacy, info short (4 lines)">./systemviews/horizontal_legacy_short_info.xml</include>
 	<include subset="systemview" name="3b-horizontal legacy, info (all lines)">./systemviews/horizontal_legacy_all_info.xml</include>
-	<include subset="systemview" name="3c-horizontal legacy, no info">./systemviews/horizontal_legacy_no_info.xml</include>
+	<include subset="systemview" name="3c-horizontal legacy, no info">./systemviews/horizontal_legacy_common.xml</include>
 	
-	<include subset="gamelistview" name="1a-standard">./gamelistviews/standard.xml</include>
-	<include subset="gamelistview" name="1b-standard, no border">./gamelistviews/standard_no_border.xml</include>
-	<include subset="gamelistview" name="2a-big picture">./gamelistviews/big_picture.xml</include>
-	<include subset="gamelistview" name="2b-big picture, no border">./gamelistviews/big_picture_no_border.xml</include>
-	<include subset="gamelistview" name="3a-no description">./gamelistviews/no_desc.xml</include>
-	<include subset="gamelistview" name="3b-no description, no border">./gamelistviews/no_desc_no_border.xml</include>
-	<include subset="gamelistview" name="4a-controls">./gamelistviews/controls.xml</include>
-	<include subset="gamelistview" name="4b-controls, no border">./gamelistviews/controls_no_border.xml</include>
-	<include subset="gamelistview" name="5a-supernature2k">./gamelistviews/supernature2k.xml</include>
-	<include subset="gamelistview" name="5b-supernature2k, no border">./gamelistviews/supernature2k_no_border.xml</include>
+	<include subset="gamelistview" name="standard">./gamelistviews/standard.xml</include>
+	<include subset="gamelistview" name="no description">./gamelistviews/no_description.xml</include>
+	<include subset="gamelistview" name="no description, no info">./gamelistviews/no_description_no_info.xml</include>
 	
 </theme>

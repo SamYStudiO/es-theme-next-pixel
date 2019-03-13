@@ -16,10 +16,26 @@
 			<color>8d8887</color>
 		</image>
 	
-		<image name="systemInfoBack" extra="true">
+		<carousel name="systemcarousel">
+			<color>8d888799</color>
+		</carousel>
+		
+	</view>
+	
+	<view name="basic, detailed">
+
+		<image name="gamelist_background" extra="true">
 			<color>8d8887</color>
 		</image>
+	
+		<textlist name="gamelist">
+			<selectorColor>8d8887</selectorColor>
+		</textlist>
 		
+		<image name="gamelist_border" extra="true">
+			<color>8d8887</color>
+		</image>
+	 
 	</view>
 	
 </theme>

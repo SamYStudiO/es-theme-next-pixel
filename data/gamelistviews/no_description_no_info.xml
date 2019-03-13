@@ -1,0 +1,24 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<include>./common.xml</include>
+	
+	<view name="detailed">
+
+		<!-- for debugging -->
+		<!--<image name="template" extra="true">
+			<pos>.33 .48</pos>
+			<size>.6 .87</size>
+			<zIndex>69</zIndex>
+			<origin>.5 .5</origin>
+			<path>./../arts/band.png</path>
+			<color>ffffff</color>
+		</image>-->
+		
+		<image name="md_image">
+			<pos>.33 .48</pos>
+			<maxSize>.6 .87</maxSize>
+		</image>
+		
+	</view>
+	
+</theme>

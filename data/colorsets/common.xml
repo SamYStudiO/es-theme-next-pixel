@@ -4,10 +4,6 @@
 	
 	<view name="system">
 		
-		<text name="logoText">
-			<color>ffffff</color>
-		</text>
-		
 		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
 			<color>ffffff</color>
 		</text>
@@ -20,6 +16,79 @@
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 		</helpsystem>
+		
+	</view>
+	
+	<view name="detailed">
+	
+		<image name="rating_logo" extra="true">
+			<color>ffffff</color>
+		</image>
+		
+		<image name="release_date_logo" extra="true">
+			<color>ffffff</color>
+			<zIndex>50</zIndex>
+		</image>
+		
+		<datetime name="md_releasedate">
+			<color>ffffff</color>
+		</datetime>
+		
+		<image name="publisher_logo" extra="true">
+			<color>ffffff</color>
+		</image>
+		
+		<text name="md_publisher">
+			<color>ffffff</color>
+		</text>
+		
+		<image name="developer_logo" extra="true">
+			<color>ffffff</color>
+		</image>
+		
+		<text name="md_developer">
+			<color>ffffff</color>
+		</text>
+		
+		<image name="genre_logo" extra="true">
+			<color>ffffff</color>
+		</image>
+		
+		<text name="md_genre">
+			<color>ffffff</color>
+		</text>
+		
+		<image name="players_logo" extra="true">
+			<color>ffffff</color>
+		</image>
+		
+		<text name="md_players">
+			<color>ffffff</color>
+		</text>
+		
+		<image name="lastplayed_logo" extra="true">
+			<color>ffffff</color>
+		</image>
+		
+		<datetime name="md_lastplayed">
+			<color>ffffff</color>
+		</datetime>
+		
+		<image name="playcount_logo" extra="true">
+			<color>ffffff</color>
+		</image>
+		
+		<text name="md_playcount">
+			<color>ffffff</color>
+		</text>
+		
+		<text name="md_description">
+			<color>ffffff</color>
+		</text>
+		
+		<text name="md_folder_name">
+			<color>ffffff</color>
+		</text>
 		
 	</view>
 	

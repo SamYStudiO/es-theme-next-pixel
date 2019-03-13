@@ -2,6 +2,7 @@
 
 	<formatVersion>4</formatVersion>	
 	<include>./horizontal_common.xml</include>
+	<include>./common_info.xml</include>
 	
 	<view name="system">
 	
@@ -9,7 +10,7 @@
 			<pos>.5 .642</pos>
 			<origin>.5 0</origin>
 			<size>.4 .5</size>
-			<path>./../arts/system_info_background_gradient.png</path>
+			<path>./../arts/system_info_gradient_background.png</path>
 		</image>
 		
 		<text name="info1" extra="true">

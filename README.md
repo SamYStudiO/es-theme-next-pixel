@@ -57,17 +57,17 @@ To install theme drag and drop next-pixel folder into your recalbox/system/.emul
 - COLORSET 	: chose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
 - ICONSET 	: chose icons used for bottom left help (same as recalbox-next).
 - SYSTEMVIEW 	: chose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > TRANSITION STYLE > INSTANT for a better look and feel**.
-- GAMELISTVIEW	: chose gamelist view, for each one you can chose to display or hide "pixel" border.
+- GAMELISTVIEW	: chose gamelist view layout, you may show/hide different elements.
 - REGION		: chose your region to adjust logo/console images (same as recalbox-next).
 
 
 ### Multiple game themes
 Some systems may contain several game themes, in that case system folder is duplicated with "2" suffix [folder]2 (for example cavestory2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]2 to [folder] (then you need to restart recalbox if it was running).
 Actual systems with multiple game themes (first one is default):
-- cavestory : 2 images available
-- psx : Crash Bandicoot, Final Fantasy VII
-- snes : Zelda, Final Fantasy VI
-- atarist : 2 images available
+- cavestory : 1 game theme with 2 different images available
+- psx : 2 different game themes available
+- snes : 2 different game themes available
+- atarist : 1 game theme with 2 different images available
 
 
 ### Missing systems
@@ -81,8 +81,9 @@ Next systems are not supported yet, they will display the same image as favorite
 
 ### Copyright
 - This theme use pictures/musics found over internet, if you think any images/musics used in this theme are your ownership or is subject to copyright please contact me (contact[at]samystudio.net), I'll remove them.
-- Theme is based on recabox-next theme so some assets may be licensed by [recalbox](https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets (so this theme MIT license is only applicable for xml files).
-- Camera icon is from [shareicon](https://www.shareicon.net).
+- Theme is based on recabox-next theme so some assets may be licensed by [recalbox](https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets (so this theme **MIT license is only applicable for xml files**).
+- Camera and some game info icons are from [shareicon](https://www.shareicon.net).
+- Digital Counter 7 font used for game counter icon is from Sizenko Alexander (http://www.styleseven.com).
 
 
 ### Download

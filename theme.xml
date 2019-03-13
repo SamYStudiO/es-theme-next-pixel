@@ -16,21 +16,9 @@
 			<path>./$system/music.ogg</path>
 	    </sound>
 		
-		<!-- transparent black to make sure system info is readable across all background -->
-		<image name="system_info_background" extra="true" />
-		
-		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
-			<alignment>center</alignment>
-			<fontPath>./data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
-			<fontSize>.021</fontSize>
-			<origin>.5 .5</origin>
-			<size>.44 .02</size>
-			<zIndex>20</zIndex>
-		</text>
-		
 	</view>
 	
-	<view name="menu, system, basic, detailed">
+	<view name="menu, system">
 	
 		<helpsystem name="help">
 			<fontPath>./data/arts/steelfishrg.ttf</fontPath>
@@ -39,112 +27,12 @@
 		
 	</view>
 	
-	<view name="system, basic, detailed">
-	
-		<image name="background" extra="true" />
-	
-		<image name="console" extra="true">
-			<path>./$system/data/console.svg</path>
-		</image>
-		<image name="console" extra="true" region="eu">
-			<path>./$system/data/eu/console.svg</path>
-		</image>
-		<image name="console" extra="true" region="jp">
-			<path>./$system/data/jp/console.svg</path>
-		</image>
-		<image name="console" extra="true" region="us">
-			<path>./$system/data/us/console.svg</path>
-		</image>
-	</view>
-	
 	<view name="basic, detailed">
 	
-		<image name="controller" extra="true">
-			<path>./$system/data/controller.svg</path>
-		</image>
-		<image name="controller" extra="true" region="eu">
-			<path>./$system/data/eu/controller.svg</path>
-		</image>
-		<image name="controller" extra="true" region="jp">
-			<path>./$system/data/jp/controller.svg</path>
-		</image>
-		<image name="controller" extra="true" region="us">
-			<path>./$system/data/us/controller.svg</path>
-		</image>
-		
-		<image name="consolegame" extra="true">
-			<path>./$system/data/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="eu">
-			<path>./$system/data/eu/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="jp">
-			<path>./$system/data/jp/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="us">
-			<path>./$system/data/us/consolegame.svg</path>
-		</image>
-		
-		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
-			<forceUppercase>1</forceUppercase>
-			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
-			<fontSize>.02</fontSize>
-			<size>.144 .02</size>
-		</text>
-		<text name="md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite">
-			<forceUppercase>1</forceUppercase>
-			<fontPath>./data/arts/Exo2-RegularCondensed.otf</fontPath>
-			<fontSize>.02</fontSize>
-		</text>
-		
-		<text name="control" extra="true">
-			<forceUppercase>1</forceUppercase>
-			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
-			<fontSize>.02</fontSize>
-		</text>
-		
-		<text name="no_image" extra="true">
-			<forceUppercase>1</forceUppercase>
-			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
-			<fontSize>.02</fontSize>
-		</text>
-		
-		<text name="md_description">
-			<forceUppercase>1</forceUppercase>
-			<fontPath>./data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
-			<fontSize>.024</fontSize>
-		</text>
-		
-		<datetime name="md_releasedate, md_lastplayed">
-			<forceUppercase>1</forceUppercase>
-			<fontPath>./data/arts/Exo2-RegularCondensed.otf</fontPath>
-			<fontSize>.02</fontSize>
-			<size>0 .02</size>
-		</datetime>
-		
-		<textlist name="gamelist">
-			<fontPath>./data/arts/Exo2-BoldCondensed.otf</fontPath>
-			<forceUppercase>1</forceUppercase>
-		</textlist>
-		
-		<image name="foreground" extra="true">
-			<size>1 1</size>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-		</image>
-		
-	</view>
-	
-	<view name="detailed">
-	
-		<image name="controls" extra="true">
-			<path>./$system/data/controls.svg</path>
-		</image>
-		
-		<rating name="md_rating">
-			<filledPath>./$system/data/icon_filled.svg</filledPath>
-			<unfilledPath>./$system/data/icon_empty.svg</unfilledPath>
-		</rating>
+		<helpsystem name="help">
+			<fontPath>./data/arts/steelfishrg.ttf</fontPath>
+			<fontSize>.032</fontSize>
+		</helpsystem>
 		
 	</view>
 	

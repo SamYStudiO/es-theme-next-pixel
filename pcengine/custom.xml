@@ -31,4 +31,12 @@
 		
 	</view>
 	
+	<view name="basic, detailed">
+	
+		<image name="logo" extra="true">
+			<pos>.979 .98</pos>
+		</image>
+		
+	</view>
+	
 </theme>

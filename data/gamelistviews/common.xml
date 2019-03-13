@@ -59,7 +59,7 @@
 			<size>.48 1</size>
 			<alignment>left</alignment>
 			<horizontalMargin>.12</horizontalMargin>
-			<selectorImagePath>./../arts/background_textlist_selector_workaround.png</selectorImagePath>
+			<selectorImagePath>./../arts/gamelist_textlist_selector_background.png</selectorImagePath>
 			<fontSize>.028</fontSize>
 			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			<zIndex>20</zIndex>

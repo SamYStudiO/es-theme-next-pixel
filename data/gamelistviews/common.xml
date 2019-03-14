@@ -84,9 +84,9 @@
 		<text name="md_folder_name">
             <forceUppercase>1</forceUppercase>
             <fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
-            <fontSize>0.03</fontSize>
+            <fontSize>.03</fontSize>
             <size>0 0</size>
-            <pos>0.37 0.9</pos>
+            <pos>.37 .9</pos>
 			<origin>.5 1</origin>
 			<alignment>center</alignment>
 			<zIndex>45</zIndex>

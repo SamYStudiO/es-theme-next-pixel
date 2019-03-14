@@ -24,7 +24,7 @@
 		<text name="md_description">
 			<pos>.32 .77</pos>
 			<origin>.5 0</origin>
-			<size>0.5 0.15</size>
+			<size>.5 .15</size>
 		</text>
 		
 	</view>

@@ -89,10 +89,10 @@ Next systems are not supported yet, they will display the same image as favorite
 ### Download
 Several packages are available depending on your screen ratio and resolution. Actually theme fully supports 16:9 and 4:3 screens.
 
-#### 16:9
+#### 16:9 screens
 2 packages are available with 1080p (full hd screens) or 720p (hd screens) images.
 
-Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. If you have any issues with image loading you should switch to 720p version. When switching to 720p from a 1080p+ screen, **I highly recommend to force recalbox to run at 720p as it will greatly improve image quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. If you have any issues with image loading you should switch to 720p version. When switching to 720p from a 1080p screen, **I highly recommend to force recalbox to run at 720p as it will greatly improve image quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=1
 - hdmi_mode=4
 
@@ -103,7 +103,7 @@ Don't forget to remove '#' char on those lines if present.
 **[DOWNLOAD es-next-pixel-720p-0.9](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
 
 #### 4:3 screens
-One package is available (with  1024x768 images).
+One package is available (with 1024x768 images but compatible with any resolutions).
 
 **[DOWNLOAD es-next-pixel-crt-0.9](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
 

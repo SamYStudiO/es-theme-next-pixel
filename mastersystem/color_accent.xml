@@ -16,10 +16,6 @@
 			<color>527c64</color>
 		</image>
 		
-		<carousel name="systemcarousel">
-			<color>527c6499</color>
-		</carousel>
-		
 	</view>
 	
 	<view name="basic, detailed">

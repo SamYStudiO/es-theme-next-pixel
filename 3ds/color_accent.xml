@@ -15,10 +15,6 @@
 		<image name="system_carousel_border" extra="true">
 			<color>8d8887</color>
 		</image>
-	
-		<carousel name="systemcarousel">
-			<color>8d888799</color>
-		</carousel>
 		
 	</view>
 	

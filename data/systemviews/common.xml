@@ -15,7 +15,7 @@
 			</carousel>
 			
 			<image name="system_carousel_border" extra="true">
-				<path>./../arts/band.png</path>
+				<path>./../arts/white.png</path>
 			</image>
 
 			<text name="systemInfo">

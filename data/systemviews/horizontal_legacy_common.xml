@@ -10,7 +10,7 @@
 			<image name="system_carousel_background" extra="true">
 				<pos>0 .405</pos>
 				<size>1 .184</size>
-				<path>./../arts/back60.png</path>
+				<path>./../arts/white70.png</path>
 			</image>
 		
 			<carousel name="systemcarousel">

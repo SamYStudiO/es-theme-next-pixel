@@ -123,7 +123,8 @@
 		
 		<datetime name="md_releasedate, md_lastplayed">
 			<pos>2 2</pos>
-			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<!-- since we can't right aligned we need a font where all chars have same width, just use default font for now as it matches that requirement -->
+			<!--<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>-->
 			<fontSize>.027</fontSize>
 		</datetime>
 		

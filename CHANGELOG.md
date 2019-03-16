@@ -1,5 +1,5 @@
 ### Changelog
-2019/03/03 - 0.9
+2019/03/16 - 0.9
 - Add new gamelist view (old gamelist view is removed)
 - Change a bit Cavestory/fds/nds images framing 
 - Change psx and gamecube logos for vertical wheel

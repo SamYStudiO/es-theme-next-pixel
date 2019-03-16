@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
+	<include>./common.xml</include>
 	
 	<feature supported="carousel">
   
@@ -16,23 +17,17 @@
 			<carousel name="systemcarousel">
 				<pos>0 .432</pos>
 				<size>1 .18</size>
-				<logoScale>2</logoScale>
-				<logoSize>1 .05</logoSize>
-				<color>ffffff00</color>
 			</carousel>
 			
-			<image name="systemInfoBack" extra="true">
+			<image name="system_carousel_border" extra="true">
 				<size>1 .028</size>
 				<pos>0 .613</pos>
-				<path>./../arts/band.png</path>
 			</image>
 
 			<text name="systemInfo">
-				<origin>.5 1</origin>
-				<pos>.5 .654</pos>
-				<alignment>center</alignment>
-				<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+				<pos>.5 .626</pos>
 				<fontSize>.021</fontSize>
+				<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			</text>
 
 		</view>
@@ -42,46 +37,13 @@
 	<view name="system">
 		
 		<image name="background" extra="true">
-			<pos>.5 .5</pos>
-			<origin>.5 .5</origin>
-			<maxSize>2 1</maxSize>
 			<path>./../../$system/background.jpg</path>
-		</image>
-		
-		<image name="logo">
-			<path>./../../$system/data/logo.svg</path>
-		</image> 
-		<image name="logo" region="eu">
-			<path>./../../$system/data/eu/logo.svg</path>
-		</image> 
-		<image name="logo" region="us">
-			<path>./../../$system/data/us/logo.svg</path>
-		</image> 
-		<image name="logo" region="jp">
-			<path>./../../$system/data/jp/logo.svg</path>
 		</image>
 		
 		<image name="console" extra="true">
 			<pos>.98 .82</pos>
-			<maxSize>.20 .20</maxSize>
+			<maxSize>.2 .2</maxSize>
 			<origin>1 .5</origin>
-		</image>
-		
-	</view>
-	
-	<view name="basic, detailed">
-		
-		<image name="logo">
-			<path>./../../$system/data/logo_right.svg</path>
-		</image> 
-		<image name="logo" region="eu">
-			<path>./../../$system/data/eu/logo_right.svg</path>
-		</image> 
-		<image name="logo" region="us">
-			<path>./../../$system/data/us/logo_right.svg</path>
-		</image> 
-		<image name="logo" region="jp">
-			<path>./../../$system/data/jp/logo_right.svg</path>
 		</image>
 		
 	</view>

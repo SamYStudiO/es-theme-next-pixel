@@ -43,50 +43,20 @@
 	
 	<view name="basic, detailed">
 	
+		<image name="gamelist_background" extra="true">
+			<color>ffffff</color>
+		</image>
+	
 		<textlist name="gamelist">
-			<selectorColor>222222</selectorColor>
-			<selectedColor>dddddd</selectedColor>
+			<selectorColor>ffffff</selectorColor>
+			<selectedColor>222222</selectedColor>
 			<primaryColor>222222</primaryColor>
 			<secondaryColor>222222</secondaryColor>
 		</textlist>
 		
-	</view>
-	
-	<view name="basic">
-	
-		<image name="backtext1" extra="true">
-			<color>ffffffee</color>
+		<image name="gamelist_border" extra="true">
+			<color>ffffff</color>
 		</image>
-		
-	</view>
-	
-	<view name="detailed">
-	
-		<image name="backtext2" extra="true">
-			<color>ffffffee</color>
-		</image>
-		<image name="backtext3" extra="true">
-			<color>ffffffee</color>
-		</image>
-		<image name="backtext4" extra="true">
-			<color>ffffffee</color>
-		</image>
-		<image name="backtext5" extra="true">
-			<color>ffffffee</color>
-		</image>
-
-		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite, md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite, md_description, md_folder_name">
-			<color>222222</color>
-		</text>
-		<datetime name="md_releasedate, md_lastplayed">
-			<color>222222</color>
-		</datetime>
-		<text name="control" extra="true">
-			<color>222222</color>
-		</text>
-		<text name="no_image" extra="true">
-			<color>222222</color>
-		</text>
 		
 	</view>
 	

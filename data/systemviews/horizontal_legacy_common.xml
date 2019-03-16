@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
+	<include>./common.xml</include>
 	
 	<feature supported="carousel">
   
@@ -9,26 +10,21 @@
 			<image name="system_carousel_background" extra="true">
 				<pos>0 .405</pos>
 				<size>1 .184</size>
-				<path>./../arts/back60.png</path>
+				<path>./../arts/white70.png</path>
 			</image>
 		
 			<carousel name="systemcarousel">
 				<pos>0 .405</pos>
 				<size>1 .185</size>
-				<logoScale>2</logoScale>
-				<logoSize>1 .05</logoSize>
-				<color>ffffff00</color>
 			</carousel>
 			
-			<image name="systemInfoBack" extra="true">
+			<image name="system_carousel_border" extra="true">
 				<size>1 .05</size>
 				<pos>0 .590</pos>
-				<path>./../arts/band.png</path>
 			</image>
 
 			<text name="systemInfo">
-				<origin>.5 1</origin>
-				<pos>.5 .64</pos>
+				<pos>.5 .615</pos>
 			</text>
 
 		</view>
@@ -38,46 +34,13 @@
 	<view name="system">
 		
 		<image name="background" extra="true">
-			<pos>.5 .5</pos>
-			<origin>.5 .5</origin>
-			<maxSize>2 1</maxSize>
 			<path>./../../$system/background_legacy.jpg</path>
-		</image>
-		
-		<image name="logo">
-			<path>./../../$system/data/logo.svg</path>
-		</image> 
-		<image name="logo" region="eu">
-			<path>./../../$system/data/eu/logo.svg</path>
-		</image> 
-		<image name="logo" region="us">
-			<path>./../../$system/data/us/logo.svg</path>
-		</image> 
-		<image name="logo" region="jp">
-			<path>./../../$system/data/jp/logo.svg</path>
 		</image>
 		
 		<image name="console" extra="true">
 			<pos>.98 .82</pos>
 			<maxSize>.20 .20</maxSize>
 			<origin>1 .5</origin>
-		</image>
-		
-	</view>
-	
-	<view name="basic, detailed">
-		
-		<image name="logo">
-			<path>./../../$system/data/logo_right.svg</path>
-		</image> 
-		<image name="logo" region="eu">
-			<path>./../../$system/data/eu/logo_right.svg</path>
-		</image> 
-		<image name="logo" region="us">
-			<path>./../../$system/data/us/logo_right.svg</path>
-		</image> 
-		<image name="logo" region="jp">
-			<path>./../../$system/data/jp/logo_right.svg</path>
 		</image>
 		
 	</view>

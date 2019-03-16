@@ -4,7 +4,7 @@ Theme *next-pixel* for [recalbox](https://www.recalbox.com/) and based on *recal
 This theme is designed to display a fullscreen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music that match that game.
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
-**Theme is compatible with 16:9, 16:10 and 4:3 screens**.
+**Theme is compatible with 16:9 and 4:3 screens**.
 
 Here are some screenshots using different theme settings:
 
@@ -54,20 +54,21 @@ To install theme drag and drop next-pixel folder into your recalbox/system/.emul
 
 
 ### Options
-- COLORSET 	: chose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
-- ICONSET 	: chose icons used for bottom left help (same as recalbox-next).
-- SYSTEMVIEW 	: chose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > TRANSITION STYLE > INSTANT for a better look and feel**.
-- GAMELISTVIEW	: chose gamelist view, for each one you can chose to display or hide "pixel" border.
-- REGION		: chose your region to adjust logo/console images (same as recalbox-next).
+- COLORSET 	: choose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
+- ICONSET 	: choose icons used for bottom left help (same as recalbox-next).
+- SYSTEMVIEW 	: choose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > TRANSITION STYLE > INSTANT for a better look and feel**.
+- GAMELISTVIEW	: choose gamelist view layout, you may show/hide different elements.
+- REGION		: choose your region to adjust logo/console images (same as recalbox-next).
 
 
 ### Multiple game themes
 Some systems may contain several game themes, in that case system folder is duplicated with "2" suffix [folder]2 (for example cavestory2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]2 to [folder] (then you need to restart recalbox if it was running).
 Actual systems with multiple game themes (first one is default):
-- cavestory : 2 images available
-- psx : Crash Bandicoot, Final Fantasy VII
-- snes : Zelda, Final Fantasy VI
-- atarist : 2 images available
+- cavestory : 1 game theme with 2 different images available
+- psx : 2 different game themes available
+- snes : 2 different game themes available
+- atarist : 1 game theme with 2 different images available
+- ports : 2 different game themes available
 
 
 ### Missing systems
@@ -81,32 +82,31 @@ Next systems are not supported yet, they will display the same image as favorite
 
 ### Copyright
 - This theme use pictures/musics found over internet, if you think any images/musics used in this theme are your ownership or is subject to copyright please contact me (contact[at]samystudio.net), I'll remove them.
-- Theme is based on recabox-next theme so some assets may be licensed by [recalbox](https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets (so this theme MIT license is only applicable for xml files).
-- Camera icon is from [shareicon](https://www.shareicon.net).
+- Theme is based on recabox-next theme so some assets may be licensed by [recalbox](https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets (so this theme **MIT license is only applicable for xml files**).
+- Camera and some game info icons are from [shareicon](https://www.shareicon.net).
+- Digital Counter 7 font used for game counter icon is from Sizenko Alexander (http://www.styleseven.com).
 
 
 ### Download
-Several packages are available depending on your screen ratio and resolution. Actually theme fully supports 16:9, 16:10 and 4:3 screens.
+Several packages are available depending on your screen ratio and resolution. Actually theme fully supports 16:9 and 4:3 screens.
 
-#### 16:9 and 16:10 screens
+#### 16:9 screens
 2 packages are available with 1080p (full hd screens) or 720p (hd screens) images.
 
-Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. If you have any issues with image loading you should switch to 720p version. When switching to 720p from a 1080p screen, **i highly recommend to force recalbox to run at 720p as it will greatly improve image quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. If you have any issues with image loading you should switch to 720p version. When switching to 720p from a 1080p screen, **I highly recommend to force recalbox to run at 720p as it will greatly improve image quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=1
 - hdmi_mode=4
 
 Don't forget to remove '#' char on those lines if present.
 
-16:10 users, you'll have to remove and rename one file to make it fully compatible with this ratio when using vertical wheel, after installing theme, go to [theme folder]/data/systemviews, then remove *vertical_wheel_common* file and rename *vertical_wheel_common_16_10* to *vertical_wheel_common* and that's it!
+**[DOWNLOAD es-next-pixel-1080p-0.9](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
 
-**[DOWNLOAD es-next-pixel-1080p-0.8](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
-
-**[DOWNLOAD es-next-pixel-720p-0.8](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
+**[DOWNLOAD es-next-pixel-720p-0.9](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
 
 #### 4:3 screens
-One package is available (with  1024x768 images).
+One package is available (with 1024x768 images but compatible with any resolutions).
 
-**[DOWNLOAD es-next-pixel-crt-0.8](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
+**[DOWNLOAD es-next-pixel-crt-0.9](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
 
 
 ### License

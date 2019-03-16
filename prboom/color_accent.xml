@@ -15,15 +15,23 @@
 		<image name="system_carousel_border" extra="true">
 			<color>72450e</color>
 		</image>
+		
+	</view>
 	
-		<image name="systemInfoBack" extra="true">
+	<view name="basic, detailed">
+
+		<image name="gamelist_background" extra="true">
 			<color>72450e</color>
 		</image>
+	
+		<textlist name="gamelist">
+			<selectorColor>72450e</selectorColor>
+		</textlist>
 		
-		<carousel name="systemcarousel">
-			<color>72450e99</color>
-		</carousel>
-		
+		<image name="gamelist_border" extra="true">
+			<color>72450e</color>
+		</image>
+	 
 	</view>
 	
 </theme>

@@ -37,4 +37,12 @@
 		
 	</view>
 	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true">
+			<pos>.942 .905</pos>
+		</image>
+		
+	</view>
+	
 </theme>

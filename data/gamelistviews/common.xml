@@ -1,0 +1,154 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+	
+	<view name="basic, detailed">
+	
+		<image name="background_right" extra="true">
+			<maxSize>2 1</maxSize>
+			<pos>1 0</pos>
+			<origin>1 0</origin>
+			<path>./../../$system/background_gamelist_right.jpg</path>
+			<zIndex>0</zIndex>
+		</image>
+		
+		<image name="logo">
+			<path>./../../$system/data/logo_right.svg</path>
+			<pos>.985 .98</pos>
+			<maxSize>.3 1</maxSize>
+			<origin>1 1</origin>
+			<zIndex>5</zIndex>
+		</image> 
+		<image name="logo" region="eu">
+			<path>./../../$system/data/eu/logo_right.svg</path>
+		</image> 
+		<image name="logo" region="us">
+			<path>./../../$system/data/us/logo_right.svg</path>
+		</image> 
+		<image name="logo" region="jp">
+			<path>./../../$system/data/jp/logo_right.svg</path>
+		</image>
+		
+		<image name="controller" extra="true">
+			<path>./../../$system/data/controller.svg</path>
+			<pos>.985 .905</pos>
+			<origin>1 1</origin>
+			<maxSize>.08 1</maxSize>
+			<zIndex>6</zIndex>
+		</image>
+		<image name="controller" extra="true" region="eu">
+			<path>./../../$system/data/eu/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="jp">
+			<path>./../../$system/data/jp/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="us">
+			<path>./../../$system/data/us/controller.svg</path>
+		</image>
+		
+		<image name="gamelist_background" extra="true">
+			<path>./../arts/gamelist_background.png</path>
+			<pos>1 0</pos>
+			<origin>1 0</origin>
+			<maxSize>2 1</maxSize>
+			<zIndex>10</zIndex>
+		</image>
+		
+		<textlist name="gamelist">
+			<pos>.64 0</pos> 
+			<size>.48 1</size>
+			<alignment>left</alignment>
+			<horizontalMargin>.12</horizontalMargin>
+			<selectorImagePath>./../arts/gamelist_textlist_selector_background.png</selectorImagePath>
+			<fontSize>.028</fontSize>
+			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<zIndex>20</zIndex>
+		</textlist>
+		
+		<image name="background" extra="true">
+			<pos>.75 0</pos>
+			<origin>1 0</origin>
+			<maxSize>2 1</maxSize>
+			<path>./../../$system/background_gamelist_left.png</path>
+			<zIndex>30</zIndex>
+		</image>
+	
+		<image name="gamelist_border" extra="true">
+			<path>./../arts/gamelist_border.png</path>
+			<origin>1 0 </origin>
+			<pos>.752 0</pos>
+			<maxSize>2 1</maxSize>
+			<zIndex>40</zIndex>
+		</image>
+		
+		<text name="md_folder_name">
+            <forceUppercase>1</forceUppercase>
+            <fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+            <fontSize>.03</fontSize>
+            <size>0 0</size>
+            <pos>.37 .9</pos>
+			<origin>.5 1</origin>
+			<alignment>center</alignment>
+			<zIndex>45</zIndex>
+        </text>
+        
+		<!-- can't figure out how to make them visible, just make sure they are out of screen for now -->
+        <image name="md_folder_image_0, md_folder_image_1, md_folder_image_2, md_folder_image_3, md_folder_image_4, md_folder_image_5, md_folder_image_6, md_folder_image_7, md_folder_image_8">
+            <pos>2 2</pos>
+        </image>
+		
+	</view>
+	
+	<view name="detailed">
+	
+		<image name="md_image">
+			<origin>.5 .5</origin>
+			<zIndex>70</zIndex>
+		</image>
+		
+		<rating name="md_rating">
+			<filledPath>./$system/data/icon_filled.svg</filledPath>
+			<unfilledPath>./$system/data/icon_empty.svg</unfilledPath>
+		</rating>
+		
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
+			<pos>2 2</pos>
+		</text>
+		
+		<text name="md_rating, md_publisher, md_developer, md_genre, md_players, md_playcount, md_favorite, md_description">
+			<pos>2 2</pos>
+			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<fontSize>.027</fontSize>
+		</text>
+		
+		<datetime name="md_releasedate, md_lastplayed">
+			<pos>2 2</pos>
+			<!-- since we can't right aligned we need a font where all chars have same width, just use default font for now as it matches that requirement -->
+			<!--<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>-->
+			<fontSize>.027</fontSize>
+		</datetime>
+		
+	</view>
+	
+	<view name="basic">
+	
+		<image name="consolegame" extra="true">
+			<path>./../../$system/data/consolegame.svg</path>
+			<pos>.02 .9</pos>
+			<maxSize>1 .2</maxSize>
+			<origin>0 1</origin>
+			<zIndex>50</zIndex>
+		</image>
+		<image name="consolegame" extra="true" region="eu">
+			<path>./../../$system/data/eu/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="jp">
+			<path>./../../$system/data/jp/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="us">
+			<path>./../../$system/data/us/consolegame.svg</path>
+		</image>
+	
+	</view>
+	
+</theme>

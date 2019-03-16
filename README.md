@@ -68,6 +68,7 @@ Actual systems with multiple game themes (first one is default):
 - psx : 2 different game themes available
 - snes : 2 different game themes available
 - atarist : 1 game theme with 2 different images available
+- ports : 2 different game themes available
 
 
 ### Missing systems

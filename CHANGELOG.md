@@ -1,4 +1,7 @@
 ### Changelog
+2019/03/xx - 1.0
+- Add cavestory2 alternative game theme to ports alternatives as well
+
 2019/03/16 - 0.9
 - Add new gamelist view (old gamelist view is removed)
 - Change a bit Cavestory/fds/nds images framing 

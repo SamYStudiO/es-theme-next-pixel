@@ -1,5 +1,6 @@
 ### Changelog
 2019/03/xx - 1.0
+- Add amstradcpc support
 - Add cavestory2 alternative game theme to ports alternatives as well
 
 2019/03/16 - 0.9

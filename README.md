@@ -73,7 +73,6 @@ Actual systems with multiple game themes (first one is default):
 
 ### Missing systems
 Next systems are not supported yet, they will display the same image as favorites/screenshots and play recalbox-next theme random music.
-- amstradcpc
 - channelf
 - lutro
 - oric
@@ -93,20 +92,26 @@ Several packages are available depending on your screen ratio and resolution. Ac
 #### 16:9 screens
 2 packages are available with 1080p (full hd screens) or 720p (hd screens) images.
 
-Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. If you have any issues with image loading you should switch to 720p version. When switching to 720p from a 1080p screen, **I highly recommend to force recalbox to run at 720p as it will greatly improve image quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. If you have any issues with image loading you should switch to 720p version. When switching to 720p from a 1080p screen, **I highly recommend to force recalbox to run at 720p as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=1
 - hdmi_mode=4
 
 Don't forget to remove '#' char on those lines if present.
 
-**[DOWNLOAD es-next-pixel-1080p-0.9](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
+If you still have issues with 720p (this may happend if you're using 40/50+ recalbox systems) you should considered switching to 4:3 package. In that case you'll have to force recalbox to run in that ratio, to do so follow the previous explanation to force recalbox to run at 720p but use these values for *hdmi_group* and *hdmi_mode*:
+- hdmi_group=2
+- hdmi_mode=16
 
-**[DOWNLOAD es-next-pixel-720p-0.9](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
+Once again don't forget to remove '#' char on those lines if present.
+
+**[DOWNLOAD es-next-pixel-1080p-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
+
+**[DOWNLOAD es-next-pixel-720p-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
 
 #### 4:3 screens
-One package is available (with 1024x768 images but compatible with any resolutions).
+One package is available (with 1024x768 images but compatible with any 4:3 resolutions).
 
-**[DOWNLOAD es-next-pixel-crt-0.9](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
+**[DOWNLOAD es-next-pixel-crt-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
 
 
 ### License

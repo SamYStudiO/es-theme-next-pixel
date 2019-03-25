@@ -91,7 +91,7 @@ Several packages are available depending on your screen ratio and resolution. Ac
 #### 16:9 screens
 2 packages are available with 1080p (full hd screens, 4K, 8K) or 720p (hd screens) images.
 
-If you are a Raspberry Pi user please read carefully next lines (PC/Odroid users can skip to download links)
+If you are a Raspberry Pi user please read carefully next lines (PC/Odroid users can skip to download links).
 **Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. I highly recommend to force recalbox to run at 720p as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=1
 - hdmi_mode=4

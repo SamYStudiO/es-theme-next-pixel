@@ -5,6 +5,7 @@
 - Add cavestory2 alternative game theme to ports alternatives as well
 - Add naomi custom rating icon
 - Change colecovision game theme
+- Improve gba rating icon contrast with background
 - Fix black screen after exiting game from several system
 - Fix gamelistview settings order (standard is now default)
 

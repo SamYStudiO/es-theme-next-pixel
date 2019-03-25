@@ -91,13 +91,14 @@ Several packages are available depending on your screen ratio and resolution. Ac
 #### 16:9 screens
 2 packages are available with 1080p (full hd screens, 4K, 8K) or 720p (hd screens) images.
 
-Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. If you have any issues with image loading you should switch to 720p version. When switching to 720p from a 1080p screen (or 4K 8K screen), **I highly recommend to force recalbox to run at 720p as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+If you are a Raspberry Pi user please read carefully next lines (PC/Odroid users can skip to download links)
+**Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. I highly recommend to force recalbox to run at 720p as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=1
 - hdmi_mode=4
 
 Don't forget to remove '#' char on those lines if present.
 
-If you still have issues with 720p (this may happend if you're using 40/50+ recalbox systems) you should considered switching to 4:3 package. In that case you'll have to force recalbox to run in that ratio, to do so follow the previous explanation to force recalbox to run at 720p but use these values for *hdmi_group* and *hdmi_mode*:
+If you still have issues with 720p (this may happend if you're using 40/50+ recalbox systems) you should considered switching to 4:3 package. **In that case you'll have to force recalbox to run in that ratio**, to do so follow the previous explanation to force recalbox to run at 720p but use these values for *hdmi_group* and *hdmi_mode*:
 - hdmi_group=2
 - hdmi_mode=16
 

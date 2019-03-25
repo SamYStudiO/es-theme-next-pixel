@@ -37,8 +37,8 @@
 	<include subset="systemview" name="3b-horizontal legacy, info (all lines)">./systemviews/horizontal_legacy_all_info.xml</include>
 	<include subset="systemview" name="3c-horizontal legacy, no info">./systemviews/horizontal_legacy_common.xml</include>
 	
-	<include subset="gamelistview" name="standard">./gamelistviews/standard.xml</include>
-	<include subset="gamelistview" name="no description">./gamelistviews/no_description.xml</include>
-	<include subset="gamelistview" name="no description, no info">./gamelistviews/no_description_no_info.xml</include>
+	<include subset="gamelistview" name="1-standard">./gamelistviews/standard.xml</include>
+	<include subset="gamelistview" name="2-no description">./gamelistviews/no_description.xml</include>
+	<include subset="gamelistview" name="3-no description, no info">./gamelistviews/no_description_no_info.xml</include>
 	
 </theme>

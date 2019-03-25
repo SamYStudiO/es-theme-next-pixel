@@ -3,6 +3,7 @@
 - Add amstradcpc support
 - Add lutro support
 - Add cavestory2 alternative game theme to ports alternatives as well
+- Fix gamelistview settings order (standard is now default)
 
 2019/03/16 - 0.9
 - Add new gamelist view (old gamelist view is removed)

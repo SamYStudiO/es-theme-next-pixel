@@ -104,14 +104,14 @@ If you still have issues with 720p (this may happend if you're using 40/50+ reca
 
 Once again don't forget to remove '#' char on those lines if present.
 
-**[DOWNLOAD es-next-pixel-1080p-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
+**[DOWNLOAD es-next-pixel-1080p-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
 
-**[DOWNLOAD es-next-pixel-720p-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
+**[DOWNLOAD es-next-pixel-720p-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
 
 #### 4:3 screens
 One package is available (with 1024x768 images but compatible with any 4:3 resolutions).
 
-**[DOWNLOAD es-next-pixel-crt-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
+**[DOWNLOAD es-next-pixel-crt-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
 
 
 ### License

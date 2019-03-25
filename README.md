@@ -1,4 +1,4 @@
-# es-next-pixel
+# es-theme-next-pixel
 Theme *next-pixel* for [recalbox](https://www.recalbox.com/) and based on *recalbox-next* theme. Download links are available at the bottom, **do not clone or download master branch as it does not contain any images**.
 
 This theme is designed to display a fullscreen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music that match that game.
@@ -62,20 +62,18 @@ To install theme drag and drop next-pixel folder into your recalbox/system/.emul
 
 
 ### Multiple game themes
-Some systems may contain several game themes, in that case system folder is duplicated with "2" suffix [folder]2 (for example cavestory2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]2 to [folder] (then you need to restart recalbox if it was running).
+Some systems may contain several game themes, in that case system folder is duplicated with "2", "3", "x" suffix [folder]2, [folder]3, [folder]x (for example cavestory2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]x to [folder] (then you need to restart recalbox if it was running).
 Actual systems with multiple game themes (first one is default):
 - cavestory : 1 game theme with 2 different images available
 - psx : 2 different game themes available
 - snes : 2 different game themes available
 - atarist : 1 game theme with 2 different images available
-- ports : 2 different game themes available
+- ports : 2 different game themes available (1 with 2 different images available)
 
 
 ### Missing systems
 Next systems are not supported yet, they will display the same image as favorites/screenshots and play recalbox-next theme random music.
-- amstradcpc
 - channelf
-- lutro
 - oric
 - thomson
 
@@ -91,22 +89,29 @@ Next systems are not supported yet, they will display the same image as favorite
 Several packages are available depending on your screen ratio and resolution. Actually theme fully supports 16:9 and 4:3 screens.
 
 #### 16:9 screens
-2 packages are available with 1080p (full hd screens) or 720p (hd screens) images.
+2 packages are available with 1080p (full hd screens, 4K, 8K) or 720p (hd screens) images.
 
-Some devices like Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. If you have any issues with image loading you should switch to 720p version. When switching to 720p from a 1080p screen, **I highly recommend to force recalbox to run at 720p as it will greatly improve image quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+If you are a Raspberry Pi user please read carefully next lines (PC/Odroid users can skip to download links).
+**Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. I highly recommend to force recalbox to run at 720p as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=1
 - hdmi_mode=4
 
 Don't forget to remove '#' char on those lines if present.
 
-**[DOWNLOAD es-next-pixel-1080p-0.9](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
+If you still have issues with 720p (this may happend if you're using 40/50+ recalbox systems) you should considered switching to 4:3 package. **In that case you'll have to force recalbox to run in that ratio**, to do so follow the previous explanation to force recalbox to run at 720p but use these values for *hdmi_group* and *hdmi_mode*:
+- hdmi_group=2
+- hdmi_mode=16
 
-**[DOWNLOAD es-next-pixel-720p-0.9](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
+Once again don't forget to remove '#' char on those lines if present.
+
+**[DOWNLOAD es-next-pixel-1080p-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
+
+**[DOWNLOAD es-next-pixel-720p-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
 
 #### 4:3 screens
-One package is available (with 1024x768 images but compatible with any resolutions).
+One package is available (with 1024x768 images but compatible with any 4:3 resolutions).
 
-**[DOWNLOAD es-next-pixel-crt-0.9](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
+**[DOWNLOAD es-next-pixel-crt-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
 
 
 ### License

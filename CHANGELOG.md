@@ -1,4 +1,14 @@
 ### Changelog
+2019/03/25 - 0.9.1
+- Add amstradcpc support
+- Add lutro support
+- Add cavestory2 alternative game theme to ports alternatives as well
+- Add naomi custom rating icon
+- Change colecovision game theme
+- Improve gba rating icon contrast with background
+- Fix black screen after exiting game from several system
+- Fix gamelistview settings order (standard is now default)
+
 2019/03/16 - 0.9
 - Add new gamelist view (old gamelist view is removed)
 - Change a bit Cavestory/fds/nds images framing 

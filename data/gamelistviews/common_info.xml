@@ -17,8 +17,6 @@
 			<origin>1 .5</origin>
 			<size>0 .037</size>
 			<pos>.718 .29</pos>
-			<filledPath>./../../$system/data/icon_filled.svg</filledPath>
-			<unfilledPath>./../../$system/data/icon_empty.svg</unfilledPath>
 		</rating>
 		
 		<image name="release_date_logo" extra="true">

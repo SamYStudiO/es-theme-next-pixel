@@ -72,6 +72,10 @@ Actual systems with multiple game themes (first one is default):
 - snes : 2 different game themes available
 
 
+### Move game themes to another system
+Sometimes a game theme could match different systems and you may want to copy game theme to another system. To properly move a game theme to another system copy all files from a system folder **BUT data folder** and past them into system folder you want to apply that game theme.
+
+
 ### Copyright
 - This theme use pictures/musics found over internet, if you think any images/musics used in this theme are your ownership or is subject to copyright please contact me (contact[at]samystudio.net), I'll remove them.
 - Theme is based on recabox-next theme so some assets may be licensed by [recalbox](https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets (so this theme **MIT license is only applicable for xml files**).

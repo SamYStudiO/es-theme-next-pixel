@@ -107,8 +107,8 @@
 		</image>
 		
 		<rating name="md_rating">
-			<filledPath>./../../$system/data/icon_filled.svg</filledPath>
-			<unfilledPath>./../../$system/data/icon_empty.svg</unfilledPath>
+			<filledPath>./../../$system/icon_filled.svg</filledPath>
+			<unfilledPath>./../../$system/icon_empty.svg</unfilledPath>
 		</rating>
 		
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">

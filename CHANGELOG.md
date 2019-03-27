@@ -3,6 +3,7 @@
 - Add channelf support
 - Add oric support
 - Add to8 support
+- Change atari5200 game theme
 
 2019/03/25 - 0.9.1
 - Add amstradcpc support

@@ -71,11 +71,6 @@ Actual systems with multiple game themes (first one is default):
 - ports : 2 different game themes available (1 with 2 different images available)
 
 
-### Missing systems
-Next systems are not supported yet, they will display the same image as favorites/screenshots and play recalbox-next theme random music.
-- thomson
-
-
 ### Copyright
 - This theme use pictures/musics found over internet, if you think any images/musics used in this theme are your ownership or is subject to copyright please contact me (contact[at]samystudio.net), I'll remove them.
 - Theme is based on recabox-next theme so some assets may be licensed by [recalbox](https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets (so this theme **MIT license is only applicable for xml files**).

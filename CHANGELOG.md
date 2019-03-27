@@ -2,6 +2,7 @@
 2019/04/xx - 1.0
 - Add channelf support
 - Add oric support
+- Add to8 support
 
 2019/03/25 - 0.9.1
 - Add amstradcpc support

@@ -1,4 +1,7 @@
 ### Changelog
+2019/04/xx - 1.0
+- Add channelf support
+
 2019/03/25 - 0.9.1
 - Add amstradcpc support
 - Add lutro support

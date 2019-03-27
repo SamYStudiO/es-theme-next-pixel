@@ -4,6 +4,7 @@
 - Add oric support
 - Add to8 support
 - Change atari5200 game theme
+- Change lynx game theme (old one still available as alternative)
 
 2019/03/25 - 0.9.1
 - Add amstradcpc support

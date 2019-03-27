@@ -73,7 +73,6 @@ Actual systems with multiple game themes (first one is default):
 
 ### Missing systems
 Next systems are not supported yet, they will display the same image as favorites/screenshots and play recalbox-next theme random music.
-- oric
 - thomson
 
 

@@ -5,8 +5,9 @@
 - Add to8 support
 - Change atari5200 game theme
 - Change lynx game theme (old one still available as alternative)
+- Add lots of custom rating icons matching system game theme
 - Move rating icons to system root folder to make it easier to move game theme to another system (see doc to get more info)
-- Add 480p (16:9) package for raspberry user using lots of systems and having memory issues.
+- Add 480p (16:9) package for raspberry users using lots of systems and having memory issues.
 
 2019/03/25 - 0.9.1
 - Add amstradcpc support
@@ -24,7 +25,6 @@
 - Change psx and gamecube logos for vertical wheel
 - Remove 16:10 support
 
-### Changelog
 2019/03/03 - 0.8.1
 - Add 4/3 screens support
 - Add 16/10 screens support

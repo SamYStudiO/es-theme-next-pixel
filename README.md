@@ -1,7 +1,5 @@
-# es-theme-next-pixel
-Theme *next-pixel* for [recalbox](https://www.recalbox.com/) and based on *recalbox-next* theme. Download links are available at the bottom, **do not clone or download master branch as it does not contain any images**.
-
-This theme is designed to display a fullscreen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music that match that game.
+### Hi and welcome to Next Pixel theme for [Recalbox](https://www.recalbox.com/)!
+This theme is designed to display a full screen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music and a custom rating icon that match that game.
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
 **Theme is compatible with 16:9 and 4:3 screens**.
@@ -50,7 +48,7 @@ Here are some screenshots using different theme settings:
 
 
 ### Installation
-To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then start/restart your recalbox and choose next-pixel theme from recalbox options (UI SETTINGS > THEME SET).
+To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then choose next-pixel theme from recalbox options (UI SETTINGS > THEME SET).
 
 
 ### Options
@@ -63,7 +61,7 @@ To install theme drag and drop next-pixel folder into your recalbox/system/.emul
 
 ### Multiple game themes
 Some systems may contain several game themes, in that case system folder is duplicated with "2", "3", "x" suffix [folder]2, [folder]3, [folder]x (for example cavestory2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]x to [folder] (then you need to restart recalbox if it was running).
-Actual systems with multiple game themes (first one is default):
+Actual systems with multiple game themes :
 - atarist : 1 game theme with 2 different images available
 - cavestory : 1 game theme with 2 different images available
 - lynx : 2 different game themes available
@@ -73,7 +71,7 @@ Actual systems with multiple game themes (first one is default):
 
 
 ### Move game themes to another system
-Sometimes a game theme could match different systems and you may want to copy game theme to another system. To properly move a game theme to another system copy all files from a system folder **BUT data folder** and past them into system folder you want to apply that game theme.
+Sometimes a game theme could match different systems and you may want to use a game theme with another system. To properly move a game theme to another system copy all files from any system folder **BUT data folder** and past them into another system folder where you want to apply that game theme.
 
 
 ### Copyright
@@ -112,6 +110,14 @@ One package is available with 1024x768 images but compatible with any 4:3 resolu
 Don't forget to remove '#' char on those lines if present.
 
 **[DOWNLOAD es-next-pixel-crt-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
+
+
+### Contribute / Report issues
+Project is hosted on [Github](https://github.com/SamYStudiO/es-theme-next-pixel).
+ 
+
+### Final words
+**I'm all ears to any suggestions or to add alternative game image/music as i've done it with with system like PSX, Cavestory and others.**
 
 
 ### License

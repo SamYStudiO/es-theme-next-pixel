@@ -103,7 +103,7 @@ If you still have issues with 720p (mainly images replaced with white rectangle)
 **[DOWNLOAD es-next-pixel-480p-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/480p.zip)**
 
 #### 4:3 screens
-One package is available with 1024x768 images but compatible with any 4:3 resolutions. If you're using a screen with higher resolution than 1024x768, I highly recommend to force recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+One package is available with 1024x768 images but compatible with any 4:3 resolutions. **If you're using a screen with higher resolution than 1024x768, I highly recommend to force recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=2
 - hdmi_mode=16
 

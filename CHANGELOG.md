@@ -6,6 +6,7 @@
 - Change atari5200 game theme
 - Change lynx game theme (old one still available as alternative)
 - Move rating icons to system root folder to make it easier to move game theme to another system (see doc to get more info)
+- Add 480p (16:9) package for raspberry user using lots of systems and having memory issues.
 
 2019/03/25 - 0.9.1
 - Add amstradcpc support

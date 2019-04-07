@@ -3,9 +3,12 @@
 - Add channelf support
 - Add oric support
 - Add to8 support
+- Add lots of custom rating icons matching system game theme (some already done may have changed as well)
 - Change atari5200 game theme
 - Change lynx game theme (old one still available as alternative)
-- Add lots of custom rating icons matching system game theme
+- Change imageviewer (screenshots) theme so it has now a different one from favorites
+- Change a bit favorites images
+- Merge several changes from recalbox next theme logos and game/consolegame images
 - Move rating icons to system root folder to make it easier to move game theme to another system (see doc to get more info)
 - Add 480p (16:9) package for raspberry users using lots of systems and having memory issues.
 

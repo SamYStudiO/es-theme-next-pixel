@@ -39,7 +39,7 @@
 	
 	<view name="basic, detailed">
 	
-		<image name="logo" extra="true">
+		<image name="logo" extra="true" region="eu">
 			<pos>.976 .98</pos>
 		</image>
 		

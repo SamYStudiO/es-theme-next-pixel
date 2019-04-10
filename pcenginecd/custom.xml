@@ -33,7 +33,10 @@
 	
 	<view name="basic, detailed">
 	
-		<image name="logo" extra="true">
+		<image name="logo" extra="true" region="eu">
+			<pos>.972 .98</pos>
+		</image>
+		<image name="logo" extra="true" region="jp">
 			<pos>.972 .98</pos>
 		</image>
 		

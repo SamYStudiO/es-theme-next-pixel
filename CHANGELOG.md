@@ -8,6 +8,7 @@
 - Change lynx game theme (old one still available as alternative)
 - Change imageviewer (screenshots) theme so it has now a different one from favorites
 - Change a bit favorites image
+- Fix some us/jp logos/controllers position from gamelist view
 - Merge several changes from recalbox next theme logos and game/consolegame images
 - Move rating icons to system root folder to make it easier to move game theme to another system (see doc to get more info)
 - Add 480p (16:9) package for raspberry users using lots of systems and having memory issues.

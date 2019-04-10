@@ -39,8 +39,11 @@
 	
 	<view name="basic, detailed">
 	
-		<image name="controller" extra="true">
+		<image name="controller" extra="true" region="eu">
 			<maxSize>.086 1</maxSize>
+		</image>
+		<image name="controller" extra="true" region="jp">
+			<pos>.952 .905</pos>
 		</image>
 		
 	</view>

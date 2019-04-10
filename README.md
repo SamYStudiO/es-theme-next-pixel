@@ -1,7 +1,5 @@
-# es-theme-next-pixel
-Theme *next-pixel* for [recalbox](https://www.recalbox.com/) and based on *recalbox-next* theme. Download links are available at the bottom, **do not clone or download master branch as it does not contain any images**.
-
-This theme is designed to display a fullscreen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music that match that game.
+### Hi and welcome to Next Pixel theme for [Recalbox](https://www.recalbox.com/)!
+This theme is designed to display a full screen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music and a custom rating icon that match that game.
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
 **Theme is compatible with 16:9 and 4:3 screens**.
@@ -50,7 +48,7 @@ Here are some screenshots using different theme settings:
 
 
 ### Installation
-To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then start/restart your recalbox and choose next-pixel theme from recalbox options (UI SETTINGS > THEME SET).
+To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then choose next-pixel theme from recalbox options (UI SETTINGS > THEME SET).
 
 
 ### Options
@@ -63,19 +61,17 @@ To install theme drag and drop next-pixel folder into your recalbox/system/.emul
 
 ### Multiple game themes
 Some systems may contain several game themes, in that case system folder is duplicated with "2", "3", "x" suffix [folder]2, [folder]3, [folder]x (for example cavestory2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]x to [folder] (then you need to restart recalbox if it was running).
-Actual systems with multiple game themes (first one is default):
+Actual systems with multiple game themes :
+- atarist : 1 game theme with 2 different images available
 - cavestory : 1 game theme with 2 different images available
+- lynx : 2 different game themes available
+- ports : 2 different game themes available (1 with 2 different images available)
 - psx : 2 different game themes available
 - snes : 2 different game themes available
-- atarist : 1 game theme with 2 different images available
-- ports : 2 different game themes available (1 with 2 different images available)
 
 
-### Missing systems
-Next systems are not supported yet, they will display the same image as favorites/screenshots and play recalbox-next theme random music.
-- channelf
-- oric
-- thomson
+### Move a game theme to another system
+Sometimes a game theme could match different systems and you may want to use a game theme with another system. To properly move a game theme to another system copy all files from any system folder **BUT data folder** and past them into another system folder where you want to apply that game theme.
 
 
 ### Copyright
@@ -89,29 +85,39 @@ Next systems are not supported yet, they will display the same image as favorite
 Several packages are available depending on your screen ratio and resolution. Actually theme fully supports 16:9 and 4:3 screens.
 
 #### 16:9 screens
-2 packages are available with 1080p (full hd screens, 4K, 8K) or 720p (hd screens) images.
+3 packages are available with 1080p images (full hd screens, 4K, 8K), 720p images (hd screens) or 480p images (intended for Raspberry users).
 
-If you are a Raspberry Pi user please read carefully next lines (PC/Odroid users can skip to download links).
-**Raspberry Pi may lead to memory issues when using a lot of images especially in 1080p. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. I highly recommend to force recalbox to run at 720p as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+**If you are a Raspberry Pi user please read carefully next lines (PC/Odroid users can skip to download links and grab package that match best their screen resolution).
+Raspberry Pi may lead to memory issues when using a lot of images. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. I highly recommend to force recalbox to run at 720p if your screen is running higher resolution, as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=1
 - hdmi_mode=4
 
 Don't forget to remove '#' char on those lines if present.
 
-If you still have issues with 720p (this may happend if you're using 40/50+ recalbox systems) you should considered switching to 4:3 package. **In that case you'll have to force recalbox to run in that ratio**, to do so follow the previous explanation to force recalbox to run at 720p but use these values for *hdmi_group* and *hdmi_mode*:
+If you still have issues with 720p (mainly images replaced with white rectangle) **and you already have forced recalbox to run at 720p** then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
+
+**[DOWNLOAD es-next-pixel-1080p-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
+
+**[DOWNLOAD es-next-pixel-720p-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
+
+**[DOWNLOAD es-next-pixel-480p-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/480p.zip)**
+
+#### 4:3 screens
+One package is available with 1024x768 images but compatible with any 4:3 resolutions. **If you're using a screen with higher resolution than 1024x768, I highly recommend to force recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=2
 - hdmi_mode=16
 
-Once again don't forget to remove '#' char on those lines if present.
+Don't forget to remove '#' char on those lines if present.
 
-**[DOWNLOAD es-next-pixel-1080p-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
+**[DOWNLOAD es-next-pixel-crt-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
 
-**[DOWNLOAD es-next-pixel-720p-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
 
-#### 4:3 screens
-One package is available (with 1024x768 images but compatible with any 4:3 resolutions).
+### Contribute / Report issues
+Project is hosted on [Github](https://github.com/SamYStudiO/es-theme-next-pixel).
+ 
 
-**[DOWNLOAD es-next-pixel-crt-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
+### Final words
+**I'm all ears to any suggestions or to add alternative game image/music as i've done it with with system like PSX, Cavestory and others.**
 
 
 ### License

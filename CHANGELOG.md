@@ -1,4 +1,17 @@
 ### Changelog
+2019/04/11 - 1.0
+- Add channelf support
+- Add oric support
+- Add to8 support
+- Add lots of custom rating icons matching system game theme (some already done may have changed as well)
+- Change atari5200 game theme
+- Change lynx game theme (old one still available as alternative)
+- Change imageviewer (screenshots) theme so it has now a different one from favorites
+- Change a bit favorites image
+- Merge several changes from recalbox next theme logos and game/consolegame images
+- Move rating icons to system root folder to make it easier to move game theme to another system (see doc to get more info)
+- Add 480p (16:9) package for raspberry users using lots of systems and having memory issues.
+
 2019/03/25 - 0.9.1
 - Add amstradcpc support
 - Add lutro support
@@ -15,7 +28,6 @@
 - Change psx and gamecube logos for vertical wheel
 - Remove 16:10 support
 
-### Changelog
 2019/03/03 - 0.8.1
 - Add 4/3 screens support
 - Add 16/10 screens support

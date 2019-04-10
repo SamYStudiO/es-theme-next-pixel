@@ -1,5 +1,5 @@
 ### Changelog
-2019/04/xx - 1.0
+2019/04/11 - 1.0
 - Add channelf support
 - Add oric support
 - Add to8 support

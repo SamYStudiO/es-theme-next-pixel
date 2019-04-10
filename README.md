@@ -88,7 +88,7 @@ Several packages are available depending on your screen ratio and resolution. Ac
 3 packages are available with 1080p images (full hd screens, 4K, 8K), 720p images (hd screens) or 480p images (intended for Raspberry users).
 
 **If you are a Raspberry Pi user please read carefully next lines (PC/Odroid users can skip to download links and grab package that match best their screen resolution).
-Raspberry Pi may lead to memory issues when using a lot of images. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. I highly recommend to force recalbox to run at 720p as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+Raspberry Pi may lead to memory issues when using a lot of images. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. I highly recommend to force recalbox to run at 720p if your screen is running higher resolution, as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=1
 - hdmi_mode=4
 
@@ -96,11 +96,11 @@ Don't forget to remove '#' char on those lines if present.
 
 If you still have issues with 720p (mainly images replaced with white rectangle) **and you already have forced recalbox to run at 720p** then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
-**[DOWNLOAD es-next-pixel-1080p-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
+**[DOWNLOAD es-next-pixel-1080p-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
 
-**[DOWNLOAD es-next-pixel-720p-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
+**[DOWNLOAD es-next-pixel-720p-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/720p.zip)**
 
-**[DOWNLOAD es-next-pixel-480p-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/480p.zip)**
+**[DOWNLOAD es-next-pixel-480p-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/480p.zip)**
 
 #### 4:3 screens
 One package is available with 1024x768 images but compatible with any 4:3 resolutions. **If you're using a screen with higher resolution than 1024x768, I highly recommend to force recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
@@ -109,7 +109,7 @@ One package is available with 1024x768 images but compatible with any 4:3 resolu
 
 Don't forget to remove '#' char on those lines if present.
 
-**[DOWNLOAD es-next-pixel-crt-0.9.1](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
+**[DOWNLOAD es-next-pixel-crt-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/crt.zip)**
 
 
 ### Contribute / Report issues

@@ -31,4 +31,12 @@
 		
 	</view>
 	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true" region="us">
+			<maxSize>.035 1</maxSize>
+		</image>
+		
+	</view>
+	
 </theme>

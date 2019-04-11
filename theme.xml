@@ -2,7 +2,7 @@
 
 	<formatVersion>4</formatVersion>
 	<include>./data/config.xml</include>
-	<include>./$system/custom.xml</include>
+	<include>./$system/data/custom.xml</include>
 	
 	<view name="system">
 	

@@ -21,7 +21,6 @@
 			<text name="systemInfo">
 				<origin>.5 .5</origin>
 				<alignment>center</alignment>
-				<color>ffffff</color>
 			</text>
 
 		</view>

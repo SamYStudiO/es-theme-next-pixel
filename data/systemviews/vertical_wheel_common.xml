@@ -43,6 +43,7 @@
 			<text name="systemInfo">
 				<pos>.91 .585</pos>
 				<size>.16 .01</size>
+				<color>ffffff</color>
 				<fontSize>.021</fontSize>
 				<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			</text>

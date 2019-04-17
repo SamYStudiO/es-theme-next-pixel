@@ -3,15 +3,6 @@
 	<formatVersion>4</formatVersion>	
 	
 	<view name="detailed">
-	
-		<image name="rating_logo" extra="true">
-			<origin>1 .5</origin>
-			<!--<pos>.738 .29</pos>-->
-			<pos>2 2</pos>
-			<size>.035 .04</size>
-			<path>./../arts/game_info_rating.svg</path>
-			<zIndex>50</zIndex>
-		</image>
 		
 		<rating name="md_rating">
 			<origin>1 .5</origin>

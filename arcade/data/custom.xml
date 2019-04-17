@@ -5,34 +5,37 @@
 	<view name="system">
 	
 		<text name="info1" extra="true">
-			<text>An arcade game or coin-op game is a coin-operated entertainment machine.</text>
+			<text>An arcade game or coin-op game is a coin-operated</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Most arcade games are video games, pinball machines, electro-mechanical</text>
+			<text>entertainment machine. Most arcade games are video</text>
 		</text>
 		<text name="info3" extra="true">
-			<text>games, redemption games or merchandisers. While exact dates are debated, the</text>
+			<text>games, pinball machines, electro-mechanical games,</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>golden age of arcade video games is usually defined as a period beginning</text>
+			<text>redemption games or merchandisers.</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>sometime in the late 1970s and ending sometime in the mid-1980s. Excluding a</text>
+			<text>While exact dates are debated, the golden age of arcade</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>brief resurgence in the early 1990s, the arcade industry subsequently</text>
+			<text>video games is usually defined as a period beginning sometime</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>declined in the Western hemisphere as competing home video game consoles</text>
+			<text>in the late 1970s and ending sometime in the mid-1980s.</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>increased in their graphics and game-play capability and decreased in cost.</text>
+			<text>Excluding a brief resurgence in the early 1990s, the arcade</text>
 		</text>
 		<text name="info9" extra="true">
-			<text></text>
+			<text>industry subsequently declined in the Western hemisphere as</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>This system gathers all arcade emulators in one.</text>
+			<text>competing home video game consoles increased in their graphics</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>and game-play capability and decreased in cost.</text>
 		</text>
 
 		

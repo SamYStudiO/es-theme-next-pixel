@@ -1,4 +1,7 @@
 ### Changelog
+2019/05/xx - 1.1
+- Add arcade support (3 game themes available, using same game themes as mame, fba_libretro and fba)
+
 2019/04/11 - 1.0
 - Add channelf support
 - Add oric support

@@ -62,6 +62,7 @@ To install theme drag and drop next-pixel folder into your recalbox/system/.emul
 ### Multiple game themes
 Some systems may contain several game themes, in that case system folder is duplicated with "2", "3", "x" suffix [folder]2, [folder]3, [folder]x (for example cavestory2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]x to [folder] (then you need to restart recalbox if it was running).
 Actual systems with multiple game themes :
+- arcade : 3 different game themes available
 - atarist : 1 game theme with 2 different images available
 - cavestory : 1 game theme with 2 different images available
 - lynx : 2 different game themes available

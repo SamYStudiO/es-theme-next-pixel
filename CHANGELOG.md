@@ -1,6 +1,8 @@
 ### Changelog
 2019/05/xx - 1.1
 - Add arcade support (3 game themes available, using same game themes as mame, fba_libretro and fba)
+- Add megadrive game theme alternative (may match mastersystem and gamegear as well)
+- Adjust images so every "pixel squares" are perfectly aligned across all images
 
 2019/04/11 - 1.0
 - Add channelf support

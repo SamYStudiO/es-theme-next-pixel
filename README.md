@@ -69,6 +69,7 @@ Actual systems with multiple game themes :
 - megadrive : 2 different game themes available
 - ports : 2 different game themes available (1 with 2 different images available)
 - psx : 2 different game themes available
+- segacd : 2 different game themes available
 - snes : 2 different game themes available
 
 

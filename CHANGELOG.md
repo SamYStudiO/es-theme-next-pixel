@@ -1,6 +1,6 @@
 ### Changelog
 2019/05/xx - 1.1
-- Add arcade support (3 game themes available, using same game themes as mame, fba_libretro and fba)
+- Add arcade support
 - Add megadrive game theme alternative (may match mastersystem and gamegear as well)
 - Change segacd game theme (old one still available as alternative)
 - Adjust images so every "pixel squares" are perfectly aligned across all images

@@ -1,5 +1,11 @@
 ### Changelog
 2019/05/xx - 1.1
+- Add gx4000 support
+- Add macintosh support
+- Add ps2 support
+- Add ps3 support
+- Add uzebox support
+- Add wiiu support
 - Add arcade support
 - Add megadrive game theme alternative (may match mastersystem and gamegear as well)
 - Change segacd game theme (old one still available as alternative)

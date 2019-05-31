@@ -7,6 +7,7 @@
 - Add uzebox support
 - Add wiiu support
 - Add arcade support
+- Add random support (https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer)
 - Add megadrive game theme alternative (may match mastersystem and gamegear as well)
 - Change segacd game theme (old one still available as alternative)
 - Adjust images so every "pixel squares" are perfectly aligned across all images

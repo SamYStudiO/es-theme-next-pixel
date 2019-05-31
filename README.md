@@ -50,6 +50,8 @@ Here are some screenshots using different theme settings:
 ### Installation
 To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then choose next-pixel theme from recalbox options (UI SETTINGS > THEME SET).
 
+This theme support Randomizer script, check this [link](https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer) to get more info (Warning: from installation guide "Copying theme/random directory..." is not required as this theme already includes it). 
+
 
 ### Options
 - COLORSET 	: choose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
@@ -81,6 +83,7 @@ Sometimes a game theme could match different systems and you may want to use a g
 - Theme is based on recabox-next theme so some assets may be licensed by [recalbox](https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets (so this theme **MIT license is only applicable for xml files**).
 - Camera and some game info icons are from [shareicon](https://www.shareicon.net).
 - Digital Counter 7 font used for game counter icon is from Sizenko Alexander (http://www.styleseven.com).
+- Random support is from Voljega (https://github.com/Voljega/scripts4recalbox).
 
 
 ### Download

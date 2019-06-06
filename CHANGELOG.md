@@ -1,5 +1,6 @@
 ### Changelog
 2019/06/xx - 1.1
+- Add spectravideo support
 - Add apple2gs support
 - Add gx4000 support
 - Add uzebox support

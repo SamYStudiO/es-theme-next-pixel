@@ -2,7 +2,7 @@
 This theme is designed to display a full screen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music and a custom rating icon that match that game.
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
-**Theme is compatible with 16:9 and 4:3 screens**.
+**Theme is compatible with Recalbox 6.1+ and with 16:9 and 4:3 screens**.
 
 Here are some screenshots using different theme settings:
 
@@ -99,11 +99,11 @@ Raspberry Pi may lead to memory issues when using a lot of images. 720p package 
 
 Don't forget to remove '#' char on those lines if present.
 
-If you still have issues with 720p (mainly images replaced with white rectangle) **and you already have forced recalbox to run at 720p** you may try to allocate more gpu memory. Edit the same [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) file, this time search for *gpu_mem_1024=384* and set it to *gpu_mem_1024=512*.
+If you still have issues with 720p (mainly images replaced with white rectangle) **and you already have forced recalbox to run at 720p** you may try to allocate more gpu memory. Edit the same [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) file, this time search for *gpu_mem_1024=448* and set it to *gpu_mem_1024=512*.
 
-**Warning: you'll have less memory allocated to CPU so this may lead to errors with some emulators.**
+**Warning: PSP emulator may not work anymore, so if you're not using PSP system this shouldn't be a problem.**
 
-If you don't want to change memory settings then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
+If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
 **[DOWNLOAD es-next-pixel-1080p-1.0](https://github.com/SamYStudiO/es-next-pixel/archive/1080p.zip)**
 

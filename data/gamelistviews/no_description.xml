@@ -20,6 +20,11 @@
 			<maxSize>.55 .85</maxSize>
 		</image>
 		
+		<video name="md_video">
+			<pos>.31 .48</pos>
+			<maxSize>.55 .85</maxSize>
+		</video>
+		
 	</view>
 	
 </theme>

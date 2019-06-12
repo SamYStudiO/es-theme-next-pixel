@@ -21,6 +21,11 @@
 			<maxSize>.55 .7</maxSize>
 		</image>
 		
+		<video name="md_video">
+			<pos>.32 .4</pos>
+			<maxSize>.55 .7</maxSize>
+		</video>
+		
 		<text name="md_description">
 			<pos>.32 .77</pos>
 			<origin>.5 0</origin>

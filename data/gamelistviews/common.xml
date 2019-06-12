@@ -61,7 +61,7 @@
 			<horizontalMargin>.12</horizontalMargin>
 			<selectorImagePath>./../arts/gamelist_textlist_selector_background.png</selectorImagePath>
 			<fontSize>.028</fontSize>
-			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			<zIndex>20</zIndex>
 		</textlist>
 		
@@ -83,7 +83,7 @@
 		
 		<text name="md_folder_name">
             <forceUppercase>1</forceUppercase>
-            <fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+            <fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
             <fontSize>.03</fontSize>
             <size>0 0</size>
             <pos>.37 .9</pos>
@@ -122,7 +122,7 @@
 		
 		<text name="md_rating, md_publisher, md_developer, md_genre, md_players, md_playcount, md_favorite, md_description">
 			<pos>2 2</pos>
-			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			<fontSize>.027</fontSize>
 		</text>
 		
@@ -138,20 +138,20 @@
 	<view name="basic">
 	
 		<image name="consolegame" extra="true">
-			<path>./../../$system/data/consolegame.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/consolegame.svg</path>
 			<pos>.02 .9</pos>
 			<maxSize>1 .2</maxSize>
 			<origin>0 1</origin>
 			<zIndex>50</zIndex>
 		</image>
 		<image name="consolegame" extra="true" region="eu">
-			<path>./../../$system/data/eu/consolegame.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/eu/consolegame.svg</path>
 		</image>
 		<image name="consolegame" extra="true" region="jp">
-			<path>./../../$system/data/jp/consolegame.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/jp/consolegame.svg</path>
 		</image>
 		<image name="consolegame" extra="true" region="us">
-			<path>./../../$system/data/us/consolegame.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/us/consolegame.svg</path>
 		</image>
 	
 	</view>

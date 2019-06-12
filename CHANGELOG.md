@@ -17,6 +17,7 @@
 - Update Imageviewer game theme
 - Adjust images so every "pixel squares" are perfectly aligned across all images
 - Make psp music a bit louder
+- Optimize theme using aboslute path to recalbox-next theme assets when possible
 
 2019/04/11 - 1.0
 - Add channelf support

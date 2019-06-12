@@ -9,7 +9,7 @@
 		
 		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
 			<alignment>center</alignment>
-			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			<fontSize>.021</fontSize>
 			<origin>.5 .5</origin>
 			<size>.44 .02</size>

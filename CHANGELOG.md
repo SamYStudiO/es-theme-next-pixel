@@ -15,6 +15,7 @@
 - Add video scraping support
 - Change segacd game theme (old one still available as alternative)
 - Update Imageviewer game theme
+- Fix game date info alignment from gamelist view
 - Adjust images so every "pixel squares" are perfectly aligned across all images
 - Make psp music a bit louder
 - Optimize theme using aboslute path to recalbox-next theme assets when possible

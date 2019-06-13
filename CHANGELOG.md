@@ -1,5 +1,6 @@
 ### Changelog
 2019/06/xx - 1.1
+- Add palm support
 - Add x1 support
 - Add spectravideo support
 - Add apple2gs support

@@ -24,7 +24,7 @@
 	<include subset="menu" name="3-light blue">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/reivaax.xml</include>
 	<include subset="menu" name="4-standard menus">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/default.xml</include>
 	<include subset="menu" name="5-standard - small font">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/small.xml</include>
-	<include subset="menu" name="6-clean">./recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/clean.xml</include>
+	<include subset="menu" name="6-clean">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/clean.xml</include>
 	<include subset="menu" name="7-clean light">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/cleanlight.xml</include>
 	
 	<include subset="systemview" name="1a-vertical wheel, info short (4 lines)">./systemviews/vertical_wheel_short_info.xml</include>

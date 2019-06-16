@@ -48,7 +48,7 @@ Here are some screenshots using different theme settings:
 
 
 ### Installation
-To install theme drag and drop next-pixel folder into your recalbox/system/.emulationstation/themes folder. Then choose next-pixel theme from recalbox options (UI SETTINGS > THEME SET).
+To install theme drag and drop next-pixel folder into your recalbox/themes folder. Then choose next-pixel theme from recalbox options (UI SETTINGS > THEME SET).
 
 This theme support Randomizer script, check this [link](https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer) to get more info (Warning: from installation guide "Copying theme/random directory..." is not required as this theme already includes it). 
 

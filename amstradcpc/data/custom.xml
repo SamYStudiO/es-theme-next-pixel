@@ -25,4 +25,12 @@
 		
 	</view>
 	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true">
+			<maxSize>0.105 1</maxSize>
+		</image>
+		
+	</view>
+		
 </theme>

@@ -15,7 +15,7 @@
 		<image name="logo">
 			<path>./../../$system/data/logo_right.svg</path>
 			<pos>.985 .98</pos>
-			<maxSize>.3 1</maxSize>
+			<maxSize>.4 1</maxSize>
 			<origin>1 1</origin>
 			<zIndex>5</zIndex>
 		</image> 
@@ -31,9 +31,9 @@
 		
 		<image name="controller" extra="true">
 			<path>./../../$system/data/controller.svg</path>
-			<pos>.985 .905</pos>
+			<pos>.985 .88</pos>
 			<origin>1 1</origin>
-			<maxSize>.08 1</maxSize>
+			<maxSize>.1 1</maxSize>
 			<zIndex>6</zIndex>
 		</image>
 		<image name="controller" extra="true" region="eu">

@@ -38,6 +38,13 @@
 			<text>and game-play capability and decreased in cost.</text>
 		</text>
 
+	</view>
+	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true">
+			<pos>.985 .894</pos>
+		</image>
 		
 	</view>
 	

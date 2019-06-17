@@ -36,6 +36,9 @@
 		<image name="logo" extra="true" region="eu">
 			<pos>.979 .98</pos>
 		</image>
+		<image name="controller" extra="true" region="us">
+			<pos>.985 .888</pos>
+		</image>
 		<image name="logo" extra="true" region="jp">
 			<pos>.979 .98</pos>
 		</image>

@@ -1,6 +1,7 @@
 ### Changelog
 2019/06/xx - 1.1
 - Add support for small 4:3 screens with new crt 240p package (320x240 px)
+- Add openbor support
 - Add palm support
 - Add x1 support
 - Add spectravideo support

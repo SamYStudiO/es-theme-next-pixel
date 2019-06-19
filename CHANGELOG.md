@@ -14,6 +14,7 @@
 - Add ps3 support
 - Add wiiu support
 - Add megadrive game theme alternative (may match mastersystem and gamegear as well)
+- Add gameboy game theme alternative
 - Add video scraping support
 - Change segacd game theme (old one still available as alternative)
 - Update Imageviewer game theme

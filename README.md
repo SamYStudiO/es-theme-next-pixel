@@ -66,6 +66,7 @@ Some systems may contain several game themes, in that case system folder is dupl
 Actual systems with multiple game themes :
 - atarist : 1 game theme with 2 different images available
 - cavestory : 1 game theme with 2 different images available
+- gameboy : 2 different game themes available
 - lynx : 2 different game themes available
 - megadrive : 2 different game themes available
 - ports : 2 different game themes available (1 with 2 different images available)

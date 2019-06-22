@@ -1,5 +1,5 @@
 ### Changelog
-2019/06/xx - 1.1
+2019/06/22 - 1.1
 - Add support for small 4:3 screens with new crt 240p package (320x240 px)
 - Add random support (https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer)
 - Add arcade support

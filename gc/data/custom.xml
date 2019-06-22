@@ -8,7 +8,7 @@
 			<text>Manufacturer : Nintendo</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 2001 (JP, USA) 2002 (EUR)</text>
+			<text>Year of Release : 2001 (JP, US) 2002 (EU)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 21.74 million</text>
@@ -40,7 +40,7 @@
 	<view name="basic, detailed">
 	
 		<image name="controller" extra="true">
-			<maxSize>.105 1</maxSize>
+			<pos>.985 .895</pos>
 		</image>
 		
 	</view>

@@ -45,7 +45,7 @@
 				<size>.16 .01</size>
 				<color>ffffff</color>
 				<fontSize>.021</fontSize>
-				<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+				<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			</text>
 
 		</view>

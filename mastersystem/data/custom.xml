@@ -8,7 +8,7 @@
 			<text>Manufacturer : Sega</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1985 (JP) 1986 (USA) 1987 (EUR)</text>
+			<text>Year of Release : 1985 (JP) 1986 (US) 1987 (EU)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 13 million</text>
@@ -39,11 +39,11 @@
 	
 	<view name="basic, detailed">
 	
-		<image name="controller" extra="true" region="eu">
-			<maxSize>.086 1</maxSize>
+		<image name="controller" extra="true">
+			<pos>.976 .885</pos>
 		</image>
 		<image name="controller" extra="true" region="jp">
-			<pos>.952 .905</pos>
+			<pos>.94 .885</pos>
 		</image>
 		
 	</view>

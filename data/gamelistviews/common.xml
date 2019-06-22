@@ -15,7 +15,7 @@
 		<image name="logo">
 			<path>./../../$system/data/logo_right.svg</path>
 			<pos>.985 .98</pos>
-			<maxSize>.3 1</maxSize>
+			<maxSize>.4 1</maxSize>
 			<origin>1 1</origin>
 			<zIndex>5</zIndex>
 		</image> 
@@ -31,9 +31,9 @@
 		
 		<image name="controller" extra="true">
 			<path>./../../$system/data/controller.svg</path>
-			<pos>.985 .905</pos>
+			<pos>.985 .88</pos>
 			<origin>1 1</origin>
-			<maxSize>.08 1</maxSize>
+			<maxSize>.1 1</maxSize>
 			<zIndex>6</zIndex>
 		</image>
 		<image name="controller" extra="true" region="eu">
@@ -61,7 +61,7 @@
 			<horizontalMargin>.12</horizontalMargin>
 			<selectorImagePath>./../arts/gamelist_textlist_selector_background.png</selectorImagePath>
 			<fontSize>.028</fontSize>
-			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			<zIndex>20</zIndex>
 		</textlist>
 		
@@ -83,7 +83,7 @@
 		
 		<text name="md_folder_name">
             <forceUppercase>1</forceUppercase>
-            <fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+            <fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
             <fontSize>.03</fontSize>
             <size>0 0</size>
             <pos>.37 .9</pos>
@@ -106,6 +106,11 @@
 			<zIndex>70</zIndex>
 		</image>
 		
+		<video name="md_video">
+			<origin>.5 .5</origin>
+			<zIndex>71</zIndex>
+		</video>
+		
 		<rating name="md_rating">
 			<filledPath>./../../$system/icon_filled.svg</filledPath>
 			<unfilledPath>./../../$system/icon_empty.svg</unfilledPath>
@@ -117,14 +122,13 @@
 		
 		<text name="md_rating, md_publisher, md_developer, md_genre, md_players, md_playcount, md_favorite, md_description">
 			<pos>2 2</pos>
-			<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			<fontSize>.027</fontSize>
 		</text>
 		
 		<datetime name="md_releasedate, md_lastplayed">
 			<pos>2 2</pos>
-			<!-- since we can't right aligned we need a font where all chars have same width, just use default font for now as it matches that requirement -->
-			<!--<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>-->
+			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			<fontSize>.027</fontSize>
 		</datetime>
 		
@@ -133,20 +137,20 @@
 	<view name="basic">
 	
 		<image name="consolegame" extra="true">
-			<path>./../../$system/data/consolegame.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/consolegame.svg</path>
 			<pos>.02 .9</pos>
 			<maxSize>1 .2</maxSize>
 			<origin>0 1</origin>
 			<zIndex>50</zIndex>
 		</image>
 		<image name="consolegame" extra="true" region="eu">
-			<path>./../../$system/data/eu/consolegame.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/eu/consolegame.svg</path>
 		</image>
 		<image name="consolegame" extra="true" region="jp">
-			<path>./../../$system/data/jp/consolegame.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/jp/consolegame.svg</path>
 		</image>
 		<image name="consolegame" extra="true" region="us">
-			<path>./../../$system/data/us/consolegame.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/us/consolegame.svg</path>
 		</image>
 	
 	</view>

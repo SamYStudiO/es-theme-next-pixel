@@ -8,7 +8,7 @@
 			<text>Manufacturer : NEC</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1987 (JP) 1989 (USA, EUR)</text>
+			<text>Year of Release : 1987 (JP) 1989 (US, EU)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 10 million</text>
@@ -33,11 +33,16 @@
 	
 	<view name="basic, detailed">
 	
-		<image name="logo" extra="true" region="eu">
-			<pos>.972 .98</pos>
+		<image name="controller" extra="true" region="eu">
+			<pos>.985 .905</pos>
+			<maxSize>.09 1</maxSize>
 		</image>
-		<image name="logo" extra="true" region="jp">
-			<pos>.972 .98</pos>
+		<image name="controller" extra="true" region="us">
+			<pos>.985 .888</pos>
+		</image>
+		<image name="controller" extra="true" region="jp">
+			<pos>.985 .9</pos>
+			<maxSize>.09 1</maxSize>
 		</image>
 		
 	</view>

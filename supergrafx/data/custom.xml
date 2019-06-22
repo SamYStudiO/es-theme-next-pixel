@@ -8,7 +8,7 @@
 			<text>Manufacturer : NEC</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1989 (JP) 1990 (EUR)</text>
+			<text>Year of Release : 1989 (JP) 1990 (EU)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 7,5 million</text>
@@ -31,6 +31,14 @@
 		<text name="info9" extra="true">
 			<text>Media : HU-Card, SHU-Card, CD-ROM, Super-CD-ROM</text>
 		</text>
+		
+	</view>
+	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true">
+			<maxSize>.108 1</maxSize>
+		</image>
 		
 	</view>
 	

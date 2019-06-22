@@ -8,7 +8,7 @@
 			<text>Manufacturer : SNK Corporation</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1994 (JP, EUR) 1996 (USA)</text>
+			<text>Year of Release : 1994 (JP, EU) 1996 (US)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 570000</text>
@@ -31,6 +31,14 @@
 		<text name="info9" extra="true">
 			<text>Display : 304x224 resolution, 4096 colors out of 65536</text>
 		</text>
+		
+	</view>
+	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true">
+			<pos>.985 .898</pos>
+		</image>
 		
 	</view>
 	

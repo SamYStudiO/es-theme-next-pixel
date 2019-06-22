@@ -11,21 +11,21 @@
 	<include subset="colorset" name="5a-dark system, light gamelist, with game accent">./colorsets/dark_system_light_gamelist_game_accent.xml</include>
 	<include subset="colorset" name="5b-dark system, light gamelist">./colorsets/dark_system_light_gamelist.xml</include>
 	
-	<include subset="iconset" name="1-standard icons">./iconsets/default.xml</include>
-	<include subset="iconset" name="2-SNES">./iconsets/snes.xml</include>
-	<include subset="iconset" name="3-SNES ALT">./iconsets/snesalt.xml</include>
-	<include subset="iconset" name="4-XBox">./iconsets/xbox.xml</include>
-	<include subset="iconset" name="5-PSX">./iconsets/psx.xml</include>
-	<include subset="iconset" name="6-Xbox One">./iconsets/xboxone.xml</include>
-	<include subset="iconset" name="7-Arcade">./iconsets/arcade.xml</include>
+	<include subset="iconset" name="1-standard icons">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/default.xml</include>
+	<include subset="iconset" name="2-SNES">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/snes.xml</include>
+	<include subset="iconset" name="3-SNES ALT">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/snesalt.xml</include>
+	<include subset="iconset" name="4-XBox">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/xbox.xml</include>
+	<include subset="iconset" name="5-PSX">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/psx.xml</include>
+	<include subset="iconset" name="6-Xbox One">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/xboxone.xml</include>
+	<include subset="iconset" name="7-Arcade">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/arcade.xml</include>
 	
 	<include subset="menu" name="1-next pixel">./menus/next_pixel.xml</include>
-	<include subset="menu" name="2-light blue icons">./menus/reivaax_icons.xml</include>
-	<include subset="menu" name="3-light blue">./menus/reivaax.xml</include>
-	<include subset="menu" name="4-standard menus">./menus/default.xml</include>
-	<include subset="menu" name="5-standard - small font">./menus/small.xml</include>
-	<include subset="menu" name="6-clean">./menus/clean.xml</include>
-	<include subset="menu" name="7-clean light">./menus/cleanlight.xml</include>
+	<include subset="menu" name="2-light blue icons">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/reivaax_icons.xml</include>
+	<include subset="menu" name="3-light blue">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/reivaax.xml</include>
+	<include subset="menu" name="4-standard menus">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/default.xml</include>
+	<include subset="menu" name="5-standard - small font">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/small.xml</include>
+	<include subset="menu" name="6-clean">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/clean.xml</include>
+	<include subset="menu" name="7-clean light">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/cleanlight.xml</include>
 	
 	<include subset="systemview" name="1a-vertical wheel, info short (4 lines)">./systemviews/vertical_wheel_short_info.xml</include>
 	<include subset="systemview" name="1b-vertical wheel, info (all lines)">./systemviews/vertical_wheel_all_info.xml</include>

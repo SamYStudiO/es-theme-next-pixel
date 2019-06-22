@@ -8,7 +8,7 @@
 			<text>Manufacturer : Nintendo</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 2004 (USA, JP) 2005 (EUR)</text>
+			<text>Year of Release : 2004 (US, JP) 2005 (EU)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 153.99 million</text>
@@ -34,6 +34,15 @@
 		<text name="info10" extra="true">
 			<text>Sound : Stereo speakers w/virtual surround, headphones</text>
 		</text>
+		
+	</view>
+	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true">
+			<pos>.985 .895</pos>
+			<maxSize>.09 1</maxSize>
+		</image>
 		
 	</view>
 	

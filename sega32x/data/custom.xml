@@ -8,7 +8,7 @@
 			<text>Manufacturer : Sega</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1994 (USA, JP) 1995 (EUR)</text>
+			<text>Year of Release : 1994 (US, JP) 1995 (EU)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 665 000</text>
@@ -31,6 +31,17 @@
 		<text name="info9" extra="true">
 			<text>Cart Size : 2MB - 4MB</text>
 		</text>		
+		
+	</view>
+	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true" region="us">
+			<pos>.977 .883</pos>
+		</image>
+		<image name="controller" extra="true" region="jp">
+			<pos>.93 .885</pos>
+		</image>
 		
 	</view>
 	

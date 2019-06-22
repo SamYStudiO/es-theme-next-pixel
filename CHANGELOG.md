@@ -1,4 +1,32 @@
 ### Changelog
+2019/06/xx - 1.1
+- Add support for small 4:3 screens with new crt 240p package (320x240 px)
+- Add random support (https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer)
+- Add arcade support
+- Add gx4000 support
+- Add apple2gs support
+- Add spectravideo support
+- Add palm support
+- Add uzebox support
+- Add x1 support
+- Add macintosh support
+- Add tic80 support
+- Add openbor support
+- Add ps2 support
+- Add ps3 support
+- Add wiiu support
+- Add megadrive game theme alternative
+- Add gameboy game theme alternative
+- Change segacd game theme (old one still available as alternative)
+- Update Imageviewer game theme
+- Update system info release dates
+- Add video scraping support
+- Limit logo width to get better consistency with all logos size
+- Fix game date info alignment from gamelist view
+- Adjust images so every "pixel squares" are perfectly aligned across all images
+- Make psp music a bit louder
+- Optimize theme using aboslute path to recalbox-next theme assets when possible
+
 2019/04/11 - 1.0
 - Add channelf support
 - Add oric support

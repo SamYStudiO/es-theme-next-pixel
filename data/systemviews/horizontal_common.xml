@@ -27,7 +27,7 @@
 			<text name="systemInfo">
 				<pos>.5 .626</pos>
 				<fontSize>.021</fontSize>
-				<fontPath>./../arts/Exo2-SemiBoldCondensed.otf</fontPath>
+				<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			</text>
 
 		</view>

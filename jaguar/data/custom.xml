@@ -8,7 +8,7 @@
 			<text>Manufacturer : Atari Corporation</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1993 (USA) 1994 (EUR, JP)</text>
+			<text>Year of Release : 1993 (US) 1994 (EU, JP)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : less than 250000</text>
@@ -37,6 +37,14 @@
 		<text name="info11" extra="true">
 			<text>Display : Max resolution 800×576 at 24 bit "true" color</text>
 		</text>
+		
+	</view>
+	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true">
+			<pos>.98 .885</pos>
+		</image>
 		
 	</view>
 	

@@ -8,7 +8,7 @@
 			<text>Manufacturer : Sony Computer Entertainment</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1994 (JP) 1995 (USA, EUR)</text>
+			<text>Year of Release : 1994 (JP) 1995 (US, EU)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 102.48 million</text>
@@ -34,6 +34,14 @@
 		<text name="info10" extra="true">
 			<text>GPU : GFX processor unit</text>
 		</text>
+		
+	</view>
+	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true">
+			<pos>.985 .9</pos>
+		</image>
 		
 	</view>
 	

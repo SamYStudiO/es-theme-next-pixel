@@ -8,7 +8,7 @@
 			<text>Manufacturer : Sega</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1990 (JP) 1991 (USA, EUR)</text>
+			<text>Year of Release : 1990 (JP) 1991 (US, EU)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 11 million</text>
@@ -40,7 +40,7 @@
 	<view name="basic, detailed">
 	
 		<image name="controller" extra="true">
-			<maxSize>.09 1</maxSize>
+			<pos>.98 .885</pos>
 		</image>
 		
 	</view>

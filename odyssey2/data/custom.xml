@@ -8,7 +8,7 @@
 			<text>Manufacturer : Magnavox/Philips</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1978 (USA, EUR) 1982 (JP)</text>
+			<text>Year of Release : 1978 (US, EU) 1982 (JP)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 2 million</text>
@@ -37,7 +37,14 @@
 	<view name="basic, detailed">
 	
 		<image name="controller" extra="true">
+			<pos>.985 .895</pos>
 			<maxSize>.06 1</maxSize>
+		</image>
+		<image name="controller" extra="true" region="us">
+			<pos>.947 .89</pos>
+		</image>
+		<image name="controller" extra="true" region="jp">
+			<pos>.947 .89</pos>
 		</image>
 		
 	</view>

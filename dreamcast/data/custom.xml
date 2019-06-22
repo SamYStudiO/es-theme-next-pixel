@@ -8,7 +8,7 @@
 			<text>Manufacturer : Sega</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1998 (JP) 1999 (USA, EUR)</text>
+			<text>Year of Release : 1998 (JP) 1999 (US, EU)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 9.13 million</text>
@@ -34,6 +34,15 @@
 		<text name="info10" extra="true">
 			<text>VMU size : 128kB</text>
 		</text>
+		
+	</view>
+	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true">
+			<pos>.955 .9</pos>
+			<maxSize>.09 1</maxSize>
+		</image>
 		
 	</view>
 	

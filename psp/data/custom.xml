@@ -8,7 +8,7 @@
 			<text>Manufacturer : Sony Computer Entertainment</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 2004 (JP) 2005 (USA, EUR)</text>
+			<text>Year of Release : 2004 (JP) 2005 (US, EU)</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>Units sold : 80.82 million</text>
@@ -40,7 +40,7 @@
 	<view name="basic, detailed">
 	
 		<image name="controller" extra="true">
-			<maxSize>.098 .1</maxSize>
+			<maxSize>.15 .1</maxSize>
 		</image>
 		
 	</view>

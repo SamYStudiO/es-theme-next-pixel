@@ -3,15 +3,6 @@
 	<formatVersion>4</formatVersion>	
 	
 	<view name="detailed">
-	
-		<image name="rating_logo" extra="true">
-			<origin>1 .5</origin>
-			<!--<pos>.738 .29</pos>-->
-			<pos>2 2</pos>
-			<size>.035 .04</size>
-			<path>./../arts/game_info_rating.svg</path>
-			<zIndex>50</zIndex>
-		</image>
 		
 		<rating name="md_rating">
 			<origin>1 .5</origin>
@@ -28,7 +19,9 @@
 		</image>
 		
 		<datetime name="md_releasedate">
-			<pos>.637 .33</pos>
+			<pos>.585 .345</pos>
+			<size>.11 .01</size>
+			<alignment>right</alignment>
 		</datetime>
 		
 		<image name="publisher_logo" extra="true">
@@ -99,6 +92,7 @@
 		<datetime name="md_lastplayed">
 			<!--<pos>.637 .63</pos>-->
 			<pos>2 2</pos>
+			<alignment>right</alignment>
 		</datetime>
 		
 		<image name="playcount_logo" extra="true">

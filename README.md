@@ -113,7 +113,7 @@ If you don't want to change memory settings or you're using PSP system then you 
 **[DOWNLOAD es-next-pixel-480p-1.1](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.1/es-theme-next-pixel-480p.zip)**
 
 #### 4:3 screens
-2 packages are available with 1024x768 images and 320x240 images, if you're using a screen with higher resoltion than 320x240 pick **crt package**, if you're using 320x240 or lower screen pick **crt-small package**. **If you're using 1024x768 package with a screen with higher resolution than 1024x768, I highly recommend to force recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+2 packages are available with 1024x768 images and 320x240 images, if you're using a screen with higher resolution than 320x240 pick **crt package**, if you're using 320x240 or lower screen pick **crt-small package**. **If you're using 1024x768 package with a screen with higher resolution than 1024x768, I highly recommend to force recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=2
 - hdmi_mode=16
 

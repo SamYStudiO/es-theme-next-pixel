@@ -1,4 +1,8 @@
 ### Changelog
+2019/xx/xx - 1.2
+- Fix missing random theme console and remove useless game info from gamelist view
+- Make all musics louder too match default recalbox musics loudness
+
 2019/06/22 - 1.1
 - Add support for small 4:3 screens with new crt 240p package (320x240 px)
 - Add random support (https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer)

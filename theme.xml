@@ -8,7 +8,7 @@
 	
 		<!-- default music when system music is missing -->
 		<sound name="directory">
-			<path>./music</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/music</path>
 		</sound>
 		
 		<!-- system music -->

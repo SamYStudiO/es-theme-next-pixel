@@ -1,7 +1,7 @@
 ### Changelog
 2019/xx/xx - 1.2
 - Fix missing random theme console and remove useless game info from gamelist view
-- Make all musics louder too match default recalbox musics loudness-
+- Make all musics louder too match default recalbox musics loudness
 - Add a decent theme for default system (when theme is missing)
 
 2019/06/22 - 1.1

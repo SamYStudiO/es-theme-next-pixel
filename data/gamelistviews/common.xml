@@ -13,37 +13,37 @@
 		</image>
 		
 		<image name="logo">
-			<path>./../../$system/data/logo_right.svg</path>
+			<path>./../../data/systems/$system/logo_right.svg</path>
 			<pos>.985 .98</pos>
 			<maxSize>.4 1</maxSize>
 			<origin>1 1</origin>
 			<zIndex>5</zIndex>
 		</image> 
 		<image name="logo" region="eu">
-			<path>./../../$system/data/eu/logo_right.svg</path>
+			<path>./../../data/systems/$system/eu/logo_right.svg</path>
 		</image> 
 		<image name="logo" region="us">
-			<path>./../../$system/data/us/logo_right.svg</path>
+			<path>./../../data/systems/$system/us/logo_right.svg</path>
 		</image> 
 		<image name="logo" region="jp">
-			<path>./../../$system/data/jp/logo_right.svg</path>
+			<path>./../../data/systems/$system/jp/logo_right.svg</path>
 		</image>
 		
 		<image name="controller" extra="true">
-			<path>./../../$system/data/controller.svg</path>
+			<path>./../../data/systems/$system/controller.svg</path>
 			<pos>.985 .88</pos>
 			<origin>1 1</origin>
 			<maxSize>.1 1</maxSize>
 			<zIndex>6</zIndex>
 		</image>
 		<image name="controller" extra="true" region="eu">
-			<path>./../../$system/data/eu/controller.svg</path>
+			<path>./../../data/systems/$system/eu/controller.svg</path>
 		</image>
 		<image name="controller" extra="true" region="jp">
-			<path>./../../$system/data/jp/controller.svg</path>
+			<path>./../../data/systems/$system/jp/controller.svg</path>
 		</image>
 		<image name="controller" extra="true" region="us">
-			<path>./../../$system/data/us/controller.svg</path>
+			<path>./../../data/systems/$system/us/controller.svg</path>
 		</image>
 		
 		<image name="gamelist_background" extra="true">

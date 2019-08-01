@@ -2,6 +2,7 @@
 2019/xx/xx - 1.2
 - Fix missing random theme console and remove useless game info from gamelist view
 - Make all musics louder too match default recalbox musics loudness
+- Move [system]/data folder to data/systems/[system] to make easier moving a game theme to another system
 - Add a decent theme for default system (when theme is missing)
 - Minor update to nes system image
 

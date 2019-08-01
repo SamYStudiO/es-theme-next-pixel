@@ -61,19 +61,19 @@
 		</image>
 		
 		<image name="logo">
-			<path>./../../$system/data/logo_right.svg</path>
+			<path>./../../data/$system/logo_right.svg</path>
 		</image> 
 		
 		<image name="logo" region="eu">
-			<path>./../../$system/data/eu/logo_right.svg</path>
+			<path>./../../data/$system/eu/logo_right.svg</path>
 		</image> 
 		
 		<image name="logo" region="us">
-			<path>./../../$system/data/us/logo_right.svg</path>
+			<path>./../../data/$system/us/logo_right.svg</path>
 		</image> 
 		
 		<image name="logo" region="jp">
-			<path>./../../$system/data/jp/logo_right.svg</path>
+			<path>./../../data/$system/jp/logo_right.svg</path>
 		</image>
 		
 		<image name="console" extra="true">

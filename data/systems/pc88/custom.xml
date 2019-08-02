@@ -24,5 +24,14 @@
 		</text>
 		
 	</view>
+	
+	<view name="basic, detailed">
+	
+		<image name="controller" extra="true">
+			<pos>.953 .885</pos>
+			<maxSize>.09 1</maxSize>
+		</image>
+		
+	</view>
 
 </theme>

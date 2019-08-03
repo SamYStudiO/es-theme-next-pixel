@@ -1,10 +1,11 @@
 ### Changelog
 2019/xx/xx - 1.2
 - Add pc88 support
+- Add a decent theme for default system (when theme is missing)
 - Fix missing random theme console and remove useless game info from gamelist view
+- Fix gb2 logo border
 - Make all musics louder too match default recalbox musics loudness
 - Move [system]/data folder to data/systems/[system] to make easier moving a game theme to another system
-- Add a decent theme for default system (when theme is missing)
 - Minor update to nes system image
 
 2019/06/22 - 1.1

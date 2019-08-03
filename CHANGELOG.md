@@ -3,6 +3,7 @@
 - Add pc88 support
 - Add a decent theme for default system (when theme is missing)
 - Add ps3 game theme alternative
+- Invert fba_libretro/mame game themes to match recalbox next theme console logos
 - Fix missing random theme console and remove useless game info from gamelist view
 - Fix gb2 logo border
 - Make all musics louder too match default recalbox musics loudness

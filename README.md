@@ -70,6 +70,7 @@ Actual systems with multiple game themes :
 - lynx : 2 different game themes available
 - megadrive : 2 different game themes available
 - ports : 2 different game themes available (1 with 2 different images available)
+- ps3 : 2 different game themes available
 - psx : 2 different game themes available
 - segacd : 2 different game themes available
 - snes : 2 different game themes available
@@ -106,11 +107,11 @@ If you still have issues with 720p (mainly images replaced with white rectangle)
 
 If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
-**[DOWNLOAD es-next-pixel-1080p-1.1](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.1/es-theme-next-pixel-1080p.zip)**
+**[DOWNLOAD es-next-pixel-1080p-1.2](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-1080p.zip)**
 
-**[DOWNLOAD es-next-pixel-720p-1.1](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.1/es-theme-next-pixel-720p.zip)**
+**[DOWNLOAD es-next-pixel-720p-1.2(https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-720p.zip)**
 
-**[DOWNLOAD es-next-pixel-480p-1.1](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.1/es-theme-next-pixel-480p.zip)**
+**[DOWNLOAD es-next-pixel-480p-1.2](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-480p.zip)**
 
 #### 4:3 screens
 2 packages are available with 1024x768 images and 320x240 images, if you're using a screen with higher resolution than 320x240 pick **crt package**, if you're using 320x240 or lower screen pick **crt-small package**. **If you're using 1024x768 package with a screen with higher resolution than 1024x768, I highly recommend to force recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
@@ -119,9 +120,9 @@ If you don't want to change memory settings or you're using PSP system then you 
 
 Don't forget to remove '#' char on those lines if present.
 
-**[DOWNLOAD es-next-pixel-crt-1.1](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.1/es-theme-next-pixel-crt.zip)**
+**[DOWNLOAD es-next-pixel-crt-1.2](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-crt.zip)**
 
-**[DOWNLOAD es-next-pixel-crt-small-1.1](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.1/es-theme-next-pixel-crt-small.zip)**
+**[DOWNLOAD es-next-pixel-crt-small-1.2](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-crt-small.zip)**
 
 
 ### Contribute / Report issues

@@ -129,7 +129,7 @@ Project is hosted on [Github](https://github.com/SamYStudiO/es-theme-next-pixel)
  
 
 ### Final words
-**I'm all ears to any suggestions or to add alternative game image/music as i've done it with with system like PSX, Cavestory and others.**
+**I'm all ears to any suggestions or to add alternative game image/music, don't be shy.**
 
 
 ### License

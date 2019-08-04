@@ -9,7 +9,7 @@
 - Fix gb2 logo border
 - Make all musics louder too match default recalbox musics loudness
 - Improve gx4000 logo contrast
-- Move [system]/data folder to data/systems/[system] to make easier moving a game theme to another system
+- Add a decent theme for default system (when theme is missing)
 - Minor update to nes system image
 
 2019/06/22 - 1.1

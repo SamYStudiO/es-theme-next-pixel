@@ -78,7 +78,7 @@ Actual systems with multiple game themes :
 
 
 ### Move a game theme to another system
-Sometimes a game theme could match different systems and you may want to use a game theme with another system. To move a game theme to another system copy all files from any system folder and past them into another system folder where you want to apply that game theme.
+Sometimes a game theme could match different systems and you may want to use a game theme with another system. To properly move a game theme to another system copy all files from any system folder **BUT data folder** and past them into another system folder where you want to apply that game theme.
 
 
 ### Copyright

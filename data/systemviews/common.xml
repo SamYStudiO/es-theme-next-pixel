@@ -40,16 +40,16 @@
 		</text>
 		
 		<image name="logo">
-			<path>./../../data/systems/$system/logo.svg</path>
+			<path>./../../$system/data/logo.svg</path>
 		</image> 
 		<image name="logo" region="eu">
-			<path>./../../data/systems/$system/eu/logo.svg</path>
+			<path>./../../$system/data/eu/logo.svg</path>
 		</image> 
 		<image name="logo" region="us">
-			<path>./../../data/systems/$system/us/logo.svg</path>
+			<path>./../../$system/data/us/logo.svg</path>
 		</image> 
 		<image name="logo" region="jp">
-			<path>./../../data/systems/$system/jp/logo.svg</path>
+			<path>./../../$system/data/jp/logo.svg</path>
 		</image>
 		
 		<image name="console" extra="true">

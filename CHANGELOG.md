@@ -10,6 +10,7 @@
 - Make all musics louder too match default recalbox musics loudness
 - Improve gx4000 logo contrast
 - Minor update to nes system image
+- Smooth some noisy images
 
 2019/06/22 - 1.1
 - Add support for small 4:3 screens with new crt 240p package (320x240 px)

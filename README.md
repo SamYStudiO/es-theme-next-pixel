@@ -110,7 +110,7 @@ If you don't want to change memory settings or you're using PSP system then you 
 
 **[DOWNLOAD es-next-pixel-1080p-1.2](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-1080p.zip)**
 
-**[DOWNLOAD es-next-pixel-720p-1.2(https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-720p.zip)**
+**[DOWNLOAD es-next-pixel-720p-1.2](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-720p.zip)**
 
 **[DOWNLOAD es-next-pixel-480p-1.2](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-480p.zip)**
 

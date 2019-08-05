@@ -4,6 +4,7 @@
 - Add a decent theme for default system (when theme is missing)
 - Add ps3 game theme alternative
 - Add nes game theme alternative
+- Add 2 n64 game themes alternative
 - Change nds game theme (old one still available as alternative but with a different image)
 - Invert fba_libretro/mame game themes to match recalbox next theme console logos
 - Fix missing random theme console and remove useless game info from gamelist view

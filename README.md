@@ -70,6 +70,7 @@ Actual systems with multiple game themes :
 - lynx : 2 different game themes available
 - megadrive : 2 different game themes available
 - ports : 2 different game themes available (1 with 2 different images available)
+- n64 : 3 different game themes available
 - nds : 2 different game themes available
 - nes : 2 different game themes available
 - ps3 : 2 different game themes available

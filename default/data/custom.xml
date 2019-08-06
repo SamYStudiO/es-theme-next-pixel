@@ -4,12 +4,9 @@
 
 	<view name="system">
 	
-		<text name="info1" extra="true">
-			<text>This system is not listed in </text>
-		</text>
-		<text name="info2" extra="true">
-			<text>Recalbox-next theme</text>
-		</text>
+		<image name="system_info_background" extra="true">
+			<pos>2 2</pos>
+		</image>
 		
 	</view>
 	

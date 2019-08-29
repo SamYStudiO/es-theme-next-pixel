@@ -2,6 +2,7 @@
 2019/xx/xx - 1.2
 - Add pc88 support
 - Add multivision support
+- Add solarus support
 - Add a decent theme for default system (when theme is missing)
 - Add ps3 game theme alternative
 - Add nes game theme alternative

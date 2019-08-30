@@ -74,6 +74,7 @@ Actual systems with multiple game themes :
 - nds : 2 different game themes available
 - nes : 2 different game themes available
 - ps3 : 2 different game themes available
+- psp : 2 different game themes available
 - psx : 2 different game themes available
 - segacd : 2 different game themes available
 - snes : 3 different game themes available

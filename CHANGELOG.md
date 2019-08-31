@@ -12,6 +12,7 @@
 - Add gb game theme alternative
 - Add wiiu custom rating icon
 - Change nds game theme (old one still available as alternative but with a different image)
+- Change satellaview game theme (old one still available as alternative of wii system)
 - Invert fba_libretro/mame game themes to match recalbox next theme console logos
 - Fix missing random theme console and remove useless game info from gamelist view
 - Fix gb2 logo border

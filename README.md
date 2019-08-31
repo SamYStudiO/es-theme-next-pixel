@@ -78,6 +78,7 @@ Actual systems with multiple game themes :
 - psx : 2 different game themes available
 - segacd : 2 different game themes available
 - snes : 3 different game themes available
+- wii : 2 different game themes available
 
 
 ### Move a game theme to another system

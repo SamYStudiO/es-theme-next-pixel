@@ -10,6 +10,7 @@
 - Add snes game theme alternative
 - Add psp game theme alternative
 - Add gb game theme alternative
+- Add wii game theme alternative (using old game theme from snes/satellaview)
 - Add wiiu custom rating icon
 - Change nds game theme (old one still available as alternative but with a different image)
 - Change satellaview game theme (old one still available as alternative of wii system)

@@ -6,7 +6,7 @@
 - Add a decent theme for default system (when theme is missing)
 - Add ps3 game theme alternative
 - Add nes game theme alternative
-- Add 2 n64 game themes alternative
+- Add 3 n64 game themes alternative
 - Add snes game theme alternative
 - Add psp game theme alternative
 - Add gb game theme alternative

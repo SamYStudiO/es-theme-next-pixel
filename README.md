@@ -62,7 +62,7 @@ This theme support Randomizer script, check this [link](https://github.com/Volje
 
 
 ### Multiple game themes
-Some systems may contain several game themes, in that case system folder is duplicated with "2", "3", "x" suffix [folder]2, [folder]3, [folder]x (for example cavestory2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]x to [folder] (then you need to restart recalbox if it was running).
+Some systems may contain several game themes, in that case system folder is duplicated with "_2", "_3", "_x" suffix [folder]_2, [folder]_3, [folder]_x (for example cavestory_2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]_x to [folder] (then you need to restart recalbox if it was running).
 Actual systems with multiple game themes :
 - atarist : 1 game theme with 2 different images available
 - cavestory : 1 game theme with 2 different images available

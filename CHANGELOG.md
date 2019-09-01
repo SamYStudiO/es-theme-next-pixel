@@ -15,6 +15,7 @@
 - Change nds game theme (old one still available as alternative but with a different image)
 - Change satellaview game theme (old one still available as alternative of wii system)
 - Change snes default game theme (old one still available as alternative of wii system)
+- Change alternative game theme folders naming convention to avoid confusion with systems containing number suffix from their name
 - Invert fba_libretro/mame game themes to match recalbox next theme console logos
 - Fix missing random theme console and remove useless game info from gamelist view
 - Fix gb2 logo border

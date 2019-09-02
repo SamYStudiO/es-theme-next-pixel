@@ -62,21 +62,23 @@ This theme support Randomizer script, check this [link](https://github.com/Volje
 
 
 ### Multiple game themes
-Some systems may contain several game themes, in that case system folder is duplicated with "2", "3", "x" suffix [folder]2, [folder]3, [folder]x (for example cavestory2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]x to [folder] (then you need to restart recalbox if it was running).
+Some systems may contain several game themes, in that case system folder is duplicated with "_2", "_3", "_x" suffix [folder]_2, [folder]_3, [folder]_x (for example cavestory_2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]_x to [folder] (then you need to restart recalbox if it was running).
 Actual systems with multiple game themes :
 - atarist : 1 game theme with 2 different images available
 - cavestory : 1 game theme with 2 different images available
-- gameboy : 2 different game themes available
+- gameboy : 3 different game themes available
 - lynx : 2 different game themes available
 - megadrive : 2 different game themes available
 - ports : 2 different game themes available (1 with 2 different images available)
-- n64 : 3 different game themes available
+- n64 : 4 different game themes available
 - nds : 2 different game themes available
 - nes : 2 different game themes available
 - ps3 : 2 different game themes available
+- psp : 2 different game themes available
 - psx : 2 different game themes available
 - segacd : 2 different game themes available
 - snes : 3 different game themes available
+- wii : 2 different game themes available
 
 
 ### Move a game theme to another system

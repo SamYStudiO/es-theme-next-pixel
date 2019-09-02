@@ -1,12 +1,21 @@
 ### Changelog
 2019/xx/xx - 1.2
 - Add pc88 support
+- Add multivision support
+- Add solarus support
 - Add a decent theme for default system (when theme is missing)
 - Add ps3 game theme alternative
 - Add nes game theme alternative
-- Add 2 n64 game themes alternative
+- Add 3 n64 game themes alternative
 - Add snes game theme alternative
+- Add psp game theme alternative
+- Add gb game theme alternative
+- Add wii game theme alternative (using old game theme from snes/satellaview)
+- Add wiiu custom rating icon
 - Change nds game theme (old one still available as alternative but with a different image)
+- Change satellaview game theme (old one still available as alternative of wii system)
+- Change snes default game theme (old one still available as alternative of wii system)
+- Change alternative game theme folders naming convention to avoid confusion with systems containing number suffix from their name
 - Invert fba_libretro/mame game themes to match recalbox next theme console logos
 - Fix missing random theme console and remove useless game info from gamelist view
 - Fix gb2 logo border

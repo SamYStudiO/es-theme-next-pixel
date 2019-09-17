@@ -8,13 +8,13 @@
 			<text>Manufacturer : Various</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1985</text>
+			<text>Year of Release : 1988</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>OS : MSX BASIC V3.0 (16 kB)</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>CPU : Zilog Z80 compatible @ 3.58 MHz</text>
+			<text>CPU : Zilog Z80 compatible @ 3.58 MHz up to 5.37 MHz</text>
 		</text>
 		<text name="info5" extra="true">
 			<text>RAM : 64KB / VRAM 128KB</text>

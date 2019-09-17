@@ -3,6 +3,8 @@
 - Add pc88 support
 - Add multivision support
 - Add solarus support
+- Add msxturbor support
+- Add msx2+ support (using old msx game theme, this system is not supported by recalbox you need to add it manually from es_systems.cfg file)
 - Add a decent theme for default system (when theme is missing)
 - Add ps3 game theme alternative
 - Add nes game theme alternative
@@ -12,6 +14,7 @@
 - Add gb game theme alternative
 - Add wii game theme alternative (using old game theme from snes/satellaview)
 - Add several custom rating icons
+- Remove msx support (was use as a global system for msx1, mx2 and msx2+ systems, each system now has its own folder)
 - Change nds game theme (old one still available as alternative but with a different image)
 - Change satellaview game theme (old one still available as alternative of wii system)
 - Change snes default game theme (old one still available as alternative of wii system)
@@ -20,7 +23,7 @@
 - Fix missing random theme console and remove useless game info from gamelist view
 - Fix gb2 logo border
 - Fix tic80 logo border
-- Make all musics louder too match default recalbox musics loudness
+- Make all musics louder to match default recalbox musics loudness
 - Improve gx4000 logo contrast
 - Improve tic80 logo contrast
 - Minor update to nes system image

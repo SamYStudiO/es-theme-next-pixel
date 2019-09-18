@@ -15,6 +15,7 @@
 - Add wii game theme alternative (using old game theme from snes/satellaview)
 - Add several custom rating icons
 - Remove msx support (was use as a global system for msx1, mx2 and msx2+ systems, each system now has its own folder)
+- Remove lynx alternative game theme as it is already available from samcoupe
 - Change nds game theme (old one still available as alternative but with a different image)
 - Change satellaview game theme (old one still available as alternative of wii system)
 - Change snes default game theme (old one still available as alternative of wii system)

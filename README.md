@@ -67,9 +67,7 @@ Actual systems with multiple game themes :
 - atarist : 1 game theme with 2 different images available
 - cavestory : 1 game theme with 2 different images available
 - gameboy : 3 different game themes available
-- lynx : 2 different game themes available
 - megadrive : 2 different game themes available
-- ports : 2 different game themes available (1 with 2 different images available)
 - n64 : 4 different game themes available
 - nds : 2 different game themes available
 - nes : 2 different game themes available

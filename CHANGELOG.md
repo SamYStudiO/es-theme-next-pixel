@@ -16,7 +16,10 @@
 - Add several custom rating icons
 - Remove msx support (was use as a global system for msx1, mx2 and msx2+ systems, each system now has its own folder)
 - Remove lynx alternative game theme as it is already available from samcoupe
+- Change mame game theme using old arcade one (old mame game theme stil available from uzebox)
 - Change nds game theme (old one still available as alternative but with a different image)
+- Change arcade image using new collection style
+- Change ports image using new collection style
 - Change satellaview game theme (old one still available as alternative of wii system)
 - Change snes default game theme (old one still available as alternative of wii system)
 - Change alternative game theme folders naming convention to avoid confusion with systems containing number suffix from their name

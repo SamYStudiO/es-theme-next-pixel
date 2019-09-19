@@ -35,6 +35,20 @@
 			<text>Cart Size : 32kB - 1MB</text>
 		</text>
 		
+		<!-- for testing removed for release -->
+		<image name="console" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/gb/data/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/gb/data/eu/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/gb/data/jp/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/gb/data/us/console.svg</path>
+		</image>
+		
 	</view>
 	
 	<view name="basic, detailed">
@@ -44,6 +58,24 @@
 			<maxSize>.07 1</maxSize>
 		</image>
 		
+	</view>
+	
+	<view name="basic">
+	
+		<!-- for testing removed for release -->
+		<image name="consolegame" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/gb/data/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/gb/data/eu/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/gb/data/jp/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/gb/data/us/consolegame.svg</path>
+		</image>
+	
 	</view>
 	
 </theme>

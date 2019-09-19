@@ -35,6 +35,20 @@
 			<text>GPU : GFX processor unit</text>
 		</text>
 		
+		<!-- for testing removed for release -->
+		<image name="console" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/psx/data/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/psx/data/eu/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/psx/data/jp/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/psx/data/us/console.svg</path>
+		</image>
+		
 	</view>
 	
 	<view name="basic, detailed">
@@ -43,6 +57,24 @@
 			<pos>.985 .9</pos>
 		</image>
 		
+	</view>
+	
+	<view name="basic">
+	
+		<!-- for testing removed for release -->
+		<image name="consolegame" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/psx/data/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/psx/data/eu/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/psx/data/jp/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/psx/data/us/consolegame.svg</path>
+		</image>
+	
 	</view>
 	
 </theme>

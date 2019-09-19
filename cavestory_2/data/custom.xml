@@ -38,6 +38,20 @@
 			<text>into the position of savior as he endeavors to defeat the Doctor.</text>
 		</text>
 		
+		<!-- for testing removed for release -->
+		<image name="console" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/eu/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/jp/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/us/console.svg</path>
+		</image>
+		
 	</view>
 	
 	<view name="basic, detailed">
@@ -47,6 +61,24 @@
 			<maxSize>.11 1</maxSize>
 		</image>
 		
+	</view>
+	
+	<view name="basic">
+	
+		<!-- for testing removed for release -->
+		<image name="consolegame" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/eu/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/jp/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/us/consolegame.svg</path>
+		</image>
+	
 	</view>
 	
 </theme>

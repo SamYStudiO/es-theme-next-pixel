@@ -35,6 +35,20 @@
 			<text>Media : 4.7/8.54 GB DVD</text>
 		</text>
 		
+		<!-- for testing removed for release -->
+		<image name="console" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/wii/data/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/wii/data/eu/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/wii/data/jp/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/wii/data/us/console.svg</path>
+		</image>
+		
 	</view>
 	
 	<view name="basic, detailed">
@@ -43,6 +57,24 @@
 			<maxSize>.07 1</maxSize>
 		</image>
 		
+	</view>
+	
+	<view name="basic">
+	
+		<!-- for testing removed for release -->
+		<image name="consolegame" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/wii/data/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/wii/data/eu/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/wii/data/jp/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/wii/data/us/consolegame.svg</path>
+		</image>
+	
 	</view>
 	
 </theme>

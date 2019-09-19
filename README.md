@@ -2,7 +2,7 @@
 This theme is designed to display a full screen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music and a custom rating icon that match that game.
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
-**Theme is compatible with Recalbox 6.1+ and with 16:9 and 4:3 screens**.
+**Theme is compatible with Recalbox 6.1+ and with 16:9, 4:3 and small 4:3 scrrens like GPi CASE**.
 
 Here are some screenshots using different theme settings:
 

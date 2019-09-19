@@ -1,5 +1,5 @@
 <theme>
-
+Force console/consolegame logo pathes
 	<formatVersion>4</formatVersion>
 	
 	<view name="system">
@@ -32,6 +32,20 @@
 			<text>Resolution : 256×212 (19268 simultaneous colors)</text>
 		</text>
 		
+		<!-- force msx2 since this system is not supported by recalbox -->
+		<image name="console" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/msx2/data/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/msx2/data/eu/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/msx2/data/jp/console.svg</path>
+		</image>
+		<image name="console" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/msx2/data/us/console.svg</path>
+		</image>
+		
 	</view>
 	
 	<view name="basic, detailed">
@@ -41,6 +55,24 @@
 			<maxSize>0.105 1</maxSize>
 		</image>
 		
+	</view>
+	
+	<view name="basic">
+	
+		<!-- force msx2 since this system is not supported by recalbox -->
+		<image name="consolegame" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/msx2/data/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/msx2/data/eu/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/msx2/data/jp/consolegame.svg</path>
+		</image>
+		<image name="consolegame" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/msx2/data/us/consolegame.svg</path>
+		</image>
+	
 	</view>
 	
 </theme>

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/es-theme-next-pixel/static/css/main.b100e6da.chunk.css",
+    "main.js": "/es-theme-next-pixel/static/js/main.7a0aaab6.chunk.js",
+    "main.js.map": "/es-theme-next-pixel/static/js/main.7a0aaab6.chunk.js.map",
+    "runtime-main.js": "/es-theme-next-pixel/static/js/runtime-main.9f91f269.js",
+    "runtime-main.js.map": "/es-theme-next-pixel/static/js/runtime-main.9f91f269.js.map",
+    "static/js/2.0a786fb2.chunk.js": "/es-theme-next-pixel/static/js/2.0a786fb2.chunk.js",
+    "static/js/2.0a786fb2.chunk.js.map": "/es-theme-next-pixel/static/js/2.0a786fb2.chunk.js.map",
+    "index.html": "/es-theme-next-pixel/index.html",
+    "precache-manifest.c336bb7ec9f8460a094900de1a9753ba.js": "/es-theme-next-pixel/precache-manifest.c336bb7ec9f8460a094900de1a9753ba.js",
+    "service-worker.js": "/es-theme-next-pixel/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/es-theme-next-pixel/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/es-theme-next-pixel/static/media/logo.25bf045c.svg"
+  }
+}

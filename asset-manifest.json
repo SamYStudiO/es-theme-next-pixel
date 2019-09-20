@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/es-theme-next-pixel/static/css/main.79f967a3.chunk.css",
+    "main.css": "/es-theme-next-pixel/static/css/main.a0f487f4.chunk.css",
     "main.js": "/es-theme-next-pixel/static/js/main.c6d2fafe.chunk.js",
     "main.js.map": "/es-theme-next-pixel/static/js/main.c6d2fafe.chunk.js.map",
     "runtime-main.js": "/es-theme-next-pixel/static/js/runtime-main.de237967.js",
@@ -9,9 +9,9 @@
     "static/js/2.78512bdb.chunk.js": "/es-theme-next-pixel/static/js/2.78512bdb.chunk.js",
     "static/js/2.78512bdb.chunk.js.map": "/es-theme-next-pixel/static/js/2.78512bdb.chunk.js.map",
     "index.html": "/es-theme-next-pixel/index.html",
-    "precache-manifest.43eba67bcc6460e98b8d78c069a13731.js": "/es-theme-next-pixel/precache-manifest.43eba67bcc6460e98b8d78c069a13731.js",
+    "precache-manifest.7a577995a37bffcb121fe0e98045cebd.js": "/es-theme-next-pixel/precache-manifest.7a577995a37bffcb121fe0e98045cebd.js",
     "service-worker.js": "/es-theme-next-pixel/service-worker.js",
     "static/css/2.f74a8007.chunk.css.map": "/es-theme-next-pixel/static/css/2.f74a8007.chunk.css.map",
-    "static/css/main.79f967a3.chunk.css.map": "/es-theme-next-pixel/static/css/main.79f967a3.chunk.css.map"
+    "static/css/main.a0f487f4.chunk.css.map": "/es-theme-next-pixel/static/css/main.a0f487f4.chunk.css.map"
   }
 }

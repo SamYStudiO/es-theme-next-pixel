@@ -20,7 +20,7 @@ Here are some screenshots using different theme settings:
 
 ![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/6.png)
 
-Watch all system image from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/)
+Watch all system image from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
 
 
 ### Installation
@@ -53,7 +53,7 @@ Actual systems with multiple game themes :
 - segacd : 2 different game themes available
 - snes : 3 different game themes available
 - wii : 2 different game themes available
-To help you choose all systems images are visible from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/)
+To help you choose all systems images are visible from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
 
 
 

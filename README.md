@@ -6,19 +6,19 @@ It is based on recabox-next theme so you'll get all advantages of it (region set
 
 Here are some screenshots using different theme settings:
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/0.jpg)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/0.png)
 
-![1](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/1.jpg)
+![1](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/1.png)
 
-![2](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/2.jpg)
+![2](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/2.png)
 
-![3](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/3.jpg)
+![3](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/3.png)
 
-![4](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/4.jpg)
+![4](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/4.png)
 
-![5](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/5.jpg)
+![5](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/5.png)
 
-![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/6.jpg)
+![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/6.png)
 
 Watch all system image from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/)
 

@@ -1,4 +1,4 @@
-### Hi and welcome to Next Pixel theme for [Recalbox](https://www.recalbox.com/)!
+### Hi and welcome to [Next Pixel theme](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)!
 This theme is designed to display a full screen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music and a custom rating icon that match that game.
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
@@ -20,31 +20,7 @@ Here are some screenshots using different theme settings:
 
 ![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/6.jpg)
 
-![7](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/7.jpg)
-
-![8](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/8.jpg)
-
-![9](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/9.jpg)
-
-![10](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/10.jpg)
-
-![11](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/11.jpg)
-
-![12](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/12.jpg)
-
-![13](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/13.jpg)
-
-![14](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/14.jpg)
-
-![15](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/15.jpg)
-
-![16](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/16.jpg)
-
-![17](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/17.jpg)
-
-![18](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/18.jpg)
-
-![19](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/19.jpg)
+Watch all system image from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/)
 
 
 ### Installation
@@ -77,6 +53,8 @@ Actual systems with multiple game themes :
 - segacd : 2 different game themes available
 - snes : 3 different game themes available
 - wii : 2 different game themes available
+To help you choose all systems images are visible from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/)
+
 
 
 ### Move a game theme to another system
@@ -89,6 +67,8 @@ Sometimes a game theme could match different systems and you may want to use a g
 - Camera and some game info icons are from [shareicon](https://www.shareicon.net).
 - Digital Counter 7 font used for game counter icon is from Sizenko Alexander (http://www.styleseven.com).
 - Random support is from Voljega (https://github.com/Voljega/scripts4recalbox).
+- Website uses [React Image Galery component](http://www.linxtion.com/demo/react-image-gallery/)
+- Next Pixel logo font is "Color Basic" from [Typodermic Fonts](http://typodermicfonts.com/)
 
 
 ### Download

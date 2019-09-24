@@ -64,7 +64,7 @@ Sometimes a game theme could match different systems and you may want to use a g
 
 ### Copyright
 - This theme use pictures/musics found over internet, if you think any images/musics used in this theme are your ownership or is subject to copyright please contact me (contact[at]samystudio.net), I'll remove them.
-- Theme is based on recabox-next theme so some assets may be licensed by <a href="https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer" target="_blank">link</a>[recalbox](https://gitlab.com/recalbox/recalbox-themes), recalbox license always prevail for these assets (so this theme **MIT license is only applicable for xml files**).
+- Theme is based on recabox-next theme so some assets may be licensed by <a href="https://gitlab.com/recalbox/recalbox-themes" target="_blank">lirecalboxnk</a>, recalbox license always prevail for these assets (so this theme **MIT license is only applicable for xml files**).
 - Camera and some game info icons are from <a href="https://www.shareicon.net" target="_blank">shareicon</a>.
 - Digital Counter 7 font used for game counter icon is from <a href="http://www.styleseven.com" target="_blank">Sizenko Alexander</a>.
 - Random support is from <a href="https://github.com/Voljega/scripts4recalbox" target="_blank">Voljega</a>.

@@ -1,4 +1,4 @@
-### Hi and welcome to [Next Pixel theme](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)!
+### Hi and welcome to <a href="https://samystudio.github.io/es-theme-next-pixel/" target="_blank">Next Pixel theme</a> for [Recalbox](https://www.recalbox.com/)!
 This theme is designed to display a full screen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music and a custom rating icon that match that game.
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
@@ -20,7 +20,7 @@ Here are some screenshots using different theme settings:
 
 ![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/6.png)
 
-Watch all system images from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
+Watch all system images from <a href="https://samystudio.github.io/es-theme-next-pixel/" target="_blank">Next Pixel website</a>.
 
 
 ### Installation
@@ -54,7 +54,7 @@ Actual systems with multiple game themes :
 - snes : 3 different game themes available
 - wii : 2 different game themes available
 
-To help you choose, all systems images are visible from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
+To help you choose, all systems images are visible from <a href="https://samystudio.github.io/es-theme-next-pixel/" target="_blank">Next Pixel website</a>.
 
 
 

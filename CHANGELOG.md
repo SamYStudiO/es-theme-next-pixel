@@ -1,4 +1,6 @@
 ### Changelog
+2019/xx/xx - 1.3
+
 2019/09/27 - 1.2
 - Add pc88 support
 - Add multivision support

@@ -91,11 +91,11 @@ If you still have issues with 720p (mainly images replaced with white rectangle)
 
 If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
-**[DOWNLOAD es-next-pixel-1080p-1.2 for recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-1080p.zip)**
+**[DOWNLOAD es-next-pixel-1080p-1.3 for recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.3/es-theme-next-pixel-1080p.zip)**
 
-**[DOWNLOAD es-next-pixel-720p-1.2 for recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-720p.zip)**
+**[DOWNLOAD es-next-pixel-720p-1.3 for recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.3/es-theme-next-pixel-720p.zip)**
 
-**[DOWNLOAD es-next-pixel-480p-1.2 for recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-480p.zip)**
+**[DOWNLOAD es-next-pixel-480p-1.3 for recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.3/es-theme-next-pixel-480p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases/tag/v1.0) previous packages for recalbox 6.0 or lower.
 
@@ -106,9 +106,9 @@ If you don't want to change memory settings or you're using PSP system then you 
 
 Don't forget to remove '#' char on those lines if present.
 
-**[DOWNLOAD es-next-pixel-crt-1.2 for recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-crt.zip)**
+**[DOWNLOAD es-next-pixel-crt-1.3 for recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.3/es-theme-next-pixel-crt.zip)**
 
-**[DOWNLOAD es-next-pixel-crt-small-1.2 for recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.2/es-theme-next-pixel-crt-small.zip)**
+**[DOWNLOAD es-next-pixel-crt-small-1.3 for recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.3/es-theme-next-pixel-crt-small.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases/tag/v1.0) previous packages for recalbox 6.0 or lower.
 

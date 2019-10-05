@@ -130,16 +130,6 @@
 	
 	<view name="detailed">
 	
-		<image name="md_image">
-			<origin>.5 .5</origin>
-			<zIndex>70</zIndex>
-		</image>
-		
-		<video name="md_video">
-			<origin>.5 .5</origin>
-			<zIndex>71</zIndex>
-		</video>
-		
 		<rating name="md_rating">
 			<filledPath>./../../$system/icon_filled.svg</filledPath>
 			<unfilledPath>./../../$system/icon_empty.svg</unfilledPath>

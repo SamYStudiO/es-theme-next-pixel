@@ -1,0 +1,8 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./common.xml</include>
+	<include>./common_video.xml</include>
+	<include>./../../$system/data/custom_video_no_description_no_info.xml</include>
+	
+</theme>

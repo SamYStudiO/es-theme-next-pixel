@@ -1,0 +1,21 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<!-- original pos x/size * .9 -->
+	<!-- original pos y * .9 + .05 -->
+	<view name="detailed">
+		
+		<video name="md_video">
+			<origin>.5 .5</origin>
+			<pos>.3375 .39792</pos>
+			<maxSize>.46874 .54</maxSize>
+		</video>
+		
+		<image name="shadow" extra="true">
+			<path></path>
+		</image>
+		
+	</view>
+	
+</theme>

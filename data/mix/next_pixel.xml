@@ -1,0 +1,148 @@
+﻿<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Information ShortName="Next Pixel Mix 1080" LongName="Next Pixel Mix 1080" Description="Next Pixel mix optimized for video integration" Author="SamYStudiO" />
+	<Viewport Color="#00000000" Width="1250" Height="1080" />
+	<Drawings>
+	
+		<Item Type="LocalFile" LocalFilePath="systems/%SYSTEM%.png">
+			<Display X="0%" Y="0%" Width="100%" Height="100%" />
+		</Item>
+	
+		<!-- gamegear -->
+		<Item IfSystem="IsInTheList:21">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="36.24%" Y="16.852%" Antialiasing="None" Width="42.72%" Height="37.222%" KeepRatio="false"/>
+					<Fallback Type="Screenshot">
+						<Display X="36.24%" Y="16.852%" Antialiasing="None" Width="42.72%" Height="37.222%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+	
+		<!-- gb -->
+		<Item IfSystem="IsInTheList:9">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="35.44%" Y="12.315%" Antialiasing="None" Width="44.4%" Height="46.296%" KeepRatio="false"/>
+					<Fallback Type="Screenshot">
+						<Display X="35.44%" Y="12.315%" Antialiasing="None" Width="44.4%" Height="46.296%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- gba -->
+		<Item IfSystem="IsInTheList:12">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="32%" Y="15.741%" Antialiasing="None" Width="51.2%" Height="39.444%" KeepRatio="false"/>
+					<Fallback Type="Screenshot">
+						<Display X="32%" Y="15.741%" Antialiasing="None" Width="51.2%" Height="39.444%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- gbc -->
+		<Item IfSystem="IsInTheList:10">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="36.96%" Y="13.889%" Antialiasing="None" Width="41.28%" Height="43.056%" KeepRatio="false"/>
+					<Fallback Type="Screenshot">
+						<Display X="36.96%" Y="13.889%" Antialiasing="None" Width="41.28%" Height="43.056%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- gw -->
+		<Item IfSystem="IsInTheList:52">
+			<Children>
+                <Item Type="SupportTexture">
+                    <Display X="57.6%" Y="38.657%" Antialiasing="None" Width="80%" Height="60%" KeepRatio="true" Anchor="VCenterHCenter"/>
+                </Item>
+				<Item Type="Box3D">
+					<Display X="55.6%" Y="80%" Width="26%" Height="50%" Anchor="VCenterRight" />
+				</Item>
+				<Item Type="Wheel">
+					<Display X="59.6%" Y="80%" Width="48%" Height="20%" Anchor="VCenterLeft" />
+				</Item>
+            </Children>
+		</Item>
+		
+		<!-- lynx -->
+		<Item IfSystem="IsInTheList:28">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="32%" Y="16.574%" Antialiasing="None" Width="51.2%" Height="37.778%" KeepRatio="false"/>
+					<Fallback Type="Screenshot">
+						<Display X="32%" Y="16.574%" Antialiasing="None" Width="51.2%" Height="37.778%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- ngp,ngpc -->
+		<Item IfSystem="IsInTheList:25,82">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="34.32%" Y="10%" Antialiasing="None" Width="46.64%" Height="51.019%" KeepRatio="false"/>
+					<Fallback Type="Screenshot">
+						<Display X="34.32%" Y="10%" Antialiasing="None" Width="46.64%" Height="51.019%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- pokemini -->
+		<Item IfSystem="IsInTheList:211">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="33.28%" Y="16.296%" Antialiasing="None" Width="48.56%" Height="38.333%" KeepRatio="false"/>
+					<Fallback Type="Screenshot">
+						<Display X="33.28%" Y="16.296%" Antialiasing="None" Width="48.56%" Height="38.333%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- psp -->
+		<Item IfSystem="IsInTheList:61">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="32%" Y="18.981%" Antialiasing="None" Width="51.12%" Height="32.963%" KeepRatio="false"/>
+					<Fallback Type="Screenshot">
+						<Display X="32%" Y="18.981%" Antialiasing="None" Width="51.12%" Height="32.963%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- wonderswan,wonderswancolor -->
+		<Item IfSystem="IsInTheList:45,46">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="32%" Y="16.389%" Antialiasing="None" Width="51.12%" Height="38.148%" KeepRatio="false"/>
+					<Fallback Type="Screenshot">
+						<Display X="32%" Y="16.389%" Antialiasing="None" Width="51.12%" Height="38.148%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<Item IfSystem="IsNotInTheList:52">
+			<Children>
+				<Item Type="Box3D">
+					<Display X="31%" Y="90.741%" Width="27%" Height="50%" Anchor="BottomRight" />
+				</Item>
+				<Item Type="Support">
+					<Display X="28%" Y="90.741%" Width="20%" Height="20%" Anchor="BottomLeft" />
+				</Item>
+				<Item Type="Wheel">
+					<Display X="100%" Y="78%" Width="48%" Height="20%" Anchor="VCenterRight" />
+				</Item>
+            </Children>
+		</Item>
+	 
+	</Drawings>
+</ImageComposition>

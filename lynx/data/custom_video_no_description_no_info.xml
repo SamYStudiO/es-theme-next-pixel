@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="detailed">
+		
+		<video name="md_video">
+			<pos>.20833 .16474</pos>
+			<size>.33333 .37878</size>
+		</video>
+		
+		<image name="shadow" extra="true">
+			<pos>.20833 .16474</pos>
+			<size>.33333 .37878</size>
+		</image>
+		
+	</view>
+	
+</theme>

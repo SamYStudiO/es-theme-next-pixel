@@ -1,0 +1,26 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./common.xml</include>
+	<include>./common_info.xml</include>
+	<include>./common_description.xml</include>
+	<include>./common_video.xml</include>
+	<include>./../../$system/data/custom_video_standard.xml</include>
+	
+	
+	<view name="detailed">
+		
+		<image name="md_image">
+			<pos>.06 0</pos>
+			<maxSize>.9 .8</maxSize>
+		</image>
+		
+		<text name="md_description">
+			<pos>.32 .77</pos>
+			<origin>.5 0</origin>
+			<size>.5 .15</size>
+		</text>
+		
+	</view>
+	
+</theme>

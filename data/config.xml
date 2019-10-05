@@ -12,16 +12,16 @@
 	<include subset="colorset" name="5b-dark system, light gamelist">./colorsets/dark_system_light_gamelist.xml</include>
 	
 	<include subset="iconset" name="1-standard icons">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/default.xml</include>
-	<include subset="iconset" name="2-SNES">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/snes.xml</include>
-	<include subset="iconset" name="3-SNES ALT">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/snesalt.xml</include>
-	<include subset="iconset" name="4-XBox">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/xbox.xml</include>
-	<include subset="iconset" name="5-PSX">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/psx.xml</include>
-	<include subset="iconset" name="6-Xbox One">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/xboxone.xml</include>
-	<include subset="iconset" name="7-Arcade">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/arcade.xml</include>
+	<include subset="iconset" name="2-snes">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/snes.xml</include>
+	<include subset="iconset" name="3-snes alt">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/snesalt.xml</include>
+	<include subset="iconset" name="4-xbox">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/xbox.xml</include>
+	<include subset="iconset" name="5-psx">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/psx.xml</include>
+	<include subset="iconset" name="6-xbox one">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/xboxone.xml</include>
+	<include subset="iconset" name="7-arcade">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/arcade.xml</include>
 	
 	<include subset="menu" name="1-next pixel">./menus/next_pixel.xml</include>
-	<include subset="menu" name="2-light blue icons">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/reivaax_icons.xml</include>
-	<include subset="menu" name="3-light blue">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/reivaax.xml</include>
+	<include subset="menu" name="2-light blue icons">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/recalbox_icons.xml</include>
+	<include subset="menu" name="3-light blue">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/recalbox.xml</include>
 	<include subset="menu" name="4-standard menus">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/default.xml</include>
 	<include subset="menu" name="5-standard - small font">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/small.xml</include>
 	<include subset="menu" name="6-clean">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/clean.xml</include>
@@ -37,8 +37,11 @@
 	<include subset="systemview" name="3b-horizontal legacy, info (all lines)">./systemviews/horizontal_legacy_all_info.xml</include>
 	<include subset="systemview" name="3c-horizontal legacy, no info">./systemviews/horizontal_legacy_common.xml</include>
 	
-	<include subset="gamelistview" name="1-standard">./gamelistviews/standard.xml</include>
-	<include subset="gamelistview" name="2-no description">./gamelistviews/no_description.xml</include>
-	<include subset="gamelistview" name="3-no description, no info">./gamelistviews/no_description_no_info.xml</include>
+	<include subset="gamelistview" name="1a-standard">./gamelistviews/standard.xml</include>
+	<include subset="gamelistview" name="1b-standard, next pixel video mix">./gamelistviews/standard_video.xml</include>
+	<include subset="gamelistview" name="2a-no description">./gamelistviews/no_description.xml</include>
+	<include subset="gamelistview" name="2b-no description, next pixel video mix">./gamelistviews/no_description_video.xml</include>
+	<include subset="gamelistview" name="3a-picture only">./gamelistviews/no_description_no_info.xml</include>
+	<include subset="gamelistview" name="3b-picture only, next pixel video mix">./gamelistviews/no_description_no_info_video.xml</include>
 	
 </theme>

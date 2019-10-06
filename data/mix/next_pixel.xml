@@ -6,6 +6,18 @@
 		<Item Type="LocalFile" LocalFilePath="systems/%SYSTEM%.png">
 			<Display X="0%" Y="0%" Width="100%" Height="100%" />
 		</Item>
+		
+		<!-- default -->
+		<Item IfSystem="IsNotInTheList:21,9,12,10,52,28,25,82,208,211,221,61,102,45,46">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="53.981%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="53.981%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
 	
 		<!-- gamegear -->
 		<Item IfSystem="IsInTheList:21">
@@ -106,6 +118,18 @@
             </Children>
 		</Item>
 		
+		<!-- pc98 -->
+		<Item IfSystem="IsInTheList:208">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="46.296%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="46.296%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
 		<!-- pokemini -->
 		<Item IfSystem="IsInTheList:211">
 			<Children>
@@ -130,6 +154,18 @@
             </Children>
 		</Item>
 		
+		<!-- vectrex -->
+		<Item IfSystem="IsInTheList:102">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="39.6%" Y="12.315%" Antialiasing="None" Width="36%" Height="53.889%" KeepRatio="false"/>
+					<Fallback Type="Screenshot">
+						<Display X="39.6%" Y="12.315%" Antialiasing="None" Width="36%" Height="53.889%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
 		<!-- wonderswan,wonderswancolor -->
 		<Item IfSystem="IsInTheList:45,46">
 			<Children>
@@ -137,18 +173,6 @@
                     <Display X="32%" Y="16.389%" Antialiasing="None" Width="51.2%" Height="38.148%" KeepRatio="false"/>
 					<Fallback Type="Screenshot">
 						<Display X="32%" Y="16.389%" Antialiasing="None" Width="51.2%" Height="38.148%" KeepRatio="false"/>
-					</Fallback>
-                </Item>
-            </Children>
-		</Item>
-		
-		<!-- default -->
-		<Item IfSystem="IsNotInTheList:21,9,12,10,52,28,25,82,211,61,45,46">
-			<Children>
-                <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="53.981%" KeepRatio="true" Anchor="VCenterHCenter"/>
-					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="53.981%" KeepRatio="true" Anchor="VCenterHCenter"/>
 					</Fallback>
                 </Item>
             </Children>

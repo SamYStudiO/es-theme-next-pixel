@@ -94,6 +94,18 @@
             </Children>
 		</Item>
 		
+		<!-- pc88 -->
+		<Item IfSystem="IsInTheList:221">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="47.778%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="47.778%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
 		<!-- pokemini -->
 		<Item IfSystem="IsInTheList:211">
 			<Children>
@@ -110,9 +122,9 @@
 		<Item IfSystem="IsInTheList:61">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="32%" Y="18.981%" Antialiasing="None" Width="51.12%" Height="32.963%" KeepRatio="false"/>
+                    <Display X="32%" Y="18.981%" Antialiasing="None" Width="51.2%" Height="32.963%" KeepRatio="false"/>
 					<Fallback Type="Screenshot">
-						<Display X="32%" Y="18.981%" Antialiasing="None" Width="51.12%" Height="32.963%" KeepRatio="false"/>
+						<Display X="32%" Y="18.981%" Antialiasing="None" Width="51.2%" Height="32.963%" KeepRatio="false"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -122,9 +134,21 @@
 		<Item IfSystem="IsInTheList:45,46">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="32%" Y="16.389%" Antialiasing="None" Width="51.12%" Height="38.148%" KeepRatio="false"/>
+                    <Display X="32%" Y="16.389%" Antialiasing="None" Width="51.2%" Height="38.148%" KeepRatio="false"/>
 					<Fallback Type="Screenshot">
-						<Display X="32%" Y="16.389%" Antialiasing="None" Width="51.12%" Height="38.148%" KeepRatio="false"/>
+						<Display X="32%" Y="16.389%" Antialiasing="None" Width="51.2%" Height="38.148%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- default -->
+		<Item IfSystem="IsNotInTheList:21,9,12,10,52,28,25,82,211,61,45,46">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="53.981%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="53.981%" KeepRatio="true" Anchor="VCenterHCenter"/>
 					</Fallback>
                 </Item>
             </Children>

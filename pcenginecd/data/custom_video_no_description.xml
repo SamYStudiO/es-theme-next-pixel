@@ -5,6 +5,9 @@
 	<view name="detailed">
 		
 		<video name="md_video">
+			<origin>.5 .5</origin>
+			<pos>.3375 .36917</pos>
+			<maxSize>.3 .48583</maxSize>
 		</video>
 		
 	</view>

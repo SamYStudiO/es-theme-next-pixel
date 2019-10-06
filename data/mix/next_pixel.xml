@@ -22,6 +22,21 @@
             </Children>
 		</Item>
 		
+		<!-- daphne,fba,fba_libretro,mame -->
+		<Item IfSystem="IsInTheList:49,75">
+			<Children>
+				<Item Type="LocalFile" LocalFilePath="systems/arcade.png">
+					<Display X="0%" Y="0%" Width="100%" Height="100%" />
+				</Item>
+                <Item Type="ScreenshotTitle">
+                    <Display X="57.6%" Y="35.5%" Antialiasing="None" Width="48%" Height="41.667%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.6%" Y="35.5%" Antialiasing="None" Width="48%" Height="41.667%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
 		<!-- amigacdtv -->
 		<Item IfSystem="IsInTheList:129">
 			<Children>
@@ -229,7 +244,7 @@
             </Children>
 		</Item>
 		
-		<!-- box, game,logo (game & watch excluded)-->
+		<!-- box, game, logo (game & watch excluded)-->
 		<Item IfSystem="IsNotInTheList:52">
 			<Children>
 				<Item Type="Box3D">

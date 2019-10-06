@@ -7,13 +7,28 @@
 			<Display X="0%" Y="0%" Width="100%" Height="100%" />
 		</Item>
 		
-		<!-- default -->
-		<Item IfSystem="IsNotInTheList:86,21,9,12,10,52,28,25,82,208,211,221,61,102,45,46,220">
+		<!-- pc,samcoupe,spectravideo,atari800,atarist,msx,msxturbor,msx2,msx2+,amiga600,aiga1200,c64,amstradcpc,x68000,zxspectrum,zx81,oric,to8,scummvm -->
+		<Item IfSystem="IsInTheList:135,213,218,43,42,113,118,116,117,64,111,66,65,79,76,77,131,141,123">
+			<Children>
+				<Item Type="LocalFile" LocalFilePath="systems/computer.png">
+					<Display X="0%" Y="0%" Width="100%" Height="100%" />
+				</Item>
+                <Item Type="ScreenshotTitle">
+                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="39.907%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="39.907%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- amigacdtv -->
+		<Item IfSystem="IsInTheList:129">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="53.981%" KeepRatio="true" Anchor="VCenterHCenter"/>
+                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="46.667%" KeepRatio="true" Anchor="VCenterHCenter"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="53.981%" KeepRatio="true" Anchor="VCenterHCenter"/>
+						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="46.667%" Anchor="VCenterHCenter"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -22,13 +37,22 @@
 		<!-- apple2 -->
 		<Item IfSystem="IsInTheList:86">
 			<Children>
-				<Item Type="LocalFile" LocalFilePath="systems/86.png"> <!-- TODO should be removed but doesn't work right now -->
-					<Display X="0%" Y="0%" Width="100%" Height="100%" />
-				</Item>
                 <Item Type="ScreenshotTitle">
                     <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="40.48%" Height="36.481%" KeepRatio="true" Anchor="VCenterHCenter"/>
 					<Fallback Type="Screenshot">
 						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="40.48%" Height="36.481%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- apple2gs -->
+		<Item IfSystem="IsInTheList:217">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="43.796%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="43.796%" KeepRatio="true" Anchor="VCenterHCenter"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -205,6 +229,7 @@
             </Children>
 		</Item>
 		
+		<!-- box, game,logo (game & watch excluded)-->
 		<Item IfSystem="IsNotInTheList:52">
 			<Children>
 				<Item Type="Box3D">

@@ -7,8 +7,14 @@
 		<video name="md_video">
 			<origin>.5 .5</origin>
 			<pos>.375 .35463</pos>
-			<maxSize>.33333 .53981</maxSize>
+			<maxSize>.33333 .43796</maxSize>
 		</video>
+		
+		<image name="shadow" extra="true">
+			<origin>.5 .5</origin>
+			<pos>.375 .35463</pos>
+			<maxSize>.33333 .43796</maxSize>
+		</image>
 		
 	</view>
 	

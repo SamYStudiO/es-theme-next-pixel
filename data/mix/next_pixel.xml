@@ -8,7 +8,7 @@
 		</Item>
 		
 		<!-- default -->
-		<Item IfSystem="IsNotInTheList:21,9,12,10,52,28,25,82,208,211,221,61,102,45,46">
+		<Item IfSystem="IsNotInTheList:21,9,12,10,52,28,25,82,208,211,221,61,102,45,46,220">
 			<Children>
                 <Item Type="ScreenshotTitle">
                     <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="53.981%" KeepRatio="true" Anchor="VCenterHCenter"/>
@@ -173,6 +173,18 @@
                     <Display X="32%" Y="16.389%" Antialiasing="None" Width="51.2%" Height="38.148%" KeepRatio="false"/>
 					<Fallback Type="Screenshot">
 						<Display X="32%" Y="16.389%" Antialiasing="None" Width="51.2%" Height="38.148%" KeepRatio="false"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- x1 -->
+		<Item IfSystem="IsInTheList:220">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="45%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="45%" KeepRatio="true" Anchor="VCenterHCenter"/>
 					</Fallback>
                 </Item>
             </Children>

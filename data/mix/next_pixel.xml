@@ -14,9 +14,9 @@
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
 				</Item>
                 <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="44.444%" KeepRatio="true" Anchor="VCenterHCenter"/>
+                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="44.444%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="44.444%" KeepRatio="true" Anchor="VCenterHCenter"/>
+						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="44.444%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -29,9 +29,9 @@
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
 				</Item>
                 <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="35.5%" Width="48%" Height="41.667%" KeepRatio="true" Anchor="VCenterHCenter"/>
+                    <Display X="57.6%" Y="35.5%" Width="48%" Height="41.667%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="35.5%" Width="48%" Height="41.667%" KeepRatio="true" Anchor="VCenterHCenter"/>
+						<Display X="57.6%" Y="35.5%" Width="48%" Height="41.667%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -44,9 +44,9 @@
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
 				</Item>
                 <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter"/>
+                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="None"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter"/>
+						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="None"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -56,9 +56,9 @@
 		<Item IfSystem="IsInTheList:129">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="46.667%" KeepRatio="true" Anchor="VCenterHCenter"/>
+                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="46.667%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="46.667%" Anchor="VCenterHCenter"/>
+						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="46.667%" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -68,9 +68,9 @@
 		<Item IfSystem="IsInTheList:86">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="35.92%" Y="18.241%" Width="43.36%" Height="34.537%" KeepRatio="false"/>
+                    <Display X="35.92%" Y="18.241%" Width="43.36%" Height="34.537%" KeepRatio="false" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
-						<Display X="35.92%" Y="18.241%" Width="43.36%" Height="34.537%" KeepRatio="false"/>
+						<Display X="35.92%" Y="18.241%" Width="43.36%" Height="34.537%" KeepRatio="false" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -80,9 +80,9 @@
 		<Item IfSystem="IsInTheList:217">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="32%" Y="15.185%" Width="51.2%" Height="40.648%" KeepRatio="false"/>
+                    <Display X="32%" Y="15.185%" Width="51.2%" Height="40.648%" KeepRatio="false" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
-						<Display X="32%" Y="15.185%" Width="51.2%" Height="40.648%" KeepRatio="false"/>
+						<Display X="32%" Y="15.185%" Width="51.2%" Height="40.648%" KeepRatio="false" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -92,9 +92,9 @@
 		<Item IfSystem="IsInTheList:21">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="36.24%" Y="16.852%" Width="42.72%" Height="37.222%" KeepRatio="false"/>
+                    <Display X="36.24%" Y="16.852%" Width="42.72%" Height="37.222%" KeepRatio="false" Antialiasing="None"/>
 					<Fallback Type="Screenshot">
-						<Display X="36.24%" Y="16.852%" Width="42.72%" Height="37.222%" KeepRatio="false"/>
+						<Display X="36.24%" Y="16.852%" Width="42.72%" Height="37.222%" KeepRatio="false" Antialiasing="None"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -104,9 +104,9 @@
 		<Item IfSystem="IsInTheList:9">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="35.44%" Y="12.315%" Width="44.4%" Height="46.296%" KeepRatio="false"/>
+                    <Display X="35.44%" Y="12.315%" Width="44.4%" Height="46.296%" KeepRatio="false" Antialiasing="None"/>
 					<Fallback Type="Screenshot">
-						<Display X="35.44%" Y="12.315%" Width="44.4%" Height="46.296%" KeepRatio="false"/>
+						<Display X="35.44%" Y="12.315%" Width="44.4%" Height="46.296%" KeepRatio="false" Antialiasing="None"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -116,9 +116,9 @@
 		<Item IfSystem="IsInTheList:12">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="32%" Y="15.741%" Width="51.2%" Height="39.444%" KeepRatio="false"/>
+                    <Display X="32%" Y="15.741%" Width="51.2%" Height="39.444%" KeepRatio="false" Antialiasing="None"/>
 					<Fallback Type="Screenshot">
-						<Display X="32%" Y="15.741%" Width="51.2%" Height="39.444%" KeepRatio="false"/>
+						<Display X="32%" Y="15.741%" Width="51.2%" Height="39.444%" KeepRatio="false" Antialiasing="None"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -128,9 +128,9 @@
 		<Item IfSystem="IsInTheList:10">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="36.96%" Y="13.889%" Width="41.28%" Height="43.056%" KeepRatio="false"/>
+                    <Display X="36.96%" Y="13.889%" Width="41.28%" Height="43.056%" KeepRatio="false" Antialiasing="None"/>
 					<Fallback Type="Screenshot">
-						<Display X="36.96%" Y="13.889%" Width="41.28%" Height="43.056%" KeepRatio="false"/>
+						<Display X="36.96%" Y="13.889%" Width="41.28%" Height="43.056%" KeepRatio="false" Antialiasing="None"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -155,9 +155,24 @@
 		<Item IfSystem="IsInTheList:28">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="32%" Y="16.574%" Width="51.2%" Height="37.778%" KeepRatio="false"/>
+                    <Display X="32%" Y="16.574%" Width="51.2%" Height="37.778%" KeepRatio="false" Antialiasing="None"/>
 					<Fallback Type="Screenshot">
-						<Display X="32%" Y="16.574%" Width="51.2%" Height="37.778%" KeepRatio="false"/>
+						<Display X="32%" Y="16.574%" Width="51.2%" Height="37.778%" KeepRatio="false" Antialiasing="None"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- macintosh -->
+		<Item IfSystem="IsInTheList:146">
+			<Children>
+				<Item Type="LocalFile" LocalFilePath="systems/computer_flat.png">
+					<Display X="0%" Y="0%" Width="100%" Height="100%" />
+				</Item>
+                <Item Type="ScreenshotTitle">
+                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="39.907%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="39.907%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -167,9 +182,9 @@
 		<Item IfSystem="IsInTheList:25,82">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="34.32%" Y="10%" Width="46.64%" Height="51.019%" KeepRatio="false"/>
+                    <Display X="34.32%" Y="10%" Width="46.64%" Height="51.019%" KeepRatio="false" Antialiasing="None"/>
 					<Fallback Type="Screenshot">
-						<Display X="34.32%" Y="10%" Width="46.64%" Height="51.019%" KeepRatio="false"/>
+						<Display X="34.32%" Y="10%" Width="46.64%" Height="51.019%" KeepRatio="false" Antialiasing="None"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -179,9 +194,9 @@
 		<Item IfSystem="IsInTheList:221">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="47.778%" KeepRatio="true" Anchor="VCenterHCenter"/>
+                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="47.778%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="47.778%" KeepRatio="true" Anchor="VCenterHCenter"/>
+						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="47.778%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -191,9 +206,9 @@
 		<Item IfSystem="IsInTheList:208">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="46.296%" KeepRatio="true" Anchor="VCenterHCenter"/>
+                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="46.296%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="46.296%" KeepRatio="true" Anchor="VCenterHCenter"/>
+						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="46.296%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -203,9 +218,9 @@
 		<Item IfSystem="IsInTheList:211">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="33.28%" Y="16.296%" Width="48.56%" Height="38.333%" KeepRatio="false"/>
+                    <Display X="33.28%" Y="16.296%" Width="48.56%" Height="38.333%" KeepRatio="false" Antialiasing="None"/>
 					<Fallback Type="Screenshot">
-						<Display X="33.28%" Y="16.296%" Width="48.56%" Height="38.333%" KeepRatio="false"/>
+						<Display X="33.28%" Y="16.296%" Width="48.56%" Height="38.333%" KeepRatio="false" Antialiasing="None"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -227,9 +242,9 @@
 		<Item IfSystem="IsInTheList:102">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="39.6%" Y="12.315%" Width="36%" Height="53.889%" KeepRatio="false"/>
+                    <Display X="39.6%" Y="12.315%" Width="36%" Height="53.889%" KeepRatio="false" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
-						<Display X="39.6%" Y="12.315%" Width="36%" Height="53.889%" KeepRatio="false"/>
+						<Display X="39.6%" Y="12.315%" Width="36%" Height="53.889%" KeepRatio="false" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -239,9 +254,9 @@
 		<Item IfSystem="IsInTheList:45,46">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="32%" Y="16.389%" Width="51.2%" Height="38.148%" KeepRatio="false"/>
+                    <Display X="32%" Y="16.389%" Width="51.2%" Height="38.148%" KeepRatio="false" Antialiasing="None"/>
 					<Fallback Type="Screenshot">
-						<Display X="32%" Y="16.389%" Width="51.2%" Height="38.148%" KeepRatio="false"/>
+						<Display X="32%" Y="16.389%" Width="51.2%" Height="38.148%" KeepRatio="false" Antialiasing="None"/>
 					</Fallback>
                 </Item>
             </Children>
@@ -251,9 +266,9 @@
 		<Item IfSystem="IsInTheList:220">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="45%" KeepRatio="true" Anchor="VCenterHCenter"/>
+                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="45%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="45%" KeepRatio="true" Anchor="VCenterHCenter"/>
+						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="45%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>

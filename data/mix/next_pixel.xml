@@ -37,6 +37,21 @@
             </Children>
 		</Item>
 		
+		<!-- lutro,openbor,solarus,tic80,uzebox -->
+		<Item IfSystem="IsInTheList:206,214,223,222,216">
+			<Children>
+				<Item Type="LocalFile" LocalFilePath="systems/computer_flat.png">
+					<Display X="0%" Y="0%" Width="100%" Height="100%" />
+				</Item>
+                <Item Type="ScreenshotTitle">
+                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
 		<!-- amigacdtv -->
 		<Item IfSystem="IsInTheList:129">
 			<Children>

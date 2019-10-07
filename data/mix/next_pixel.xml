@@ -7,16 +7,16 @@
 			<Display X="0%" Y="0%" Width="100%" Height="100%" />
 		</Item>
 		
-		<!-- pc,samcoupe,spectravideo,atari800,atarist,msx,msxturbor,msx2,msx2+,amiga600,aiga1200,c64,amstradcpc,x68000,zxspectrum,zx81,oric,to8,scummvm -->
+		<!-- pc,samcoupe,spectravideo,atari800,atarist,msx,msxturbor,msx2,msx2+,amiga600,aiga1200,c64,amstradcpc,x68000,zxspectrum,zx81,oric,to8,scummvm,prboom -->
 		<Item IfSystem="IsInTheList:135,213,218,43,42,113,118,116,117,64,111,66,65,79,76,77,131,141,123">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="systems/computer.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
 				</Item>
                 <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="39.907%" KeepRatio="true" Anchor="VCenterHCenter"/>
+                    <Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="44.444%" KeepRatio="true" Anchor="VCenterHCenter"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="39.907%" KeepRatio="true" Anchor="VCenterHCenter"/>
+						<Display X="57.6%" Y="35.463%" Antialiasing="None" Width="51.2%" Height="44.444%" KeepRatio="true" Anchor="VCenterHCenter"/>
 					</Fallback>
                 </Item>
             </Children>

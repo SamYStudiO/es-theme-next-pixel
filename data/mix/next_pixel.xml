@@ -22,8 +22,8 @@
             </Children>
 		</Item>
 		
-		<!-- daphne,fba,fba_libretro,mame -->
-		<Item IfSystem="IsInTheList:49,75">
+		<!-- daphne,fba,fba_libretro,mame,naomi,atomiswave -->
+		<Item IfSystem="IsInTheList:49,75,56,53">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="systems/arcade.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />

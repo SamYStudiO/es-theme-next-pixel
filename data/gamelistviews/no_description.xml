@@ -16,17 +16,13 @@
 		</image>-->
 		
 		<image name="md_image">
-			<origin>.5 .5</origin>
 			<pos>.31 .48</pos>
 			<maxSize>.55 .85</maxSize>
-			<zIndex>70</zIndex>
 		</image>
 		
 		<video name="md_video">
-			<origin>.5 .5</origin>
 			<pos>.31 .48</pos>
 			<maxSize>.55 .85</maxSize>
-			<zIndex>71</zIndex>
 		</video>
 		
 	</view>

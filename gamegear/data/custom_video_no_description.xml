@@ -7,12 +7,10 @@
 	<view name="detailed">
 		
 		<video name="md_video">
-			<pos>.21134 .20067</pos>
 			<size>.25131 .336</size>
 		</video>
 		
 		<image name="shadow" extra="true">
-			<pos>.21134 .20067</pos>
 			<size>.25131 .336</size>
 		</image>
 		

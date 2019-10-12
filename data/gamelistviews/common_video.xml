@@ -8,23 +8,16 @@
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<maxSize>1 1</maxSize>
-			<zIndex>70</zIndex>
 		</image>
 		
 		<video name="md_video">
-			<origin>0 0</origin>
-			<zIndex>71</zIndex>
+			<pos>.375 .35463</pos>
 		</video>
 		
-		<image name="shader" extra="true">
-			<zIndex>72</zIndex>
-			<path>./../../$system/data/shader.png</path>
-			<tile>true</tile>
-		</image>
-		
 		<image name="shadow" extra="true">
-			<origin>0 0</origin>
-			<zIndex>73</zIndex>
+			<origin>.5 .5</origin>
+			<pos>.375 .35463</pos>
+			<zIndex>72</zIndex>
 			<path>./../../$system/data/shadow.png</path>
 		</image>
 		

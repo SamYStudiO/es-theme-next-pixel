@@ -2,8 +2,6 @@
 
 	<formatVersion>4</formatVersion>
 	
-	<!-- original size/pos y * .8 -->
-	<!-- original pos x * .8 + .06 -->
 	<view name="detailed">
 		
 		<video name="md_video">

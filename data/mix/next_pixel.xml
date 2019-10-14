@@ -8,7 +8,7 @@
 		</Item>
 		
 		<!-- DEFAULT -->
-		<Item IfSystem="IsNotInTheList:29,130,26,40,41,80,48,23,106,13,87,115,27,2,1,14,142,70,3,104,31,114,72,57,107,22,19,20,109,4,108,105,58,59,16,18,135,213,218,43,42,113,118,116,117,64,111,66,65,79,76,77,131,141,123,49,75,56,53,206,214,223,222,216,129,86,217,21,9,12,10,52,28,146,25,82,219,221,208,211,61,102,45,46,220">
+		<Item IfSystem="IsNotInTheList:29,130,26,40,41,80,48,23,106,13,87,115,27,2,1,14,142,70,3,104,31,114,72,57,107,22,19,20,109,4,108,105,58,59,16,18,135,213,218,43,42,113,118,116,117,64,111,66,65,79,76,77,131,141,123,49,75,56,53,206,214,223,222,216,129,86,217,21,9,12,10,52,28,146,25,82,219,221,208,211,61,102,11,45,46,220">
 			<Children>
                 <Item Type="ScreenshotTitle">
                     <Display X="57.6%" Y="35.463%" Width="51.2%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="None"/>
@@ -296,6 +296,18 @@
                     <Display X="57.6%" Y="12.315%" Width="36%" Height="53.889%" KeepRatio="false" Anchor="TopHCenter" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
 						<Display X="57.6%" Y="12.315%" Width="36%" Height="53.889%" KeepRatio="false" Anchor="TopHCenter" Antialiasing="Medium"/>
+					</Fallback>
+                </Item>
+            </Children>
+		</Item>
+		
+		<!-- virtualboy -->
+		<Item IfSystem="IsInTheList:11">
+			<Children>
+                <Item Type="ScreenshotTitle">
+                    <Display X="57.6%" Y="35.463%" Width="34.56%" Height="23.333%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.6%" Y="35.463%" Width="34.56%" Height="23.333%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>

@@ -19,8 +19,8 @@
             </Children>
 		</Item>
 		
-		<!-- CONSOLES 3do,amigacd32,atari2600,atari5200,atari7800,channelf,colecovision,dreamcast,fds,gc,gx4000,intellivision,jaguar,mastersystem,megadrive,n64,neogeo,neogeocd,nes,odyssey2,pcengine,pcenginecd,pcfx,psx,satellaview,saturn,sega32x,segacd,sg1000,snes,sufami,supergrafx -->
-		<Item IfSystem="IsInTheList:29,130,26,40,41,80,48,23,106,13,87,115,27,2,1,14,142,70,3,104,31,114,72,57,107,22,19,20,109,4,108,105">
+		<!-- CONSOLES 3do,amigacd32,atari2600,atari5200,atari7800,channelf,colecovision,dreamcast,fds,gc,gx4000,intellivision,jaguar,mastersystem,megadrive,n64,neogeo,neogeocd,nes,odyssey2,pcengine,pcenginecd,pcfx,ps2,psx,satellaview,saturn,sega32x,segacd,sg1000,snes,sufami,supergrafx -->
+		<Item IfSystem="IsInTheList:29,130,26,40,41,80,48,23,106,13,87,115,27,2,1,14,142,70,3,104,31,114,72,58,57,107,22,19,20,109,4,108,105">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="systems/console.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
@@ -34,16 +34,16 @@
             </Children>
 		</Item>
 		
-		<!-- CONSOLES FLAT ps2,ps3,wii,wiiu -->
-		<Item IfSystem="IsInTheList:58,59,16,18">
+		<!-- CONSOLES FLAT ps3,wii,wiiu -->
+		<Item IfSystem="IsInTheList:59,16,18">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="systems/console_flat.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
 				</Item>
                 <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="33.333%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+                    <Display X="57.6%" Y="35.463%" Width="51.2%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="33.333%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+						<Display X="57.6%" Y="35.463%" Width="51.2%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>

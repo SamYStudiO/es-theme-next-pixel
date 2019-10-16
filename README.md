@@ -33,8 +33,15 @@ This theme support Randomizer script, check this [link](https://github.com/Volje
 - COLORSET 	: choose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
 - ICONSET 	: choose icons used for bottom left help (same as recalbox-next).
 - SYSTEMVIEW 	: choose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > TRANSITION STYLE > INSTANT for a better look and feel**.
-- GAMELISTVIEW	: choose gamelist view layout, you may show/hide different elements.
+- GAMELISTVIEW	: choose gamelist view layout, you may show/hide different elements and for each one you may adjust for Next Pixel video mix (check Next Pixel video snap mix below for more info).
 - REGION		: choose your region to adjust logo/console images (same as recalbox-next).
+
+
+### Next Pixel video snap mix
+Next Pixel theme now include its own custom mix to make your video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like [Skraper](https://www.skraper.net/). Better than a long description here are 2 captures using standard mix and using Next Pixel mix.
+[url standard mix]()
+[url Next Pixel mix]()
+To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/README.md)
 
 
 ### Multiple game themes

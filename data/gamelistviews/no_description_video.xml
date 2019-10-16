@@ -14,6 +14,14 @@
 			<maxSize>1 .9</maxSize>
 		</image>
 		
+		<video name="md_video">
+			<pos>.3375 .37</pos>
+		</video>
+		
+		<image name="shadow" extra="true">
+			<pos>.3375 .37</pos>
+		</image>
+		
 	</view>
 	
 </theme>

@@ -15,8 +15,16 @@
 			<maxSize>.9 .8</maxSize>
 		</image>
 		
+		<video name="md_video">
+			<pos>.36 .28444</pos>
+		</video>
+		
+		<image name="shadow" extra="true">
+			<pos>.36 .28444</pos>
+		</image>
+		
 		<text name="md_description">
-			<pos>.32 .77</pos>
+			<pos>.36 .77</pos>
 			<origin>.5 0</origin>
 			<size>.5 .15</size>
 		</text>

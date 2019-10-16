@@ -41,7 +41,7 @@ This theme support Randomizer script, check this [link](https://github.com/Volje
 Next Pixel theme now include its own custom mix to make your video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like [Skraper](https://www.skraper.net/). Better than a long description here are 2 captures using standard mix and using Next Pixel mix.
 [url standard mix]()
 [url Next Pixel mix]()
-To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/README.md)
+To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/README.md).
 
 
 ### Multiple game themes

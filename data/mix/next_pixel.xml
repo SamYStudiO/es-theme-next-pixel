@@ -34,8 +34,8 @@
             </Children>
 		</Item>
 		
-		<!-- CONSOLES 3do,amigacd32,dreamcast,fds,gc,gx4000,jaguar,megadrive,n64,neogeo,neogeocd,pcengine,pcenginecd,pcfx,ps2,psx,satellaview,saturn,sega32x,segacd,snes,sufami,supergrafx -->
-		<Item IfSystem="IsInTheList:29,130,23,13,87,27,2,1,14,142,70,31,114,72,58,57,107,22,19,20,4,108,105">
+		<!-- CONSOLES 3do,amigacd32,dreamcast,gc,gx4000,jaguar,megadrive,n64,neogeo,neogeocd,pcengine,pcenginecd,pcfx,ps2,psx,satellaview,saturn,sega32x,segacd,snes,sufami,supergrafx -->
+		<Item IfSystem="IsInTheList:29,130,23,13,87,27,1,14,142,70,31,114,72,58,57,107,22,19,20,4,108,105">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="systems/console.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />

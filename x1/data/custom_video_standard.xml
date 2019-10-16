@@ -9,7 +9,7 @@
 		</video>
 		
 		<image name="shadow" extra="true">
-			<maxSize>.26667 .36</maxSize>
+			<maxSize>.27083 .36741</maxSize>
 		</image>
 		
 	</view>

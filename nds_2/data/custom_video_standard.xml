@@ -5,13 +5,11 @@
 	<view name="detailed">
 		
 		<video name="md_video">
-			<origin>.5 0</origin>
-			<pos>.36 .05556</pos>
-			<maxSize>.17 .45630</maxSize>
+			<size>.17 .4563</size>
 		</video>
 		
 		<image name="shadow" extra="true">
-			<size>.17 .45630</size>
+			<size>.17417 .4637</size>
 		</image>
 		
 	</view>

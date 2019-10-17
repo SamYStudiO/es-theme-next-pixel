@@ -335,9 +335,9 @@
 		<Item IfSystem="IsInTheList:102">
 			<Children>
                 <Item Type="ScreenshotTitle">
-                    <Display X="57.6%" Y="12.315%" Width="36%" Height="53.889%" KeepRatio="false" Anchor="TopHCenter" Antialiasing="Medium"/>
+                    <Display X="57.6%" Y="35.463%" Width="34.4%" Height="48.889%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.6%" Y="12.315%" Width="36%" Height="53.889%" KeepRatio="false" Anchor="TopHCenter" Antialiasing="Medium"/>
+						<Display X="57.6%" Y="35.463%" Width="34.4%" Height="48.889%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
 					</Fallback>
                 </Item>
             </Children>

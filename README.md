@@ -2,6 +2,8 @@
 This theme is designed to display a full screen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music and a custom rating icon that match that game.
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
+**Theme is configured by default to use a custom mix to scrap your game images, please read carefully documentation below to get more info**.
+
 **Theme is compatible with Recalbox 6.1+ and with 16:9, 4:3 and small 4:3 screens like GPi CASE**.
 
 Here are some screenshots using different theme settings:
@@ -33,15 +35,20 @@ This theme support Randomizer script, check this [link](https://github.com/Volje
 - COLORSET 	: choose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
 - ICONSET 	: choose icons used for bottom left help (same as recalbox-next).
 - SYSTEMVIEW 	: choose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > TRANSITION STYLE > INSTANT for a better look and feel**.
-- GAMELISTVIEW	: choose gamelist view layout, you may show/hide different elements and for each one you may adjust for **Next Pixel video mix** (check Next Pixel video snap mix below for more info).
+- GAMELISTVIEW	: choose gamelist view layout, you may show/hide different elements and for each one you may adjust for **Next Pixel mix** (check *Scraping / Next Pixel mix* below for more info) or others mixes. **If you do not want to use Next Pixel mix select any "others mixes" option here or you will get some weird graphical assets overlaying your scraped images**.
 - REGION		: choose your region to adjust logo/console images (same as recalbox-next).
 
 
-### Next Pixel video snap mix
-Next Pixel theme now include its own custom mix to make your video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like [Skraper](https://www.skraper.net/). Better than a long description here are 2 captures using standard mix and using Next Pixel mix.
-[url standard mix]()
-[url Next Pixel mix]()
+### Scraping / Next Pixel mix
+Next Pixel theme now includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like [Skraper](https://www.skraper.net/). Better than a long description here are 2 captures using standard mix and using Next Pixel mix.
+
+[url gif standard mix]()
+
+[url gif Next Pixel mix]()
+
 To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/README.md).
+
+**If you do not want to use Next Pixel mix select any "others mixes" option from "GAMELISTVIEW" settings or you will get some weird graphical assets overlaying your scraped images**.
 
 
 ### Multiple game themes

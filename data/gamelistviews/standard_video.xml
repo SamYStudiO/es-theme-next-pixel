@@ -16,11 +16,11 @@
 		</image>
 		
 		<video name="md_video">
-			<pos>.36 .28444</pos>
+			<pos>.36 .2837</pos>
 		</video>
 		
 		<image name="shadow" extra="true">
-			<pos>.36 .28444</pos>
+			<pos>.36 .2837</pos>
 		</image>
 		
 		<text name="md_description">

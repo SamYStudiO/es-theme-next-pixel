@@ -19,7 +19,7 @@
             </Children>
 		</Item>
 		
-		<!-- CONSOLES OLD atari2600,atari5200,atari7800,channelf,colecovision,fds,intellivision,mastersystem,nes,odyssey2,sg1000 -->
+		<!-- CONSOLES OLD atari2600,atari5200,atari7800,channelf,colecovision,fds,intellivision,mastersystem,multivision,nes,odyssey2,sg1000 -->
 		<Item IfSystem="IsInTheList:26,40,41,80,48,106,115,2,3,104,109">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="systems/console_old.png">
@@ -209,7 +209,7 @@
 		<Item IfSystem="IsInTheList:52">
 			<Children>
                 <Item Type="SupportTexture">
-                    <Display X="57.6%" Y="38.657%" Width="80%" Height="60%" KeepRatio="true" Anchor="VCenterHCenter"/>
+                    <Display X="57.6%" Y="35.463%" Width="80%" Height="60%" KeepRatio="true" Anchor="VCenterHCenter"/>
                 </Item>
 				<Item Type="Box3D">
 					<Display X="55.6%" Y="80%" Width="26%" Height="50%" Anchor="VCenterRight" />

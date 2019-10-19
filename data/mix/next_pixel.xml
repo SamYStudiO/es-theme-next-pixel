@@ -1,6 +1,6 @@
 ﻿<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<Information ShortName="Next Pixel Mix 1080" LongName="Next Pixel Mix 1080" Description="Next Pixel mix optimized for video integration" Author="SamYStudiO" />
-	<Viewport Color="#00000000" Width="1260" Height="1080" />
+	<Information ShortName="Next Pixel Mix 720" LongName="Next Pixel Mix 720" Description="Next Pixel mix optimized for video integration" Author="SamYStudiO" />
+	<Viewport Color="#00000000" Width="840" Height="720" />
 	<Drawings>
 	
 		<Item Type="LocalFile" LocalFilePath="systems/%SYSTEM%.png">

@@ -44,8 +44,8 @@ For **Raspberry Pi users** with low memory (2go or less) using **720p package**,
     * **high quality** but space consuming **320x240**
     * **medium quality** with less space impact **160x120**
   * With **crt small** package
-    * **high quality** but space consuming **160x120**
-    * **medium quality** with less space impact **80x60**
+    * **high quality** but space consuming **120x90**
+    * **medium quality** with less space impact **60x45**
 - You're done, you can launch your scrap.
 - **Enyoy!!!**
 

@@ -2,7 +2,7 @@
 This theme is designed to display a full screen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music and a custom rating icon that match that game.
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
-**Theme is configured by default to use a custom mix to scrap your game images, please read carefully documentation below to get more info**.
+**Theme is configured by default to use a custom mix to scrap your game images, please read carefully documentation below to get more info even if you don't want to use it as you'll have to adjust theme GAMELISTVIEW option to get it work properly with others mixes**.
 
 **Theme is compatible with Recalbox 6.1+ and with 16:9, 4:3 and small 4:3 screens like GPi CASE**.
 
@@ -48,7 +48,7 @@ Next Pixel theme now includes its own custom mix to make your game screenshots a
 
 To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/README.md).
 
-**If you do not want to use Next Pixel mix select any "others mixes" option from "GAMELISTVIEW" settings or you will get some weird graphical assets overlaying your scraped images**.
+**If you do not want to use Next Pixel mix select any "others mixes" option from theme GAMELISTVIEW settings or you will get some weird graphical assets overlaying your scraped images**. Press Start > UI SETTINGS > THEME > THEME CONFIGURATION > THEME GAMELISTVIEW > choose any layout with "others mixes".
 
 
 ### Multiple game themes

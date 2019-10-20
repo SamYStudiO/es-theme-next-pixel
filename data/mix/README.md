@@ -1,3 +1,10 @@
+### Next Pixel mix
+Next Pixel theme now includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like Skraper. Better than a long description here some captures:
+
+Known issues using Next Pixel mix:
+- Next Pixel mix uses some overlay on top of your scraped images to make your screenshots/videos appear like they were displayed on a screen (tv/monitor), unfortunately these overlay will appear also for your folder. If you don't use folders this won't be a issue. Note this issue may be fixed in a future Recalbox release.
+- For Favorites system videos won't always matched scraped screenshot size as favorites may contain different systems and each systems may have a different resolution. Due to this restriction overlay mention aboved won't be display for Favorites system and so integration may look a bit sloppy here.
+
 ### Installation
 To scrap images using Next pixel custom mix you need to use a tool such as [Skraper](https://www.skraper.net/). I won't explain much about Skraper as there is already all the info needed around  and you may get help from [Skraper thread from Recalbox forum](https://forum.recalbox.com/topic/13953/soft-skraper) or from [Discord](https://discordapp.com/invite/VNNBkaq). Once you are familiar with Skraper let's have a look on how to scrap using Next Pixel mix.
 
@@ -47,6 +54,7 @@ For **Raspberry Pi users** with low memory (2go or less) using **720p package**,
     * **high quality** but space consuming **120x90**
     * **medium quality** with less space impact **60x45**
 - You're done, you can launch your scrap.
+- Make sure you have selected a next pixel mix option from GAMELISTVIEW settings, press Start > UI SETTINGS > THEME > THEME CONFIGURATION > THEME GAMELISTVIEW > choose any layout with "Next Pixel mix".
 - **Enyoy!!!**
 
 

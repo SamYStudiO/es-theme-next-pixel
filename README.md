@@ -51,7 +51,7 @@ To get more info on how to use Next Pixel mix, check [documentation](https://git
 **If you do not want to use Next Pixel mix select any "others mixes" option from theme GAMELISTVIEW settings or you will get some weird graphical assets overlaying your scraped images**. Press Start > UI SETTINGS > THEME > THEME CONFIGURATION > THEME GAMELISTVIEW > choose any layout with "others mixes".
 
 
-### Multiple game themes
+### Multiple system game themes
 Some systems may contain several game themes, in that case system folder is duplicated with "_2", "_3", "_x" suffix [folder]_2, [folder]_3, [folder]_x (for example cavestory_2), if you prefer medias in that folder just remove or rename original folder so you can next rename [folder]_x to [folder] (then you need to restart recalbox if it was running).
 Actual systems with multiple game themes :
 - atarist : 1 game theme with 2 different images available
@@ -68,8 +68,22 @@ Actual systems with multiple game themes :
 - snes : 3 different game themes available
 - wii : 2 different game themes available
 
-To help you choose, all systems images are visible from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
+To help you choose, all systems images are visible from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/) or if you can't make your choice you may consider using random script so each time you start Recalbox you get a different game theme, see next section for more info.
 
+
+### Random system game themes
+Next Pixel theme includes a custom start script for Recalbox to randomly change systems game themes. As seen previoulsy some systems may contains multiple game themes, when using this script such systems will randomly load a game theme when Recalbox start. This script named "S997next-pixel-random-system-game-theme" is located at your Next Pixel theme root installation. You need to drop this file in your Recalbox */etc/init.d/* folder. To do so you can use command line tool with PuTTy or tool such as WinSCP to connect to your Recalbox. You may read [this](https://github.com/recalbox/recalbox-os/wiki/Add-your-own-startup-script-(EN)) to get more info on starting scripts. 
+
+**Note script assume you use default Next Pixel theme folder installation**. If you changed Next Pixel installation folder name you need to adjust script or restore your Next Pixel theme installation folder name.
+- If you want to adjust script, open the file with a text editor and adjust second line to match your Next Pixel theme installation folder *cd /recalbox/share/themes/[set your next pixel theme folder here]/*
+- If you prefer to restore your installation folder name here are the right name depending on your package:
+  - **1080p**: es-theme-next-pixel-1080p
+  - **720p**: es-theme-next-pixel-720p
+  - **480p**: es-theme-next-pixel-480p
+  - **crt**: es-theme-next-pixel-crt
+  - **crt-small**: es-theme-next-pixel-crt-small
+
+**Once you script is dropped in the right folder don't forget to change file permission so Recalbox is allow to execute it**.
 
 
 ### Move a game theme to another system

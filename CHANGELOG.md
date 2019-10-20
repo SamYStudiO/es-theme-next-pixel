@@ -1,6 +1,7 @@
 ### Changelog
 2019/xx/xx - 1.3
-- Add Next Pixel custom mix for better to enhance scraped images and video snaps integration
+- Add Next Pixel custom mix to enhance scraped images and video snaps integration
+- Add random system game theme script
 
 2019/10/02 - 1.2.1
 - Normalize musics to match recent change from recalbox-next ones

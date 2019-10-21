@@ -139,7 +139,7 @@ If you don't want to change memory settings or you're using PSP system then you 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases/tag/v1.0) previous packages for recalbox 6.0 or lower.
 
 #### 4:3 screens
-2 packages are available with 1024x768 images and 320x240 images, if you're using a screen with higher resolution than 320x240 pick **crt package**, if you're using 320x240 or lower screen (lie GPi CASE) pick **crt-small package**. **If you're using 1024x768 package with a screen with higher resolution than 1024x768, I highly recommend to force recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) using PuTTy or WinSCP.
+2 packages are available with 1024x768 images and 320x240 images, if you're using a screen with higher resolution than 320x240 pick **crt package**, if you're using 320x240 or lower screen (like GPi CASE) pick **crt-small package**. **If you're using 1024x768 package with a screen with higher resolution than 1024x768, I highly recommend to force recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) using PuTTy or WinSCP.
 
 **Don't forget to allow write access before modify your file**.
 - If you're using PuTTy use *mount -o remount,rw /boot* commmand.

@@ -22,6 +22,13 @@ Here are some screenshots using different theme settings:
 
 ![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/6.png)
 
+![7](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/7.png)
+
+![8](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/8.png)
+
+![vectrex](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
+
+
 Watch all system images from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
 
 
@@ -42,9 +49,11 @@ This theme support Randomizer script, check this [link](https://github.com/Volje
 ### Scraping / Next Pixel mix
 Next Pixel theme now includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like [Skraper](https://www.skraper.net/). Better than a long description here are 2 captures using standard mix and using Next Pixel mix.
 
-[url gif standard mix]()
+**Standard mix**
+![snes_old](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes_old.gif)
 
-[url gif Next Pixel mix]()
+**Next Pixel mix**
+![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes.gif)
 
 To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/README.md).
 

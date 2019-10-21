@@ -73,6 +73,9 @@ To help you choose, all systems images are visible from [Next Pixel website](htt
 
 ### Random system game themes
 Next Pixel theme includes a custom start script for Recalbox to randomly change systems game themes. As seen previoulsy some systems may contains multiple game themes, when using this script such systems will randomly load a game theme when Recalbox start. This script named "S997next-pixel-random-system-game-theme" is located at your Next Pixel theme root installation. You need to drop this file in your Recalbox */etc/init.d/* folder. To do so you can use command line tool with PuTTy or tool such as WinSCP to connect to your Recalbox. You may read [this](https://github.com/recalbox/recalbox-os/wiki/Add-your-own-startup-script-(EN)) to get more info on starting scripts. 
+**Don't forget to allow write access before droping your file**.
+- If you're using PuTTy use *mount -o remount,rw /* commmand.
+- If you're using WinSCP open console (Ctrl + T), enter command *mount -o remount,rw /* and click Execute.
 
 **Note script assume you use default Next Pixel theme folder installation**. If you changed Next Pixel installation folder name you need to adjust script or restore your Next Pixel theme installation folder name.
 - If you want to adjust script, open the file with a text editor and adjust second line to match your Next Pixel theme installation folder *cd /recalbox/share/themes/[set your next pixel theme folder here]/*
@@ -84,6 +87,8 @@ Next Pixel theme includes a custom start script for Recalbox to randomly change 
   - **crt-small**: es-theme-next-pixel-crt-small
 
 **Once you script is dropped in the right folder don't forget to change file permission so Recalbox is allow to execute it**.
+- If you're using PuTTy use *chmod +x S997next-pixel-random-system-game-theme* commmand.
+- If you're using WinSCP right click on *S997next-pixel-random-system-game-theme* file and from *Permissions* check all "X" execution boxes.
 
 
 ### Move a game theme to another system
@@ -107,13 +112,19 @@ Several packages are available depending on your screen ratio and resolution. Ac
 3 packages are available with 1080p images (full hd screens, 4K, 8K), 720p images (hd screens) or 480p images (intended for Raspberry users).
 
 **If you are a Raspberry Pi user please read carefully next lines (PC/Odroid users can skip to download links and grab package that match best their screen resolution).
-Raspberry Pi may lead to memory issues when using a lot of images. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. I highly recommend to force recalbox to run at 720p if your screen is running higher resolution, as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+Raspberry Pi may lead to memory issues when using a lot of images. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. **I highly recommend to force recalbox to run at 720p if your screen is running higher resolution, as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) using PuTTy or WinSCP.
+
+**Don't forget to allow write access before modify your file**.
+- If you're using PuTTy use *mount -o remount,rw /boot* commmand.
+- If you're using WinSCP open console (Ctrl + T), enter command *mount -o remount,rw /boot* and click Execute.
+
+From this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=1
 - hdmi_mode=4
 
 Don't forget to remove '#' char on those lines if present.
 
-If you still have issues with 720p (mainly images replaced with white rectangle) **and you already have forced recalbox to run at 720p** you may try to allocate more gpu memory. Edit the same [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) file, this time search for *gpu_mem_1024=448* and set it to *gpu_mem_1024=512*.
+If you still have issues with 720p (mainly images replaced with white rectangle) **and you already have forced recalbox to run at 720p** you may try to allocate more gpu memory. Edit the same [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) file, this time search for *gpu_mem_1024=448* and set it to *gpu_mem_1024=512* and once again **Don't forget to allow write access before modify your file**.
 
 **Warning: PSP emulator may not work anymore, so if you're not using PSP system this shouldn't be a problem.**
 
@@ -128,7 +139,13 @@ If you don't want to change memory settings or you're using PSP system then you 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases/tag/v1.0) previous packages for recalbox 6.0 or lower.
 
 #### 4:3 screens
-2 packages are available with 1024x768 images and 320x240 images, if you're using a screen with higher resolution than 320x240 pick **crt package**, if you're using 320x240 or lower screen (lie GPi CASE) pick **crt-small package**. **If you're using 1024x768 package with a screen with higher resolution than 1024x768, I highly recommend to force recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), from this file search for *hdmi_group* and *hdmi_mode* and set both as following:
+2 packages are available with 1024x768 images and 320x240 images, if you're using a screen with higher resolution than 320x240 pick **crt package**, if you're using 320x240 or lower screen (lie GPi CASE) pick **crt-small package**. **If you're using 1024x768 package with a screen with higher resolution than 1024x768, I highly recommend to force recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) using PuTTy or WinSCP.
+
+**Don't forget to allow write access before modify your file**.
+- If you're using PuTTy use *mount -o remount,rw /boot* commmand.
+- If you're using WinSCP open console (Ctrl + T), enter command *mount -o remount,rw /boot* and click Execute.
+
+From this file search for *hdmi_group* and *hdmi_mode* and set both as following:
 - hdmi_group=2
 - hdmi_mode=16
 

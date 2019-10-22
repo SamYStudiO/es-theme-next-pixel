@@ -12,7 +12,7 @@ Next Pixel theme now includes its own custom mix to make your game screenshots a
 ![pokemini](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/pokemini.gif)
 
 Known issues using Next Pixel mix:
-- Next Pixel mix uses some overlay on top of your scraped images to make your screenshots/videos appear like they were displayed on a screen (tv/monitor), unfortunately these overlay will appear also for your folder. If you don't use folders this won't be a issue. Note this issue may be fixed in a future Recalbox release.
+- Next Pixel mix uses some overlay on top of your scraped images to make your screenshots/videos appear like they were displayed on a screen (tv/monitor), unfortunately these overlay will appear also for your folders. If you don't use folders this won't be a issue. Note this issue may be fixed in a future Recalbox release.
 - For Favorites system videos won't always matched scraped screenshot size as favorites may contain different systems and each systems may have a different resolution. Due to this restriction overlay mention aboved won't be display for Favorites system and so integration may look a bit sloppy here.
 
 ### Installation

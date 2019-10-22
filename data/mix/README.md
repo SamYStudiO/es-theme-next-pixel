@@ -1,3 +1,6 @@
+### Next Pixel mix
+Next Pixel theme now includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like Skraper. Better than a long description here some captures:
+
 ![gamegear](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamegear.gif)
 
 ![gb](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gb.gif)
@@ -7,9 +10,6 @@
 ![gw](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gw.gif)
 
 ![pokemini](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/pokemini.gif)
-
-### Next Pixel mix
-Next Pixel theme now includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like Skraper. Better than a long description here some captures:
 
 Known issues using Next Pixel mix:
 - Next Pixel mix uses some overlay on top of your scraped images to make your screenshots/videos appear like they were displayed on a screen (tv/monitor), unfortunately these overlay will appear also for your folder. If you don't use folders this won't be a issue. Note this issue may be fixed in a future Recalbox release.

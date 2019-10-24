@@ -33,7 +33,7 @@ First you need to make sure Next Pixel theme is installed since custom mix files
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/2.png)
 
 **Warning this means that if you switch package later on you should scrap your games again, since each packages use an optimized mix for its resolution**.
-For **Raspberry Pi users** with low memory (2go or less) using **720p package**, if you have memory issues you may reduce scrap image resolution. To do so resize images as following: 
+For **Raspberry Pi users** with low memory (2go or less) using **720p package**, if you have memory issues you may reduce scrap image resolution. To do so resize images as following (note this is not required if you are using 480p package since its mix will already be set to generate 480p images): 
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/3.png)
 

@@ -1,7 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	
+
 	<view name="detailed">
 
 		<image name="md_image">
@@ -9,18 +9,18 @@
 			<pos>0 0</pos>
 			<maxSize>1 1</maxSize>
 		</image>
-		
+
 		<video name="md_video">
 			<pos>.375 .35463</pos>
 		</video>
-		
+
 		<image name="shadow" extra="true">
 			<origin>.5 .5</origin>
 			<pos>.375 .35463</pos>
 			<zIndex>72</zIndex>
 			<path>./../../$system/data/next_pixel_mix_overlay.png</path>
 		</image>
-		
+
 	</view>
-	
+
 </theme>

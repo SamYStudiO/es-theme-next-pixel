@@ -5,7 +5,7 @@
 	<include>./common_info.xml</include>
 	
 	<view name="system">
-	
+
 		<image name="system_info_background" extra="true">
 			<pos>.5 .667</pos>
 			<origin>.5 0</origin>

@@ -1,12 +1,12 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	
+
 	<view name="system">
-		
+
 		<!-- transparent black to make sure system info is readable across all background -->
 		<image name="system_info_background" extra="true" />
-		
+
 		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
 			<alignment>center</alignment>
 			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
@@ -15,7 +15,7 @@
 			<size>.44 .02</size>
 			<zIndex>200</zIndex>
 		</text>
-		
+
 	</view>
-	
+
 </theme>

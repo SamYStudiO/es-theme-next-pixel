@@ -1,22 +1,22 @@
 <theme>
 
-    <formatVersion>4</formatVersion>
+	<formatVersion>4</formatVersion>
 	<include>./common.xml</include>	
-	
+
 	<feature supported="carousel">
-  
+
 		<view name="system">
 
 			<image name="background" extra="true" />
-		
+
 			<image name="system_carousel_background" extra="true">
 				<color>ffffff</color>
 			</image>
-			
+
 			<image name="system_carousel_border" extra="true">
 				<color>ffffff</color>
 			</image>
-		
+
 			<image name="systemInfoBack" extra="true">
 				<color>ffffff</color>
 			</image>
@@ -28,36 +28,36 @@
 		</view>
 
 	</feature>
-	
+
 	<view name="system">
-	
+
 		<text name="logoText">
 			<color>ffffff</color>
 		</text>
-		
+
 		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
 			<color>ffffff</color>
 		</text>
-		
+
 	</view>
-	
+
 	<view name="basic, detailed">
-	
+
 		<image name="gamelist_background" extra="true">
 			<color>222222</color>
 		</image>
-		
+
 		<textlist name="gamelist">
 			<selectorColor>222222</selectorColor>
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
 		</textlist>
-		
+
 		<image name="gamelist_border" extra="true">
 			<color>222222</color>
 		</image>
-		
+
 	</view>
-	
+
 </theme>

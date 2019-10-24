@@ -2,23 +2,23 @@
 
 	<formatVersion>4</formatVersion>	
 	<include>./common.xml</include>
-	
+
 	<feature supported="carousel">
-  
+
 		<view name="system">
-		
+
 			<image name="system_carousel_background" extra="true">
 				<size>1 .305</size>
 				<origin>0 1</origin>
 				<pos>0 .613</pos>
 				<path>./../arts/system_carousel_horizontal_background.png</path>
 			</image>
-		
+
 			<carousel name="systemcarousel">
 				<pos>0 .432</pos>
 				<size>1 .18</size>
 			</carousel>
-			
+
 			<image name="system_carousel_border" extra="true">
 				<size>1 .028</size>
 				<pos>0 .613</pos>
@@ -33,19 +33,19 @@
 		</view>
 
 	</feature>
-	
+
 	<view name="system">
-		
+
 		<image name="background" extra="true">
 			<path>./../../$system/background.jpg</path>
 		</image>
-		
+
 		<image name="console" extra="true">
 			<pos>.98 .82</pos>
 			<maxSize>.2 .2</maxSize>
 			<origin>1 .5</origin>
 		</image>
-		
+
 	</view>
-	
+
 </theme>

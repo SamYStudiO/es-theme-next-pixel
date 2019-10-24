@@ -1,19 +1,19 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	
+
 	<feature supported="carousel">
-  
+
 		<view name="system">
-		
+
 			<image name="system_carousel_background" extra="true" />
-		
+
 			<carousel name="systemcarousel">
 				<logoScale>2</logoScale>
 				<logoSize>1 .05</logoSize>
 				<color>ffffff00</color>
 			</carousel>
-			
+
 			<image name="system_carousel_border" extra="true">
 				<path>./../arts/white.png</path>
 			</image>
@@ -26,19 +26,19 @@
 		</view>
 
 	</feature>
-	
+
 	<view name="system">
-		
+
 		<image name="background" extra="true">
 			<pos>.5 .5</pos>
 			<origin>.5 .5</origin>
 			<maxSize>2 1</maxSize>
 		</image>
-		
+
 		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
 			<pos>2 2</pos>
 		</text>
-		
+
 		<image name="logo">
 			<path>./../../$system/data/logo.svg</path>
 		</image> 
@@ -51,7 +51,7 @@
 		<image name="logo" region="jp">
 			<path>./../../$system/data/jp/logo.svg</path>
 		</image>
-		
+
 		<image name="console" extra="true">
 			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/console.svg</path>
 		</image>
@@ -64,7 +64,7 @@
 		<image name="console" extra="true" region="us">
 			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/us/console.svg</path>
 		</image>
-		
+
 	</view>
-	
+
 </theme>

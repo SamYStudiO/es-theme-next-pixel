@@ -1,14 +1,14 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	
+
 	<view name="menu">
-	
+
 		<menuText name="menufooter">
 			<fontSize>.025</fontSize>
 			<color>ffffffff</color>
 		</menuText>
-		
+
 		<menuText name="menutext">
 			<fontSize>.035</fontSize>
 			<color>ffffffff</color>
@@ -16,23 +16,23 @@
 			<selectorColor>ffffffff</selectorColor>
 			<selectedColor>333333FF</selectedColor>
 		</menuText>
-		
+
 		<menuTextSmall name="menutextsmall">
 			<fontSize>.028</fontSize>
 			<color>ffffffff</color>
 		</menuTextSmall>
-		
+
 		<menuText name="menutitle">
 			<fontSize>.04</fontSize>
 			<color>ffffffff</color>
 		</menuText>
-		
+
 		<menuBackground name="menubg">
 			<color>222222ee</color>
 			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/frame.png</path>
 			<fadePath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/scroll_gradient.png</fadePath>
 		</menuBackground>
-		
+
 		<menuIcons name="menuicons">
 			<iconKodi>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Kodi.png</iconKodi>
 			<iconSystem>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/System.png</iconSystem>
@@ -49,7 +49,7 @@
 			<iconShutdown>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Shutdown.png</iconShutdown>
 			<iconFastShutdown>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Fastshutdown.png</iconFastShutdown>			
 		</menuIcons>
-		
+
 	</view>
-	
+
 </theme>

@@ -3,16 +3,16 @@
 	<formatVersion>4</formatVersion>	
 	<include>./horizontal_legacy_common.xml</include>
 	<include>./common_info.xml</include>
-	
+
 	<view name="system">
-	
+
 		<image name="system_info_background" extra="true">
 			<pos>.5 .642</pos>
 			<origin>.5 0</origin>
 			<size>.4 .5</size>
 			<path>./../arts/system_info_gradient_background.png</path>
 		</image>
-		
+
 		<text name="info1" extra="true">
 			<pos>.5 .69</pos>
 		</text>
@@ -49,7 +49,7 @@
 		<text name="info12" extra="true">
 			<pos>.5 .91</pos>
 		</text>
-		
+
 	</view>
-	
+
 </theme>

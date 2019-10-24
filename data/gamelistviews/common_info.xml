@@ -1,15 +1,15 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	
+
 	<view name="detailed">
-		
+
 		<rating name="md_rating">
 			<origin>1 .5</origin>
 			<size>0 .037</size>
 			<pos>.718 .29</pos>
 		</rating>
-		
+
 		<image name="release_date_logo" extra="true">
 			<origin>1 .5</origin>
 			<pos>.745 .35</pos>
@@ -17,13 +17,13 @@
 			<path>./../arts/game_info_releasedate.svg</path>
 			<zIndex>50</zIndex>
 		</image>
-		
+
 		<datetime name="md_releasedate">
 			<pos>.585 .345</pos>
 			<size>.11 .01</size>
 			<alignment>right</alignment>
 		</datetime>
-		
+
 		<image name="publisher_logo" extra="true">
 			<origin>1 .5</origin>
 			<pos>.752 .41</pos>
@@ -31,13 +31,13 @@
 			<path>./../arts/game_info_publisher.svg</path>
 			<zIndex>50</zIndex>
 		</image>
-		
+
 		<text name="md_publisher">
 			<pos>.589 .405</pos>
 			<size>.11 .01</size>
 			<alignment>right</alignment>
 		</text>
-		
+
 		<image name="developer_logo" extra="true">
 			<origin>1 .5</origin>
 			<pos>.754 .47</pos>
@@ -45,13 +45,13 @@
 			<path>./../arts/game_info_developer.svg</path>
 			<zIndex>50</zIndex>
 		</image>
-		
+
 		<text name="md_developer">
 			<pos>.591 .465</pos>
 			<size>.11 .01</size>
 			<alignment>right</alignment>
 		</text>
-		
+
 		<image name="genre_logo" extra="true">
 			<origin>1 .5</origin>
 			<pos>.754 .53</pos>
@@ -59,13 +59,13 @@
 			<path>./../arts/game_info_genre.svg</path>
 			<zIndex>50</zIndex>
 		</image>
-		
+
 		<text name="md_genre">
 			<pos>.591 .525</pos>
 			<size>.11 .01</size>
 			<alignment>right</alignment>
 		</text>
-		
+
 		<image name="players_logo" extra="true">
 			<origin>1 .5</origin>
 			<pos>.752 .59</pos>
@@ -73,13 +73,13 @@
 			<path>./../arts/game_info_players.svg</path>
 			<zIndex>50</zIndex>
 		</image>
-		
+
 		<text name="md_players">
 			<pos>.589 .585</pos>
 			<size>.11 .01</size>
 			<alignment>right</alignment>
 		</text>
-		
+
 		<image name="lastplayed_logo" extra="true">
 			<origin>1 .5</origin>
 			<!--<pos>.747 .65</pos>-->
@@ -88,13 +88,13 @@
 			<path>./../arts/game_info_lastplayed.svg</path>
 			<zIndex>50</zIndex>
 		</image>
-		
+
 		<datetime name="md_lastplayed">
 			<!--<pos>.637 .63</pos>-->
 			<pos>2 2</pos>
 			<alignment>right</alignment>
 		</datetime>
-		
+
 		<image name="playcount_logo" extra="true">
 			<origin>1 .5</origin>
 			<!--<pos>.738 .71</pos>-->
@@ -103,14 +103,14 @@
 			<path>./../arts/game_info_playcount.svg</path>
 			<zIndex>50</zIndex>
 		</image>
-		
+
 		<text name="md_playcount">
 			<!--<pos>.565 .635</pos>-->
 			<pos>.585 .645</pos>
 			<size>.11 .01</size>
 			<alignment>right</alignment>
 		</text>
-		
+
 	</view>
-	
+
 </theme>

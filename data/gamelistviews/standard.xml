@@ -3,7 +3,7 @@
 	<include>./common.xml</include>
 	<include>./common_info.xml</include>
 	<include>./common_description.xml</include>
-	
+
 	<view name="detailed">
 
 		<!-- for debugging -->
@@ -15,23 +15,23 @@
 			<path>./../arts/white.png</path>
 			<color>ffffff</color>
 		</image>-->
-		
+
 		<image name="md_image">
 			<pos>.32 .4</pos>
 			<maxSize>.55 .7</maxSize>
 		</image>
-		
+
 		<video name="md_video">
 			<pos>.32 .4</pos>
 			<maxSize>.55 .7</maxSize>
 		</video>
-		
+
 		<text name="md_description">
 			<pos>.32 .77</pos>
 			<origin>.5 0</origin>
 			<size>.5 .15</size>
 		</text>
-		
+
 	</view>
-	
+
 </theme>

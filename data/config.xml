@@ -1,6 +1,6 @@
 <theme>
-    <formatVersion>4</formatVersion>
-	
+	<formatVersion>4</formatVersion>
+
 	<include subset="colorset" name="1a-light with game accent">./colorsets/light_game_accent.xml</include>
 	<include subset="colorset" name="1b-light">./colorsets/light.xml</include>
 	<include subset="colorset" name="2a-dark with game accent">./colorsets/dark_game_accent.xml</include>
@@ -10,7 +10,7 @@
 	<include subset="colorset" name="4b-light system, dark gamelist">./colorsets/light_system_dark_gamelist.xml</include>
 	<include subset="colorset" name="5a-dark system, light gamelist, with game accent">./colorsets/dark_system_light_gamelist_game_accent.xml</include>
 	<include subset="colorset" name="5b-dark system, light gamelist">./colorsets/dark_system_light_gamelist.xml</include>
-	
+
 	<include subset="iconset" name="1-standard icons">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/default.xml</include>
 	<include subset="iconset" name="2-snes">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/snes.xml</include>
 	<include subset="iconset" name="3-snes alt">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/snesalt.xml</include>
@@ -18,7 +18,7 @@
 	<include subset="iconset" name="5-psx">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/psx.xml</include>
 	<include subset="iconset" name="6-xbox one">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/xboxone.xml</include>
 	<include subset="iconset" name="7-arcade">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/arcade.xml</include>
-	
+
 	<include subset="menu" name="1-next pixel">./menus/next_pixel.xml</include>
 	<include subset="menu" name="2-light blue icons">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/recalbox_icons.xml</include>
 	<include subset="menu" name="3-light blue">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/recalbox.xml</include>
@@ -26,7 +26,7 @@
 	<include subset="menu" name="5-standard - small font">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/small.xml</include>
 	<include subset="menu" name="6-clean">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/clean.xml</include>
 	<include subset="menu" name="7-clean light">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/cleanlight.xml</include>
-	
+
 	<include subset="systemview" name="1a-vertical wheel, info short (4 lines)">./systemviews/vertical_wheel_short_info.xml</include>
 	<include subset="systemview" name="1b-vertical wheel, info (all lines)">./systemviews/vertical_wheel_all_info.xml</include>
 	<include subset="systemview" name="1c-vertical wheel, no info">./systemviews/vertical_wheel_common.xml</include>
@@ -36,12 +36,12 @@
 	<include subset="systemview" name="3a-horizontal legacy, info short (4 lines)">./systemviews/horizontal_legacy_short_info.xml</include>
 	<include subset="systemview" name="3b-horizontal legacy, info (all lines)">./systemviews/horizontal_legacy_all_info.xml</include>
 	<include subset="systemview" name="3c-horizontal legacy, no info">./systemviews/horizontal_legacy_common.xml</include>
-	
+
 	<include subset="gamelistview" name="1a-standard with Next Pixel mix">./gamelistviews/standard_next_pixel_mix.xml</include>
 	<include subset="gamelistview" name="1b-standard with others mixes">./gamelistviews/standard.xml</include>
 	<include subset="gamelistview" name="2a-no description with Next Pixel mix">./gamelistviews/no_description_next_pixel_mix.xml</include>
 	<include subset="gamelistview" name="2b-no description with others mixes">./gamelistviews/no_description.xml</include>
 	<include subset="gamelistview" name="3a-picture only with Next Pixel mix">./gamelistviews/picture_only_next_pixel_mix.xml</include>
 	<include subset="gamelistview" name="3b-picture only with others mixes">./gamelistviews/picture_only.xml</include>
-	
+
 </theme>

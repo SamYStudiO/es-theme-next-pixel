@@ -3,37 +3,37 @@
 	<formatVersion>4</formatVersion>
 	<include>./data/config.xml</include>
 	<include>./$system/data/custom.xml</include>
-	
+
 	<view name="system">
-	
+
 		<!-- default music when system music is missing -->
 		<sound name="directory">
 			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/music</path>
 		</sound>
-		
+
 		<!-- system music -->
 		<sound name="bgsound">
 			<path>./$system/music.ogg</path>
-	    </sound>
-		
+		</sound>
+
 	</view>
-	
+
 	<view name="menu, system">
-	
+
 		<helpsystem name="help">
 			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/steelfishrg.ttf</fontPath>
 			<fontSize>.035</fontSize>
 		</helpsystem>
-		
+
 	</view>
-	
+
 	<view name="basic, detailed">
-	
+
 		<helpsystem name="help">
 			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/steelfishrg.ttf</fontPath>
 			<fontSize>.032</fontSize>
 		</helpsystem>
-		
+
 	</view>
-	
+
 </theme>

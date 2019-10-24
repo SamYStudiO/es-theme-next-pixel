@@ -1,11 +1,11 @@
 <theme>
 
-    <formatVersion>4</formatVersion>
+	<formatVersion>4</formatVersion>
 	<include>./common.xml</include>	
 	<include>./../../$system/color_accent.xml</include>	
-	
+
 	<feature supported="carousel">
-  
+
 		<view name="system">
 
 			<image name="background" extra="true" />
@@ -17,19 +17,19 @@
 		</view>
 
 	</feature>
-	
+
 	<view name="basic, detailed">
-	
+
 		<image name="gamelist_background" extra="true" />
-	
+
 		<textlist name="gamelist">
 			<selectedColor>ffffff</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>ffffff</secondaryColor>
 		</textlist>
-		
+
 		<image name="gamelist_border" extra="true" />
-		
+
 	</view>
-	
+
 </theme>

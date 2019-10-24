@@ -2,7 +2,7 @@
 	<formatVersion>4</formatVersion>
 	<include>./common.xml</include>
 	<include>./common_info.xml</include>
-	
+
 	<view name="detailed">
 
 		<!-- for debugging -->
@@ -14,17 +14,17 @@
 			<path>./../arts/white.png</path>
 			<color>ffffff</color>
 		</image>-->
-		
+
 		<image name="md_image">
 			<pos>.31 .48</pos>
 			<maxSize>.55 .85</maxSize>
 		</image>
-		
+
 		<video name="md_video">
 			<pos>.31 .48</pos>
 			<maxSize>.55 .85</maxSize>
 		</video>
-		
+
 	</view>
-	
+
 </theme>

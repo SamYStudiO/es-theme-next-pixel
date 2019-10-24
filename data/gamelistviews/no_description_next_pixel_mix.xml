@@ -5,23 +5,23 @@
 	<include>./common_info.xml</include>
 	<include>./common_next_pixel_mix.xml</include>
 	<include>./../../$system/data/custom_no_description_next_pixel_mix.xml</include>
-	
+
 	<view name="detailed">
-		
+
 		<image name="md_image">
 			<origin>0 .5</origin>
 			<pos>0 .5</pos>
 			<maxSize>1 .9</maxSize>
 		</image>
-		
+
 		<video name="md_video">
 			<pos>.3375 .36917</pos>
 		</video>
-		
+
 		<image name="shadow" extra="true">
 			<pos>.3375 .36917</pos>
 		</image>
-		
+
 	</view>
-	
+
 </theme>

@@ -2,9 +2,9 @@
 
 	<formatVersion>4</formatVersion>	
 	<include>./common.xml</include>
-	
+
 	<feature supported="carousel">
-  
+
 		<view name="system">
 
 			<image name="system_carousel_background" extra="true">
@@ -13,7 +13,7 @@
 				<maxSize>2 1</maxSize>
 				<path>./../arts/system_carousel_vertical_wheel_background.png</path>
 			</image>
-		
+
 			<carousel name="systemcarousel">
 				<type>vertical_wheel</type>
 				<pos>.9 .5</pos>
@@ -25,7 +25,7 @@
 				<logoAlignment>right</logoAlignment>
 				<defaultTransition>instant</defaultTransition>
 			</carousel>
-			
+
 			<image name="system_carousel_border" extra="true">
 				<origin>1 .5</origin>
 				<maxSize>2 1</maxSize>
@@ -51,37 +51,37 @@
 		</view>
 
 	</feature>
-	
+
 	<view name="system">
-	
+
 		<image name="background" extra="true">
 			<origin>1 .5</origin>
 			<pos>1 .5</pos>
 			<path>./../../$system/background_wheel.jpg</path>
 		</image>
-		
+
 		<image name="logo">
 			<path>./../../$system/data/logo_right.svg</path>
 		</image> 
-		
+
 		<image name="logo" region="eu">
 			<path>./../../$system/data/eu/logo_right.svg</path>
 		</image> 
-		
+
 		<image name="logo" region="us">
 			<path>./../../$system/data/us/logo_right.svg</path>
 		</image> 
-		
+
 		<image name="logo" region="jp">
 			<path>./../../$system/data/jp/logo_right.svg</path>
 		</image>
-		
+
 		<image name="console" extra="true">
 			<pos>.91 .55</pos>
 			<maxSize>.15 .24</maxSize>
 			<origin>.5 1</origin>
 		</image>
-		
+
 	</view>
-	
+
 </theme>

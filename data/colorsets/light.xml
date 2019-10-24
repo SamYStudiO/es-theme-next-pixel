@@ -1,22 +1,22 @@
 <theme>
 
-    <formatVersion>4</formatVersion>
+	<formatVersion>4</formatVersion>
 	<include>./common.xml</include>	
-	
+
 	<feature supported="carousel">
-  
+
 		<view name="system">
 
 			<image name="background" extra="true" />
-		
+
 			<image name="system_carousel_background" extra="true">
 				<color>ffffff</color>
 			</image>
-			
+
 			<image name="system_carousel_border" extra="true">
 				<color>ffffff</color>
 			</image>
-			
+
 			<image name="systemInfoBack" extra="true">
 				<color>ffffff</color>
 			</image>
@@ -28,24 +28,24 @@
 		</view>
 
 	</feature>
-	
+
 	<view name="basic, detailed">
-		
+
 		<image name="gamelist_background" extra="true">
 			<color>ffffff</color>
 		</image>
-	
+
 		<textlist name="gamelist">
 			<selectorColor>ffffff</selectorColor>
 			<selectedColor>222222</selectedColor>
 			<primaryColor>222222</primaryColor>
 			<secondaryColor>222222</secondaryColor>
 		</textlist>
-		
+
 		<image name="gamelist_border" extra="true">
 			<color>ffffff</color>
 		</image>
-		
+
 	</view>
-	
+
 </theme>

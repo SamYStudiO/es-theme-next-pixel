@@ -6,29 +6,29 @@
 	<include>./common_description.xml</include>
 	<include>./common_next_pixel_mix.xml</include>
 	<include>./../../$system/data/custom_standard_next_pixel_mix.xml</include>
-	
-	
+
+
 	<view name="detailed">
-		
+
 		<image name="md_image">
 			<pos>.06 0</pos>
 			<maxSize>.9 .8</maxSize>
 		</image>
-		
+
 		<video name="md_video">
 			<pos>.36 .2837</pos>
 		</video>
-		
+
 		<image name="shadow" extra="true">
 			<pos>.36 .2837</pos>
 		</image>
-		
+
 		<text name="md_description">
 			<pos>.36 .77</pos>
 			<origin>.5 0</origin>
 			<size>.5 .15</size>
 		</text>
-		
+
 	</view>
-	
+
 </theme>

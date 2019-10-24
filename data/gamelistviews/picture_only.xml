@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>4</formatVersion>
 	<include>./common.xml</include>
-	
+
 	<view name="detailed">
 
 		<!-- for debugging -->
@@ -13,17 +13,17 @@
 			<path>./../arts/white.png</path>
 			<color>ffffff</color>
 		</image>-->
-		
+
 		<image name="md_image">
 			<pos>.33 .48</pos>
 			<maxSize>.6 .87</maxSize>
 		</image>
-		
+
 		<video name="md_video">
 			<pos>.33 .48</pos>
 			<maxSize>.6 .87</maxSize>
 		</video>
-		
+
 	</view>
-	
+
 </theme>

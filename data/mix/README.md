@@ -43,26 +43,6 @@ For **Raspberry Pi users** with low memory (2go or less) using **720p package**,
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/4.png)
 
-- Since videos are space consuming you should optimize their size depending on your package:
-
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/5.png)
-
-- Here are recommanded values, but you may adjust with you own needs as long as you **Keep image ratio** checked.
-  * With **1080p** package
-    * **high quality** but space consuming **640x480**
-    * **medium quality** with less space impact **320x240**
-  * With **720p** package
-    * **high quality** but space consuming **440x330**
-    * **medium quality** with less space impact **220x165**
-  * With **480p** package
-    * **high quality** but space consuming **280x210**
-    * **medium quality** with less space impact **140x105**
-  * With **crt** package
-    * **high quality** but space consuming **320x240**
-    * **medium quality** with less space impact **160x120**
-  * With **crt small** package
-    * **high quality** but space consuming **120x90**
-    * **medium quality** with less space impact **60x45**
 - You're done, you can launch your scrap.
 - Make sure you have selected a next pixel mix option from GAMELISTVIEW settings, press Start > UI SETTINGS > THEME > THEME CONFIGURATION > THEME GAMELISTVIEW > choose any layout with "Next Pixel mix".
 - **Enyoy!!!**

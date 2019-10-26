@@ -1,4 +1,6 @@
 ### Changelog
+2019/XX/XX - 1.4
+
 2019/10/26 - 1.3
 - Add Next Pixel custom mix to enhance scraped images and video snaps integration
 - Add random system game theme script

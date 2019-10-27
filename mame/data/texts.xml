@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Developers : Nicola Salmoria and the MAME Team</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Initial release : February 5, 1997</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Website : http://mamedev.org/</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Written in : C++</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>M.A.M.E is an emulator application designed to recreate</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>the hardware of arcade game systems in software</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>on modern personal computers and other platforms.</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>The intention is to preserve gaming history</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>by preventing vintage games from being lost or forgotten.</text>
+		</text>
+		
+	</view>
+	
+</theme>

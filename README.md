@@ -169,6 +169,12 @@ Don't forget to remove '#' char on those lines if present.
 
 ### Contribute / Report issues
 Project is hosted on [Github](https://github.com/SamYStudiO/es-theme-next-pixel).
+
+I need help!
+If you're interested to get involve in this theme please contact me using Recalbox forum or by email contact[at]samystudio.net.
+ - I need photoshop expert to help adding new game themes.
+ - I need illustator expert to help adding new rating icons.
+ - I need translators, if you can convert english to any language, you're welcome.
  
 
 ### Final words

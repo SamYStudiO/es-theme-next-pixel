@@ -21,7 +21,7 @@ To scrap images using Next pixel custom mix you need to use a tool such as [Skra
 
 First you need to make sure Next Pixel theme is installed since custom mix files are install along with Next Pixel theme.
 - Launch Skraper and select **MEDIA** tab.
-- If any media exists remove them all using **minus** or **scissors** buttons on the left, then click **plus** buton to add a media.
+- If any media exists remove them all using **minus** or **scissors** buttons on the left, then click **plus** button to add a media.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/0.png)
 
@@ -40,12 +40,13 @@ For **Raspberry Pi users** with low memory (2go or less) using **720p package**,
 
 **Don't forget to check Keep image ratio**
 - If you doesn't want to add videos you're done, just launch your scrap.
-- If you want to add videos click **plus** buton to add a media and Select **VIDEO** from list box under your media.
+- If you want to add videos click **plus** button to add a media and Select **VIDEO** from list box under your media.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/4.png)
 
 - You're done, you can launch your scrap.
-- Make sure you have selected a next pixel mix option from GAMELISTVIEW settings, press Start > UI SETTINGS > THEME > THEME CONFIGURATION > THEME GAMELISTVIEW > choose any layout with "Next Pixel mix".
+
+- **Make sure you have selected a next pixel mix option from GAMELISTVIEW settings, press Start > UI SETTINGS > THEME > THEME CONFIGURATION > THEME GAMELISTVIEW > choose any layout with "Next Pixel mix"**.
 - **Enyoy!!!**
 
 

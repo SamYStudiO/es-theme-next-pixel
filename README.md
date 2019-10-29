@@ -86,7 +86,7 @@ To help you choose, all systems images are visible from [Next Pixel website](htt
 ### Random system game themes
 Next Pixel theme includes a custom start script for Recalbox to randomly change systems game themes. As seen previoulsy some systems may contains multiple game themes, when using this script such systems will randomly load a game theme when Recalbox start. This script named "S997next-pixel-random-system-game-theme" is located at your Next Pixel theme root installation. You need to drop this file in your Recalbox */etc/init.d/* folder. To do so you can use command line tool with PuTTy or tool such as [WinSCP](https://github.com/recalbox/recalbox-os/wiki/Network-access-with-WinSCP-(EN)) to connect to your Recalbox. You may read [this](https://github.com/recalbox/recalbox-os/wiki/Add-your-own-startup-script-(EN)) to get more info on starting scripts. 
 **Don't forget to allow write access before droping your file**.
-- If you're using PuTTy use *mount -o remount,rw /* commmand.
+- If you're using PuTTy use *mount -o remount,rw /* command.
 - If you're using WinSCP open console (Ctrl + T), enter command *mount -o remount,rw /* and click Execute.
 
 **Note script assume you use default Next Pixel theme folder installation**. If you changed Next Pixel installation folder name you need to adjust script or restore your Next Pixel theme installation folder name.

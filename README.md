@@ -1,4 +1,4 @@
-![alt text](https://www.countryflags.io/fr/shiny/16.png) Pour les non anglophone la documentation en français est disponible [**ici**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/francais/README.md)!
+### ![fr](https://www.countryflags.io/fr/shiny/32.png) Pour les non anglophone la documentation en français est disponible [**ici**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/francais/README.md)!
 
 ### Hi and welcome to [Next Pixel theme](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)
 This theme is designed to display a full screen image for every system that best defined it (or as best as possible) avoiding using in game footage. Most of these systems will have a custom music and a custom rating icon that match that game.

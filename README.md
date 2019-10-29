@@ -33,15 +33,15 @@ Watch all system images from [Next Pixel website](https://samystudio.github.io/e
 ### Installation
 To install theme drag and drop next-pixel folder into your recalbox/themes folder. Then choose next-pixel theme from recalbox options (UI SETTINGS > THEME SET).
 
-This theme support Randomizer script, check this [link](https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer) to get more info (Warning: from installation guide "Copying theme/random directory..." is not required as this theme already includes it). 
+This theme support Randomizer script, check this [link](https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer) to get more info (**Warning: from installation guide "Copying theme/random directory..." is not required as this theme already includes it with some extra customization**). 
 
 
 ### Options
-- COLORSET 	: choose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
-- ICONSET 	: choose icons used for bottom left help (same as recalbox-next).
-- SYSTEMVIEW 	: choose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > TRANSITION STYLE > INSTANT for a better look and feel**.
-- GAMELISTVIEW	: choose gamelist view layout, you may show/hide different elements and for each one you may adjust for **Next Pixel mix** (check *Scraping / Next Pixel mix* below for more info) or others mixes. **If you do not want to use Next Pixel mix select any "others mixes" option here or you will get some weird graphical assets overlaying your scraped images**.
-- REGION		: choose your region to adjust logo/console images (same as recalbox-next).
+- **COLORSET** 	: choose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
+- **ICONSET** 	: choose icons used for bottom left help (same as recalbox-next).
+- **SYSTEMVIEW** 	: choose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > TRANSITION STYLE > INSTANT for a better look and feel**.
+- **GAMELISTVIEW**	: choose gamelist view layout, you may show/hide different elements and for each one you may adjust for **Next Pixel mix** or others mixes. **If you do not want to use Next Pixel mix select any "others mixes" option here or you will get some weird graphical assets overlaying your scraped images** (check *Scraping / Next Pixel mix* below for more info).
+- **REGION**		: choose your region to adjust logo/console images (same as recalbox-next).
 
 
 ### Scraping / Next Pixel mix
@@ -77,7 +77,7 @@ Actual systems with multiple game themes :
 - snes : 3 different game themes available
 - wii : 2 different game themes available
 
-To help you choose, all systems images are visible from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/) or if you can't make your choice you may consider using random script so each time you start Recalbox you get a different game theme, see next section for more info.
+To help you choose, all systems images are visible from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/) or if you can't make your choice you may consider using random script so each time you start Recalbox you get a different game theme, read next section for more info.
 
 
 ### Random system game themes

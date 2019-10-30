@@ -179,6 +179,9 @@ If you're interested to get involve in this theme please contact me using [Recal
  - I need illustator expert to help adding new rating icons.
  - I need translators, if you can convert english to any language, you're welcome.
  
+If you don't know how to contribute maybe you can offer me a drink ;)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GZTG62E8M467W&source=url)
 
 ### Final words
 **I'm all ears to any suggestions or to add alternative game image/music, don't be shy**.

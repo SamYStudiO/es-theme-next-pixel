@@ -1,0 +1,408 @@
+﻿<ImageComposition xsi:noNamespaceSchemaLocation="https://www.skraper.net/ImageComposition.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Information ShortName="Next Pixel Mix 720" LongName="Next Pixel Mix 720" Description="Next Pixel mix optimized for video integration" Author="SamYStudiO" />
+	<Viewport Color="#00000000" Width="840" Height="720" />
+	<Drawings>
+
+		<Item Type="LocalFile" LocalFilePath="./systems/%SYSTEM%.png">
+			<Display X="0%" Y="0%" Width="100%" Height="100%" />
+		</Item>
+
+		<!-- DEFAULT COMPUTERS FLAT SCREEN -->
+		<Item IfSystem="IsNotInTheList:29,130,26,40,41,80,48,23,106,13,87,115,27,2,1,14,142,70,3,104,31,114,72,57,107,22,19,20,109,4,108,105,58,59,16,18,135,213,218,43,42,113,118,116,117,64,111,66,65,79,76,77,131,141,123,49,75,56,53,17,129,86,217,21,9,12,10,52,28,146,15,25,82,219,221,208,211,61,102,11,45,46,220">
+			<Children>
+				<Item Type="LocalFile" LocalFilePath="./systems/computer_flat.png">
+					<Display X="0%" Y="0%" Width="100%" Height="100%" />
+				</Item>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- CONSOLES OLD atari2600,atari5200,atari7800,channelf,colecovision,fds,intellivision,mastersystem,multivision,nes,odyssey2,sg1000 -->
+		<Item IfSystem="IsInTheList:26,40,41,80,48,106,115,2,3,104,109">
+			<Children>
+				<Item Type="LocalFile" LocalFilePath="./systems/console_old.png">
+					<Display X="0%" Y="0%" Width="100%" Height="100%" />
+				</Item>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="44.444%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="44.444%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- CONSOLES 3do,amigacd32,dreamcast,gc,gx4000,jaguar,megadrive,n64,neogeo,neogeocd,pcengine,pcenginecd,pcfx,ps2,psx,satellaview,saturn,sega32x,segacd,snes,sufami,supergrafx -->
+		<Item IfSystem="IsInTheList:29,130,23,13,87,27,1,14,142,70,31,114,72,58,57,107,22,19,20,4,108,105">
+			<Children>
+				<Item Type="LocalFile" LocalFilePath="./systems/console.png">
+					<Display X="0%" Y="0%" Width="100%" Height="100%" />
+				</Item>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="44.444%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="44.444%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- CONSOLES FLAT ps3,wii,wiiu -->
+		<Item IfSystem="IsInTheList:59,16,18">
+			<Children>
+				<Item Type="LocalFile" LocalFilePath="./systems/console_flat.png">
+					<Display X="0%" Y="0%" Width="100%" Height="100%" />
+				</Item>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="33.333%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- COMPUTERS amiga600,amiga1200,amstradcpc,atari800,atarist,c64,msx,msx2,msx2+,msxturbor,oric,pc,prboom,samcoupe,scummvm,spectravideo,to8,x68000,zx81,zxspectrum -->
+		<Item IfSystem="IsInTheList:64,111,65,43,42,66,113,116,117,118,131,135,213,123,218,141,79,77,76">
+			<Children>
+				<Item Type="LocalFile" LocalFilePath="./systems/computer.png">
+					<Display X="0%" Y="0%" Width="100%" Height="100%" />
+				</Item>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="44.444%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="44.444%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- ARCADE arcade,atomiswave,daphne,fba,fba_libretro,mame,naomi -->
+		<Item IfSystem="IsInTheList:53,49,75,56">
+			<Children>
+				<Item Type="LocalFile" LocalFilePath="./systems/arcade.png">
+					<Display X="0%" Y="0%" Width="100%" Height="100%" />
+				</Item>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.5%" Width="50.794%" Height="44.444%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.5%" Width="50.794%" Height="44.444%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- 3ds -->
+		<Item IfSystem="IsInTheList:17">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="47.937%" Height="33.704%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="47.937%" Height="33.704%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- amigacdtv -->
+		<Item IfSystem="IsInTheList:129">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="46.667%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="46.667%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- apple2 -->
+		<Item IfSystem="IsInTheList:86">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="40.159%" Height="36.481%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="40.159%" Height="36.481%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- apple2gs -->
+		<Item IfSystem="IsInTheList:217">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="43.704%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="43.704%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- gamegear -->
+		<Item IfSystem="IsInTheList:21">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="42.381%" Height="37.222%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="42.381%" Height="37.222%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- gb -->
+		<Item IfSystem="IsInTheList:9">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="43.81%" Height="47.593%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="43.81%" Height="47.593%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- gba -->
+		<Item IfSystem="IsInTheList:12">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="40%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="40%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- gbc -->
+		<Item IfSystem="IsInTheList:10">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="41.429%" Height="42.407%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="41.429%" Height="42.407%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- gw -->
+		<Item IfSystem="IsInTheList:52">
+			<Children>
+				<Item Type="SupportTexture">
+					<Display X="57.143%" Y="35.463%" Width="80%" Height="60%" KeepRatio="true" Anchor="VCenterHCenter"/>
+				</Item>
+				<Item Type="Box3D">
+					<Display X="55.6%" Y="80%" Width="26%" Height="50%" Anchor="VCenterRight" />
+				</Item>
+				<Item Type="Wheel">
+					<Display X="59.6%" Y="80%" Width="40.4%" Height="20%" Anchor="VCenterLeft" />
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- lynx -->
+		<Item IfSystem="IsInTheList:28">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="37.778%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="37.778%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- macintosh -->
+		<Item IfSystem="IsInTheList:146">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="46.032%" Height="36.111%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="46.032%" Height="36.111%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- nds -->
+		<Item IfSystem="IsInTheList:15">
+			<Children>
+				<Item Type="Screenshot" IfOrientation="IsPortrait">
+					<Display X="57.143%" Y="35.463%" Width="32.381%" Height="57.037%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+				</Item>
+				<Item Type="ScreenshotTitle" IfOrientation="IsPortrait">
+					<Display X="57.143%" Y="35.463%" Width="32.381%" Height="57.037%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+				</Item>
+				<Item Type="ScreenshotTitle" IfOrientation="IsLandscape">
+					<Display X="57.143%" Y="35.463%" Width="32.381%" Height="57.037%" KeepRatio="true" Anchor="TopHCenter" Antialiasing="None"/>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- ngp,ngpc -->
+		<Item IfSystem="IsInTheList:25,82">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="46.27%" Height="51.019%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="46.27%" Height="51.019%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- palm -->
+		<Item IfSystem="IsInTheList:219">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="33.333%" Height="52.963%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="33.333%" Height="52.963%" KeepRatio="true" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- pc88 -->
+		<Item IfSystem="IsInTheList:221">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="47.778%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="47.778%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- pc98 -->
+		<Item IfSystem="IsInTheList:208">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="46.296%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="46.296%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- pokemini -->
+		<Item IfSystem="IsInTheList:211">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="48.413%" Height="38.519%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="48.413%" Height="38.519%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- psp -->
+		<Item IfSystem="IsInTheList:61">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="33.333%" KeepRatio="false" Anchor="VCenterHCenter"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="33.333%" KeepRatio="false" Anchor="VCenterHCenter"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- vectrex -->
+		<Item IfSystem="IsInTheList:102">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="34.127%" Height="48.889%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="34.127%" Height="48.889%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- virtualboy -->
+		<Item IfSystem="IsInTheList:11">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="34.286%" Height="23.333%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="34.286%" Height="23.333%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- wonderswan -->
+		<Item IfSystem="IsInTheList:45">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="40%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="40%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- wonderswancolor -->
+		<Item IfSystem="IsInTheList:46">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="37.593%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="37.593%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- x1 -->
+		<Item IfSystem="IsInTheList:220">
+			<Children>
+				<Item Type="ScreenshotTitle">
+					<Display X="57.143%" Y="35.463%" Width="50.794%" Height="45%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					<Fallback Type="Screenshot">
+						<Display X="57.143%" Y="35.463%" Width="50.794%" Height="45%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="Medium"/>
+					</Fallback>
+				</Item>
+			</Children>
+		</Item>
+
+		<!-- box, game, logo (game & watch excluded)-->
+		<Item IfSystem="IsNotInTheList:52">
+			<Children>
+				<Item Type="Box3D" IfOrientation="IsPortrait">
+					<Display X="31%" Y="90.741%" Width="27%" Height="50%" Anchor="BottomRight" />
+					<Children>
+						<Item Type="Support">
+							<Display X="28%" Y="90.741%" Width="20%" Height="20%" Anchor="BottomLeft" />
+						</Item>
+					</Children>
+				</Item>
+				<Item Type="Box3D" IfOrientation="IsLandscape">
+					<Display X="4%" Y="90.741%" Width="48%" Height="25%" Anchor="BottomLeft"/>
+					<Children>
+						<Item Type="Support">
+							<Display X="19%" Y="65%" Width="20%" Height="20%" Anchor="BottomHCenter" />
+						</Item>
+					</Children>
+				</Item>
+				<Item Type="Wheel">
+					<Display X="100%" Y="78%" Width="48%" Height="20%" Anchor="VCenterRight" />
+				</Item>
+			</Children>
+		</Item>
+
+	</Drawings>
+</ImageComposition>

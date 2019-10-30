@@ -1,5 +1,6 @@
 ### Changelog
 2019/XX/XX - 1.4
+- Add a new mix that prioritize ingame screenshot instead of title screenshot
 - Fix mix file pathes for Linux
 
 2019/10/26 - 1.3

@@ -59,6 +59,10 @@ For **Raspberry Pi users** with low memory (2go or less) using **720p package**,
 ### Contribute / Report issues
 Project is hosted on [Github](https://github.com/SamYStudiO/es-theme-next-pixel).
 
+If you don't know how to contribute maybe you can offer me a drink ;)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GZTG62E8M467W&source=url)
+
 
 ### License
 MIT License

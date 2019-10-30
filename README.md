@@ -28,7 +28,6 @@ Here are some screenshots using different theme settings :
 
 ![vectrex](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
 
-
 Watch all system images from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
 
 
@@ -182,6 +181,7 @@ If you're interested to get involve in this theme please contact me using [Recal
 If you don't know how to contribute maybe you can offer me a drink ;)
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GZTG62E8M467W&source=url)
+
 
 ### Final words
 **I'm all ears to any suggestions or to add alternative game image/music, don't be shy**.

@@ -1,0 +1,16 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Lutro est une librarie expérimentlale de "lua game"</text>
+		</text>
+		<text name="info1" extra="true">
+			<text>pour libretro qui suit l'api LÖVE.</text>
+		</text>
+		
+	</view>
+	
+</theme>

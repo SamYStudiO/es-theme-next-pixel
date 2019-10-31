@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 1986 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unités vendues : 4.44 millions</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Meilleur vente : Super Mario Bros. 2</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : processeur Ricoh 2A03 8 Bit</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 32 Ko</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Espace disque : 112 Ko</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Processeur Audio/Video : Utilise le hardware Famicom</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Ports : Utilise le hardware Famicom</text>
+		</text>
+		
+	</view>
+	
+</theme>

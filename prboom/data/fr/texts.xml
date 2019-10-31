@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Développeur : id Software</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 1993</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>DOOM est une série de heux de shooter</text>
+		</text>
+		<text name="info4" extra="true">
+			<text> à la 1ère personne développés par id Software.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>La série se focalise sur les exploits d'un soldat inconnu</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>opérant pour l'UAC. qui combat des hordes de démons pour survivre.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Doom est un des pionniers des jeux FPS,</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>en introduisant au ordinateurs IBM des éléments graphiques en 3D,</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>et le support pour la personalisation avec le format Doom WAD.</text>
+		</text>
+		
+	</view>
+	
+</theme>

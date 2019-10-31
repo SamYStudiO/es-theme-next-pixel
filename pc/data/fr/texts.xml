@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur: IBM</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 1981</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>L’IBM Personal Computer ou IBM PC, modèle 5150, est le premier ordinateur</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>personnel produit, à partir de 19811 à plusieurs millions d'exemplaires</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>par IBM. Il assura quelque temps à IBM 21 % du marché des micro-ordinateurs,</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>bien que celui-ci n'ait alors constitué qu'une fraction minime du chiffre</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>d'affaires de cette société.</text>
+		</text>
+		
+	</view>
+	
+</theme>

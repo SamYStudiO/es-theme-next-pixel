@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Prenez des captures d'écran de vos meilleures parties,</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>et montrez les à vos ami(e)s.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Qui sera le meilleur joueur ...</text>
+		</text>
+		
+	</view>
+	
+</theme>

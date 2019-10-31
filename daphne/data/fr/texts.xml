@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Développeurs : Matt Ownby (Daphne) et Jeffrey Clark (Hypseus)</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Sortie initiale : 1999</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Site internet : http://www.daphne-emu.com/</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Ecrit en C++</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Daphne est un programme pour jouer aux versions</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>originales de nombreux diques lasers d'arcade.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Hypseus est une branche de Daphne pour améliorer</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>les performances (décodeur MPEG2, support SDL2, ...).</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Les meilleurs jeux disque laser: Dragon's Lair, Space Ace, ...</text>
+		</text>
+		
+	</view>
+	
+</theme>

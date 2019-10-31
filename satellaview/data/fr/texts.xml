@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 1995 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unités vendues : 2 millions</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Support : Cartouche BS-X Application  + Pack mémoire optionnel de 8MB</text>
+		</text>
+		<text name="info5" extra="true">
+			<text></text>
+		</text>
+		<text name="info6" extra="true">
+			<text>The Satellaview est un périphérique satellite pour la Super Nintendo</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Dans le pack de la Satellaview était inclus la cartouche</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>BS-X : The Story of The Town Whose Name Was Stolen.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Un moteur de jeu léger, gratuit et open source pour les Action-RPGs.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Un moteur de jeu 2D écrit en C++ et qui exécute des jeux fait avec Lua.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Pensé spécifiquement avec le style 16-bit Action-RPGs.</text>
+		</text>
+		
+	</view>
+	
+</theme>

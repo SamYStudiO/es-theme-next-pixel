@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur : Bandai</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 1996 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Support : Cartouche SuFami Turbo Application +  Cartouches de jeux</text>
+		</text>
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+		<text name="info5" extra="true">
+			<text>La Sufami Turbo de Bandai a permit aux développeurs de produire</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>des jeux Super Famicom à moindre coût.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Les 2 ports cartouches ont été pensé pour partager les données entre les jeux.</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Le port A sert de jeu, alors que le port B fournit les données supplémentaires.</text>
+		</text>
+		
+	</view>
+	
+</theme>

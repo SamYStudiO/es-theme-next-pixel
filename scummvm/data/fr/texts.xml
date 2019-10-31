@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Auteur original : Ludvig Strigeus</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 2001</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ScummVM est une machine virtuelle qui permet de jouer aux jeux</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>qui utilisent le système SCUMM (comme les jeux d'aventure de LucasArts</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>ou d'Humongous) sur des plates-formes autres que celles originellement</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>supportées par le jeu ; de plus, le logiciel supporte les jeux</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>non-SCUMM suivants : Simon the Sorcerer I et II, Beneath a Steel Sky,</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>The Legend of Kyrandia, Flight of the Amazon Queen et Broken Sword 1 et 2.</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>L'un des buts du programme étant de permettre l'accessibilité à divers</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>utilisateurs utilisant divers systèmes de jouer à ces classiques.</text>
+		</text>
+		
+	</view>
+	
+</theme>

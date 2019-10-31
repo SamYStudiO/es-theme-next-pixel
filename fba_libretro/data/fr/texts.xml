@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Final Burn Alpha (FB Alpha ou FBA) est communément connu à l'origine comme</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>un émulateur de jeux d'arcade. Il s'agit d'un projet open-source qui est</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>programmé par un groupe de personnes qui forme l'équipe de FBA et qui, au</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>fil des années, s'est étendu. FB Alpha est basée à l'origine sur l'émulateur</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>FinalBurn créé par Dave3 (connu aussi sous le pseudo de FinalDave) le</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>31 aout 2000. FinalBurn tire son nom du jeu After Burner qui était le seul</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>jeu émulé au tout début de sa création. Par la suite d'autres classiques</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>de Sega tels que Rail Chase ou Galaxy Force II furent ajoutés.</text>
+		</text>
+		
+	</view>
+	
+</theme>

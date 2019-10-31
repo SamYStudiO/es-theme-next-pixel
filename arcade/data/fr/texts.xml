@@ -1,0 +1,43 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Un jeu d'arcade est une machine de divertissement</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>le plus souvent munie d'un monnayeur, qui peut être</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>mise à disposition du public au sein de divers établissements,</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>tels les salles d’arcade, salles de jeux, bars, restaurants,</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>cinémas, centres commerciaux, parc d’attractions ou encore</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>des centres de divertissement. L'origine du nom provient</text>
+		</text>
+		<text name="info7" extra="true">
+			<text> des lieux publics où des jeux — d'abord mécaniques,</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>puis électroniques et enfin vidéo — étaient souvent installés</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>sous les arcades afin de rentabiliser l'espace. Par extension</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>dans le monde anglophone, une arcade désigne le lieu public</text>
+		</text>
+		<text name="info11" extra="true">
+			<text> en entier, qu'il comporte ou non des arcades.</text>
+		</text>
+
+	</view>
+	
+</theme>

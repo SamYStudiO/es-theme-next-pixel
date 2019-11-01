@@ -115,6 +115,19 @@ Parfois un thème de jeu pourrait convenir pour plusieurs systèmes et vous pouv
 - La police du logo Next Pixel est "Color Basic", elle vient de [Typodermic Fonts](http://typodermicfonts.com/).
 
 
+### Participer / Reporter un problème
+Le projet est hébergé sur [Github](https://github.com/SamYStudiO/es-theme-next-pixel).
+
+Si vous voulez vous impliquer dans ce thème veuillez me contacter en utilisant le [forum Recalbox](https://forum.recalbox.com/topic/16064/recalbox-6-1-snap-videos-custom-mix-next-pixel-theme/359) ou par email contact[at]samystudio.net.
+ - J'ai besoin d'expert photoshop pour m'aider à ajouter de nouveaux thèmes de jeu.
+ - J'ai besoin d'expert illustrator pour m'aider à ajouter de nouvelles icones de note.
+ - J'ai besoin de traducteurs, si vous pouvez traduire l'anglais dans une autre langue, vous êtes le/la bienvenu(e).
+ 
+Si vous ne savez pas comment participer peut être vous pouvez me payer un coup ;)
+
+[![paypal](https://www.paypalobjects.com/fr_FR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GZTG62E8M467W&source=url)
+
+
 ### Téléchargement
 Plusieurs archives sont disponibles en fonction de la résolution et du ratio de votre écran. Actuellement le thème est compatible avec le format 16:9 et 4:3.
 
@@ -166,19 +179,6 @@ N'oubliez pas de retirer le caractère '#' s'il est présent sur ces lignes.
 **320x240 (GPi CASE) [TELECHARGER es-next-pixel-crt-small-1.3 pour Recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.3/es-theme-next-pixel-crt-small.zip)**
 
 [Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases/tag/v1.0) les archives précédentes pour Recalbox 6.0 ou inférieur.
-
-
-### Participer / Reporter un problème
-Le projet est hébergé sur [Github](https://github.com/SamYStudiO/es-theme-next-pixel).
-
-Si vous voulez vous impliquer dans ce thème veuillez me contacter en utilisant le [forum Recalbox](https://forum.recalbox.com/topic/16064/recalbox-6-1-snap-videos-custom-mix-next-pixel-theme/359) ou par email contact[at]samystudio.net.
- - J'ai besoin d'expert photoshop pour m'aider à ajouter de nouveaux thèmes de jeu.
- - J'ai besoin d'expert illustrator pour m'aider à ajouter de nouvelles icones de note.
- - J'ai besoin de traducteurs, si vous pouvez traduire l'anglais dans une autre langue, vous êtes le/la bienvenu(e).
- 
-Si vous ne savez pas comment participer peut être vous pouvez me payer un coup ;)
-
-[![paypal](https://www.paypalobjects.com/fr_FR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GZTG62E8M467W&source=url)
 
 
 ### Derniers mots

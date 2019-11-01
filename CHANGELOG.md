@@ -1,5 +1,6 @@
 ### Changelog
 2019/XX/XX - 1.4
+- Add french translation
 - Add a new mix that prioritize ingame screenshot instead of title screenshot
 - Fix mix file pathes for Linux
 

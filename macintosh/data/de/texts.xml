@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Apple Computer, Inc.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1984</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : System Software 1.0</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola 68000 getaktet mit 7,83 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 128 kB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 64 kB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Bildschirm : integriert, 9 Zoll monochrom (512x342 Pixel)</text>
+		</text>
+		
+	</view>
+
+</theme>

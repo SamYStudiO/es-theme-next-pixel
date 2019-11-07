@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Alec Bourque</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 2008</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : Amtel AT Mega 644 getaktet mit 28,6 MHz</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>RAM : 4 kB</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Flash Speicher : 64 kB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Sound : 8-bit Mono, 15 kHz Samplefrequenz, Ausgabe via PWM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Auflösung : bis zu 360x224 Pixel, 256 Farben</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Speicher : SD Karte</text>
+		</text>
+		
+	</view>
+
+</theme>

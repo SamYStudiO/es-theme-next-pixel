@@ -1,0 +1,52 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>ScummVM ist eine Software- und Skript-Sammlung, in der zahlreiche nachgebaute Spiel-</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Engines unter einer gemeinsamen grafischen Benutzeroberfläche zusammengefasst sind.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Viele ältere Computer- und Konsolen-Spiele sind damit auf wesentlich moderneren oder</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>auch ganz anderen Plattformen lauffähig, als deren ursprüngliche Entwickler vorhersehen</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>oder bei der Programmierung berücksichtigen konnten.</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Zunächst lediglich für Adventures auf Basis der Skriptsprache SCUMM des Anbieters</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>LucasArts entwickelt, unterstützt ScummVM (Akronym für „Script creation utility for</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>maniac mansion - Virtual Machine“) heute eine ganze Reihe Spiele anderer Hersteller</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>wie beispielsweise Revolution Software, Adventure Soft oder Sierra Entertainment.</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>ScummVM selbst ist als freie Software unter der GNU General Public License veröffentlicht.</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>Die einzelnen damit spielbaren Titel sind jedoch mit wenigen Ausnahmen weiterhin durch</text>
+		</text>
+		<text name="info12" extra="true">
+			<text>Rechte der jeweiligen Hersteller geschützt.</text>
+		</text>
+		<text name="info13" extra="true">
+			<text>Developer : ScummVM-Team</text>
+		</text>
+		<text name="info14" extra="true">
+			<text>Erscheinungsjahr : 2001</text>
+		</text>
+		
+	</view>
+	
+</theme>

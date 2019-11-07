@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : SNK</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1998 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : 2 Millionen (inkl. Color Version)</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Toshiba TLCS900H getaktet mit 6,144 MHz, Zilog Z80 getaktet mit 3,072 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 12 kB für TLCS900H, 4 kB für Z80</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 64 kB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>PPU : 16-bit</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Auflösung : 160x152 Pixel (256×256 Pixel Virtual Screen)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Größe der Spielmodule : bis zu 4 MB</text>
+		</text>
+		
+	</view>
+	
+</theme>

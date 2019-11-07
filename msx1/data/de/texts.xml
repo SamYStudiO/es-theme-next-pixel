@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Diverse</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1983</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : MSX BASIC V1.0 (16 kB)</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Zilog Z80A getaktet mit 3,58 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 8 kB to 128 kB / VRAM 16 kB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 32 kB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : Texas Instruments TMS9918</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound Chip : General Instrument AY-3-8910</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Auflösung : 256x192 Pixel (16 Farben)</text>
+		</text>
+		
+	</view>
+	
+</theme>

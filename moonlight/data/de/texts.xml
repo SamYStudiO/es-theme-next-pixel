@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Mit Moonlight kann die Steam Spielesammlung von einem PC mit</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>NVIDIA Grafik auf einen Raspberry Pi gestreamt werden.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Moonlight ist perfekt zum Spielen unterwegs geeignet, ohne dabei</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>auf die Grafikqualität eines echten Gaming PCs verzichten zu müssen.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Entwickler : Studenten der Case Western Reserve Universität</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Portierung auf Linux : irtimmer</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Lizenz : Open Source Implementierung</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Erscheinungsjahr : 2013</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Kompatibilität (Host) : PC mit NIVDIA GTX 600/700/900/ ... GPU</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Benötigte Software (Host) : Nvidia GeForce Experience</text>
+		</text>
+		
+	</view>
+	
+</theme>

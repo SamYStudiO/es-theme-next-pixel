@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : IBM</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1981</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>IBM Personal Computer (dt. „persönlicher Rechner“, kurz IBM PC) war die Modellbezeichnung</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>es ersten Personal Computers (PC) des US-amerikanischen Unternehmens IBM aus dem Jahr 1981.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Die Gerätelinie war ein großer kommerzieller Erfolg für IBM. Das Unternehmen setzte damit einen</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>informellen, weltweiten Industriestandard und definierte die bis heute aktuelle Geräteklasse</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>der IBM-kompatiblen Personal Computer. Die heute marktüblichen PCs mit Windows-Betriebssystem</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>und x86/x64-Prozessoren beruhen auf der stetigen Weiterentwicklung des damaligen Konzepts.</text>
+		</text>
+		
+	</view>
+	
+</theme>

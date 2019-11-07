@@ -1,0 +1,28 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>OpenBOR ist eine Weiterentwicklung der Beats Of Rage 2D Spiel-</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Eginge, welche ursprünglich vom Senile Team entwickelt wurde.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Entwickler : Senile Team, OpenBOR Team und die Community</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Erscheinungsjahr : 2004</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Website : http://www.chronocrash.com/</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Geschrieben in : C, C++</text>
+		</text>
+
+	</view>
+	
+</theme>

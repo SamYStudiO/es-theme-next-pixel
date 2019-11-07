@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Mache Screenshots deiner besten Spiele und Errungenschaften</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>und teile sie mit deinen Freunden! Wer ist der beste Spieler?</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Gelobt sei Recalbox!</text>
+		</text>
+		
+	</view>
+	
+</theme>

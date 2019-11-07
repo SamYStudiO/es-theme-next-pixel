@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1994 (JP) 1995 (US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : 9,26 Millionen</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Meistverkauftes Spiel : Virtua Fighter 2</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 2x Hitachi SH-2 getaktet mit 28,6 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 16 MB / VRAM : 12 MB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : VDP1, VDP2</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Auflöusng : 320x224 bis 704x224 Pixel, 16,77 Million Farben</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Sound : Motorola 68EC000, Yamaha FH1 YMF292, 32 Kanäle</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Spielmedium : CD-ROM</text>
+		</text>
+		
+	</view>
+	
+</theme>

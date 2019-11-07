@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Solarus ist eine freie Action-RPG Engine und versteht sich</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>als Baukasten für Zelda-ähnliche Spiele.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Es handelt sich um eine 2D Spiel-Engine, geschrieben in C++.</text>
+		</text>
+		
+	</view>
+	
+</theme>

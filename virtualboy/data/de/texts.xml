@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1995 (JP, US)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : 800.000</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Meistverkauftes Spiel : VB Wario Land</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 32-bit NEC V810 RISC getaktet mit 20 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 1 MB DRAM, 512 kB P-SRAM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Auflösung : 384x224 Pixel, 4 Farben und 32 Intensitätsstufen</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Bildschirm : rote LEDs auf schwarzem Hintergrund</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Sound : 16-bit Stereo</text>
+		</text>
+		
+	</view>
+	
+</theme>

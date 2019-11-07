@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>M.A.M.E ist ein Emulator für Arcade Spiele.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Der Emulator verarbeitet den Programmcode und die Grafikdaten des Spiels</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>und emuliert die Hardware, um es wie im Original laufen zu lassen.</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Das Spiel verhält sich also so, als laufe es auf dem echten Arcade-Automaten.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Entwickler : Nicola Salmoria und das M.A.M.E Team</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Erscheinungsjahr : 1997</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Website : http://mamedev.org/</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Geschrieben in : C++</text>
+		</text>
+		
+	</view>
+	
+</theme>

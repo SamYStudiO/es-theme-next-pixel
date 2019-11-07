@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Bandai</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1996 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Spielmodule : SuFami Turbo Applikationsmodul + Spielmodule</text>
+		</text>
+		<text name="info4" extra="true">
+			<text></text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Bandais SuFami Turbo ermöglichte es Entwicklern, eine Handvoll</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Super Famicom Spiele günstiger zu produzieren und zu veröffentlichen.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Die beiden Modulsteckplätze sind dazu konzipiert, um Daten zwischen</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Spielen auszutauschen.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1990 (JP) 1991 (US, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : 11 Millionen</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 8-bit Zilog Z80 getaktet mit 3,58 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 8 kB / VRAM : 16 kB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Video : Sega VDP (modifizierter Texas Instruments TMS9918)</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Auflösung : 160x146 Pixel, 32 Farben (Palette aus 4096 Farben)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound : TI SN76489 PSG</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Größe der Spielmodule : 32 kB bis 1 MB</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Bildschirm : 8,128 cm (3,2 Zoll), Backlit LCD</text>
+		</text>
+		
+	</view>
+	
+</theme>

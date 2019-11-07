@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Coleco</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1982 (US) 1983 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : über 2 Millionen</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Meistverkauftes Spiel : Donkey Kong</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Zilog Z80 getaktet mit 3,58 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 1 kB / VRAM : 16 kB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : Texas Instruments TMS9928A</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Auflösung : 256x192 Pixel, 16 Farben</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Sound : Texas Instruments SN76489A</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Größe der Spielmodule : 8 kB bis 32 kB</text>
+		</text>
+		
+	</view>
+	
+</theme>

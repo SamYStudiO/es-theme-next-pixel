@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Bandaï</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 2000 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : 740.727</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : NEC V30 MZ getaktet mit 3,072 MHz (16-bit, 8086-kompatibel)</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 64 kB VRAM/WRAM (Shared Memory)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Auflösung : 224x144 Pixel</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Bildschirm : FSTN-Reflection-LCD, 2,8 Zoll (71 mm) Bilddiagonale, 241 Farben</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound : Mono Lautsprecher, optional Kopfhörer</text>
+		</text>
+		
+	</view>
+	
+</theme>

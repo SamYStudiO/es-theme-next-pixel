@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Sega</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1983 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : 2 Millionen</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Meistverkauftes Spiel : Flicky</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : 8-bit Zilog Z80 getaktet mit 3.58 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 1 kB / VRAM : 2 kB </text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : Texas Instruments TMS9918</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Auflösung : 256x192 Pixel, 16 Farben (Palette aus 21 Farben)</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Sound Chip : Texas Instruments SN76489 PSG</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Größe der Spielmodule : 8 kB - 48 kB</text>
+		</text>
+		
+	</view>
+	
+</theme>

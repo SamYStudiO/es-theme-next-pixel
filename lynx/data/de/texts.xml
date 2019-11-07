@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Epyx / Atari</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1989 (US) 1990 (JP, EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : 1 Million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 8-bit mit 16-bit Adressraum</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Co-Prozessoren : Mikey and Suzy 2 x 16-bit</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 64 kB DRAM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>ROM : 512 Bytes</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Auflösung : 160x102 Pixel</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Sound : 4 Kanäle, 8-bit DAC</text>
+		</text>
+		
+	</view>
+	
+</theme>

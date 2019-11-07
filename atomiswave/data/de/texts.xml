@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Sammy Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 2003</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>CPU : Hitachi SH-4 32-bit RISC CPU (getaktet mit 200 MHz 360 MIPS / 1.4 GFLOPS)</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>GPU : NEC-Videologic PowerVR (PVR2DC/CLX2) getaktet mit 100 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Sound : ARM7 Yamaha AICA 45 MHz (mit interner 32-bit RISC CPU, 64 Kanal ADPCM)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 40 MB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Media : ROM Board (maximale Größe 168 MB)</text>
+		</text>
+		
+	</view>
+	
+</theme>

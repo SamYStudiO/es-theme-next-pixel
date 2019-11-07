@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>TIC-80 ist ein Fantasie-Computer für die Erstellung, zum Spielen und zum Teilen</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>kleiner Spiele. Funktionen : Code Editor, Sprite Editor, Tile Map Editor, SFX Editor.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Entwickler : Vadim Grigoruk</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Erscheinungsjahr : 2017</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Auflösung : 240x136 Pixel, Palette aus 16 Farben</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Sound : 4 Kanäle</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Website : https://tic.computer/</text>
+		</text>
+
+	</view>
+	
+</theme>

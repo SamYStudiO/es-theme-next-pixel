@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info2" extra="true">
+			<text>Hersteller : Miles Gordon Technology</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : SAM BASIC</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Erscheinungsjahr : 1989</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Verkaufte Einheiten : 12.000</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>CPU : Zilog Z80B getaktet mit 6 MHz</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>RAM : 256 kB / 512 kB (maximal 4,5 MB)</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Speicher : Kassettenrekorder, 3,5 Zoll Floppy Disk</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Auflösung : 256x192 oder 512x192 Pixel (Palette aus 128 Farben)</text>
+		</text>
+		
+	</view>
+	
+</theme>

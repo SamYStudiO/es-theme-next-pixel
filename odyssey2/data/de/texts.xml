@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Magnavox/Philips</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1978 (US, EU) 1982 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : 2 Millionen</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Intel 8048 getaktet mit 1,79 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 64 Bytes</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Audio/Video RAM : 128 Bytes</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>ROM : 1024 Bytes</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Auflösung : 160x200 Pixel, 12 Farben</text>
+		</text>
+		
+	</view>
+	
+</theme>

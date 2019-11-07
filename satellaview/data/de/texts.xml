@@ -1,0 +1,43 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahr : 1995 (JP)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : 2 Millionen</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Medien : BS-X Application Modul + optionales 8 MB Memory Pack</text>
+		</text>
+		<text name="info5" extra="true">
+			<text></text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Das Satellaview (BS-X; BS steht für broadcasting satellite) ist ein</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Zusatzgerät für das Super Famicom System. Es diente dazu, Spiele, </text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Demos und Informationen über einen Satelliten zu empfangen. Es erschien</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>am 23. April 1995 ausschließlich in Japan und nutzte den Satellitensender</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>St. GIGA. Auf dem Satellitenkanal wurden von 4 bis 7 Uhr japanischer Zeit</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>die Daten gesendet, ansonsten lief ein normales Fernsehprogramm.</text>
+		</text>
+		
+	</view>
+	
+</theme>

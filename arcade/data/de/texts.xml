@@ -1,0 +1,43 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Ein Arcade-Automat ist ein Gerät, an dem der Benutzer</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>gegen Geldeinwurf Arcade-Spiele spielen kann.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Der Automat (engl.: Coin-Ops) besteht zumeist aus einer</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Bildschirmeinheit, einem Bedienpult mit Joystick und Tasten,</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>einer Münzeinheit sowie einer eingebauten Platine, auf der</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>das Videospiel gespeichert ist. Die Hardware des Gerätes ist zumeist</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>exakt auf das darauf laufende Spiel abgestimmt.</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Die goldene Zeit der Arcade-Automaten reichte von den</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>späten 1970ern bis Mitte der 1980er. Danach wurden Heimkonsolen</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>einer immer größeren Konkurrenz für die Automaten, zumindest</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>im Westen. Im Osten hielt der Erfolg hingegen weitaus länger an.</text>
+		</text>
+
+	</view>
+	
+</theme>

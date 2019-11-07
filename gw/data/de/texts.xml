@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Hersteller : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Erscheinungsjahre : 1980 bis 1991</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Verkaufte Einheiten : 43,4 Millionen</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Meistverkauftes Spiel : Donkey Kong</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Die Nintendo Game & Watches sind eine offiziell 56- bzw. inoffiziell</text>			
+		</text>
+		<text name="info6" extra="true">
+			<text>57-teilige Serie von elektronischen LCD-Spielkonsolen von Nintendo, welche</text>			
+		</text>
+		<text name="info7" extra="true">
+			<text>mit dem Spiel Ball am 28. April 1980 startete und am 14. Oktober 1991 mit dem</text>			
+		</text>
+		<text name="info8" extra="true">
+			<text>Spiel Mario the Juggler abgesetzt wurde. Alle Game & Watch-Konsolen haben ein einziges</text>			
+		</text>
+		<text name="info9" extra="true">
+			<text>vorinstalliertes Spiel eingebaut und sind meist dem Spiel entsprechend designt.</text>			
+		</text>
+		
+	</view>
+	
+</theme>

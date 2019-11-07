@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Finde alle deine Lieblingsspiele gesammelt in einem einzigen System!</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Immer wenn du bei einem anderen System ein Spiel als Favorit markierst,</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>kannst du es anschließend hier wiederfinden.</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Viel Spaß!</text>
+		</text>
+		
+	</view>
+	
+</theme>

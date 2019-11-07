@@ -1,0 +1,40 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>DOOM ist eine Ego-Shooter-Computerspiele-Serie. Der erste Teil wurde am</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>10. Dezember 1993 von id Software veröffentlicht. Wegen der 3D-Grafik und des</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>kommerziellen Erfolgs gilt der Titel als Meilenstein im Bereich der Computerspiele.</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Inhaltlich dreht sich das Spiel um fehlgeschlagene Teleportationsexperimente der</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Aerospace Corporation (UAC) auf den beiden Marsmonden Phobos und Deimos. Dabei öffnet</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>sich ungewollt ein Portal zur Hölle. Dämonen besetzen die Forschungseinrichtungen, Menschen</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>werden getötet oder in Zombies verwandelt. Der Spieler schlüpft in die Rolle eines</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Space Marines, der sich auf dem Mond Phobos befindet und sich den Höllenkreaturen stellt.</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Entwickler : id Software</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Erscheinungsjahr : 1993</text>
+		</text>
+		
+	</view>
+	
+</theme>

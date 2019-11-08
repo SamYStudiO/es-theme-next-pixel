@@ -97,7 +97,7 @@ Next Pixel theme includes a custom start script for Recalbox to randomly change 
   - **crt** : es-theme-next-pixel-crt
   - **crt-small** : es-theme-next-pixel-crt-small
 
-**Once you script is dropped in the right folder don't forget to change file permission so Recalbox is allow to execute it**.
+**Once you script is dropped in the right folder don't forget to change file permission so Recalbox is allowed to execute it**.
 - If you're using PuTTy use *chmod +x S997next-pixel-random-system-game-theme* commmand.
 - If you're using WinSCP right click on *S997next-pixel-random-system-game-theme* file and from *Permissions* check all "X" execution boxes.
 

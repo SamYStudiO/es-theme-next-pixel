@@ -183,6 +183,23 @@ Don't forget to remove '#' char on those lines if present.
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases/tag/v1.0) previous packages for Recalbox 6.0 or lower.
 
 
+### Contribute / Report issues
+Project is hosted on [Github](https://github.com/SamYStudiO/es-theme-next-pixel).
+
+I need help!
+If you're interested to get involve in this theme please contact me using [Recalbox forum](https://forum.recalbox.com/topic/16064/recalbox-6-1-snap-videos-custom-mix-next-pixel-theme/359) or by email contact[at]samystudio.net.
+ - I need photoshop expert to help adding new game themes.
+ - I need illustator expert to help adding new rating icons.
+ - I need translators, if you can convert english to any language, you're welcome.
+ 
+If you don't know how to contribute maybe you can offer me a drink ;)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GZTG62E8M467W&source=url)
+
+Thank you for contributing:
+ - [lhari84](https://github.com/lhari84) (german systems info translation)
+
+
 ### Final words
 **I'm all ears to any suggestions or to add alternative game image/music, don't be shy**.
 

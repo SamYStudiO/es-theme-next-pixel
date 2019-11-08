@@ -88,7 +88,7 @@ Next Pixel theme includes a custom start script for Recalbox to randomly change 
 - If you're using PuTTy use *mount -o remount,rw /* command.
 - If you're using WinSCP open console (Ctrl + T), enter command *mount -o remount,rw /* and click Execute.
 
-**Note script assume you use default Next Pixel theme folder installation**. If you changed Next Pixel installation folder name you need to adjust script or restore your Next Pixel theme installation folder name.
+**Note script assumes you are using default Next Pixel theme folder installation**. If you changed Next Pixel installation folder name you need to adjust script or restore your Next Pixel theme installation folder name.
 - If you want to adjust script, open the file with a text editor and adjust second line to match your Next Pixel theme installation folder *cd /recalbox/share/themes/[set your next pixel theme folder here]/*
 - If you prefer to restore your installation folder name here are the right name depending on your package :
   - **1080p** : es-theme-next-pixel-1080p
@@ -97,7 +97,7 @@ Next Pixel theme includes a custom start script for Recalbox to randomly change 
   - **crt** : es-theme-next-pixel-crt
   - **crt-small** : es-theme-next-pixel-crt-small
 
-**Once you script is dropped in the right folder don't forget to change file permission so Recalbox is allowed to execute it**.
+**Once your script is dropped in the right folder don't forget to change file permission so Recalbox is allowed to execute it**.
 - If you're using PuTTy use *chmod +x S997next-pixel-random-system-game-theme* commmand.
 - If you're using WinSCP right click on *S997next-pixel-random-system-game-theme* file and from *Permissions* check all "X" execution boxes.
 

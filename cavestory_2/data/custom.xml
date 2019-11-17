@@ -3,20 +3,40 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-		
-		<!-- for testing removed for release -->
-		<image name="console" extra="true">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/console.svg</path>
-		</image>
-		<image name="console" extra="true" region="eu">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/eu/console.svg</path>
-		</image>
-		<image name="console" extra="true" region="jp">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/jp/console.svg</path>
-		</image>
-		<image name="console" extra="true" region="us">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/us/console.svg</path>
-		</image>
+	
+		<text name="info1" extra="true">
+			<text>Designer : Daisuke Amaya</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Densenvolvedor : Studio Pixel</text>
+		</text>
+		<text name="info3" extra="true">
+			<text> Tipo: Plataforma-aventura freeware </text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Origem : Japão</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Tradução em inglês: Aeon Genesis Traduções</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Ano do primeiro lançamento: 2004</text>
+		</text>
+		<text name = "info7" extra = "true">
+		<text> O jogo se concentra em um protagonista amnésico que acorda em uma caverna. </text>
+			</text>
+		<text name = "info8" extra = "true">
+			<text> Através de suas explorações, ele descobre uma trama do Doutor, </text>
+		</text>
+		<text name = "info9" extra = "true">
+			<text> um megalomaníaco que pretende forçar os habitantes da caverna </text>
+		</text>
+		<text name = "info10" extra = "true">
+			<text> lutar por ele em sua tentativa de conquistar o mundo. O protagonista é empurrado </text>
+		</text>
+		<text name = "info11" extra = "true">
+			<text> na posição de salvador, enquanto ele tenta derrotar o Doutor. </text>
+		</text>		
 		
 	</view>
 	
@@ -27,24 +47,6 @@
 			<maxSize>.11 1</maxSize>
 		</image>
 		
-	</view>
-	
-	<view name="basic">
-	
-		<!-- for testing removed for release -->
-		<image name="consolegame" extra="true">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="eu">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/eu/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="jp">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/jp/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="us">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/cavestory/data/us/consolegame.svg</path>
-		</image>
-	
 	</view>
 	
 </theme>

@@ -1,6 +1,35 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Fabricante : Apple Computer, Inc.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de Lançamento : 1986</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Apple ProDOS, Apple GS/OS, GNO/ME</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Western Design Center 65C816 16-bit @ 2.8 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 256 kB ou 1 MB (expansível até 8 MB)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 128 KB expansível até 1 MB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Som : Ensoniq ES5503 DOC 8-bit, 32 canais, estéreo</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Display : VGC 12-bpp (4096 cores), 320×200, 640×200</text>
+		</text>
+		
+	</view>
 	
 	<view name="basic, detailed">
 	

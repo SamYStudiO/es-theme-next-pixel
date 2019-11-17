@@ -1,6 +1,38 @@
 ﻿<theme>
 
 	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Fabricante : Panasonic, Sanyo, GoldStar</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de Lançamento : 1993 (USA), 1994 (JAPÃO, EUROPA)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Multitarefa 32-bit OS</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 32-bit RISC (ARM60) @ 12.5 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 2 MB / VRAM : 1 MB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 1 MB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : 2 co-processadores de vídeo acelerados @25MHz</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Chip de som : Som estéreo de 16 bits com taxa de amostragem de 44,1 KHz</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolução : 640x480 (16.7 milhões de cores)</text>
+		</text>
+		
+	</view>
 	
 	<view name="basic, detailed">
 	

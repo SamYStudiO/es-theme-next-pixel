@@ -3,20 +3,37 @@
 	<formatVersion>4</formatVersion>
 	
 	<view name="system">
-		
-		<!-- for testing removed for release -->
-		<image name="console" extra="true">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/console.svg</path>
-		</image>
-		<image name="console" extra="true" region="eu">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/eu/console.svg</path>
-		</image>
-		<image name="console" extra="true" region="jp">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/jp/console.svg</path>
-		</image>
-		<image name="console" extra="true" region="us">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/us/console.svg</path>
-		</image>
+	
+		<text name="info1" extra="true">
+			<text>Fabricante : Atari Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de Lançamento : 1985</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Atari TOS</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola 68000 16-/32-bit CPU @ 8 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 512KB ou 1MB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Drive : unidade de disquete de 3 ½ "de lado único</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Chip de som : Yamaha YM2149 3-voice squarewave</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Modos de exibição :</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Baixa resolução: 320 × 200 (16 cores), paleta de 512 cores</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Média resolução: 640 × 200 (4 cores), paleta de 512 cores</text>
+		</text>
 		
 	</view>
 	
@@ -26,24 +43,6 @@
 			<pos>.93 .88</pos>
 		</image>
 		
-	</view>
-	
-	<view name="basic">
-	
-		<!-- for testing removed for release -->
-		<image name="consolegame" extra="true">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="eu">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/eu/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="jp">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/jp/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="us">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/us/consolegame.svg</path>
-		</image>
-	
 	</view>
 	
 </theme>

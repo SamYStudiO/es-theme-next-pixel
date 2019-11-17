@@ -1,6 +1,41 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Fabricante : Coleco</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Ano de Lançamento : 1982 (USA), 1983 (EUROPA)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Unidades vendidas : +2 milhões</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Jogo mais vendido : Donkey Kong</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Zilog Z80 @ 3.58 MHz</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 1kB / VRAM : 16kB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : Texas Instruments TMS9928A</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolução : 256x192, 16 cores</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Chip de som : Texas Instruments SN76489A</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Tamanho do cartão : 8kB - 32kB</text>
+		</text>
+		
+	</view>
 	
 	<view name="basic, detailed">
 	

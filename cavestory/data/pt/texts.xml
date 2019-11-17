@@ -1,0 +1,43 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Designer : Daisuke Amaya</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Programador : Studio Pixel</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Type : Freeware platform-adventure</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Origem : Japão</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>English translation : Aeon Genesis Translations</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Ano de primeira saida : 2004</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>O jogo concentra-se num protagonista amnesico que acorda numa cave.</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Através de suas explorações, ele descobre uma trama do Doutor,</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>um megalomaníaco que pretende forçar os habitantes da caverna</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>lutar por ele em sua tentativa de conquistar o mundo. O protagonista é empurrado</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>na posição de salvador enquanto ele tenta derrotar o Doutor.</text>
+		</text>
+		
+	</view>
+	
+</theme>

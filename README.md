@@ -131,6 +131,7 @@ If you don't know how to contribute maybe you can offer me a drink ;)
 
 Thank you for contributing:
  - [lhari84](https://github.com/lhari84) (german systems info translation)
+ - rastaware (portuguese translation)
 
 
 ### Download

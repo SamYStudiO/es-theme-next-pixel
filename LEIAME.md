@@ -56,7 +56,7 @@ Next Pixel tema agora inclui seus proprios mix para fazer screenshots e videos s
 
 ![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes.gif)
 
-**Para ter mais informações sobre como usar Next Pixel mix, vejacheck [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/english/data/mix/README.md).**
+**Para ter mais informações sobre como usar Next Pixel mix, vejacheck [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/LEIAME.md).**
 
 **Se não que usar o Next Pixel mix escolhe  "others mixes" opçõa de tem na opção GAMELISTVIEW ou você terá alguns recursos gráficos estranhos sobrepondo suas imagens scrapadas**. Pressione Iniciar> CONFIGURAÇÕES DA IU> TEMA> CONFIGURAÇÃO DO TEMA> VISÃO GERAL DO TEMA> escolha qualquer layout com "outras mix".
 

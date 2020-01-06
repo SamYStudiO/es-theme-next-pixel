@@ -83,7 +83,7 @@ Para ajudá-lo a escolher, todas as imagens do sistema são visíveis no [site N
 
 ###Temas de jogos aleatórios do sistema
 O tema Próximo pixel inclui um script de início personalizado para o Recalbox alterar aleatoriamente os temas dos jogos do sistema. Como visto anteriormente, alguns sistemas podem conter vários temas de jogos, ao usar esse script, esses sistemas carregam aleatoriamente um tema de jogo quando o Recalbox é iniciado. Este script chamado "S997próximo-pixel-aleatório-sistema-jogo-tema" está localizado na instalação raiz do tema Próximo pixel. Você precisa soltar esse arquivo na pasta Recalbox */etc/init.d/*. Para fazer isso, você pode usar a ferramenta de linha de comando com o PuTTy ou uma ferramenta como [WinSCP] (https://github.com/recalbox/recalbox-os/wiki/Network-access-with-WinSCP- (EN)) para conectar-se a seu Recalbox. Você pode ler [this] (https://github.com/recalbox/recalbox-os/wiki/Add-your-own-startup-script- (EN)) para obter mais informações sobre como iniciar scripts.
-** Não esqueça de permitir acesso de gravação antes de soltar seu arquivo **.
+**Não esqueça de permitir acesso de gravação antes de soltar seu arquivo**.
 - Se você estiver usando o PuTTy, use o comando *mount -o remount, rw /*.
 - Se você estiver usando o console aberto do WinSCP (Ctrl + T), digite o comando * mount -o remount, rw / * e clique em Executar.
 
@@ -96,7 +96,7 @@ O tema Próximo pixel inclui um script de início personalizado para o Recalbox 
   - **crt** : es-theme-next-pixel-crt
   - **crt-small** : es-theme-next-pixel-crt-small
 
-** Quando o script for deixado na pasta correta, não se esqueça de alterar a permissão do arquivo, para que o Recalbox permita executá-lo **.
+**Quando o script for deixado na pasta correta, não se esqueça de alterar a permissão do arquivo, para que o Recalbox permita executá-lo**.
 - Se você estiver usando o PuTTy, use o comando *chmod + x S997next-pixel-random-system-game-theme*.
 - Se você estiver usando o WinSCP, clique com o botão direito do mouse no arquivo *S997next-pixel-random-system-game-theme* e em *Permissions* marque todas as caixas de execução "X".
 

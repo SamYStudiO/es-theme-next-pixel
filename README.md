@@ -59,7 +59,7 @@ Next Pixel theme now includes its own custom mix to make your game screenshots a
 
 ![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes.gif)
 
-**To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/english/data/mix/README.md).**
+**To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/README.md).**
 
 **If you do not want to use Next Pixel mix select any "others mixes" option from theme GAMELISTVIEW settings or you will get some weird graphical assets overlaying your scraped images**. Press Start > UI SETTINGS > THEME > THEME CONFIGURATION > THEME GAMELISTVIEW > choose any layout with "others mixes".
 

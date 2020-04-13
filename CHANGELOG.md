@@ -1,6 +1,6 @@
 ### Changelog
 2020/XX/XX - 1.4
-- Merge changes from Recalbox Next theme to be ready for 6.2
+- Merge changes from Recalbox Next theme assets
 - Add 64dd support
 - Add snes game theme alternative
 - Add french translation

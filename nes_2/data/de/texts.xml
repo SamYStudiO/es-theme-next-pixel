@@ -23,7 +23,7 @@
 			<text>RAM : 2 kB / VRAM : 2 kB</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>PPU : 8-bit</text>
+			<text>PPU : 8-bit PPU</text>
 		</text>
 		<text name="info8" extra="true">
 			<text>Auflösung : 256x240 Pixel, 25 Farben (Palette aus 64 Farben)</text>

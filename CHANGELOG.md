@@ -2,6 +2,7 @@
 2020/XX/XX - 1.4
 - Merge changes from Recalbox Next theme assets
 - Add 64dd support
+- Add naomigd support (using same game theme as naomi)
 - Add snes game theme alternative
 - Add french translation
 - Add a new mix that prioritize ingame screenshot instead of title screenshot

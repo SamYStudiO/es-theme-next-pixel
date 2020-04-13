@@ -1,5 +1,7 @@
 ### Changelog
-2019/XX/XX - 1.4
+2020/XX/XX - 1.4
+- Merge changes from Recalbox Next theme to be ready for 6.2
+- Add snes game theme alternative
 - Add french translation
 - Add a new mix that prioritize ingame screenshot instead of title screenshot
 - Fix mix file pathes for Linux

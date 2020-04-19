@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Retrouvez tous vos jeux de simulation de construction</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>dans un unique système. Chaque fois que vous ajoutez</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>un jeu de simulation de construction dans un système,</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>vous le retrouvez aussi ici.</text>
+		</text>
+		
+	</view>
+	
+</theme>

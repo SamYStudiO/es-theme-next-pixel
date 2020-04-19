@@ -1,0 +1,52 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="basic, detailed">
+
+		<image name="background_right" extra="true">
+			<path>./../../auto/background_gamelist_right.jpg</path>
+		</image>
+
+		<image name="logo">
+			<path>./../../auto/data/logo_right.svg</path>
+		</image> 
+		<image name="logo" region="eu">
+			<path>./../../auto/data/eu/logo_right.svg</path>
+		</image> 
+		<image name="logo" region="us">
+			<path>./../../auto/data/us/logo_right.svg</path>
+		</image> 
+		<image name="logo" region="jp">
+			<path>./../../auto/data/jp/logo_right.svg</path>
+		</image>
+
+		<image name="controller" extra="true">
+			<path>./../../auto/data/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="eu">
+			<path>./../../auto/data/eu/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="jp">
+			<path>./../../auto/data/jp/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="us">
+			<path>./../../auto/data/us/controller.svg</path>
+		</image>
+
+		<image name="background" extra="true">
+			<path>./../../auto/background_gamelist_left.png</path>
+		</image>
+
+	</view>
+
+	<view name="detailed">
+
+		<rating name="md_rating">
+			<filledPath>./../../auto/icon_filled.svg</filledPath>
+			<unfilledPath>./../../auto/icon_empty.svg</unfilledPath>
+		</rating>
+
+	</view>
+	
+</theme>

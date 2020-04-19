@@ -29,13 +29,13 @@
 
 	<include subset="systemview" name="1a-vertical wheel, info short (4 lines)">./systemviews/vertical_wheel_short_info.xml</include>
 	<include subset="systemview" name="1b-vertical wheel, info (all lines)">./systemviews/vertical_wheel_all_info.xml</include>
-	<include subset="systemview" name="1c-vertical wheel, no info">./systemviews/vertical_wheel_common.xml</include>
+	<include subset="systemview" name="1c-vertical wheel, no info">./systemviews/vertical_wheel_no_info.xml</include>
 	<include subset="systemview" name="2a-horizontal, info short (4 lines)">./systemviews/horizontal_short_info.xml</include>
 	<include subset="systemview" name="2b-horizontal, info (all lines)">./systemviews/horizontal_all_info.xml</include>
-	<include subset="systemview" name="2c-horizontal, no info">./systemviews/horizontal_common.xml</include>
+	<include subset="systemview" name="2c-horizontal, no info">./systemviews/horizontal_no_info.xml</include>
 	<include subset="systemview" name="3a-horizontal legacy, info short (4 lines)">./systemviews/horizontal_legacy_short_info.xml</include>
 	<include subset="systemview" name="3b-horizontal legacy, info (all lines)">./systemviews/horizontal_legacy_all_info.xml</include>
-	<include subset="systemview" name="3c-horizontal legacy, no info">./systemviews/horizontal_legacy_common.xml</include>
+	<include subset="systemview" name="3c-horizontal legacy, no info">./systemviews/horizontal_legacy_no_info.xml</include>
 
 	<include subset="gamelistview" name="1a-standard with Next Pixel mix">./gamelistviews/standard_next_pixel_mix.xml</include>
 	<include subset="gamelistview" name="1b-standard with others mixes">./gamelistviews/standard.xml</include>

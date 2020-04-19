@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Retrouvez tous vos jeux d'aventure textuelles dans un unique</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>système. Chaque fois que vous ajoutez un jeu d'aventure textuelle</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>dans un système, vous le retrouvez aussi ici.</text>
+		</text>
+		
+	</view>
+	
+</theme>

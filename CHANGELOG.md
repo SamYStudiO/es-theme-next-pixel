@@ -4,6 +4,7 @@
 - Add dragon support
 - Add naomigd support (using same game theme as naomi)
 - Add snes game theme alternative
+- Add auto-xxx support
 - Add a new mix that prioritize ingame screenshot instead of title screenshot
 - Fix mix file pathes for Linux
 - Merge changes from Recalbox Next theme assets

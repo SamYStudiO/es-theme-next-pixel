@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Retrouvez tous vos jeux de puzzle et de logique dans un</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>unique système. Chaque fois que vous ajoutez un jeu de puzzle</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ou de logique dans un système, vous le retrouvez aussi ici.</text>
+		</text>
+		
+	</view>
+	
+</theme>

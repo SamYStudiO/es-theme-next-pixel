@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Retrouvez tous vos jeux d'action de tir à la première</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>personne dans un unique système. Chaque fois que vous</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>ajoutez un jeu d'action de tir à la première personne</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>dans un système, vous le retrouvez aussi ici.</text>
+		</text>
+		
+	</view>
+	
+</theme>

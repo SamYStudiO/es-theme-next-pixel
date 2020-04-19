@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Retrouvez tous vos jeux de film interactive d'aventure dans</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>un unique système. Chaque fois que vous ajoutez un jeu de film</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>interactive d'aventure dans un système, vous le retrouvez aussi ici.</text>
+		</text>
+		
+	</view>
+	
+</theme>

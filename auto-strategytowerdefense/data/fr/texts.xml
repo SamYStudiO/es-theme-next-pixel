@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Retrouvez tous vos jeux de stratégie de type tower defense</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>dans un unique système. Chaque fois que vous ajoutez un jeu</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>de stratégie de type tower defense dans un système, vous le</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>retrouvez aussi ici.</text>
+		</text>
+		
+	</view>
+	
+</theme>

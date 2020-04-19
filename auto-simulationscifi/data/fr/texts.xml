@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Retrouvez tous vos jeux de simulation scifi dans un unique</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>système. Chaque fois que vous ajoutez un jeu de simulation</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>scifi dans un système, vous le retrouvez aussi ici.</text>
+		</text>
+		
+	</view>
+	
+</theme>

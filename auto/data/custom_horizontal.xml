@@ -1,0 +1,26 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./../../auto/background.jpg</path>
+		</image>
+		
+		<image name="logo">
+			<path>./../../auto/data/logo.svg</path>
+		</image> 
+		<image name="logo" region="eu">
+			<path>./../../auto/data/eu/logo.svg</path>
+		</image> 
+		<image name="logo" region="us">
+			<path>./../../auto/data/us/logo.svg</path>
+		</image> 
+		<image name="logo" region="jp">
+			<path>./../../auto/data/jp/logo.svg</path>
+		</image>
+
+	</view>
+	
+</theme>

@@ -2,6 +2,7 @@
 
 	<formatVersion>4</formatVersion>	
 	<include>./common.xml</include>
+	<include>./../../$system/data/custom_horizontal_legacy.xml</include>
 
 	<feature supported="carousel">
 

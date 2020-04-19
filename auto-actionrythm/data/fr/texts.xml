@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Retrouvez tous vos jeux d'action rythm dans un unique système.</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Chaque fois que vous ajoutez un jeu d'action rythm dans</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>un système, vous le retrouvez aussi ici.</text>
+		</text>
+		
+	</view>
+	
+</theme>

@@ -1,0 +1,21 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+		
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Retrouvez tous vos jeux d'aventure de type survival horror</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>dans un unique système. Chaque fois que vous ajoutez un jeu</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>d'aventure de type survival horror dans un système, vous le</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>retrouvez aussi ici.</text>
+		</text>
+	</view>
+	
+</theme>

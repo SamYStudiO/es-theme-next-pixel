@@ -1,12 +1,12 @@
 ### Changelog
 2020/XX/XX - 1.4
-- Merge changes from Recalbox Next theme assets
 - Add 64dd support
+- Add dragon support
 - Add naomigd support (using same game theme as naomi)
 - Add snes game theme alternative
-- Add french translation
 - Add a new mix that prioritize ingame screenshot instead of title screenshot
 - Fix mix file pathes for Linux
+- Merge changes from Recalbox Next theme assets
 
 2019/10/26 - 1.3
 - Add Next Pixel custom mix to enhance scraped images and video snaps integration

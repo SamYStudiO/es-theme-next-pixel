@@ -25,7 +25,7 @@ Premièrement vous devez vous assurer que le thème Next Pixel est installé car
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/0.png)
 
-- Sélectionnez **USER PROVIDED MIX** depuis la liste sous le média et ensuite parcourez vers le dossier d'installation de votre thème Next Pixel et selectionnez **data/mix/next_pixel.xml**.
+- Sélectionnez **USER PROVIDED MIX** depuis la liste sous le média et ensuite parcourez vers le dossier d'installation de votre thème Next Pixel et selectionnez **data/mix/next_pixel.xml** ou **data/mix/next_pixel_screenshot_title.xml**. La version *next_pixel_screenshot* affiche une image ingame si elle existe sinon elle affiche une image de l'écran de titre du jeu, La version *next_pixel_screenshot_title* affiche une image avec l'écran de titre du jeu si elle existe sinon elle affiche une image ingame. Je recommande d'utiliser la version *next_pixel_screenshot_title* si vous scrapper aussi les vidéos, sinon je recommande la version*next_pixel_screenshot*.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/1.png)
 

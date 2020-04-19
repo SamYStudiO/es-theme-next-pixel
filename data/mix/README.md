@@ -25,7 +25,7 @@ First you need to make sure Next Pixel theme is installed since custom mix files
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/0.png)
 
-- Select **USER PROVIDED MIX** from list box under your media and then browse to your Next Pixel theme installation folder and select **data/mix/next_pixel_screenshot.xml** or **data/mix/next_pixel_screenshot_title.xml**. Screenshot version will display an image using ingame content falling back with title screenshot if not available, Screenshot title will display an image using game title screenshot falling back with ingame content if not available.
+- Select **USER PROVIDED MIX** from list box under your media and then browse to your Next Pixel theme installation folder and select **data/mix/next_pixel_screenshot.xml** or **data/mix/next_pixel_screenshot_title.xml**. *next_pixel_screenshot* version will display an image using ingame content falling back with title screenshot if not available, *next_pixel_screenshot_title* title will display an image using game title screenshot falling back with ingame content if not available. I recommand using *next_pixel_screenshot_title* version if you're going to scrap video as well otherwise i recommand to use *next_pixel_screenshot* version.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/1.png)
 

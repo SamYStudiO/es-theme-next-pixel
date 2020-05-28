@@ -130,6 +130,8 @@ Si vous ne savez pas comment participer peut être vous pouvez me payer un coup 
 Merci pour votre contribution:
  - [lhari84](https://github.com/lhari84) (traduction des informations systèmes en allemand)
  - rastaware (traduction en portugais)
+ - MarbleMad (thème du système default)
+ - Archangel54 (thème du système snes_4)
 
 
 ### Téléchargement

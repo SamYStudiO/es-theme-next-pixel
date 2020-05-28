@@ -22,9 +22,18 @@
 	
 	<view name="basic, detailed">
 	
+		<!-- for testing removed for release -->
 		<image name="controller" extra="true">
-			<pos>.985 .9</pos>
-			<maxSize>.09 1</maxSize>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/n64/data/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/n64/data/eu/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/n64/data/jp/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/n64/data/us/controller.svg</path>
 		</image>
 		
 	</view>

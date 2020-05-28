@@ -2,13 +2,4 @@
 
 	<formatVersion>4</formatVersion>
 	
-	<view name="basic, detailed">
-	
-		<image name="controller" extra="true">
-			<pos>.938 .888</pos>
-			<maxSize>.05 1</maxSize>
-		</image>
-		
-	</view>
-	
 </theme>

@@ -2,12 +2,4 @@
 
 	<formatVersion>4</formatVersion>
 	
-	<view name="basic, detailed">
-	
-		<image name="logo" extra="true">
-			<pos>.977 .98</pos>
-		</image>
-		
-	</view>
-	
 </theme>

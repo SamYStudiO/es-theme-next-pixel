@@ -2,18 +2,4 @@
 
 	<formatVersion>4</formatVersion>
 	
-	<view name="basic, detailed">
-	
-		<image name="controller" extra="true" region="eu">
-			<maxSize>.095 1</maxSize>
-		</image>
-		<image name="controller" extra="true" region="us">
-			<maxSize>.095 1</maxSize>
-		</image>
-		<image name="controller" extra="true" region="jp">
-			<pos>.98 .895</pos>
-		</image>
-		
-	</view>
-	
 </theme>

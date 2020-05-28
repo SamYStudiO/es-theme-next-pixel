@@ -20,15 +20,6 @@
 		
 	</view>
 	
-	<view name="basic, detailed">
-	
-		<image name="controller" extra="true">
-			<pos>.936 .885</pos>
-			<maxSize>0.105 1</maxSize>
-		</image>
-		
-	</view>
-	
 	<view name="basic">
 	
 		<!-- force msx2 since this system is not supported by recalbox -->

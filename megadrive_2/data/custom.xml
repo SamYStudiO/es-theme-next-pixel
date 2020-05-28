@@ -22,14 +22,18 @@
 	
 	<view name="basic, detailed">
 	
+		<!-- for testing removed for release -->
+		<image name="controller" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/megadrive/data/controller.svg</path>
+		</image>
 		<image name="controller" extra="true" region="eu">
-			<pos>.933 .9</pos>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/megadrive/data/eu/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/megadrive/data/jp/controller.svg</path>
 		</image>
 		<image name="controller" extra="true" region="us">
-			<pos>.933 .89</pos>
-		</image>
-		<image name="logo" extra="true" region="jp">
-			<pos>.976 .98</pos>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/megadrive/data/us/controller.svg</path>
 		</image>
 		
 	</view>

@@ -2,12 +2,4 @@
 
 	<formatVersion>4</formatVersion>
 	
-	<view name="basic, detailed">
-	
-		<image name="controller" extra="true" region="us">
-			<maxSize>.04 1</maxSize>
-		</image>
-		
-	</view>
-	
 </theme>

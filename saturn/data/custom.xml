@@ -2,15 +2,4 @@
 
 	<formatVersion>4</formatVersion>
 	
-	<view name="basic, detailed">
-	
-		<image name="controller" extra="true">
-			<pos>.985 .9</pos>
-		</image>
-		<image name="controller" extra="true" region="jp">
-			<pos>.94 .9</pos>
-		</image>
-		
-	</view>
-	
 </theme>

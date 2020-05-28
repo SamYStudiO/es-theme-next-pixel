@@ -22,8 +22,18 @@
 	
 	<view name="basic, detailed">
 	
+		<!-- for testing removed for release -->
 		<image name="controller" extra="true">
-			<pos>.93 .88</pos>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="eu">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/eu/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/jp/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="us">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/atarist/data/us/controller.svg</path>
 		</image>
 		
 	</view>

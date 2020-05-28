@@ -22,14 +22,18 @@
 	
 	<view name="basic, detailed">
 	
+		<!-- for testing removed for release -->
+		<image name="controller" extra="true">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/segacd/data/controller.svg</path>
+		</image>
 		<image name="controller" extra="true" region="eu">
-			<pos>.938 .89</pos>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/segacd/data/eu/controller.svg</path>
+		</image>
+		<image name="controller" extra="true" region="jp">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/segacd/data/jp/controller.svg</path>
 		</image>
 		<image name="controller" extra="true" region="us">
-			<pos>.985 .89</pos>
-		</image>
-		<image name="logo" extra="true" region="jp">
-			<pos>.976 .98</pos>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/segacd/data/us/controller.svg</path>
 		</image>
 		
 	</view>

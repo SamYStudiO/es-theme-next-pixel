@@ -30,20 +30,20 @@
 		</image>
 
 		<image name="controller" extra="true">
-			<path>./../../$system/data/controller.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/controller.svg</path>
 			<pos>.985 .88</pos>
 			<origin>1 1</origin>
-			<maxSize>.1 1</maxSize>
+			<maxSize>.11 .22</maxSize>
 			<zIndex>6</zIndex>
 		</image>
 		<image name="controller" extra="true" region="eu">
-			<path>./../../$system/data/eu/controller.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/eu/controller.svg</path>
 		</image>
 		<image name="controller" extra="true" region="jp">
-			<path>./../../$system/data/jp/controller.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/jp/controller.svg</path>
 		</image>
 		<image name="controller" extra="true" region="us">
-			<path>./../../$system/data/us/controller.svg</path>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/us/controller.svg</path>
 		</image>
 
 		<image name="gamelist_background" extra="true">

@@ -20,15 +20,6 @@
 		
 	</view>
 	
-	<view name="basic, detailed">
-	
-		<image name="controller" extra="true">
-			<pos>.985 .9</pos>
-			<maxSize>.09 1</maxSize>
-		</image>
-		
-	</view>
-	
 	<view name="basic">
 	
 		<!-- for testing removed for release -->

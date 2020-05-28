@@ -5,20 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../../auto/background_wheel.jpg</path>
-		</image>
-		
-		<image name="logo">
-			<path>./../../auto/data/logo_right.svg</path>
-		</image> 
-		<image name="logo" region="eu">
-			<path>./../../auto/data/eu/logo_right.svg</path>
-		</image> 
-		<image name="logo" region="us">
-			<path>./../../auto/data/us/logo_right.svg</path>
-		</image> 
-		<image name="logo" region="jp">
-			<path>./../../auto/data/jp/logo_right.svg</path>
+			<path>./../../default/background_wheel.jpg</path>
 		</image>
 
 	</view>

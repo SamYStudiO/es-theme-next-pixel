@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Take screenshots of your best games and highscores,</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>then show them to your friends.</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Who will be the best player ...</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>God Bless Recalbox !</text>
+		</text>
+		
+	</view>
+	
+</theme>

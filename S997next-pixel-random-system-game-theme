@@ -4,11 +4,9 @@ for d in * ; do
     echo "$d"
 	index=2
 	random=0
-	#echo "/${d}_${index}" 
 	while true
 	do
 		if [ -d "${d}_${index}" ]; then
-			#echo "hello > ${d}_${index}"
 			index=$((index+1))
 		else 
 			break

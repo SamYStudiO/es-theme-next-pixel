@@ -7,6 +7,7 @@
 - Add auto-xxx support
 - Add a new mix that prioritize ingame screenshot instead of title screenshot
 - Change default system game theme
+- Remove nes_2 game theme and add it as snes_5 game theme as this is an image from snes game
 - Fix mix file pathes for Linux
 - Merge some changes from Recalbox Next theme assets
 

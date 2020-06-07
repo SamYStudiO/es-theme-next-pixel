@@ -1,5 +1,11 @@
 ### ![fr](https://www.countryflags.io/fr/shiny/32.png) Pour les non anglophone la documentation en français est disponible [**ici**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LISEZMOI.md)!
 
+### ![es](https://www.countryflags.io/es/shiny/32.png) La documentación en español está disponible [**aquí**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEEME.md)!
+
+### ![de](https://www.countryflags.io/de/shiny/32.png) Eine Dokumentation in deutscher Sprache finden Sie [**hier**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LIESMICH.md)!
+
+### ![it](https://www.countryflags.io/it/shiny/32.png) La documentazione in italiano è disponibile [**qui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEGGIMI.md)!
+
 ### ![pt](https://www.countryflags.io/pt/shiny/32.png)![br](https://www.countryflags.io/br/shiny/32.png) A documentação em português está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md)!
 
 ### ![gb](https://www.countryflags.io/gb/shiny/32.png)![us](https://www.countryflags.io/us/shiny/32.png) Hi and welcome to [Next Pixel theme](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)
@@ -73,12 +79,11 @@ Actual systems with multiple game themes :
 - megadrive : 2 different game themes available
 - n64 : 4 different game themes available
 - nds : 2 different game themes available
-- nes : 2 different game themes available
 - ps3 : 2 different game themes available
 - psp : 2 different game themes available
 - psx : 2 different game themes available
 - segacd : 2 different game themes available
-- snes : 4 different game themes available
+- snes : 5 different game themes available
 - wii : 2 different game themes available
 
 To help you choose, all systems images are visible from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/) or if you can't make your choice you may consider using random script so each time you start Recalbox you get a different game theme, read next section for more info.

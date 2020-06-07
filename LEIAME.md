@@ -70,12 +70,11 @@ Sistemas reais com vários temas de jogos:
 - megadrive: 2 temas de jogos diferentes disponíveis
 - n64: 4 temas de jogos diferentes disponíveis
 - nds: 2 temas de jogos diferentes disponíveis
-- nes: 2 temas de jogos diferentes disponíveis
 - ps3: 2 temas de jogos diferentes disponíveis
 - psp: 2 temas de jogos diferentes disponíveis
 - psx: 2 temas de jogos diferentes disponíveis
 - segacd: 2 temas de jogos diferentes disponíveis
-- snes: 4 temas de jogos diferentes disponíveis
+- snes: 5 temas de jogos diferentes disponíveis
 - wii: 2 temas de jogos diferentes disponíveis
 
 Para ajudá-lo a escolher, todas as imagens do sistema são visíveis no [site Next Pixel] (https://samystudio.github.io/es-theme-next-pixel/) ou, se você não puder fazer sua escolha, considere usar aleatoriamente Para que, cada vez que você inicie o Recalbox, obtenha um tema diferente, leia a próxima seção para obter mais informações.

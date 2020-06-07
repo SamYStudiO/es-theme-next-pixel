@@ -55,7 +55,7 @@ Next Pixel theme now includes its own custom mix to make your game screenshots a
 
 ![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes.gif)
 
-**To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/README.md).**
+**To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/LIESMICH.md).**
 
 **If you do not want to use Next Pixel mix select any "others mixes" option from theme GAMELISTVIEW settings or you will get some weird graphical assets overlaying your scraped images**. Press Start > UI SETTINGS > THEME > THEME CONFIGURATION > THEME GAMELISTVIEW > choose any layout with "others mixes".
 
@@ -69,12 +69,11 @@ Actual systems with multiple game themes :
 - megadrive : 2 different game themes available
 - n64 : 4 different game themes available
 - nds : 2 different game themes available
-- nes : 2 different game themes available
 - ps3 : 2 different game themes available
 - psp : 2 different game themes available
 - psx : 2 different game themes available
 - segacd : 2 different game themes available
-- snes : 4 different game themes available
+- snes : 5 different game themes available
 - wii : 2 different game themes available
 
 To help you choose, all systems images are visible from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/) or if you can't make your choice you may consider using random script so each time you start Recalbox you get a different game theme, read next section for more info.

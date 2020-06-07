@@ -69,6 +69,7 @@ Actual systems with multiple game themes :
 - megadrive : 2 different game themes available
 - n64 : 4 different game themes available
 - nds : 2 different game themes available
+- nes : 2 different game themes available
 - ps3 : 2 different game themes available
 - psp : 2 different game themes available
 - psx : 2 different game themes available

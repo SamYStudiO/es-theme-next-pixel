@@ -3,8 +3,9 @@
 - Add 64dd support
 - Add dragon support
 - Add naomigd support (using same game theme as naomi)
-- Add snes game theme alternative
 - Add auto-xxx support
+- Add snes game theme alternative
+- Add nes game theme alternative
 - Add a new mix that prioritize ingame screenshot instead of title screenshot
 - Change default system game theme
 - Remove nes_2 game theme and add it as snes_5 game theme as this is an image from snes game

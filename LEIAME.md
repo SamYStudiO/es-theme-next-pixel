@@ -70,6 +70,7 @@ Sistemas reais com vários temas de jogos:
 - megadrive: 2 temas de jogos diferentes disponíveis
 - n64: 4 temas de jogos diferentes disponíveis
 - nds: 2 temas de jogos diferentes disponíveis
+- nes: 2 temas de jogos diferentes disponíveis
 - ps3: 2 temas de jogos diferentes disponíveis
 - psp: 2 temas de jogos diferentes disponíveis
 - psx: 2 temas de jogos diferentes disponíveis

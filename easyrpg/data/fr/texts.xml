@@ -1,0 +1,19 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>EasyRPG est un projet communautaire pour créer un outil de</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>création de jeu de rôle gratuit et open source compatible</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>avec les jeux RPG Maker 2000/2003.</text>
+		</text>
+		
+	</view>
+	
+</theme>

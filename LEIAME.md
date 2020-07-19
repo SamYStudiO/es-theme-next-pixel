@@ -5,7 +5,7 @@ E baseado no tema recalbox-next, terà entao todas as ventagens (configurações
 
 **O tema está configurado por padrão para usar um mix personalizado para descartar as imagens do jogo. Leia atentamente a documentação abaixo para obter mais informações, mesmo se você não quiser usá-lo, pois terá que ajustar a opção GAMELISTVIEW do tema para que funcione corretamente com outras misturas**.
  
-**Tema é compativel com Recalbox 6.1+ e com écrã 16:9, 4:3 e pequenos écrãs 4:3 como o GPi CASE**.
+**Tema é compativel com Recalbox 7.0+ e com écrã 16:9, 4:3 e pequenos écrãs 4:3 como o GPi CASE**.
 
 Aqui têm varios srceenschot usado as diferentes configurações :
 
@@ -113,6 +113,7 @@ O tema Próximo pixel inclui um script de início personalizado para o Recalbox 
 - O suporte aleatório é do [Voljega] (https://github.com/Voljega/scripts4recalbox).
 - O site usa o [React Image Galery component] (http://www.linxtion.com/demo/react-image-gallery/).
 - A fonte do logotipo Next Pixel é "Color Basic" de [Typodermic Fonts] (http://typodermicfonts.com/).
+- EasyRPG image is a fan art from https://www.deviantart.com/bluecake80/art/Witch-s-heart-748044267.
 
 
 ### Contribuir / reportar problémas
@@ -159,13 +160,13 @@ If you still have issues with 720p (mainly images replaced with white rectangle)
 
 If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
-**1080p [DOWNLOAD es-next-pixel-1080p-1.4 for Recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-1080p.zip)**
+**1080p [DOWNLOAD es-next-pixel-1080p-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-1080p.zip)**
 
-**720p [DOWNLOAD es-next-pixel-720p-1.4 for Recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-720p.zip)**
+**720p [DOWNLOAD es-next-pixel-720p-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-720p.zip)**
 
-**480p [DOWNLOAD es-next-pixel-480p-1.4 for Recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-480p.zip)**
+**480p [DOWNLOAD es-next-pixel-480p-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-480p.zip)**
 
-[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases/tag/v1.0) previous packages for Recalbox 6.0 or lower.
+[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 6.1 or lower.
 
 #### 4:3 Ecrãs
 2 pacotes estão disponíveis com imagens de 1024x768 e imagens de 320x240, se você estiver usando uma tela com resolução maior que 320x240 pick **crt package**, se estiver usando uma tela de 320x240 ou inferior (como GPi CASE), escolha **crt- pacote pequeno**. **Se você estiver usando o pacote 1024x768 com uma tela com resolução maior que 1024x768, recomendo forçar o Recalbox a rodar na mesma resolução, pois isso melhora o desempenho e a qualidade das imagens**. Para fazer isso, você terá que editar [config.txt] (https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file- (EN)) usando PuTTy ou [WinSCP ] (https://github.com/recalbox/recalbox-os/wiki/Network-access-with-WinSCP- (EN)).
@@ -179,11 +180,11 @@ Neste ficheiro procure *hdmi_group* e *hdmi_mode* e deixe como seguinte :
 
 Não esqueça de tirar'#' en inicia de linha se està presente.
 
-**1024x768 [DOWNLOAD es-next-pixel-crt-1.4 for Recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-crt.zip)**
+**1024x768 [DOWNLOAD es-next-pixel-crt-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-crt.zip)**
 
-**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-crt-small-1.4 for Recalbox 6.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-crt-small.zip)**
+**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-crt-small-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-crt-small.zip)**
 
-[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases/tag/v1.0) previous packages for Recalbox 6.0 or lower.
+[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 6.1 or lower.
 
 
 ### Final words

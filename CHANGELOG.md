@@ -2,6 +2,7 @@
 2020/XX/XX - 1.4
 - Add 64dd support
 - Add dragon support
+- Add easyrpg support
 - Add naomigd support (using same game theme as naomi)
 - Add auto-xxx support
 - Add snes game theme alternative

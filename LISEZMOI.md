@@ -75,7 +75,7 @@ Voici les systèmes avec plusieurs thèmes de jeu :
 - psp : 2 différents thèmes de jeu disponibles
 - psx : 2 différents thèmes de jeu disponibles
 - segacd : 2 différents thèmes de jeu disponibles
-- snes : 4 différents thèmes de jeu disponibles
+- snes : 5 différents thèmes de jeu disponibles
 - wii : 2 différents thèmes de jeu disponibles
 
 Pour vous aidez à choisir, toutes le images des systèmes sont visibles sur le [site Next Pixel](https://samystudio.github.io/es-theme-next-pixel/) ou si vous ne pouvez pas vous décider vous pouvez utiliser le script aléatoire pour qu'à chaque démarrage de Recalbox le thème affiche une image de jeu différente, lisez la section suivante pour avoir plus d'informations.

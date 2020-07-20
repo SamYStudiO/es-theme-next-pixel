@@ -5,34 +5,13 @@
 	<view name="system">
 	
 		<text name="info1" extra="true">
-			<text>Hersteller : Sega</text>
+			<text>EasyRPG is a community project to create a free,</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Erscheinungsjahr : 1998 (JP) 1999 (US, EU)</text>
+			<text>open source, role playing game creation tool,</text>
 		</text>
 		<text name="info3" extra="true">
-			<text>Verkaufte Einheiten : 10,6 Millionen</text>
-		</text>
-		<text name="info4" extra="true">
-			<text>Meistverkauftes Spiel : Sonic Adventure</text>
-		</text>
-		<text name="info5" extra="true">
-			<text>CPU : Hitachi SH-4 32-bit RISC getaktet mit 200 MHz</text>
-		</text>
-		<text name="info6" extra="true">
-			<text>RAM : 16 MB / VRAM : 8 MB</text>
-		</text>
-		<text name="info7" extra="true">
-			<text>Video : 100 MHz PowerVR2 (integriert im ASIC)</text>
-		</text>
-		<text name="info8" extra="true">
-			<text>Auflösung : 640x480 Pixel</text>
-		</text>
-		<text name="info9" extra="true">
-			<text>Sound : Yamaha AICA Sound Prozessor getaktet mit 45 MHz</text>
-		</text>
-		<text name="info10" extra="true">
-			<text>VMU Größe : 128 kB</text>
+			<text>compatible with RPG Maker 2000/2003 games.</text>
 		</text>
 		
 	</view>

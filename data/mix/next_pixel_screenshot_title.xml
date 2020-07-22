@@ -161,9 +161,9 @@
 		<Item IfSystem="IsInTheList:9">
 			<Children>
 				<Item Type="ScreenshotTitle">
-					<Display X="57.143%" Y="35.463%" Width="43.81%" Height="47.593%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+					<Display X="57.15%" Y="35.47%" Width="43.81%" Height="47.593%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
 					<Fallback Type="Screenshot">
-						<Display X="57.143%" Y="35.463%" Width="43.81%" Height="47.593%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
+						<Display X="57.15%" Y="35.47%" Width="43.81%" Height="47.593%" KeepRatio="false" Anchor="VCenterHCenter" Antialiasing="None"/>
 					</Fallback>
 				</Item>
 			</Children>

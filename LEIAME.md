@@ -133,7 +133,6 @@ Obrigado pela sua contribuição:
  - [lhari84](https://github.com/lhari84) (tradução de informações do sistema em alemão)
  - rastaware (tradução para o português)
  - MarbleMad (default game theme)
- - Archangel54 (snes_4 game theme)
 
 ### Download
 Varios pacotes estão disponiveis segundo o vosso ratio e resolução de écrã. Atualemente o tema suporta écrãs 16/9 e 4/3. 

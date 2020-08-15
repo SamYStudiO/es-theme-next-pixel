@@ -36,8 +36,8 @@ System infos files are located in *data/systems/[system]/[language]*, for exampl
 If you language doesn't exist yet a shell script is available to generate all files for all systems. This script is located at *data/systems/generate_language.sh*. To add your own language you need to get your language code from this [list](https://www.andiamo.co.uk/resources/iso-language-codes/), then open *generate_language.sh* file and replace *language="xx"* with your code, for example *language="fr"*. Finally you can execute this script and all files will be generated in *data/systems/[system]/[your_language_code]* using the english version. You "just" have to translate know :).
 
 **Beware**
-Don't make lines to long as it will not render properly, to make sure everything is ok run your recalbox with your translation before making your pull request as i won't check translataions myself.
-Theme has an option to diplay 4 info line or all lines. For most system this is ok beacause system info are organized as one hardware info per line, but a few systems have just a random text. In this case make sure you don't cut off a sentence on fourth line. The fourth line should have a terminate sentence.
+Don't make lines to long as it will not render properly, to make sure everything is ok run your recalbox with your translation before making your pull request as I won't check translations myself.
+Theme has an option to display 4 info lines or all lines. For most system this is ok beacause system info are organized as one hardware info per line, but a few systems have just a random text. In this case make sure you don't cut off a sentence on fourth line. The fourth line should have a terminated sentence.
 	
 ### Status of translated languages
 
@@ -65,6 +65,6 @@ German
 	
 Please if you see something wrong even with **OK** languages, just tell me or make a pull request.
 
-THX FOR CONTRIBUTING!!!
+**THX FOR CONTRIBUTING!!!**
 	
 	

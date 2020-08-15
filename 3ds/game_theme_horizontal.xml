@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./../data/games/86f8587a8c1e43508d11296e87786836/background.jpg</path>
+		</image>
+
+	</view>
+
+</theme>

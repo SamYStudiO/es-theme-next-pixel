@@ -1,0 +1,17 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="basic, detailed">
+		
+		<image name="background" extra="true">
+			<path>./../data/games/d78b70f665b24c34b284794aa19288bd/background_gamelist_left.png</path>
+		</image>
+		
+		<image name="background_right" extra="true">
+			<path>./../data/games/d78b70f665b24c34b284794aa19288bd/background_gamelist_right.jpg</path>
+		</image>
+
+	</view>
+
+</theme>

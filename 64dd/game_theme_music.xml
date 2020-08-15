@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+		
+		<sound name="bgsound">
+			<path>./../data/games/608bd31e9c7e4d7cbf83b71c09319cdf/music.mp3</path>
+		</sound>
+
+	</view>
+
+</theme>

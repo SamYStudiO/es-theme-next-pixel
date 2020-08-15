@@ -33,7 +33,7 @@ Same if you want to translate a language that doesn't exist yet just duplicate *
 ### System info files
 
 System infos files are located in *data/systems/[system]/[language]*, for example for 3do french its is located at *data/systems/3do/fr*.
-If your language doesn't exist yet a shell script is available to generate all files for all systems. This script is located at *data/systems/generate_language.sh*. To add your own language you need to get your language code from this [list](https://www.andiamo.co.uk/resources/iso-language-codes/), then open *generate_language.sh* file and replace *language="xx"* with your code, for example *language="fr"*. Finally you can execute this script and all files will be generated in *data/systems/[system]/[your_language_code]* using the english version. You "just" have to translate know :).
+If your language doesn't exist yet a shell script is available to generate all files for all systems. This script is located at *data/systems/generate_language.sh*. To add your own language you need to get your language code from this [list](https://www.andiamo.co.uk/resources/iso-language-codes/), then open *generate_language.sh* file and replace *language="xx"* with your code, for example *language="fr"*. Finally you can execute this script and all files will be generated in *data/systems/[system]/[your_language_code]* using the english version. You "just" have to translate now :).
 
 **Beware**
 Don't make lines to long as it will not render properly, to make sure everything is ok run your recalbox with your translation before making your pull request as I won't check translations myself.

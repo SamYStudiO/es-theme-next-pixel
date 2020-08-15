@@ -3,8 +3,8 @@
 	<formatVersion>4</formatVersion>
 	<include>./data/config.xml</include>
 	<include>./data/systems/$system/texts.xml</include>
-	<include>./data/systems/$system/$language_$country/texts.xml</include>
 	<include>./data/systems/$system/$language/texts.xml</include>
+	<include>./data/systems/$system/$language_$country/texts.xml</include>
 	<include>./data/systems/$system/custom.xml</include>
 
 	<view name="system">

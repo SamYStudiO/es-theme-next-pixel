@@ -1,6 +1,5 @@
 ### Olà e benvindo ao téma [Next Pixel](https://samystudio.github.io/es-theme-next-pixel/) para [Recalbox](https://www.recalbox.com/)
-Este tema é feito para ter uma imagem em pleno écrã que define melhor cada sistema de jogo (ou o melhor possivel), evitando de usar capturas de jogos en jogo.
-A maior parte dos sistemas têm igualemente uma musica e uma icone de nota que corresponde ao jogo.
+This theme is designed to display a full screen image for every system that matches a game box illustration or artwork at the time game was released. For some systems a different image may be displayed each time Recalbox is started.
 E baseado no tema recalbox-next, terà entao todas as ventagens (configurações de região, lista de jogos, etc...) + varias opções de vosso gosto.
 
 **O tema está configurado por padrão para usar um mix personalizado para descartar as imagens do jogo. Leia atentamente a documentação abaixo para obter mais informações, mesmo se você não quiser usá-lo, pois terá que ajustar a opção GAMELISTVIEW do tema para que funcione corretamente com outras misturas**.
@@ -33,16 +32,14 @@ Veja todos os sistemas: [Next Pixel website](https://samystudio.github.io/es-the
 ### Installação
 Para instalar o tema faça drag-and-drop da apsta es-theme-next-pixel-xxx no vosso recalbox/themes folder. Depois mude es-theme-next-pixel-xxx nas opções de tema no Recalbox (UI SETTINGS > THEME > THEME SET).
 
-Este tema suporta Randomizer script, veja  [link](https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer) para ter mais informações (**Atenção : na guia para instalar "Copying theme/random directory..." não é recomendado como este tema é extra modificacão**). 
-
 
 ### Opções
-- **THEME COLORSET** :escolha entre várias configurações de cores sotaque claro, escuro ou de jogo, o sotaque do jogo colorirá alguns elementos usando uma imagem real do sistema, algumas configurações podem combinar sotaque claro, escuro e de jogo, tente-os para encontrar o melhor para você.
+- **THEME COLORSET** : escolha entre várias configurações de cores sotaque claro, escuro ou de jogo, o sotaque do jogo colorirá alguns elementos usando uma imagem real do sistema, algumas configurações podem combinar sotaque claro, escuro e de jogo, tente-os para encontrar o melhor para você.
 - **THEME ICONSET** : escolha ícones usados ​​para a ajuda inferior esquerda (o mesmo que recalbox-next).
 - **THEME MENU** : escolha Recalbox menu estilo (o mesmo que recalbox-next com um estylo esxlusivo do tema Next Pixel).
 - **THEME SYSTEMVIEW** : escolha entre a roda vertical ou a visualização horizontal do sistema; para cada uma delas há 3 opções para exibir informações do sistema (informações de 4 linhas, todas as informações de linhas ou nenhuma informação), **ao usar a roda vertical, use CONFIGURAÇÕES DA UI> TEMA> ESTILO DE TRANSIÇÃO> INSTANTÂNEO para uma melhor aparência**.
-- **THEME GAMELISTVIEW**: escolha o layout da visualização gamelist, você pode mostrar / ocultar elementos diferentes e para cada um pode ajustar para **Next Pixel mix** ou outros mixes. **Se você não quiser usar o Next Pixel mix, selecione qualquer opção "other mixes" aqui ou obterá alguns recursos gráficos estranhos sobrepondo suas imagens scrapidas** (marque *Scraping/Next Pixel mix* abaixo para obter mais informações).
-- **THEME REGION** : escolha sua região para ajustar logo/console imagens (como no recalbox-next).
+- **THEME GAMELISTVIEW** : escolha o layout da visualização gamelist, você pode mostrar / ocultar elementos diferentes e para cada um pode ajustar para **Next Pixel mix** ou outros mixes. **Se você não quiser usar o Next Pixel mix, selecione qualquer opção "other mixes" aqui ou obterá alguns recursos gráficos estranhos sobrepondo suas imagens scrapidas** (marque *Scraping/Next Pixel mix* abaixo para obter mais informações).
+- **THEME REGION** : choose your region to adjust logo/console and even game theme images to match your preferred region.
 
 
 ### Scraping / Next Pixel mix
@@ -61,59 +58,15 @@ Next Pixel tema agora inclui seus proprios mix para fazer screenshots e videos s
 **Se não que usar o Next Pixel mix escolhe  "others mixes" opçõa de tem na opção GAMELISTVIEW ou você terá alguns recursos gráficos estranhos sobrepondo suas imagens scrapadas**. Pressione Iniciar> CONFIGURAÇÕES DA IU> TEMA> CONFIGURAÇÃO DO TEMA> VISÃO GERAL DO TEMA> escolha qualquer layout com "outras mix".
 
 
-### Vários temas de jogos do sistema
-Alguns sistemas podem conter vários temas de jogos; nesse caso, a pasta do sistema é duplicada com o sufixo "_2", "_3", "_x" [pasta] _2, [pasta] _3, [pasta] _x (por exemplo, cavestory_2), se você Se preferir mídias nessa pasta, remova ou renomeie a pasta original para renomear [pasta] _x para [pasta] (é necessário reiniciar o Recalbox se estiver em execução).
-Sistemas reais com vários temas de jogos:
-- atarista: 1 tema de jogo com 2 imagens diferentes disponíveis
-- cavestory: 1 tema de jogo com 2 imagens diferentes disponíveis
-- gameboy: 3 temas de jogos diferentes disponíveis
-- megadrive: 2 temas de jogos diferentes disponíveis
-- n64: 4 temas de jogos diferentes disponíveis
-- nds: 2 temas de jogos diferentes disponíveis
-- nes: 2 temas de jogos diferentes disponíveis
-- ps3: 2 temas de jogos diferentes disponíveis
-- psp: 2 temas de jogos diferentes disponíveis
-- psx: 2 temas de jogos diferentes disponíveis
-- segacd: 2 temas de jogos diferentes disponíveis
-- snes: 5 temas de jogos diferentes disponíveis
-- wii: 2 temas de jogos diferentes disponíveis
-
-Para ajudá-lo a escolher, todas as imagens do sistema são visíveis no [site Next Pixel] (https://samystudio.github.io/es-theme-next-pixel/) ou, se você não puder fazer sua escolha, considere usar aleatoriamente Para que, cada vez que você inicie o Recalbox, obtenha um tema diferente, leia a próxima seção para obter mais informações.
-
-
-###Temas de jogos aleatórios do sistema
-O tema Próximo pixel inclui um script de início personalizado para o Recalbox alterar aleatoriamente os temas dos jogos do sistema. Como visto anteriormente, alguns sistemas podem conter vários temas de jogos, ao usar esse script, esses sistemas carregam aleatoriamente um tema de jogo quando o Recalbox é iniciado. Este script chamado "S997próximo-pixel-aleatório-sistema-jogo-tema" está localizado na instalação raiz do tema Próximo pixel. Você precisa soltar esse arquivo na pasta Recalbox */etc/init.d/*. Para fazer isso, você pode usar a ferramenta de linha de comando com o PuTTy ou uma ferramenta como [WinSCP] (https://github.com/recalbox/recalbox-os/wiki/Network-access-with-WinSCP- (EN)) para conectar-se a seu Recalbox. Você pode ler [this] (https://github.com/recalbox/recalbox-os/wiki/Add-your-own-startup-script- (EN)) para obter mais informações sobre como iniciar scripts.
-**Não esqueça de permitir acesso de gravação antes de soltar seu arquivo**.
-- Se você estiver usando o PuTTy, use o comando *mount -o remount, rw /*.
-- Se você estiver usando o console aberto do WinSCP (Ctrl + T), digite o comando * mount -o remount, rw / * e clique em Executar.
-
-**O script de nota pressupõe que você use a instalação padrão da pasta de temas Next Pixel**. Se você alterou o nome da pasta de instalação do Next Pixel, precisará ajustar o script ou restaurar o nome da pasta de instalação do tema Next Pixel.
-- Se você deseja ajustar o script, abra o arquivo com um editor de texto e ajuste a segunda linha para corresponder à sua pasta de instalação do tema Next Pixel *cd/recalbox/share/themes/[defina sua próxima pasta de tema pixel aqui]/*
-- Se você preferir restaurar o nome da pasta de instalação, aqui está o nome certo, dependendo do seu pacote:
-  - **1080p** : es-theme-next-pixel-1080p
-  - **720p** : es-theme-next-pixel-720p
-  - **480p** : es-theme-next-pixel-480p
-  - **crt** : es-theme-next-pixel-crt
-  - **crt-small** : es-theme-next-pixel-crt-small
-
-**Quando o script for deixado na pasta correta, não se esqueça de alterar a permissão do arquivo, para que o Recalbox permita executá-lo**.
-- Se você estiver usando o PuTTy, use o comando *chmod + x S997next-pixel-random-system-game-theme*.
-- Se você estiver usando o WinSCP, clique com o botão direito do mouse no arquivo *S997next-pixel-random-system-game-theme* e em *Permissions* marque todas as caixas de execução "X".
-
-
-### Mover um tema de jogo para outro sistema
-Às vezes, um tema de jogo pode corresponder a sistemas diferentes e você pode usar um tema de jogo com outro sistema. Para mover corretamente um tema de jogo para outro sistema, copie todos os arquivos de qualquer pasta do sistema **MAS pasta de dados** e cole-os em outra pasta do sistema onde você deseja aplicar esse tema do jogo.
-
-
 ### Direito autoral
 - Este tema usa imagens / músicas encontradas na Internet. Se você acha que as imagens / músicas usadas neste tema são de sua propriedade ou estão sujeitas a direitos autorais, entre em contato comigo (entre em contato com [at] samystudio.net), removerei-as.
 - O tema é baseado no tema recabox-next, para que alguns ativos possam ser licenciados por [Recalbox] (https://gitlab.com/recalbox/recalbox-themes), a licença Recalbox sempre prevalece para esses ativos (portanto, este tema **licença MIT é aplicável apenas a arquivos xml**).
 - A câmera e alguns ícones de informações do jogo são de [shareicon] (https://www.shareicon.net).
 - A fonte do Digital Counter 7 usada para o ícone do contador de jogos é de [Sizenko Alexander] (http://www.styleseven.com).
-- O suporte aleatório é do [Voljega] (https://github.com/Voljega/scripts4recalbox).
 - O site usa o [React Image Galery component] (http://www.linxtion.com/demo/react-image-gallery/).
 - A fonte do logotipo Next Pixel é "Color Basic" de [Typodermic Fonts] (http://typodermicfonts.com/).
 - EasyRPG image is a fan art from https://www.deviantart.com/bluecake80/art/Witch-s-heart-748044267.
+- fba music is from https://www.youtube.com/watch?v=jy-PZR7YnS8.
 
 
 ### Contribuir / reportar problémas
@@ -134,9 +87,9 @@ Obrigado pela sua contribuição:
  - rastaware (tradução para o português)
  - MarbleMad (default game theme)
 
+
 ### Download
 Varios pacotes estão disponiveis segundo o vosso ratio e resolução de écrã. Atualemente o tema suporta écrãs 16/9 e 4/3. 
-
 
 #### 16:9 screens
 3 pacotes estão disponivel com 1080p imagens (full hd screens, 4K, 8K), 720p imagens (écrãs hd) ou 480p imagens (intended for Raspberry users).
@@ -159,11 +112,11 @@ If you still have issues with 720p (mainly images replaced with white rectangle)
 
 If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
-**1080p [DOWNLOAD es-next-pixel-1080p-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-1080p.zip)**
+**1080p [DOWNLOAD es-next-pixel-1080p-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-1080p.zip)**
 
-**720p [DOWNLOAD es-next-pixel-720p-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-720p.zip)**
+**720p [DOWNLOAD es-next-pixel-720p-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-720p.zip)**
 
-**480p [DOWNLOAD es-next-pixel-480p-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-480p.zip)**
+**480p [DOWNLOAD es-next-pixel-480p-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-480p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 6.1 or lower.
 
@@ -179,9 +132,9 @@ Neste ficheiro procure *hdmi_group* e *hdmi_mode* e deixe como seguinte :
 
 Não esqueça de tirar'#' en inicia de linha se està presente.
 
-**1024x768 [DOWNLOAD es-next-pixel-crt-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-crt.zip)**
+**1024x768 [DOWNLOAD es-next-pixel-crt-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt.zip)**
 
-**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-crt-small-1.4 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v1.4/es-theme-next-pixel-crt-small.zip)**
+**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-crt-small-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt-small.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 6.1 or lower.
 

@@ -2,8 +2,10 @@
 
 	<formatVersion>4</formatVersion>
 	<include>./data/config.xml</include>
-	<include>./$system/data/texts.xml</include>
-	<include>./$system/data/custom.xml</include>
+	<include>./data/systems/$system/texts.xml</include>
+	<include>./data/systems/$system/$language_$country/texts.xml</include>
+	<include>./data/systems/$system/$language/texts.xml</include>
+	<include>./data/systems/$system/custom.xml</include>
 
 	<view name="system">
 
@@ -12,14 +14,9 @@
 			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/music</path>
 		</sound>
 
-		<!-- system music -->
-		<sound name="bgsound">
-			<path>./$system/music.ogg</path>
-		</sound>
-
 	</view>
 
-	<view name="menu, system">
+	<view name="system, menu">
 
 		<helpsystem name="help">
 			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/steelfishrg.ttf</fontPath>

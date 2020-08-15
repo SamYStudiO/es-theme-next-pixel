@@ -46,22 +46,20 @@ English **OK**
 French **OK**
 
 Portuguese
-
-	- *LEIAME.md*
-		* line 2
-		* line 42
-		* line 68-69
-		* line 88
-		* line 109
-		* line 121-139
-		* line 115-117-119-135-137
-	- *data/systems/[all recalbox v7 new systems]/pt*
+- *LEIAME.md*
+	* line 2
+	* line 42
+	* line 68-69
+	* line 88
+	* line 109
+	* line 121-139
+	* line 115-117-119-135-137
+- *data/systems/[all recalbox v7 new systems]/pt*
 		
 German
-
-	- *LIESMICH.md*
-	- *data/mix/LIESMICH.md*
-	- *data/systems/[all recalbox v7 new systems]/de*
+- *LIESMICH.md*
+- *data/mix/LIESMICH.md*
+- *data/systems/[all recalbox v7 new systems]/de*
 	
 Please if you see something wrong even with **OK** languages, just tell me or make a pull request.
 

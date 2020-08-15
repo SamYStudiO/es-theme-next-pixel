@@ -42,8 +42,6 @@ Watch all system images from [Next Pixel website](https://samystudio.github.io/e
 ### Installation
 To install theme drag and drop es-theme-next-pixel-xxx folder into your recalbox/themes folder. Then choose es-theme-next-pixel-xxx theme from Recalbox options (UI SETTINGS > THEME > THEME SET).
 
-This theme support Randomizer script, check this [link](https://github.com/Voljega/scripts4recalbox/tree/master/Randomizer) to get more info (**Warning : from installation guide "Copying theme/random directory..." is not required as this theme already includes it with some extra customization**). 
-
 
 ### Options
 - **THEME COLORSET** : choose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.

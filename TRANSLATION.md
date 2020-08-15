@@ -47,17 +47,12 @@ French **OK**
 
 Portuguese
 - *LEIAME.md*
-	* line 2
-	* line 42
-	* line 61-66
-	* line 76-77
-	* line 96
-	* line 117
-	* line 123
-	* line 125
-	* line 127
-	* line 143
-	* line 145
+	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#ol%C3%A0-e-benvindo-ao-t%C3%A9ma-next-pixel-para-recalbox (first sentence)
+	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#op%C3%A7%C3%B5es (last option)
+	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#unofficial-system-support
+	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#direito-autoral (last 2)
+	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#contribuir--reportar-probl%C3%A9mas (last contributor)
+	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#download (text before 16:9 download links + donwload from all download links)
 - *data/systems/[all recalbox v7 new systems]/pt*
 		
 German

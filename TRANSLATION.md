@@ -1,8 +1,8 @@
 ## How to translate
 
-Easiest way is to fork master branch from [github](https://github.com/SamYStudiO/es-theme-next-pixel) and then make a pull request when you're done. If you don't know about github you can just download project and send me back translated files but please try to get some info about github and forking beacause it make things so must easier.
-There is 2 kind of translations to do, one for documentation file and one for system info displayed when recalbox is showing system view.
-Check details below to know where to find files and check status to kow what's need to be translated for every languages.
+Easiest way is to fork master branch from [github](https://github.com/SamYStudiO/es-theme-next-pixel) and then make a pull request when you're done. If you don't know about github you can just download project and send me back translated files but please try to get some info about github and forking beacause it make things so much easier.
+There are 2 kind of translations to do, one for documentation files and one for system info displayed when recalbox is showing system view.
+Check details below to know where to find files and check status to kown what you need to translate for every languages.
 
 
 ### Documentation files

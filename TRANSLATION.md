@@ -49,11 +49,15 @@ Portuguese
 - *LEIAME.md*
 	* line 2
 	* line 42
-	* line 68-69
-	* line 88
-	* line 109
-	* line 121-139
-	* line 115-117-119-135-137
+	* line 61-66
+	* line 76-77
+	* line 96
+	* line 117
+	* line 123
+	* line 125
+	* line 127
+	* line 143
+	* line 145
 - *data/systems/[all recalbox v7 new systems]/pt*
 		
 German

@@ -58,6 +58,14 @@ Next Pixel theme now includes its own custom mix to make your game screenshots a
 **If you do not want to use Next Pixel mix select any "others mixes" option from theme GAMELISTVIEW settings or you will get some weird graphical assets overlaying your scraped images**. Press Start > UI SETTINGS > THEME > THEME CONFIGURATION > THEME GAMELISTVIEW > choose any layout with "others mixes".
 
 
+### Unofficial system support
+Next pixel theme support game themes for systems not yet support by recalbox.
+Actual extra supported system are:
+- msx2+
+
+To add these systems to Recalbox check this [documentation](https://recalbox.gitbook.io/documentation/other/configuration/display-of-systems#add-a-custom-system)
+
+
 ### Copyright
 - This theme use pictures/musics found over internet, if you think any images/musics used in this theme are your ownership or is subject to copyright please contact me (contact[at]samystudio.net), I'll remove them.
 - Theme is based on recabox-next theme so some assets may be licensed by [Recalbox](https://gitlab.com/recalbox/recalbox-themes), Recalbox license always prevail for these assets (so this theme **MIT license is only applicable for xml files**).

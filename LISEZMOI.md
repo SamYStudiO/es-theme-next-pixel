@@ -58,6 +58,13 @@ Le thème Next Pixel inclut maintenant son propre "mix" pour que les captures de
 **Si vous ne voulez pas utiliser le "mix" Next Pixel vous devez selectionner une option "others mixes" depuis les paramètres de la VUE GAMELIST sinon vous aurez un affichage non adapté à vos scraps**. Appuyez sur Start > OPTION DE L'INTERFACE > THEME > CONFIGURATION DU THEME > THEME LISTE DE JEUX > choisissez une mise en page avec "others mixes".
 
 
+### Support de systèmes non officiel
+Le thème Next Pixel supporte des thèmes de jeu pour des système qui ne sont pas encore supporté par Recalbox.
+Actuellement les systèmes supplémentaires supportés sont:
+- msx2+
+
+Pour ajouter ces systèmes à Recalbox lisez cette [documentation](https://recalbox.gitbook.io/documentation/v/francais/utilisateur-avance/configurations/affichage-des-systemes#ajouter-un-systeme-custom)
+
 ### Copyright
 - Ce thème utilise des images/musiques trouvées sur internet, si vous pensez que des images/musiques utilisées dans ce thèmes sont les votre ou sont sujettes à copyright veuillez me contacter (contact[at]samystudio.net), je les supprimerais.
 - Le thème est basé sur le thème recalbox-next il y a donc des éléments qui peuvent déjà être sous license par [Recalbox](https://gitlab.com/recalbox/recalbox-themes), la license de Recalbox est toujours prioritaire pour ces éléments (la license du thème Next Pixel **MIT est donc seulement applicable pour les fichiers xml**).

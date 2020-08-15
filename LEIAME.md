@@ -58,6 +58,14 @@ Next Pixel tema agora inclui seus proprios mix para fazer screenshots e videos s
 **Se não que usar o Next Pixel mix escolhe  "others mixes" opçõa de tem na opção GAMELISTVIEW ou você terá alguns recursos gráficos estranhos sobrepondo suas imagens scrapadas**. Pressione Iniciar> CONFIGURAÇÕES DA IU> TEMA> CONFIGURAÇÃO DO TEMA> VISÃO GERAL DO TEMA> escolha qualquer layout com "outras mix".
 
 
+### Unofficial system support
+Next pixel theme support game themes for systems not yet support by recalbox.
+Actual extra supported system are:
+- msx2+
+
+To add these systems to Recalbox check this [documentation](https://recalbox.gitbook.io/documentation/other/configuration/display-of-systems#add-a-custom-system)
+
+
 ### Direito autoral
 - Este tema usa imagens / músicas encontradas na Internet. Se você acha que as imagens / músicas usadas neste tema são de sua propriedade ou estão sujeitas a direitos autorais, entre em contato comigo (entre em contato com [at] samystudio.net), removerei-as.
 - O tema é baseado no tema recabox-next, para que alguns ativos possam ser licenciados por [Recalbox] (https://gitlab.com/recalbox/recalbox-themes), a licença Recalbox sempre prevalece para esses ativos (portanto, este tema **licença MIT é aplicável apenas a arquivos xml**).

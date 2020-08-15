@@ -1,5 +1,5 @@
 ### Changelog
-2020/XX/XX - 1.4
+2020/08/15 - 1.4
 - Add 64dd support
 - Add dragon support
 - Add easyrpg support

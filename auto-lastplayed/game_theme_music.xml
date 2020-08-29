@@ -1,6 +1,5 @@
 <theme>
 
-	<formatVersion>4</formatVersion>	
-	<include>./../auto-allgames/game_theme_music.xml</include>
+	<formatVersion>4</formatVersion>
 
 </theme>

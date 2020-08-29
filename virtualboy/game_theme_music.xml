@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/5675d136-234d-4759-8324-a5e830eae32d/music.mp3</path>
+			<path>./../data/games/228b6681b1d34ec28c594b3e401b7c07/music.mp3</path>
 		</sound>
 
 	</view>

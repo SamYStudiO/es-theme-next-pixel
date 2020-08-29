@@ -2,7 +2,6 @@
 
 	<formatVersion>4</formatVersion>	
 	<include>./common.xml</include>
-	<include>./../systems/$system/custom_horizontal.xml</include>
 	<include>./../../$system/game_theme_horizontal.xml</include>
 	<include>./../../$system/game_theme_music.xml</include>
 

@@ -1,6 +1,13 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../auto-allgames/game_theme_horizontal.xml</include>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./../data/games/fd1ba4093e8d44148c3f765f01a934e2/background.jpg</path>
+		</image>
+
+	</view>
 
 </theme>

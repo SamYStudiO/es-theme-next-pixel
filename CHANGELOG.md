@@ -3,7 +3,8 @@
 - Change most game themes to better match game box/artwork/music at the time game was released
 - System game themes are now randomly displayed when Recalbox start (only when multiple game theme may match a system)
 - System info now use Recalbox language setting to display info in your language (only if translation is available, otherwise fallback to english translation)
-- Remove random script support as it is not maintained anymore
+- Remove random system support support as it is not maintained anymore by its creator
+- Musics are now using mp3 format instead of ogg
 - Behind the scene : 
 	- Rearange theme files structure to better handle random game themes display 
 	- Rearrange all PSD files to make it easier adding new game theme

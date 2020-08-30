@@ -2,32 +2,31 @@
 This theme is designed to display a full screen image for every system that matches a game box illustration or artwork at the time game was released. For some systems a different image may be displayed each time Recalbox is started.
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
-
 **Theme is configured by default to use a custom mix to scrap your game images, please read carefully documentation below to get more info even if you don't want to use it as you'll have to adjust theme GAMELISTVIEW option to get it work properly with others mixes**.
 
 **Theme is compatible with Recalbox 7.0+ and with 16:9, 4:3 and small 4:3 screens like GPi CASE**.
 
-Here are some screenshots using different theme settings :
+Here are some screenshots of some available game themes :
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/0.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/nes.png)
 
-![1](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/1.png)
+![1](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/megadrive.png)
 
-![2](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/2.png)
+![2](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gx4000.png)
 
-![3](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/3.png)
+![3](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/atari5200.png)
 
-![4](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/4.png)
+![4](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/neogeo.png)
 
-![5](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/5.png)
+![5](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/atarist.png)
 
-![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/6.png)
+![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/pcengine.png)
 
-![7](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/7.png)
+![7](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelist.png)
 
 ![vectrex](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
 
-Watch all system images from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
+Watch all game theme pictures from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
 
 
 ### Installation
@@ -36,15 +35,25 @@ To install theme drag and drop es-theme-next-pixel-xxx folder into your recalbox
 
 ### Options
 - **THEME COLORSET** : choose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/color.gif)
+
 - **THEME ICONSET** : choose icons used for bottom left help (same as recalbox-next).
-- **THEME MENU** : choose Recalbox menu style (same as recalbox-next with an exlucisve style for Next Pixel thème).
+- **THEME MENU** : choose Recalbox menu style (same as recalbox-next with an exclusive style for Next Pixel theme).
 - **THEME SYSTEMVIEW** : choose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > THEME > TRANSITION STYLE > INSTANT for a better look and feel**.
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/systemview.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/info.gif)
+
 - **THEME GAMELISTVIEW** : choose gamelist view layout, you may show/hide different elements and for each one you may adjust for **Next Pixel mix** or others mixes. **If you do not want to use Next Pixel mix select any "others mixes" option here or you will get some weird graphical assets overlaying your scraped images** (check *Scraping / Next Pixel mix* below for more info).
-- **THEME REGION** : choose your region to adjust logo/console and even game theme images to match your preferred region.
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelistview.gif)
+
+- **THEME REGION** : choose your region to adjust logo/console to match your preferred region.
 
 
 ### Scraping / Next Pixel mix
-Next Pixel theme now includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like [Skraper](https://www.skraper.net/). Better than a long description here are 2 captures using standard mix and using Next Pixel mix.
+Next Pixel theme includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like [Skraper](https://www.skraper.net/). Better than a long description here are 2 captures using standard mix and using Next Pixel mix.
 
 **Standard mix**
 

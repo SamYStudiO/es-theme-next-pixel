@@ -47,7 +47,7 @@ French **OK**
 
 Portuguese
 - *LEIAME.md*
-	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#ol%C3%A0-e-benvindo-ao-t%C3%A9ma-next-pixel-para-recalbox (first sentence)
+	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#ol%C3%A0-e-benvindo-ao-t%C3%A9ma-next-pixel-para-recalbox (first sentence and text before/after screenshots)
 	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#op%C3%A7%C3%B5es (last option)
 	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#unofficial-system-support
 	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#direito-autoral (last 2)

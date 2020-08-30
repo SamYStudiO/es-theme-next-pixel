@@ -36,7 +36,7 @@ Here are some screenshots of some available game themes :
 
 ![vectrex](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
 
-Watch all game theme images from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
+Watch all game theme pictures from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
 
 
 ### Installation
@@ -49,7 +49,7 @@ To install theme drag and drop es-theme-next-pixel-xxx folder into your recalbox
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/color.gif)
 
 - **THEME ICONSET** : choose icons used for bottom left help (same as recalbox-next).
-- **THEME MENU** : choose Recalbox menu style (same as recalbox-next with an exlucisve style for Next Pixel thème).
+- **THEME MENU** : choose Recalbox menu style (same as recalbox-next with an exclusive style for Next Pixel theme).
 - **THEME SYSTEMVIEW** : choose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > THEME > TRANSITION STYLE > INSTANT for a better look and feel**.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/systemview.gif)
@@ -59,11 +59,11 @@ To install theme drag and drop es-theme-next-pixel-xxx folder into your recalbox
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelistview.gif)
 
-- **THEME REGION** : choose your region to adjust logo/console and even game theme images to match your preferred region.
+- **THEME REGION** : choose your region to adjust logo/console to match your preferred region.
 
 
 ### Scraping / Next Pixel mix
-Next Pixel theme now includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like [Skraper](https://www.skraper.net/). Better than a long description here are 2 captures using standard mix and using Next Pixel mix.
+Next Pixel theme includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like [Skraper](https://www.skraper.net/). Better than a long description here are 2 captures using standard mix and using Next Pixel mix.
 
 **Standard mix**
 

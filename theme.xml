@@ -15,6 +15,17 @@
 		</sound>
 
 	</view>
+	
+	<view name="system">
+
+		<image name="help_background" extra="true">
+			<path>./data/arts/system_help_background.png</path>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<size>.75 .068</size>
+		</image>
+
+	</view>
 
 	<view name="system, menu">
 

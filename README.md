@@ -36,7 +36,7 @@ Here are some screenshots of some available game themes :
 
 ![vectrex](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
 
-Watch all system images from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
+Watch all game theme images from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
 
 
 ### Installation
@@ -45,10 +45,20 @@ To install theme drag and drop es-theme-next-pixel-xxx folder into your recalbox
 
 ### Options
 - **THEME COLORSET** : choose between several color configurations light, dark or game accent, game accent will colorize some elements using a color matching actual system image, some configuration may mix light, dark and game accent, try them out to find the best for you.
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/color.gif)
+
 - **THEME ICONSET** : choose icons used for bottom left help (same as recalbox-next).
 - **THEME MENU** : choose Recalbox menu style (same as recalbox-next with an exlucisve style for Next Pixel thème).
 - **THEME SYSTEMVIEW** : choose beetwen vertical wheel or horizontal system view, for each one you have 3 options to display system info (4 lines info, all lines info or no info), **when using vertical wheel please use UI SETTINGS > THEME > TRANSITION STYLE > INSTANT for a better look and feel**.
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/systemview.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/info.gif)
+
 - **THEME GAMELISTVIEW** : choose gamelist view layout, you may show/hide different elements and for each one you may adjust for **Next Pixel mix** or others mixes. **If you do not want to use Next Pixel mix select any "others mixes" option here or you will get some weird graphical assets overlaying your scraped images** (check *Scraping / Next Pixel mix* below for more info).
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelistview.gif)
+
 - **THEME REGION** : choose your region to adjust logo/console and even game theme images to match your preferred region.
 
 

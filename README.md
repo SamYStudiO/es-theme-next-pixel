@@ -16,23 +16,23 @@ It is based on recabox-next theme so you'll get all advantages of it (region set
 
 **Theme is compatible with Recalbox 7.0+ and with 16:9, 4:3 and small 4:3 screens like GPi CASE**.
 
-Here are some screenshots using different theme settings :
+Here are some screenshots of some available game themes :
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/0.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/nes.png)
 
-![1](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/1.png)
+![1](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/megadrive.png)
 
-![2](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/2.png)
+![2](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gx4000.png)
 
-![3](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/3.png)
+![3](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/atari5200.png)
 
-![4](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/4.png)
+![4](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/neogeo.png)
 
-![5](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/5.png)
+![5](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/atarist.png)
 
-![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/6.png)
+![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/pcengine.png)
 
-![7](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/7.png)
+![7](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelist.png)
 
 ![vectrex](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
 

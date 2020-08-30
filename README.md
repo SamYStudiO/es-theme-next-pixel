@@ -79,8 +79,10 @@ Next Pixel theme includes its own custom mix to make your game screenshots and v
 
 
 ### Unofficial system support
-Next pixel theme support game themes for systems not yet support by recalbox.
+Next pixel theme support game themes for systems not or not anymore supported by recalbox.
 Actual extra supported system are:
+- cavestory
+- doom
 - msx2+
 
 To add these systems to Recalbox check this [documentation](https://recalbox.gitbook.io/documentation/other/configuration/display-of-systems#add-a-custom-system)

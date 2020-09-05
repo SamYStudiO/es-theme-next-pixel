@@ -1,7 +1,7 @@
 ### Changelog
 2020/XX/XX - 2.0
 - Change most game themes to better match game box/artwork/music at the time game was released
-- System game themes are now randomly displayed when Recalbox start (only when multiple game theme may match a system)
+- System game themes are now randomly displayed when Recalbox start
 - System info now use Recalbox language setting to display info in your language (only if translation is available, otherwise fallback to english translation)
 - Remove random system support support as it is not maintained anymore by its creator
 - Musics are now using mp3 format instead of ogg

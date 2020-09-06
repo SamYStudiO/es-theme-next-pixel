@@ -1,5 +1,5 @@
 ### Bonjour et bienvenu(e) sur le thème [Next Pixel](https://samystudio.github.io/es-theme-next-pixel/) pour [Recalbox](https://www.recalbox.com/)
-Ce thème est conçu pour afficher une image plein écran pour chaque système en utilisant une illustation de la boite d'un jeu ou d'un artwork de l'époque de la sortie du jeu. Pour certain système une image différente peux être affiché à chaque démarrage de Recalbox.
+Ce thème est conçu pour afficher une image plein écran pour chaque système en utilisant une illustation de la boite d'un jeu ou d'un artwork de l'époque de la sortie du jeu. Chaque système possède au moins 2 thèmes de jeu différents qui seront affichés aléatoirement à chaque démarrage de Recalbox.
 Il est basé sur le thème recalbox-next, vous aurez donc tous ses avantages (paramètre de région, mise en page de la liste des jeux, etc...) + plusieurs options pour que vous puissiez personaliser à votre goût.
 
 **Le thème est configuré par défaut pour utiliser un "mix" personnalisé pour scraper les images de vos jeux, lisez attentivement la documentation ci-dessous pour obtenir plus d'informations, même si vous ne voulez pas l'utilisez car vous devrez ajuster l'option LISTE DE JEUX du thème pour que celui-ci fonctionne correctement avec d'autres "mix"**.

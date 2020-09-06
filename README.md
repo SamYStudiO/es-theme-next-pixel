@@ -9,7 +9,7 @@
 ### ![pt](https://www.countryflags.io/pt/shiny/32.png)![br](https://www.countryflags.io/br/shiny/32.png) A documentação em português está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md)!
 
 ### ![gb](https://www.countryflags.io/gb/shiny/32.png)![us](https://www.countryflags.io/us/shiny/32.png) Hi and welcome to [Next Pixel theme](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)
-This theme is designed to display a full screen image for every system that matches a game box illustration or artwork at the time game was released. For some systems a different image may be displayed each time Recalbox is started.
+This theme is designed to display a full screen image for every system that matches a game box illustration or artwork at the time game was released. All systems will randomly display a different game theme each time Recalbox is started (at least 2 game themes are available for each system).
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
 **Theme is configured by default to use a custom mix to scrap your game images, please read carefully documentation below to get more info even if you don't want to use it as you'll have to adjust theme GAMELISTVIEW option to get it work properly with others mixes**.

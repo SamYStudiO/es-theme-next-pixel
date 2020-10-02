@@ -84,8 +84,7 @@ Pour ajouter ces systèmes à Recalbox lisez cette [documentation](https://recal
 - La police Digital Counter 7 utilisé pour l'icone de décompte du nombre de partie vient de [Sizenko Alexander](http://www.styleseven.com).
 - Le site web utilise [React Image Galery component](http://www.linxtion.com/demo/react-image-gallery/).
 - La police du logo Next Pixel est "Color Basic", elle vient de [Typodermic Fonts](http://typodermicfonts.com/).
-- L'image EasyRPG vient de https://www.deviantart.com/bluecake80/art/Witch-s-heart-748044267.
-- La music fba vient de https://www.youtube.com/watch?v=jy-PZR7YnS8.
+- La music pacman vient de https://www.youtube.com/watch?v=jy-PZR7YnS8.
 
 
 ### Participer / Reporter un problème

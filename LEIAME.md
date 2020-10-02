@@ -85,8 +85,7 @@ To add these systems to Recalbox check this [documentation](https://recalbox.git
 - A fonte do Digital Counter 7 usada para o ícone do contador de jogos é de [Sizenko Alexander] (http://www.styleseven.com).
 - O site usa o [React Image Galery component] (http://www.linxtion.com/demo/react-image-gallery/).
 - A fonte do logotipo Next Pixel é "Color Basic" de [Typodermic Fonts] (http://typodermicfonts.com/).
-- EasyRPG image is a fan art from https://www.deviantart.com/bluecake80/art/Witch-s-heart-748044267.
-- fba music is from https://www.youtube.com/watch?v=jy-PZR7YnS8.
+- pacman music is from https://www.youtube.com/watch?v=jy-PZR7YnS8.
 
 
 ### Contribuir / reportar problémas

@@ -159,7 +159,7 @@ N'oubliez pas de retirer le caractère '#' s'il est présent sur ces lignes.
 
 
 ### Derniers mots
-**Je suis à l'écoute pour toutes suggestions ou pour ajouter de nouveaux thèmex de jeu, ne soyez pas timide**.
+**Je suis à l'écoute pour toutes suggestions ou pour ajouter de nouveaux thèmes de jeu, ne soyez pas timide**.
 
 
 ### License

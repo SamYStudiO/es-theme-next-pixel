@@ -1,12 +1,12 @@
 ### Olà e benvindo ao téma [Next Pixel](https://samystudio.github.io/es-theme-next-pixel/) para [Recalbox](https://www.recalbox.com/)
-This theme is designed to display a full screen image for every system that matches a game box illustration or artwork at the time game was released. All systems will randomly display a different game theme each time Recalbox is started (at least 2 game themes are available for each system).
+Este tema foi concebido para exibir uma imagem em ecrã inteiro para cada sistema que corresponda a uma ilustração de caixa de jogo ou a um trabalho artístico na altura em que o jogo foi lançado. Todos os sistemas exibirão aleatoriamente um tema de jogo diferente cada vez que a Recalbox for iniciada (pelo menos 2 temas de jogo estão disponíveis para cada sistema).
 E baseado no tema recalbox-next, terà entao todas as ventagens (configurações de região, lista de jogos, etc...) + varias opções de vosso gosto.
 
 **O tema está configurado por padrão para usar um mix personalizado para descartar as imagens do jogo. Leia atentamente a documentação abaixo para obter mais informações, mesmo se você não quiser usá-lo, pois terá que ajustar a opção GAMELISTVIEW do tema para que funcione corretamente com outras misturas**.
  
 **Tema é compativel com Recalbox 7.0+ e com écrã 16:9, 4:3 e pequenos écrãs 4:3 como o GPi CASE**.
 
-Here are some screenshots of some available game themes :
+Aqui estão algumas imagens de alguns temas de jogos disponíveis:
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/nes.png)
 
@@ -26,7 +26,7 @@ Here are some screenshots of some available game themes :
 
 ![vectrex](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
 
-Watch all game theme pictures from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
+Ver todas as imagens de temas de jogos do [website Next Pixel](https://samystudio.github.io/es-theme-next-pixel/).
 
 
 ### Installação
@@ -68,14 +68,14 @@ Next Pixel tema inclui seus proprios mix para fazer screenshots e videos snaps, 
 **Se não que usar o Next Pixel mix escolhe  "others mixes" opçõa de tem na opção GAMELISTVIEW ou você terá alguns recursos gráficos estranhos sobrepondo suas imagens scrapadas**. Pressione Iniciar> CONFIGURAÇÕES DA IU> TEMA> CONFIGURAÇÃO DO TEMA> VISÃO GERAL DO TEMA> escolha qualquer layout com "outras mix".
 
 
-### Unofficial system support
-Next pixel theme support game themes for systems not or not anymore supported by recalbox.
-Actual extra supported system are:
+### Apoio não-oficial ao sistema
+Os próximos temas de jogos de suporte de temas pixel para sistemas não suportados ou já não suportados pela recalbox.
+Os sistemas realmente suportados extra são:e:
 - cavestory
 - doom
 - msx2+
 
-To add these systems to Recalbox check this [documentation](https://recalbox.gitbook.io/documentation/other/configuration/display-of-systems#add-a-custom-system)
+Para adicionar estes sistemas à Recalbox verifique esta [documentação](https://recalbox.gitbook.io/documentation/other/configuration/display-of-systems#add-a-custom-system)
 
 
 ### Direito autoral
@@ -85,7 +85,7 @@ To add these systems to Recalbox check this [documentation](https://recalbox.git
 - A fonte do Digital Counter 7 usada para o ícone do contador de jogos é de [Sizenko Alexander] (http://www.styleseven.com).
 - O site usa o [React Image Galery component] (http://www.linxtion.com/demo/react-image-gallery/).
 - A fonte do logotipo Next Pixel é "Color Basic" de [Typodermic Fonts] (http://typodermicfonts.com/).
-- pacman music is from https://www.youtube.com/watch?v=jy-PZR7YnS8.
+- pacman música de https://www.youtube.com/watch?v=jy-PZR7YnS8.
 
 
 ### Contribuir / reportar problémas
@@ -104,7 +104,7 @@ Se você não sabe como contribuir, talvez possa me oferecer uma bebida;)
 Obrigado pela sua contribuição:
  - [lhari84](https://github.com/lhari84) (tradução de informações do sistema em alemão)
  - rastaware (tradução para o português)
- - MarbleMad (default game theme)
+ - MarbleMad (default tema de jogo)
 
 
 ### Download
@@ -125,11 +125,11 @@ Neste ficheiro procure *hdmi_group* e *hdmi_mode* e deixe como seguinte :
 
 Não esqueça de tirar'#' en inicia de linha se està presente.
 
-If you still have issues with 720p (mainly images replaced with white rectangle) **and you already have forced Recalbox to run at 720p** you may try to allocate more gpu memory. Edit the same [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) file, this time search for *gpu_mem_1024=448* and set it to *gpu_mem_1024=512* and once again **Don't forget to allow write access before modify your file**.
+Se ainda tiver problemas com 720p (principalmente imagens substituídas por rectângulo branco) **e já tiver forçado a Recalbox a funcionar a 720p** pode tentar atribuir mais memória gpu. Edite o mesmo ficheiro [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), desta vez procure *gpu_mem_1024=448* e configure-o para *gpu_mem_1024=512* e mais uma vez **Não se esqueça de permitir o acesso de escrita antes de modificar o seu ficheiro**.
 
-**Warning : PSP emulator may not work anymore, so if you're not using PSP system this shouldn't be a problem**.
+**Atenção: o emulador PSP pode já não funcionar, por isso, se não estiver a utilizar o sistema PSP, isto não deverá ser um problema**.
 
-If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
+Se não quiser alterar as definições de memória ou se estiver a usar o sistema PSP, então deve mudar para pacote 480p, a qualidade das imagens será menos nítida mas deverá poder usar muitos sistemas sem problemas.
 
 **1080p [DOWNLOAD es-next-pixel-1080p-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-1080p.zip)**
 

@@ -69,7 +69,7 @@ Le thème Next Pixel inclut son propre "mix" pour que les captures de vos jeux e
 
 
 ### Support de systèmes non officiel
-Le thème Next Pixel supporte des thèmes de jeu pour des système qui ne sont pas/plus supporté par Recalbox.
+Le thème Next Pixel supporte des thèmes de jeu pour des systèmes qui ne sont pas/plus supportés par Recalbox.
 Actuellement les systèmes supplémentaires supportés sont:
 - cavestory
 - doom

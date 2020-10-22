@@ -79,7 +79,7 @@ Para adicionar estes sistemas ao Recalbox verifique esta [documentação](https:
 
 
 ### Direito autoral
-- Este tema usa imagens / músicas encontradas na Internet. Se você acha que as imagens / músicas usadas neste tema são de sua propriedade ou estão sujeitas a direitos autorais, entre em contato comigo (entre em contato com [at] samystudio.net), removerei-as.
+- All game theme images are exclusive for Recalbox distribution, if you want to redistribute this theme you'll have to replace these images.
 - O tema é baseado no tema recabox-next,  portanto, alguns ativos podem ser licenciados pelo [Recalbox] (https://gitlab.com/recalbox/recalbox-themes), a licença Recalbox sempre prevalece para esses ativos (portanto, esta **licença MIT do tema é aplicável apenas a arquivos xml**).
 - A câmera e alguns ícones de informações do jogo são de [shareicon] (https://www.shareicon.net).
 - A fonte do Digital Counter 7 usada para o ícone do contador de jogos é de [Sizenko Alexander] (http://www.styleseven.com).

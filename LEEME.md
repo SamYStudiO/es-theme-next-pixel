@@ -79,7 +79,7 @@ To add these systems to Recalbox check this [documentation](https://recalbox.git
 
 
 ### Copyright
-- This theme use pictures/musics found over internet, if you think any images/musics used in this theme are your ownership or is subject to copyright please contact me (contact[at]samystudio.net), I'll remove them.
+- All game theme images are exclusive for Recalbox distribution, if you want to redistribute this theme you'll have to replace these images.
 - Theme is based on recabox-next theme so some assets may be licensed by [Recalbox](https://gitlab.com/recalbox/recalbox-themes), Recalbox license always prevail for these assets (so this theme **MIT license is only applicable for xml files**).
 - Camera and some game info icons are from [shareicon](https://www.shareicon.net).
 - Digital Counter 7 font used for game counter icon is from [Sizenko Alexander](http://www.styleseven.com).

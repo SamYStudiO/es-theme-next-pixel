@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/the_legend_of_zelda/music.mp3</path>
+			<path>./../data/games/hokuto_no_ken/music.mp3</path>
 		</sound>
 
 	</view>

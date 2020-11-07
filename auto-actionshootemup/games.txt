@@ -1,0 +1,6 @@
+galaga
+gradius
+seirei_senshi_spriggan
+space_invaders
+space_harrier
+super_stardust

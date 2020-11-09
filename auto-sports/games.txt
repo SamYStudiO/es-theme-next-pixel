@@ -6,6 +6,7 @@ f_zero
 f_zero_x
 mario_kart_8
 metroid_zero_mission
+pocket_tennis
 sega_rally
 super_mario_kart
 vs_excitebike

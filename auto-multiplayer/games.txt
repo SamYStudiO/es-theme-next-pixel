@@ -34,6 +34,7 @@ pang
 pichu_bros_mini
 pikmin_2
 pinball_challenge
+pocket_tennis
 rampart
 rayman_legends
 river_raid

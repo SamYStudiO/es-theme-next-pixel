@@ -3,4 +3,5 @@ gegege_no_kitarou
 lemmings
 lumines_ii
 new_super_mario_bros
+puyo_puyo_2
 tetris

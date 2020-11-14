@@ -56,6 +56,7 @@ pac_man
 pang
 pinball_challenge
 pitfall
+popful_mail
 prince_of_persia
 prince_of_persia_the_sands_of_time
 rayman

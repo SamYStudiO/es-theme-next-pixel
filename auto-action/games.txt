@@ -36,6 +36,7 @@ goldeneye_007
 gradius
 gta_san_andreas
 guzzler
+he_man
 hokuto_no_ken
 hunchback
 kcs_krazy_chase
@@ -65,6 +66,7 @@ river_raid
 robocop_2
 rockman_battle_and_fighters
 samurai_shodown
+scramble
 seirei_senshi_spriggan
 shark_shark
 sienna

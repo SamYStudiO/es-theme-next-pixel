@@ -21,6 +21,7 @@ gegege_no_kitarou
 goldeneye_007
 gradius
 gta_san_andreas
+he_man
 hokuto_no_ken
 king_of_fighters_r1
 lemmings
@@ -39,6 +40,7 @@ rampart
 rayman_legends
 river_raid
 samurai_shodown
+scramble
 secret_of_mana
 shark_shark
 space_invaders

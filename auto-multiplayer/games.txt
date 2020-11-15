@@ -45,6 +45,7 @@ secret_of_mana
 shark_shark
 space_invaders
 street_fighter
+street_fighter_zero_3
 streets_of_rage_2
 super_mario_bros_3
 super_mario_galaxy

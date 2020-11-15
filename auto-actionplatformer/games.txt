@@ -27,6 +27,7 @@ rayman
 rayman_legends
 robocop_2
 sienna
+sonic_2
 sonic_3
 sonic_cd
 sorcery

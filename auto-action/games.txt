@@ -66,10 +66,10 @@ river_raid
 robocop_2
 rockman_battle_and_fighters
 samurai_shodown
-scramble
 seirei_senshi_spriggan
 shark_shark
 sienna
+sonic_2
 sonic_3
 sonic_cd
 sorcery
@@ -77,6 +77,7 @@ space_ace
 space_harrier
 space_invaders
 street_fighter
+street_fighter_zero_3
 streets_of_rage_2
 super_mario_64
 super_mario_bros_3

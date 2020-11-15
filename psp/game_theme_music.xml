@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/c292c2b5420048c3af2ab0dcf3043f2f/music.mp3</path>
+			<path>./../data/games/god_of_war_chains_of_olympus/music.mp3</path>
 		</sound>
 
 	</view>

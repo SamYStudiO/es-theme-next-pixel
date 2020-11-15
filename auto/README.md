@@ -1,1 +1,0 @@
-This folder is for convenience to have one place to handle all auto-xxx systems game theme in one place.

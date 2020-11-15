@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/86f8587a8c1e43508d11296e87786836/music.mp3</path>
+			<path>./../data/games/fire_emblem_awakening/music.mp3</path>
 		</sound>
 
 	</view>

@@ -1,6 +1,6 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../data/games/8fef207f3e7747dab70b03b17ec8bc77/color_accent.xml</include>	
+	<include>./../data/games/ms_pac_man/color_accent.xml</include>	
 
 </theme>

@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/f2a5a39b495f4de5ac93d061ca701921/background_gamelist_left.png</path>
+			<path>./../data/games/street_fighter/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/f2a5a39b495f4de5ac93d061ca701921/background_gamelist_right.jpg</path>
+			<path>./../data/games/street_fighter/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/044e3d779b224fba8bffe3a49418b531/background_legacy.jpg</path>
+			<path>./../data/games/metal_slug_2nd_mission/background_legacy.jpg</path>
 		</image>
 
 	</view>

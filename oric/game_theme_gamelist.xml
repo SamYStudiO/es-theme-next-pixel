@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/9761684e88df45b79224ce943ee840c8/background_gamelist_left.png</path>
+			<path>./../data/games/hunchback/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/9761684e88df45b79224ce943ee840c8/background_gamelist_right.jpg</path>
+			<path>./../data/games/hunchback/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

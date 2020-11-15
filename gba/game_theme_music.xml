@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/7e1f1bcc0cb745c29117358ead9040de/music.mp3</path>
+			<path>./../data/games/metroid_zero_mission/music.mp3</path>
 		</sound>
 
 	</view>

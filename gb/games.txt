@@ -1,0 +1,3 @@
+super_mario_land
+tetris
+the_legend_of_zelda_links_awakening

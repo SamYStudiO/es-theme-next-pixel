@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/e29acb6de3ab4207b80d33781ad3634c/background_wheel.jpg</path>
+			<path>./../data/games/castle_of_illusion/background_wheel.jpg</path>
 		</image>
 
 	</view>

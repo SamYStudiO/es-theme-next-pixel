@@ -1,6 +1,6 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../data/games/e08f9b93d00b47a7a839b264d1fad4cb/color_accent.xml</include>	
+	<include>./../data/games/lunar_rover_patrol/color_accent.xml</include>	
 
 </theme>

@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/13c14a4d82224a118de77d6b27da7a32/background_gamelist_left.png</path>
+			<path>./../data/games/der_langrisser/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/13c14a4d82224a118de77d6b27da7a32/background_gamelist_right.jpg</path>
+			<path>./../data/games/der_langrisser/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

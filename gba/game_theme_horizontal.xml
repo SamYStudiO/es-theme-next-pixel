@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/7e1f1bcc0cb745c29117358ead9040de/background.jpg</path>
+			<path>./../data/games/metroid_zero_mission/background.jpg</path>
 		</image>
 
 	</view>

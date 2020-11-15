@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/608bd31e9c7e4d7cbf83b71c09319cdf/background_legacy.jpg</path>
+			<path>./../data/games/doshin_the_giant/background_legacy.jpg</path>
 		</image>
 
 	</view>

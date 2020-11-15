@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/90d01fa94918476295823b1d406d5/background_gamelist_left.png</path>
+			<path>./../data/games/captain_comic/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/90d01fa94918476295823b1d406d5/background_gamelist_right.jpg</path>
+			<path>./../data/games/captain_comic/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

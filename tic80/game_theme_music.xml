@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/426665eb661d47359ab5032ae44463e7/music.mp3</path>
+			<path>./../data/games/cauliflower_power/music.mp3</path>
 		</sound>
 
 	</view>

@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/4674d4ce78214f1db22d47ead8e0707f/background.jpg</path>
+			<path>./../data/games/ranma_hiryu_densetsu/background.jpg</path>
 		</image>
 
 	</view>

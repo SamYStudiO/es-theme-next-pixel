@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/d4caf496d56642828204461cf1654592/music_a1.mp3</path>
+			<path>./../data/games/the_secret_of_monkey_island/music_a1.mp3</path>
 		</sound>
 
 	</view>

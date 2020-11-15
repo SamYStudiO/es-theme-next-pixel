@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/cbec0e4290cb40c2863aea69cf0c0cca/background.jpg</path>
+			<path>./../data/games/dragons_lair/background.jpg</path>
 		</image>
 
 	</view>

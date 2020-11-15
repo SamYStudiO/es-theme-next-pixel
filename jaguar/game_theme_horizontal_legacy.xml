@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/d8a86fc452654a6b9e4ec253ce9e0da3/background_legacy.jpg</path>
+			<path>./../data/games/rayman/background_legacy.jpg</path>
 		</image>
 
 	</view>

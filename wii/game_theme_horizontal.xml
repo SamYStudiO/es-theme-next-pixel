@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/eb9aad89903444619446476519d308f9/background.jpg</path>
+			<path>./../data/games/super_mario_galaxy/background.jpg</path>
 		</image>
 
 	</view>

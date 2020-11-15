@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/61ce84ad7c4049e7a8c292a6c4a2f54a/background_legacy.jpg</path>
+			<path>./../data/games/sim_city_2000/background_legacy.jpg</path>
 		</image>
 
 	</view>

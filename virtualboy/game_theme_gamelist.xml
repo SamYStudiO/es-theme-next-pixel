@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/228b6681b1d34ec28c594b3e401b7c07/background_gamelist_left.png</path>
+			<path>./../data/games/virtual_boy_wario_land/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/228b6681b1d34ec28c594b3e401b7c07/background_gamelist_right.jpg</path>
+			<path>./../data/games/virtual_boy_wario_land/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

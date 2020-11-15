@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/8857f2d99793448cb0908aabd389ea47/music.mp3</path>
+			<path>./../data/games/castlevania_rondo_of_blood/music.mp3</path>
 		</sound>
 
 	</view>

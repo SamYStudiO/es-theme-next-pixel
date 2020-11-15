@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/4ae3794bcb95437cab43ea5add22b84c/background_gamelist_left.png</path>
+			<path>./../data/games/sonic_cd/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/4ae3794bcb95437cab43ea5add22b84c/background_gamelist_right.jpg</path>
+			<path>./../data/games/sonic_cd/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

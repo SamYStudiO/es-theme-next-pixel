@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/608bd31e9c7e4d7cbf83b71c09319cdf/background_gamelist_left.png</path>
+			<path>./../data/games/doshin_the_giant/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/608bd31e9c7e4d7cbf83b71c09319cdf/background_gamelist_right.jpg</path>
+			<path>./../data/games/doshin_the_giant/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

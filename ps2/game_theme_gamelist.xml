@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/5b591757077242da8715f61b1ec4df57/background_gamelist_left.png</path>
+			<path>./../data/games/gta_san_andreas/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/5b591757077242da8715f61b1ec4df57/background_gamelist_right.jpg</path>
+			<path>./../data/games/gta_san_andreas/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

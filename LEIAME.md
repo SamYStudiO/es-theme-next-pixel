@@ -105,6 +105,7 @@ Obrigado pela sua contribuição:
  - [lhari84](https://github.com/lhari84) (tradução de informações do sistema em alemão)
  - rastaware (tradução para o português)
  - MarbleMad (tema padrão de jogo)
+ - kainsamara (russian systems info translation)
 
 
 ### Download

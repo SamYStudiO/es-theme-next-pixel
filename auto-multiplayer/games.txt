@@ -11,6 +11,7 @@ dolphin_blue
 donkey_kong_country
 donkey_kong_junior
 doom
+dragon_ball
 dragons_lair
 f_zero_x
 final_fantasy_vi
@@ -25,6 +26,7 @@ he_man
 hokuto_no_ken
 king_of_fighters_r1
 lemmings
+lupin_sansei
 mario_kart_8
 metal_slug_3
 metal_slug_6

@@ -38,6 +38,7 @@ donkey_kong_ii
 donkey_kong_junior
 doom
 doshin_the_giant
+dragon_ball
 dragons_lair
 duck_tales
 earthworm_jim
@@ -76,6 +77,7 @@ le_defi_de_zeldo
 lode_runner
 lumines_ii
 lunar_rover_patrol
+lupin_sansei
 madou_king_granzort
 maniac_mansion
 mario_and_luigi_partners_in_time

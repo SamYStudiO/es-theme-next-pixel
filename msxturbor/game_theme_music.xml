@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/ranma_hiryu_densetsu/music.mp3</path>
+			<path>./../data/games/$random(illusion_city,ranma_hiryu_densetsu)/music.mp3</path>
 		</sound>
 
 	</view>

@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/daimakai_mura/music.mp3</path>
+			<path>./../data/games/$random(daimakai_mura,madou_king_granzort)/music.mp3</path>
 		</sound>
 
 	</view>

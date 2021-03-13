@@ -1,6 +1,13 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../auto/game_theme_vertical_wheel.xml</include>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./../data/games/$random(bowling,okamoto_ayako_no_match_play_golf,pocket_tennis)/background_wheel.jpg</path>
+		</image>
+
+	</view>
 
 </theme>

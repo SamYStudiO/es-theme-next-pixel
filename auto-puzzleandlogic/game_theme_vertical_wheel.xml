@@ -1,6 +1,13 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../auto/game_theme_vertical_wheel.xml</include>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./../data/games/$random(cauliflower_power,gegege_no_kitarou,lemmings,lumines_ii,new_super_mario_bros,puyo_puyo_2,tetris)/background_wheel.jpg</path>
+		</image>
+
+	</view>
 
 </theme>

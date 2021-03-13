@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/castlevania_rondo_of_blood/background_legacy.jpg</path>
+			<path>./../data/games/$random(castlevania_rondo_of_blood,seirei_senshi_spriggan)/background_legacy.jpg</path>
 		</image>
 
 	</view>

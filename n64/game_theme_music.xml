@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/super_mario_64/music.mp3</path>
+			<path>./../data/games/$random(f_zero_x,goldeneye_007,super_mario_64,turok)/music.mp3</path>
 		</sound>
 
 	</view>

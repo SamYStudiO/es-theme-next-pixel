@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/mario_and_luigi_partners_in_time/background_wheel.jpg</path>
+			<path>./../data/games/$random(mario_and_luigi_partners_in_time,new_super_mario_bros)/background_wheel.jpg</path>
 		</image>
 
 	</view>

@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/super_stardust/music.mp3</path>
+			<path>./../data/games/$random(alien_breed_3d,lemmings,sim_city_2000,simon_the_sorcerer,super_stardust,worms)/music.mp3</path>
 		</sound>
 
 	</view>

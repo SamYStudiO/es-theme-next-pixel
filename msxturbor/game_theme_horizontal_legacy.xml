@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/ranma_hiryu_densetsu/background_legacy.jpg</path>
+			<path>./../data/games/$random(illusion_city,ranma_hiryu_densetsu)/background_legacy.jpg</path>
 		</image>
 
 	</view>

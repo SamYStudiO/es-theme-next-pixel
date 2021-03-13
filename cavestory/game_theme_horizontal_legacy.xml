@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/cavestory/background_legacy.jpg</path>
+			<path>./../data/games/$random(cavestory,cavestory_a0)/background_legacy.jpg</path>
 		</image>
 
 	</view>

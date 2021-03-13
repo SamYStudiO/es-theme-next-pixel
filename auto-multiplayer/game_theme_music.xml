@@ -1,5 +1,13 @@
 <theme>
 
-	<formatVersion>4</formatVersion>
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+		
+		<sound name="bgsound">
+			<path>./../data/games/$random(alien_breed_3d,bayonetta_2,beats_of_rage,bowling,bubble_bobble,burgertime,capcom_vs_snk_2_millenium_fight_2001,capcom_vs_snk_millenium_fight_2000,chuckie_egg,dolphin_blue,donkey_kong_country,donkey_kong_junior,doom,dragon_ball,dragons_lair,f_zero_x,final_fantasy_vi,fire_emblem_awakening,frogger,galaga,gegege_no_kitarou,goldeneye_007,gradius,gta_san_andreas,he_man,hokuto_no_ken,king_of_fighters_r1,lemmings,lupin_sansei,mario_kart_8,metal_slug_3,metal_slug_6,missile_command,ms_pac_man,one_piece_grand_battle_swan_colosseum,pang,pichu_bros_mini,pikmin_2,pinball_challenge,pocket_tennis,rampart,rayman_legends,river_raid,samurai_shodown,scramble,secret_of_mana,shark_shark,space_invaders,street_fighter,street_fighter_zero_3,streets_of_rage_2,super_mario_bros_3,super_mario_galaxy,super_mario_kart,tetris,the_king_of_fighters_98,vs_excitebike,worms)/music.mp3</path>
+		</sound>
+
+	</view>
 
 </theme>

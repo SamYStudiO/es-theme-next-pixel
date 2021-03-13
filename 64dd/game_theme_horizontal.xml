@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/doshin_the_giant/background.jpg</path>
+			<path>./../data/games/$random(fire_emblem_awakening,metroid_samus_returns)/background.jpg</path>
 		</image>
 
 	</view>

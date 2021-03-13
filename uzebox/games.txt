@@ -1,3 +1,0 @@
-donkey_kong
-pac_man
-space_invaders

@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/mario_kart_8/background_gamelist_left.png</path>
+			<path>./../data/games/$random(bayonetta_2,mario_kart_8,pikmin_3,rayman_legends,the_legend_of_zelda_breath_of_the_wild)/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/mario_kart_8/background_gamelist_right.jpg</path>
+			<path>./../data/games/$random(bayonetta_2,mario_kart_8,pikmin_3,rayman_legends,the_legend_of_zelda_breath_of_the_wild)/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

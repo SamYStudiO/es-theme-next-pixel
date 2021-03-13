@@ -1,7 +1,0 @@
-armor_attack
-doshin_the_giant
-pirates
-pokemon_breeder_mini
-red_alarm
-scramble
-sim_city_2000

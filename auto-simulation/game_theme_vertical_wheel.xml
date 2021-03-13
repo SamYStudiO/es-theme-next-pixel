@@ -1,6 +1,13 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../auto/game_theme_vertical_wheel.xml</include>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./../data/games/$random(armor_attack,doshin_the_giant,pirates,pokemon_breeder_mini,red_alarm,scramble,sim_city_2000)/background_wheel.jpg</path>
+		</image>
+
+	</view>
 
 </theme>

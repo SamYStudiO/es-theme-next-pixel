@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/one_piece_grand_battle_swan_colosseum/background_wheel.jpg</path>
+			<path>./../data/games/$random(blue_wing_blitz,one_piece_grand_battle_swan_colosseum)/background_wheel.jpg</path>
 		</image>
 
 	</view>

@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/space_harrier/music.mp3</path>
+			<path>./../data/games/$random(gradius,space_harrier)/music.mp3</path>
 		</sound>
 
 	</view>

@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/mario_kart_8/background_wheel.jpg</path>
+			<path>./../data/games/$random(bayonetta_2,mario_kart_8,pikmin_3,rayman_legends,the_legend_of_zelda_breath_of_the_wild)/background_wheel.jpg</path>
 		</image>
 
 	</view>

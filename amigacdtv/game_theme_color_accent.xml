@@ -1,6 +1,6 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../data/games/defender_of_the_crown/color_accent.xml</include>	
+	<include>./../data/games/$random(defender_of_the_crown,turrican_ii)/color_accent.xml</include>	
 
 </theme>

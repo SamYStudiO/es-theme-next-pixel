@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/myst/background_wheel.jpg</path>
+			<path>./../data/games/$random(myst,sim_city_2000,the_secret_of_monkey_island)/background_wheel.jpg</path>
 		</image>
 
 	</view>

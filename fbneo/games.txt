@@ -1,5 +1,0 @@
-donkey_kong
-galaga_a0
-pac_man
-space_invaders
-street_fighter

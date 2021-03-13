@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/metroid_zero_mission/music.mp3</path>
+			<path>./../data/games/$random(metroid_zero_mission,the_legend_of_zelda_the_minish_cap)/music.mp3</path>
 		</sound>
 
 	</view>

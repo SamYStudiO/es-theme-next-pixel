@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/crash_bandicoot_2/music.mp3</path>
+			<path>./../data/games/$random(crash_bandicoot_2,final_fantasy_vii,gex,rayman,worms)/music.mp3</path>
 		</sound>
 
 	</view>

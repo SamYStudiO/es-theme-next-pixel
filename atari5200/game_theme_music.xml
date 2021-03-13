@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/ms_pac_man/music.mp3</path>
+			<path>./../data/games/$random(frogger,ms_pac_man,pitfall_a0)/music.mp3</path>
 		</sound>
 
 	</view>

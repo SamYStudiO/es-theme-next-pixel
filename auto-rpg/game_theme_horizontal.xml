@@ -1,6 +1,13 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../auto/game_theme_horizontal.xml</include>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./../data/games/$random(blue_wing_blitz,final_fantasy_vi,final_fantasy_vii,le_defi_de_zeldo,mario_and_luigi_partners_in_time,mystery_of_solarus_dx,pokemon,secret_of_mana,the_legend_of_zelda,the_legend_of_zelda_links_awakening,the_legend_of_zelda_twilight_princess)/background.jpg</path>
+		</image>
+
+	</view>
 
 </theme>

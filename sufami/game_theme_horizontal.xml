@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/sd_gundam_colony_kakutouki/background.jpg</path>
+			<path>./../data/games/$random(gegege_no_kitarou,sd_gundam_colony_kakutouki)/background.jpg</path>
 		</image>
 
 	</view>

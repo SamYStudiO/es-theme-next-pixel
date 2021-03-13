@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/sorcery/background.jpg</path>
+			<path>./../data/games/$random(laigle_dor,le_5eme_axe,sorcery)/background.jpg</path>
 		</image>
 
 	</view>

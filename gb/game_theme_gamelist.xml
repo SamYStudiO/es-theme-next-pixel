@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/tetris/background_gamelist_left.png</path>
+			<path>./../data/games/$random(super_mario_land,tetris,the_legend_of_zelda_links_awakening)/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/tetris/background_gamelist_right.jpg</path>
+			<path>./../data/games/$random(super_mario_land,tetris,the_legend_of_zelda_links_awakening)/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

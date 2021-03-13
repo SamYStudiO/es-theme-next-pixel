@@ -1,6 +1,6 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../data/games/fd1ba4093e8d44148c3f765f01a934e2/color_accent.xml</include>	
+	<include>./../data/games/$random(default)/color_accent.xml</include>	
 
 </theme>

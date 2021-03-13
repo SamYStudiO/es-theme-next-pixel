@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/teenage_mutant_ninja_turtles/background_legacy.jpg</path>
+			<path>./../data/games/$random(castlevania,duck_tales,gradius,super_mario_bros_3,teenage_mutant_ninja_turtles,tetris,the_legend_of_zelda)/background_legacy.jpg</path>
 		</image>
 
 	</view>

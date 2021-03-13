@@ -1,6 +1,13 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../auto/game_theme_music.xml</include>
+
+	<view name="system">
+		
+		<sound name="bgsound">
+			<path>./../data/games/$random(another_world,laigle_dor,maniac_mansion,myst,secret_of_monkey_island,shenmue,simon_the_sorcerer,snatcher,the_legend_of_zelda_the_minish_cap,the_legend_of_zelda_twilight_princess)/music.mp3</path>
+		</sound>
+
+	</view>
 
 </theme>

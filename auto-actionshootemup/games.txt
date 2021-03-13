@@ -1,7 +1,0 @@
-dragon_ball
-galaga
-gradius
-seirei_senshi_spriggan
-space_harrier
-space_invaders
-super_stardust

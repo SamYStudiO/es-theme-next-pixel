@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/mystery_of_solarus_dx/music.mp3</path>
+			<path>./../data/games/$random(le_defi_de_zeldo,mystery_of_solarus_dx)/music.mp3</path>
 		</sound>
 
 	</view>

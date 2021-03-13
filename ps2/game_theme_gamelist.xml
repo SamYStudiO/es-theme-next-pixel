@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/gta_san_andreas/background_gamelist_left.png</path>
+			<path>./../data/games/$random(god_of_war_2,gta_san_andreas,prince_of_persia_the_sands_of_time)/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/gta_san_andreas/background_gamelist_right.jpg</path>
+			<path>./../data/games/$random(god_of_war_2,gta_san_andreas,prince_of_persia_the_sands_of_time)/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

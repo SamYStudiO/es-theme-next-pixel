@@ -1,6 +1,13 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../auto/game_theme_music.xml</include>
+
+	<view name="system">
+		
+		<sound name="bgsound">
+			<path>./../data/games/$random(defender_of_the_crown,der_langrisser,fire_emblem_awakening,pikmin_2,pikmin_3,rampart,sd_gundam_colony_kakutouki,worms)/music.mp3</path>
+		</sound>
+
+	</view>
 
 </theme>

@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/mazogs/background_wheel.jpg</path>
+			<path>./../data/games/$random(mazogs,night_gunner)/background_wheel.jpg</path>
 		</image>
 
 	</view>

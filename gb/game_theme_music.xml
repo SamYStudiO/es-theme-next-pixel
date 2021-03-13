@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/tetris/music.mp3</path>
+			<path>./../data/games/$random(super_mario_land,tetris,the_legend_of_zelda_links_awakening)/music.mp3</path>
 		</sound>
 
 	</view>

@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/daimakai_mura/background_legacy.jpg</path>
+			<path>./../data/games/$random(daimakai_mura,madou_king_granzort)/background_legacy.jpg</path>
 		</image>
 
 	</view>

@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/gradius/background_wheel.jpg</path>
+			<path>./../data/games/$random(gradius,popful_mail)/background_wheel.jpg</path>
 		</image>
 
 	</view>

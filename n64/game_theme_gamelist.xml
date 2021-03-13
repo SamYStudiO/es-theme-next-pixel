@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/super_mario_64/background_gamelist_left.png</path>
+			<path>./../data/games/$random(f_zero_x,goldeneye_007,super_mario_64,turok)/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/super_mario_64/background_gamelist_right.jpg</path>
+			<path>./../data/games/$random(f_zero_x,goldeneye_007,super_mario_64,turok)/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

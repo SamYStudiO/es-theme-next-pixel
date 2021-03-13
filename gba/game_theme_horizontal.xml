@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/metroid_zero_mission/background.jpg</path>
+			<path>./../data/games/$random(metroid_zero_mission,the_legend_of_zelda_the_minish_cap)/background.jpg</path>
 		</image>
 
 	</view>

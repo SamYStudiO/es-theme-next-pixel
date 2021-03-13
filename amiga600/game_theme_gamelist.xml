@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/another_world/background_gamelist_left.png</path>
+			<path>./../data/games/$random(another_world,bubble_bobble,defender_of_the_crown,lemmings,prince_of_persia,simon_the_sorcerer,the_secret_of_monkey_island,turrican_ii)/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/another_world/background_gamelist_right.jpg</path>
+			<path>./../data/games/$random(another_world,bubble_bobble,defender_of_the_crown,lemmings,prince_of_persia,simon_the_sorcerer,the_secret_of_monkey_island,turrican_ii)/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

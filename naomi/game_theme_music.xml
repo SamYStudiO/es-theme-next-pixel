@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/capcom_vs_snk_millenium_fight_2000/music.mp3</path>
+			<path>./../data/games/$random(capcom_vs_snk_millenium_fight_2000,crazy_taxi)/music.mp3</path>
 		</sound>
 
 	</view>

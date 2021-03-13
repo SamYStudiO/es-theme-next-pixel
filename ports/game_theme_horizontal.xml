@@ -1,6 +1,13 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../cavestory_2/game_theme_horizontal.xml</include>
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./../data/games/$random(cavestory,cavestory_a0,doom)/background.jpg</path>
+		</image>
+
+	</view>
 
 </theme>

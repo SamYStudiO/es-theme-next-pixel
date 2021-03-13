@@ -1,6 +1,13 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../auto/game_theme_music.xml</include>
+
+	<view name="system">
+		
+		<sound name="bgsound">
+			<path>./../data/games/$random(myst)/music.mp3</path>
+		</sound>
+
+	</view>
 
 </theme>

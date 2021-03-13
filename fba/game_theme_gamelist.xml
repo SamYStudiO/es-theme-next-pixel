@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/pac_man/background_gamelist_left.png</path>
+			<path>./../data/games/$random(donkey_kong,galaga_a0,pac_man,space_invaders,street_fighter)/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/pac_man/background_gamelist_right.jpg</path>
+			<path>./../data/games/$random(donkey_kong,galaga_a0,pac_man,space_invaders,street_fighter)/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

@@ -1,5 +1,13 @@
 <theme>
 
-	<formatVersion>4</formatVersion>
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+		
+		<sound name="bgsound">
+			<path>./../data/games/$random(frantic_freddy,tele_bunny)/music.mp3</path>
+		</sound>
+
+	</view>
 
 </theme>

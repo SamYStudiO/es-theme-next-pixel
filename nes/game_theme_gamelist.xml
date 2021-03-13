@@ -5,11 +5,11 @@
 	<view name="basic, detailed">
 		
 		<image name="background" extra="true">
-			<path>./../data/games/teenage_mutant_ninja_turtles/background_gamelist_left.png</path>
+			<path>./../data/games/$random(castlevania,duck_tales,gradius,super_mario_bros_3,teenage_mutant_ninja_turtles,tetris,the_legend_of_zelda)/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./../data/games/teenage_mutant_ninja_turtles/background_gamelist_right.jpg</path>
+			<path>./../data/games/$random(castlevania,duck_tales,gradius,super_mario_bros_3,teenage_mutant_ninja_turtles,tetris,the_legend_of_zelda)/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

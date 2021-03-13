@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./../data/games/choplifter/background.jpg</path>
+			<path>./../data/games/$random(choplifter,girls_garden)/background.jpg</path>
 		</image>
 
 	</view>

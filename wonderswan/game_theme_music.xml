@@ -5,7 +5,7 @@
 	<view name="system">
 		
 		<sound name="bgsound">
-			<path>./../data/games/buffers_evolution/music.mp3</path>
+			<path>./../data/games/$random(buffers_evolution,ganso_jajamaru_kun)/music.mp3</path>
 		</sound>
 
 	</view>

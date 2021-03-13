@@ -1,7 +1,0 @@
-castlevania
-duck_tales
-gradius
-super_mario_bros_3
-teenage_mutant_ninja_turtles
-tetris
-the_legend_of_zelda

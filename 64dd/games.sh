@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-fire_emblem_awakening
-metroid_samus_returns
+doshin_the_giant
+f_zero_x
 # Do not edit below this line
 )
 

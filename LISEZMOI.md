@@ -68,6 +68,18 @@ Le thème Next Pixel inclut son propre "mix" pour que les captures de vos jeux e
 **Si vous ne voulez pas utiliser le "mix" Next Pixel vous devez selectionner une option "others mixes" depuis les paramètres de la VUE GAMELIST sinon vous aurez un affichage non adapté à vos scraps**. Appuyez sur Start > OPTION DE L'INTERFACE > THEME > CONFIGURATION DU THEME > THEME LISTE DE JEUX > choisissez une mise en page avec "others mixes".
 
 
+### Personalliser Next Pixel (Ajouter vos propres favoris !)
+Le thème Next Pixel utilise une liste de thème de jeu pour chaque système. Cette liste de thème de jeu peut être personnalisée en éditant chaque fichier [nom du système]/games.sh. Par exemple vous pouvez personnaliser les thèmes de jeux du système *favorites* avec vos propres favoris puisque par défaut le thème Next Pixel utilise **mes** propres favoris.
+
+Notez que les thèmes de jeux sont tous configurés correctement avec les bons systèmes par défaut (sauf le *favorites* bien sûr). J'ai effectué beaucoup de recherche pour trouver quels jeux étaient disponibles et les plus populaires à l'époque. **Tous les thèmes de jeux correspondent à une boite de jeu du sytème en question**, vous pouvez remarquer par exemple que le thème de jeu earthworm jim est disponible pour la super nintendo et la megadrive/genesis mais pas sur le sega cd alors que ce jeu était populaire sur ce système. Cela est dû au fait que la boite de jeu sur sega cd utilisait un artwork différent que la super nintendo ou la megadrive/genesis. Cependant si vous remarquez une erreur ou pensez qu'un thème de jeu devrait être disponible sur un autre système, prévenez moi, j'y jetterais un oeil.
+
+Assez parlé, editons une liste de thèmes de jeux depuis notre système *favorites*. Ouvrez *games.sh* depuis le dossier *favorites* and éditez les thèmes de jeux en retirant les lignes entre *# Edit game list below* et *# Do not edit below this line*, puis ajoutez vos propres thèmes de jeux. Vous pouvez avoir un aperçu de tous les thèmes de jeux disponibles depuis le dossier *data/games/*, copiez simplement les noms de dossier que vous souhaitez dans le fichier *games.sh*.
+
+S'il vous plait ne modifiez rien en dehors de *# Edit game list below* et *# Do not edit below this line* si vous ne savez pas ce que vous faîtes la suite ne pourrait plus fonctionner.
+
+** Notez qu'éditer le fichier n'est pas suffisant pour que vos changements soient disponibles lorsque vous démarrez Recalbox**, lorsque vous avez terminé d'éditer le fichier *games.sh*, fermez le et **exécutez le pour appliquer vos modifications**, ensuite redémarrez Recalbox.
+
+
 ### Support de systèmes non officiel
 Le thème Next Pixel supporte des thèmes de jeu pour des systèmes qui ne sont pas/plus supportés par Recalbox.
 Actuellement les systèmes supplémentaires supportés sont:

@@ -68,6 +68,18 @@ O tema Next Pixel inclui seu próprio mix para tornar a integração das captura
 **Se não quiser usar o Mix Next Pixel, selecione qualqer opção de "others mixes" nas configurações de GAMELISTVIEW do tema, ou você terá alguns recursos gráficos estranhos sobrepondo suas imagens de scrape**. Aperte Start> CONFIGURAÇÕES DA INTERFACE> TEMA> CONFIGURAÇÃO DO TEMA> VISÃO GERAL DO TEMA> escolha qualquer layout com "others mixes".
 
 
+### Customize Next Pixel (Make your own favorites !)
+Next Pixel theme use random game theme lists for each systems. This game theme lists can be customized by editing each *[system name]/games.sh* files. For example you may want to customize favorites system game themes with your own favorites as by default Next Pixel theme comes up with my **my** personal favorites.
+
+Note by default game themes are all set up correctly with the right system (but favorites system of course). I made lots of researches to find out which game were available and most popular at the time system was running. **All game themes match an official game box for that system**, so you may notice for example that earthworm jim game theme is available for super nintendo and megadrive/genesis but not from sega cd though it was a pretty popular version. This is intented beacause sega cd version box used a different art than super nintendo and megadrive/genesis. If you notice any mistake or think a game theme should be available from another system though, tell me i'll check it.
+
+Enough talking let's edit game theme list from favorites system. Open *games.sh* from *favorites* folder and edit game themes you want by removing everything between *# Edit game list below* and *# Do not edit below this line* and adding your own game themes. You can see all game theme available from *data/games/* folder, just copy game folder names you want in *games.sh* file.
+
+Please do not modify anything outside of *# Edit game list below* and *# Do not edit below this line* if you don't know what you're doing this may break next step.
+
+**Note editing file is not enough to make those changes available when you run Recalbox**, when you're done editing *games.sh* file close it and **execute it to apply your personnal list**, then restart Recalbox.
+
+
 ### Suporte não-oficial ao sistema
 O tema Next pixel suporta temas de jogos para sistemas que não são, ou não são mais, suportados pelo Recalbox. 
 Os sistemas extras atualmente suportados são:

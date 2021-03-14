@@ -1,5 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
+ara_fell
 blue_wing_blitz
 final_fantasy_vi
 final_fantasy_vii

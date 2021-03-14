@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 bubble_bobble
-gradius
+gradius_msx_nes_pc88_x1
 # Do not edit below this line
 )
 

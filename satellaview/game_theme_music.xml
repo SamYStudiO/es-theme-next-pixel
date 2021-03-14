@@ -1,13 +1,6 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-
-	<view name="system">
-		
-		<sound name="bgsound">
-			<path>./../data/games/$random(f_zero,the_legend_of_zelda)/music.mp3</path>
-		</sound>
-
-	</view>
+	<include>./../data/games/$random(f_zero,the_legend_of_zelda-satellaview)/music.xml</include>
 
 </theme>

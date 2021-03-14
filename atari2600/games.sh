@@ -2,7 +2,7 @@ list=(
 # Edit game list below (full game list available from ./data/games folder)
 frogger
 missile_command
-pitfall
+pitfall_atari800_atari2600
 river_raids
 # Do not edit below this line
 )

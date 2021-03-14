@@ -1,6 +1,7 @@
 <theme>
 
-	<formatVersion>4</formatVersion>	
+	<formatVersion>4</formatVersion>
+	<include>./../../$system/game_theme_music.xml</include>
 
 	<feature supported="carousel">
 

@@ -1,9 +1,9 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 alex_kidd_in_miracle_world
-castle_of_illusion
+castle_of_illusion_gamegear_mastersystem
 sonic_2
-streets_of_rage_2
+streets_of_rage_2_gamegear_mastersystem
 # Do not edit below this line
 )
 

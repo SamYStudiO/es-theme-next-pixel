@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 captain_comic
-prince_of_persia
+prince_of_persia_samcoupe
 # Do not edit below this line
 )
 

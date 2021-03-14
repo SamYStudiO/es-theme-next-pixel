@@ -1,9 +1,9 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-castle_of_illusion
+castle_of_illusion_megadrive
 earthworm_jim
 sonic_3
-streets_of_rage_2
+streets_of_rage_2_megadrive
 # Do not edit below this line
 )
 

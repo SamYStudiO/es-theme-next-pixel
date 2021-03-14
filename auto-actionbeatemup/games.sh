@@ -5,7 +5,7 @@ beats_of_rage
 god_of_war_2
 god_of_war_chains_of_olympus
 he_man
-streets_of_rage_2
+streets_of_rage_2_megadrive
 # Do not edit below this line
 )
 

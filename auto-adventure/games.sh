@@ -2,9 +2,9 @@ list=(
 # Edit game list below (full game list available from ./data/games folder)
 another_world
 laigle_dor
-maniac_mansion
+maniac_mansion_apple2_scummvm
 myst
-secret_of_monkey_island
+the_secret_of_monkey_island_macintosh_pc_scummvm
 shenmue
 simon_the_sorcerer
 snatcher

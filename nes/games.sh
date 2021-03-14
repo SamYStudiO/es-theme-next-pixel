@@ -2,11 +2,11 @@ list=(
 # Edit game list below (full game list available from ./data/games folder)
 castlevania
 duck_tales
-gradius
+gradius_msx_nes_pc88_x1
 super_mario_bros_3
 teenage_mutant_ninja_turtles
-tetris
-the_legend_of_zelda
+tetris_nes
+the_legend_of_zelda_nes
 # Do not edit below this line
 )
 

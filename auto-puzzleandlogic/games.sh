@@ -2,11 +2,11 @@ list=(
 # Edit game list below (full game list available from ./data/games folder)
 cauliflower_power
 gegege_no_kitarou
-lemmings
+lemmings_pc
 lumines_ii
 new_super_mario_bros
 puyo_puyo_2
-tetris
+tetris_gb
 # Do not edit below this line
 )
 

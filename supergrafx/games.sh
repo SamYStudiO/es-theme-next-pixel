@@ -1,6 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-daimakai_mura
+daimakai_mura_supergrafx
 madou_king_granzort
 # Do not edit below this line
 )

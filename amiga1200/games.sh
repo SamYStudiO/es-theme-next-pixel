@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 alien_breed_3d
-lemmings
+lemmings_amiga600_amiga1200
 sim_city_2000
 simon_the_sorcerer
 super_stardust

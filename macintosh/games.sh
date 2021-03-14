@@ -2,7 +2,7 @@ list=(
 # Edit game list below (full game list available from ./data/games folder)
 myst
 sim_city_2000
-the_secret_of_monkey_island
+the_secret_of_monkey_island_macintosh_pc_scummvm
 # Do not edit below this line
 )
 

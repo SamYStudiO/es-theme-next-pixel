@@ -1,13 +1,6 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-
-	<view name="system">
-		
-		<sound name="bgsound">
-			<path>./../data/games/$random(super_mario_land,tetris,the_legend_of_zelda_links_awakening)/music.mp3</path>
-		</sound>
-
-	</view>
+	<include>./../data/games/$random(super_mario_land,tetris_gb,the_legend_of_zelda_links_awakening)/music.xml</include>
 
 </theme>

@@ -4,11 +4,11 @@ alex_kidd_in_miracle_world
 blackthorne
 bubble_bobble
 captain_comic
-castle_of_illusion
+castle_of_illusion_megadrive
 castlevania_rondo_of_blood
 chuckie_egg
 crash_bandicoot_2
-daimakai_mura
+daimakai_mura_supergrafx
 donkey_kong
 donkey_kong_country
 donkey_kong_junior
@@ -22,8 +22,8 @@ madou_king_granzort
 metal_slug_3
 metal_slug_6
 metroid_samus_return
-pitfall
-prince_of_persia
+pitfall_atari5200_colecovision
+prince_of_persia_atarist_pc
 prince_of_persia_the_sands_of_time
 rayman
 rayman_legends
@@ -38,7 +38,7 @@ super_mario_64
 super_mario_bros_3
 super_mario_galaxy
 super_mario_land
-turrican_ii
+turrican_ii_amiga600_amigacdtv
 virtual_boy_wario_land
 # Do not edit below this line
 )

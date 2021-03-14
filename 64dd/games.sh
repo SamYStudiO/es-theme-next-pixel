@@ -1,7 +1,9 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 doshin_the_giant
+doshin_the_giant
 f_zero_x
+f_zero_x_a0
 # Do not edit below this line
 )
 

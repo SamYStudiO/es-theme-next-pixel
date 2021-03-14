@@ -3,6 +3,7 @@ list=(
 cavestory
 cavestory_a0
 doom
+doom
 # Do not edit below this line
 )
 

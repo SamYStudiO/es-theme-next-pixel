@@ -1,6 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-lemmings
+lemmings_lynx
 rampart
 # Do not edit below this line
 )

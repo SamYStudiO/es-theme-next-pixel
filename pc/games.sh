@@ -1,11 +1,11 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 doom
-lemmings
+lemmings_pc
 myst
-prince_of_persia
+prince_of_persia_atarist_pc
 sim_city_2000
-the_secret_of_monkey_island
+the_secret_of_monkey_island_macintosh_pc_scummvm
 worms
 # Do not edit below this line
 )

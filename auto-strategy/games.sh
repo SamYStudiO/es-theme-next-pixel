@@ -1,6 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-defender_of_the_crown
+defender_of_the_crown_amigacdtv
 der_langrisser
 fire_emblem_awakening
 pikmin_2

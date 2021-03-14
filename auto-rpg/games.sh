@@ -8,7 +8,7 @@ mario_and_luigi_partners_in_time
 mystery_of_solarus_dx
 pokemon
 secret_of_mana
-the_legend_of_zelda
+the_legend_of_zelda_nes
 the_legend_of_zelda_links_awakening
 the_legend_of_zelda_twilight_princess
 # Do not edit below this line

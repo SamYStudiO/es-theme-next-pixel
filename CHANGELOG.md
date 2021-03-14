@@ -1,5 +1,6 @@
 ### Changelog
 2020/XX/XX - 2.0
+- Add auto-lightgun support
 - Change most game themes to better match game box/artwork/music at the time game was released
 - System game themes are now randomly displayed when Recalbox start
 - System info now use Recalbox language setting to display info in your language (only if translation is available, otherwise fallback to english translation)

@@ -57,6 +57,7 @@ super_mario_galaxy
 super_mario_kart
 tetris_gb
 the_king_of_fighters_98
+virtua_striker_2
 vs_excitebike
 worms
 # Do not edit below this line

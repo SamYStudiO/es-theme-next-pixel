@@ -1,6 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-default
+daytona_usa_2_power_edition
+virtua_striker_2
 # Do not edit below this line
 )
 

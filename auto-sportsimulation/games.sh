@@ -3,6 +3,7 @@ list=(
 bowling
 okamoto_ayako_no_match_play_golf
 pocket_tennis
+virtua_striker_2
 # Do not edit below this line
 )
 

@@ -3,6 +3,7 @@ list=(
 buffers_evolution
 chase_hq
 crazy_taxi
+daytona_usa_2_power_edition
 f_zero
 f_zero_x
 mario_kart_8

@@ -82,7 +82,7 @@
 			</Children>
 		</Item>
 
-		<!-- ARCADE arcade,atomiswave,daphne,fba,fba_libretro,mame,model3,naomi -->
+		<!-- ARCADE arcade,atomiswave,daphne,fba,fbneo,mame,model3,naomi -->
 		<Item IfSystem="IsInTheList:53,49,75,55,56">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="./systems/arcade.png">

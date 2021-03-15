@@ -4,6 +4,7 @@ bowling
 buffers_evolution
 chase_hq
 crazy_taxi
+daytona_usa_2_power_edition
 f_zero
 f_zero_x
 mario_kart_8
@@ -12,6 +13,7 @@ okamoto_ayako_no_match_play_golf
 pocket_tennis
 sega_rally
 super_mario_kart
+virtua_striker_2
 vs_excitebike
 # Do not edit below this line
 )

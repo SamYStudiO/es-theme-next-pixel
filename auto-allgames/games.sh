@@ -31,6 +31,7 @@ crash_bandicoot_2
 crazy_taxi
 daimakai_mura_supergrafx
 daimakai_mura_x68000
+daytona_usa_2_power_edition
 defender_of_the_crown_amigacdtv
 der_langrisser
 dolphin_blue
@@ -170,6 +171,7 @@ the_secret_of_monkey_island_macintosh_pc_scummvm
 turok
 turrican_ii_amiga600_amigacdtv
 uncharted_3
+virtua_striker_2
 virtual_boy_wario_land
 vs_excitebike
 worms

@@ -1,9 +1,10 @@
 ### Changelog
 2021/XX/XX - 2.0
-- Add model3 support
-- Add scv (super cassete vision) support
-- Add pico8 support
 - Add auto-lightgun support
+- Add pcv2 (pocket challenge v2) support
+- Add pico8 support
+- Add scv (super cassete vision) support
+- Add model3 support
 - Change most game themes to better match game box/artwork/music at the time game was released
 - System game themes are now randomly displayed when Recalbox start
 - System info now use Recalbox language setting to display info in your language (only if translation is available, otherwise fallback to english translation)

@@ -26,7 +26,7 @@
 			<text>Sprites : 256 8x8 foreground sprites, 128x32 cels map</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Son : puce 4 cannaux blerps</text>
+			<text>Audio : puce 4 cannaux blerps</text>
 		</text>
 
 		

@@ -24,6 +24,7 @@ castle_of_illusion_megadrive
 cauliflower_power
 cavestory
 cavestory_a0
+celeste
 chase_hq
 choplifter
 chuckie_egg

@@ -6,6 +6,7 @@ bubble_bobble
 captain_comic
 castle_of_illusion_megadrive
 castlevania_rondo_of_blood
+celeste
 chuckie_egg
 crash_bandicoot_2
 daimakai_mura_supergrafx

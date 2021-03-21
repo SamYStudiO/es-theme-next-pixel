@@ -14,6 +14,7 @@ captain_comic
 castle_of_illusion_megadrive
 castlevania
 castlevania_rondo_of_blood
+celeste
 choplifter
 chuckie_egg
 crash_bandicoot_2

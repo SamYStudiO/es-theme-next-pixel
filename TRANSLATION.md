@@ -47,14 +47,20 @@ French **OK**
 
 Portuguese
 - *LEIAME.md*
-	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#op%C3%A7%C3%B5es (last option)
+	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#customize-next-pixel-make-your-own-favorites-
 	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#download (donwload from all download links)
-- *data/systems/[all recalbox v7 new systems]/pt*
+- *data/systems/[all recalbox v7+ new systems]/pt*
 		
 German
 - *LIESMICH.md*
 - *data/mix/LIESMICH.md*
-- *data/systems/[all recalbox v7 new systems]/de*
+- *data/systems/[all recalbox v7+ new systems]/de*
+
+Ialien 
+- Everything need to be translated
+
+Spanish
+- Everything need to be translated
 	
 Please if you see something wrong even with **OK** languages, just tell me or make a pull request.
 

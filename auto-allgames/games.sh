@@ -69,6 +69,8 @@ he_man
 hokuto_no_ken
 hunchback
 illusion_city
+juggler
+kabi_island
 kcs_krazy_chase
 king_of_fighters_r1
 laigle_dor

@@ -1,5 +1,6 @@
 ### Changelog
 2021/XX/XX - 2.0
+- Add supervision support
 - Add auto-lightgun support
 - Add pcv2 (pocket challenge v2) support
 - Add pico8 support

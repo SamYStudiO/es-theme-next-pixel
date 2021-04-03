@@ -115,7 +115,7 @@ Merci pour votre contribution:
  - [lhari84](https://github.com/lhari84) (traduction des informations systèmes en allemand)
  - rastaware (traduction en portugais)
  - MarbleMad (thème du système default)
-  - kainsamara (traduction des informations systèmes en russe)
+ - kainsamara (traduction des informations systèmes en russe)
 
 
 ### Téléchargement

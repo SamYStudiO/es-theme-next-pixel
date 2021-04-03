@@ -1,6 +1,6 @@
 #!/bin/sh
 # Generate all language files with the code specified below for each systems.
-language="es"
+language="pt_br"
 for d in * ; do
 	echo "$d"
 	if [[ ! -d "${d}/${language}" ]]; then

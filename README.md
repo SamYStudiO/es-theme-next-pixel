@@ -6,7 +6,9 @@
 
 ### ![it](https://www.countryflags.io/it/shiny/32.png) La documentazione in italiano è disponibile [**qui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEGGIMI.md)!
 
-### ![pt](https://www.countryflags.io/pt/shiny/32.png)![br](https://www.countryflags.io/br/shiny/32.png) A documentação em português está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md)!
+### ![pt](https://www.countryflags.io/pt/shiny/32.png) A documentação em português está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md)!
+
+### ![br](https://www.countryflags.io/br/shiny/32.png) A documentação em brasileira está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME_BR.md)!
 
 ### ![gb](https://www.countryflags.io/gb/shiny/32.png)![us](https://www.countryflags.io/us/shiny/32.png) Hi and welcome to [Next Pixel theme](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)
 This theme is designed to display a full screen image for every system that matches a game box illustration or artwork at the time game was released. All systems will randomly display a different game theme each time Recalbox is started (at least 2 game themes are available for each system).

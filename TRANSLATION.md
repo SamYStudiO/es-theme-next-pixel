@@ -61,6 +61,9 @@ Ialien
 
 Spanish
 - Everything need to be translated
+
+Portuguese/Brazialian
+I made separate files for both languages, but both use actually same translations, translated files for both need to be check then.
 	
 Please if you see something wrong even with **OK** languages, just tell me or make a pull request.
 

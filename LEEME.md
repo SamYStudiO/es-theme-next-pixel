@@ -116,7 +116,6 @@ Project is hosted on [Github](https://github.com/SamYStudiO/es-theme-next-pixel)
 I need help!
 If you're interested to get involve in this theme please contact me using [Recalbox forum](https://forum.recalbox.com/topic/16064/recalbox-6-1-snap-videos-custom-mix-next-pixel-theme/359) or by email contact[at]samystudio.net.
  - I need photoshop expert to help adding new game themes.
- - I need illustator expert to help adding new rating icons.
  - I need translators, if you can convert english to any language, you're welcome.
  
 If you don't know how to contribute maybe you can offer me a drink ;)

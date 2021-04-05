@@ -114,7 +114,6 @@ Le projet est hébergé sur [Github](https://github.com/SamYStudiO/es-theme-next
 
 Si vous voulez vous impliquer dans ce thème veuillez me contacter en utilisant le [forum Recalbox](https://forum.recalbox.com/topic/16064/recalbox-6-1-snap-videos-custom-mix-next-pixel-theme/359) ou par email contact[at]samystudio.net.
  - J'ai besoin d'expert photoshop pour m'aider à ajouter de nouveaux thèmes de jeu.
- - J'ai besoin d'expert illustrator pour m'aider à ajouter de nouvelles icones de note.
  - J'ai besoin de traducteurs, si vous pouvez traduire l'anglais dans une autre langue, vous êtes le/la bienvenu(e).
  
 Si vous ne savez pas comment participer peut être vous pouvez me payer un coup ;)

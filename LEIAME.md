@@ -116,7 +116,6 @@ O Projeto está no [Github](https://github.com/SamYStudiO/es-theme-next-pixel).
 Eu preciso de ajuda!
 Se você estiver interessado em se envolver nesse tema, entre em contato comigo usando o [Fórum Recalbox] (https://forum.recalbox.com/topic/16064/recalbox-6-1-snap-videos-custom-mix-next- pixel-theme / 359) ou por e-mail, entre em contato com [at] samystudio.net.
  - Preciso de especialista em photoshop para ajudar a adicionar novos temas de jogos.
- - Preciso de especialista em illustrator para ajudar a adicionar novos ícones de classificação.
  - Preciso de tradutores; se você pode converter inglês para qualquer idioma, será bem-vindo(a).
  
 Se você não sabe como contribuir, talvez possa me oferecer uma bebida;)

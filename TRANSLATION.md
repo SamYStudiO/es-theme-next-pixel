@@ -47,9 +47,17 @@ French **OK**
 
 Portuguese
 - *LEIAME.md*
+	* Custom Imageviewer part
 	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#customize-next-pixel-make-your-own-favorites-
 	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#download (donwload from all download links)
 - *data/systems/[all recalbox v7+ new systems]/pt*
+
+Brazilan
+- *LEIAME_BR.md*
+	* Custom Imageviewer part
+	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#customize-next-pixel-make-your-own-favorites-
+	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#download (donwload from all download links)
+- *data/systems/[all recalbox v7+ new systems]/pt_br*
 		
 German
 - *LIESMICH.md*
@@ -61,9 +69,6 @@ Ialien
 
 Spanish
 - Everything need to be translated
-
-Portuguese/Brazialian
-I made separate files for both languages, but both use actually same translations, translated files for both need to be check then.
 	
 Please if you see something wrong even with **OK** languages, just tell me or make a pull request.
 

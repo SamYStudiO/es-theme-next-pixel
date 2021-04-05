@@ -80,6 +80,15 @@ Please do not modify anything outside of *# Edit game list below* and *# Do not 
 **Note editing file is not enough to make those changes available when you run Recalbox**, when you're done editing *games.sh* file close it and **execute it to apply your personnal list**, then restart Recalbox.
 
 
+### Custom Imageviewer
+Imageviewer system use a game theme that hightlights 3 games.
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/imageviewer.png)
+
+All contributors and donators may ask for a custom version with 3 game themes of their choice (choice is limited to actual available game themes, complete list is available from *data/games* folder.
+Contact me to get it!
+
+
 ### Unofficial system support
 Next pixel theme support game themes for systems not or not anymore supported by recalbox.
 Actual extra supported system are:

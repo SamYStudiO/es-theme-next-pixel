@@ -85,7 +85,8 @@ Le système "Imageviewer" utilise un thème qui met en avant 3 jeux.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/imageviewer.png)
 
-Tous les contributeurs et donateurs peuvent demander une version personnalisée avec les 3 thèmes de jeux de leur choix (le choix est limité aux thèmes de jeux actuellement disponible, une liste complète est visible dans le dossier *data/games*.
+Tous les contributeurs et donateurs peuvent demander une version personnalisée avec les 3 thèmes de jeux de leur choix (le choix est limité aux thèmes de jeux actuellement disponible, une liste complète est visible dans le dossier *data/games*).
+
 Contactez moi pour l'obtenir!
 
 
@@ -97,7 +98,6 @@ Actuellement les systèmes supplémentaires supportés sont:
 - msx2+
 
 Pour ajouter ces systèmes à Recalbox lisez cette [documentation](https://recalbox.gitbook.io/documentation/v/francais/utilisateur-avance/configurations/affichage-des-systemes#ajouter-un-systeme-custom)
-
 
 ### Copyright
 - Toutes les images des thèmes de jeux sont une exlcusivité pour la distribution Recalbox, si vous voulez redistribuer ce thème vous devez remplacer ces images.

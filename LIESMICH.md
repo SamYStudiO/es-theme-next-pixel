@@ -85,7 +85,8 @@ Imageviewer system use a game theme that hightlights 3 games.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/imageviewer.png)
 
-All contributors and donators may ask for a custom version with 3 game themes of their choice (choice is limited to actual available game themes, complete list is avaiable from *data/games* folder.
+All contributors and donators may ask for a custom version with 3 game themes of their choice (choice is limited to actual available game themes, complete list is avaiable from *data/games* folder).
+
 Contact me to get it!
 
 

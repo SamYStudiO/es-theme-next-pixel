@@ -1,5 +1,6 @@
 ### Changelog
 2021/XX/XX - 2.0
+- Add vic20 support
 - Add supervision support
 - Add auto-lightgun support
 - Add pcv2 (pocket challenge v2) support
@@ -12,7 +13,7 @@
 - Remove random system support as it is not maintained anymore by its creator
 - Musics are now using mp3 format instead of ogg
 - Behind the scene : 
-	- Rearange theme files structure to better handle random game themes display 
+	- Rearrange theme files structure to better handle random game themes display 
 	- Rearrange all PSD files to make it easier adding new game theme
 
 2020/08/15 - 1.4

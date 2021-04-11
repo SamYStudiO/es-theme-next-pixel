@@ -4,6 +4,7 @@ another_world
 laigle_dor
 maniac_mansion_apple2_scummvm
 myst
+pirate_cove
 the_secret_of_monkey_island_macintosh_pc_scummvm
 shenmue
 simon_the_sorcerer

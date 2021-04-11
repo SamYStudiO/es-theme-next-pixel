@@ -3,6 +3,7 @@ list=(
 dragon_ball
 galaga_arcade_fba_fbneo_mame
 gradius_pcengine
+gridrunner
 seirei_senshi_spriggan
 space_harrier_pcengine
 space_invaders

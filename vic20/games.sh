@@ -1,6 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-default
+gridrunner
+pirate_cove
 # Do not edit below this line
 )
 

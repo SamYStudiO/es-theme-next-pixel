@@ -8,7 +8,7 @@
 		</Item>
 
 		<!-- DEFAULT COMPUTERS FLAT SCREEN -->
-		<Item IfSystem="IsNotInTheList:26,40,41,80,48,106,115,2,3,104,67,109,29,122,130,23,13,87,27,1,14,142,70,31,114,72,58,57,107,22,19,20,4,108,105,59,16,18,64,111,65,43,42,66,91,113,116,117,118,131,135,213,123,218,141,73,79,77,76,53,49,75,55,56,17,129,86,217,21,9,12,10,52,28,146,15,25,82,219,221,208,237,211,61,207,102,11,45,46,220">
+		<Item IfSystem="IsNotInTheList:26,40,41,80,48,106,115,2,3,104,67,109,29,122,130,23,13,87,27,1,14,142,70,31,114,72,58,57,107,22,19,20,4,108,105,59,16,18,64,111,65,43,42,93,66,91,113,116,117,118,131,135,213,123,218,141,73,79,77,76,53,49,75,55,56,17,129,86,217,21,9,12,10,52,28,146,15,25,82,219,221,208,237,211,61,207,102,11,45,46,220">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="./systems/computer_flat.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />
@@ -67,8 +67,8 @@
 			</Children>
 		</Item>
 
-		<!-- COMPUTERS amiga600,amiga1200,amstradcpc,atari800,atarist,c64,dragon,msx,msx2,msx2+,msxturbor,oric,pc,prboom,samcoupe,scummvm,spectravideo,to8,vic20,x68000,zx81,zxspectrum -->
-		<Item IfSystem="IsInTheList:64,111,65,43,42,66,91,113,116,117,118,131,135,213,123,218,141,73,79,77,76">
+		<!-- COMPUTERS amiga600,amiga1200,amstradcpc,atari800,atarist,bk,c64,dragon,msx,msx2,msx2+,msxturbor,oric,pc,prboom,samcoupe,scummvm,spectravideo,to8,vic20,x68000,zx81,zxspectrum -->
+		<Item IfSystem="IsInTheList:64,111,65,43,42,93,66,91,113,116,117,118,131,135,213,123,218,141,73,79,77,76">
 			<Children>
 				<Item Type="LocalFile" LocalFilePath="./systems/computer.png">
 					<Display X="0%" Y="0%" Width="100%" Height="100%" />

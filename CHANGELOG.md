@@ -1,5 +1,6 @@
 ### Changelog
 2021/XX/XX - 2.0
+- Add bk support
 - Add vic20 support
 - Add supervision support
 - Add auto-lightgun support

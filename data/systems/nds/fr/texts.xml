@@ -20,7 +20,7 @@
 			<text>CPU : 66 MHz ARM9 + 33MHz ARM7 </text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 4MB / RAM Vidéo : 656KB</text>
+			<text>RAM : 4 Mo / RAM Vidéo : 656 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Ecran : Reflective TFT Colour LCD</text>

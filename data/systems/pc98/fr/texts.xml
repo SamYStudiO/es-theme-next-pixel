@@ -5,22 +5,22 @@
 	<view name="system">
 	
 		<text name="info1" extra="true">
-			<text>Manufacturer : NEC Corporation</text>
+			<text>Constructeur : NEC Corporation</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1982</text>
+			<text>Année de sortie : 1982</text>
 		</text>
 		<text name="info3" extra="true">
 			<text>OS : CP/M-86, MS-DOS, OS/2, Windows </text>
 		</text>
 		<text name="info4" extra="true">
-			<text>CPU : 8086 @ 5 MHz and higher</text>
+			<text>CPU : 8086 @ 5 MHz et plus</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 128 KB and higher</text>
+			<text>RAM : 128 Ko et plus</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>Sound Chip : Internal beeper, FM Sound, PCM</text>
+			<text>Puxe audio : Internal beeper, FM Sound, PCM</text>
 		</text>
 		
 	</view>

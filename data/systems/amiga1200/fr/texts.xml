@@ -14,13 +14,13 @@
 			<text>OS : AmigaOS 3.0/3.1</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>CPU : Motorola 68EC020 à @ 14.32 MHz</text>
+			<text>CPU : Motorola 68EC020 tournant @ 14.32 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 2 MB</text>
+			<text>RAM : 2 Mo</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 512 KB Kickstart 3.0-3.1 ROM</text>
+			<text>ROM : 512 Ko Kickstart 3.0-3.1 ROM</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU : Advanced Graphics Architecture</text>

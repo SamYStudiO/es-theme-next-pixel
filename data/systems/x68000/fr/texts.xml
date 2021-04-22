@@ -17,10 +17,10 @@
 			<text>CPU : Motorola 68000 à @ 10 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 1-4 MB (extensible jusqu'à 12 MB) / VRAM 1056 KB</text>
+			<text>RAM : 1-4 Mo (extensible jusqu'à 12 Mo) / VRAM 1056 Ko</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 1 MB (128 KB BIOS, 768 KB Character Generator)</text>
+			<text>ROM : 1 Mo (128 Ko BIOS, 768 Ko Character Generator)</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU : Sharp-Hudson Custom Chipset</text>

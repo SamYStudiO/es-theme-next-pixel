@@ -17,7 +17,7 @@
 			<text>CPU : Zilog Z80A @ 4 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 64 KB</text>
+			<text>RAM : 64 Ko</text>
 		</text>
 		<text name="info6" extra="true">
 			<text>Puce audio : General Instrument AY-3-8910</text>

@@ -17,7 +17,7 @@
 			<text>CPU : 16Bits NEC V20</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 512k video</text>
+			<text>RAM : 512 Ko video</text>
 		</text>
 		<text name="info6" extra="true">
 			<text>Résolution : 224 x 144 pixels</text>

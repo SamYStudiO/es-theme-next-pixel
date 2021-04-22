@@ -17,7 +17,7 @@
 			<text>CPU : Two 32-bit Hitachi SH2 @ 23 MHz + Megadrive CPUs</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 256kB / VRAM : 256kB</text>
+			<text>RAM : 256 Ko / VRAM : 256 Ko</text>
 		</text>
 		<text name="info6" extra="true">
 			<text>Vidéo : 32X VDP</text>
@@ -29,7 +29,7 @@
 			<text>Audio : Puce Q-Sound 10bit Stéréo PCM + Puce Megadrive audios</text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Taille de cartouche 2MB - 4MB</text>
+			<text>Taille de cartouche 2 Mo - 4 Mo</text>
 		</text>		
 		
 	</view>

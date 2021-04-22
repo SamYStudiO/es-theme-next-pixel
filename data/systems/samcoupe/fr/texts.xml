@@ -23,10 +23,10 @@
 			<text>CPU : Zilog Z80B @ 6 MHz</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>Mémoire : 256 KB/512 KB (4.5 MB max.)</text>
+			<text>Mémoire : 256 Ko/512 Ko (4.5 Mo max.)</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Stockage : Cassette recorder, 3.5 inch floppy disk</text>
+			<text>Stockage : enregistreur cassette, disque 3.5 pouces</text>
 		</text>
 		<text name="info9" extra="true">
 			<text>Affichage : 4 Modes (256×192 / 512×192) et palette 128 couleurs </text>

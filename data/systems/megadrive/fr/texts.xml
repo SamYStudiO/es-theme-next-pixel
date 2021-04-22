@@ -23,7 +23,7 @@
 			<text>CPU2 : 8-bit Zilog Z80 @ 3.58 Mhz (CPU Audio)</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>RAM : 64 kB / VRAM : 64kB / RAM Audio : 8kB</text>
+			<text>RAM : 64 Ko / VRAM : 64 Ko / RAM Audio : 8 Ko</text>
 		</text>
 		<text name="info8" extra="true">
 			<text>Video : 16-bit Sega VDP</text>

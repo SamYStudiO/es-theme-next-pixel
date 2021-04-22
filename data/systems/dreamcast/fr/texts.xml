@@ -20,7 +20,7 @@
 			<text>CPU : Hitachi SH-4 32-bit RISC clocked @ 200 MHz</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 16MB / VRAM : 8MB</text>
+			<text>RAM : 16 Mo / VRAM : 8 Mo</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Video : 100 MHz PowerVR2 (intégré avec le système ASIC)</text>
@@ -32,7 +32,7 @@
 			<text>Audio : Processeur audio Yamaha AICA[139] @ 67 MHz</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Taille VMU : 128kB</text>
+			<text>Taille VMU : 128 Ko</text>
 		</text>
 		
 	</view>

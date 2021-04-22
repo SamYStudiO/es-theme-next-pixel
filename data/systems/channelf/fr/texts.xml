@@ -20,7 +20,7 @@
 			<text>RAM : 64 octets</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>VRAM : 2 kB</text>
+			<text>VRAM : 2 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Résolution : 128x64, 8 couleurs</text>
@@ -29,7 +29,7 @@
 			<text>Audio : 500 Hz, 1 kHz et 1.5 kHz tones (peut être modulé)</text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Media : cartouche ROM</text>
+			<text>Média : cartouche ROM</text>
 		</text>
 		
 	</view>

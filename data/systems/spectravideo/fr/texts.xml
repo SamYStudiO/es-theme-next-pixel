@@ -17,10 +17,10 @@
 			<text>CPU : Zilog Z80A @ 3.58 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>ROM: 32KB (16 KB BIOS / 16 KB BASIC)</text>
+			<text>ROM: 32 Ko (16 Ko BIOS / 16 Ko BASIC)</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 16KB (SV-318) et 64Kb (SV-328) / VRAM : 16KB</text>
+			<text>RAM : 16 Ko (SV-318) et 64 Ko (SV-328) / VRAM : 16 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Vidéo : Texas Instruments TMS9918</text>

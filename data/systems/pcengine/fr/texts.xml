@@ -17,13 +17,13 @@
 			<text>CPU : HuC6280 8-bit 7,16 Mhz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 8 Kbyte</text>
+			<text>RAM : 8 Ko</text>
 		</text>
 		<text name="info6" extra="true">
 			<text>Picture Processor Unit : 8-bit</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>RAM Vidéo: 64 Kbyte</text>
+			<text>RAM Vidéo: 64 Ko</text>
 		</text>
 		<text name="info8" extra="true">
 			<text>Support : HU-Card, SHU-Card, CD-ROM, Super-CD-ROM</text>

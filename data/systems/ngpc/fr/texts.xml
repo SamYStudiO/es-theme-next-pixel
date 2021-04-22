@@ -11,16 +11,16 @@
 			<text>Année de sortie : 1999 (JP, US, EU)</text>
 		</text>
 		<text name="info3" extra="true">
-			<text>Unités vendues : 2 millions, version N&B incluse</text>
+			<text>Unités vendues : 2 millions, version N&amp;B incluse</text>
 		</text>
 		<text name="info4" extra="true">
 			<text>CPUs : Toshiba TLCS900H @ 6.144 MHz, Z80 @ 3.072 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 12K pour le 900H, 4K pour le Z80</text>
+			<text>RAM : 12 Ko pour le 900H, 4 Ko pour le Z80</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 64 Koctets</text>
+			<text>RAM : 64 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Picture Processor Unit : 16-bit</text>
@@ -29,7 +29,7 @@
 			<text>Résolution : 160x152 (256×256 Ecran virtuel)</text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Support : Cartouche ROM 4 MB max.</text>
+			<text>Support : Cartouche ROM 4 Mo max.</text>
 		</text>
 		
 	</view>

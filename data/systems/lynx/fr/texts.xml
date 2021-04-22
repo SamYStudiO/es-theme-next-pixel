@@ -20,7 +20,7 @@
 			<text>Co-Processors : Mikey and Suzy 2 x 16-bit</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 64K 120 ns DRAM</text>
+			<text>RAM : 64 Ko 120 ns DRAM</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>ROM : 512 octets</text>

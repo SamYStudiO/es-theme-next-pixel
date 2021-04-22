@@ -20,7 +20,7 @@
 			<text>CPU : 128-bit IBM Gekko PowerPC @ 485 MHz</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 43 MB de RAM non unifié au total</text>
+			<text>RAM : 43 Mo de RAM non unifié au total</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Video : 162 MHz "Flipper" LSI</text>
@@ -32,7 +32,7 @@
 			<text>Audio : 16-bit Dolby Pro Logic II</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Support : 1.5 GB miniDVD</text>
+			<text>Support : 1.5 Go miniDVD</text>
 		</text>
 		
 	</view>

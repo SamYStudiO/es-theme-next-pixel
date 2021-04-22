@@ -17,10 +17,10 @@
 			<text>CPU : 32-bit NEC V810 RISC @ 21.5 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 2 MB (32 KB de sauvegarde)</text>
+			<text>RAM : 2 Mo (32 Ko de sauvegarde)</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>VRAM : 1.25 MB</text>
+			<text>VRAM : 1.25 Mo</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Audio : 16-bit stéréo avec ADPCM</text>

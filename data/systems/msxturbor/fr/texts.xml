@@ -11,16 +11,16 @@
 			<text>Année de sortie : 1990</text>
 		</text>
 		<text name="info3" extra="true">
-			<text>OS : MSX BASIC V4.0 (16 kB)</text>
+			<text>OS : MSX BASIC V4.0 (16 Ko)</text>
 		</text>
 		<text name="info4" extra="true">
 			<text>CPU : R800 à @ 7.16 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 256KB à 512KB</text>
+			<text>RAM : 256 Ko à 512 Ko</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 96KB</text>
+			<text>ROM : 96 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU : Famille Texas Instruments TMS9918</text>

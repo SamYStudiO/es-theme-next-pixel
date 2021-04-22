@@ -23,10 +23,10 @@
 			<text>GPU : RSX "Reality Synthesizer" @ 500MHz</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>RAM : 256MB XDR @ 3.2 GHz</text>
+			<text>RAM : 256 Mo XDR @ 3.2 GHz</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>RAM Vidéo : 256MB GDDR3 @ 700 MHz</text>
+			<text>RAM Vidéo : 256 Mo GDDR3 @ 700 MHz</text>
 		</text>
 		<text name="info9" extra="true">
 			<text>Résolution : 480i, 480p, 720p, 1080i, 1080p</text>

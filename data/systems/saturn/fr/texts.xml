@@ -20,7 +20,7 @@
 			<text>CPU : 2× Hitachi SH-2 @ 28.6 MHz</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 16Mb / VRAM : 12Mb</text>
+			<text>RAM : 16 Mo / VRAM : 12 Mo</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Vidéo : VDP1 (sprite/texture et polygones), VDP2 (backgrounds)</text>

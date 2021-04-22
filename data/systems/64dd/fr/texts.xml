@@ -23,7 +23,7 @@
 			<text>64DD-CPU : 32-bit co-processor pour la lecture/écriture de données du disque</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>RAM : 4 MB RAMBUS RDRAM (extensible jusqu'à 8 MB)</text>
+			<text>RAM : 4 Mo RAMBUS RDRAM (extensible jusqu'à 8 Mo)</text>
 		</text>
 		<text name="info8" extra="true">
 			<text>Audio  : Stéréo 16-Bit 48 kHz</text>

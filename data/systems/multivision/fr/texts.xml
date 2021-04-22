@@ -14,7 +14,7 @@
 			<text>CPU : Zilog Z80 @ 3.58 MHz</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>RAM : 1KB / VRAM : 16KB </text>
+			<text>RAM : 1 Ko / VRAM : 16 Ko</text>
 		</text>
 		<text name="info5" extra="true">
 			<text>Video : Texas Instruments TMS9918</text>

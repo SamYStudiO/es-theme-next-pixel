@@ -17,10 +17,10 @@
 			<text>CPU : MOS Technology 6510/8500 @ 1.023 MHz (version NTSC)</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 64KB RAM</text>
+			<text>RAM : 64 Ko RAM</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 20KB</text>
+			<text>ROM : 20 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU : MOS Technology VIC-II</text>

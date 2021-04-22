@@ -17,10 +17,10 @@
 			<text>CPU : Motorola 68000 à @ 7.16 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 1 MB (extensible jusquà 6 MB officiellement) / VRAM 1024 KB</text>
+			<text>RAM : 1 Mo (extensible jusquà 6 MB officiellement) / VRAM 1024 Ko</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 512 KB Kickstart 2.05</text>
+			<text>ROM : 512 Ko Kickstart 2.05</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU : Commodore's Enhanced Chip Set</text>

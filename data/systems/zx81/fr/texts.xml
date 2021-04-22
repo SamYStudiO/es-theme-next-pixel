@@ -20,7 +20,7 @@
 			<text>CPU : Z80 at 3.25 MHz</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>Mémoire : 1 KB (64 KB max. 56 KB utilisable)</text>
+			<text>Mémoire : 1 Ko (64 Ko max. 56 Ko utilisable)</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Stockage : Enregistreur cassette externe à 250 baud</text>

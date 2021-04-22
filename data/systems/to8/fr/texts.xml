@@ -14,7 +14,7 @@
 			<text>CPU : Motorola 6809E @ 1 MHz</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>RAM : 256kB, ROM : 80kB</text>
+			<text>RAM : 256 Ko, ROM : 80 Ko</text>
 		</text>
 		<text name="info5" extra="true">
 			<text>8 modes d'affichage, palette de 4096 couleurs </text>

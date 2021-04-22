@@ -20,10 +20,10 @@
 			<text>CPU : MIPS 64Bit RISC CPU @ 93.75MHz</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : RAMBUS D-RAM 36Mbit</text>
+			<text>RAM : RAMBUS D-RAM 36 Mo</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>Vitesse de transfert : 4500Mbit/s</text>
+			<text>Vitesse de transfert : 4500 Mo/s</text>
 		</text>
 		<text name="info8" extra="true">
 			<text>Co-CPU : RCP - SP/DP @ 62.5MHz </text>

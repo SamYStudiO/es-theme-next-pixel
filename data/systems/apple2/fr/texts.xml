@@ -17,10 +17,10 @@
 			<text>CPU : MOS Technology 6502 @ 1 Mhz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 4KB à 64KB</text>
+			<text>RAM : 4Ko à 64Ko</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 8KB (Basic Integer)</text>
+			<text>ROM : 8Ko (Basic Integer)</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Audio : Haut-parleur 1-bit (intégré)</text>

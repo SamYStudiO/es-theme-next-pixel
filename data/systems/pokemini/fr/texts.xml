@@ -17,7 +17,7 @@
 			<text>CPU : S1C88 @ 4 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 4 kB (partagé avec le système vidéo)</text>
+			<text>RAM : 4 Ko (partagé avec le système vidéo)</text>
 		</text>
 		<text name="info6" extra="true">
 			<text>Affichage : LCD 96 x 64 pixels monochrome</text>
@@ -26,7 +26,7 @@
 			<text>Audio : Son 1 canaux PWM avec 3 niveaux de volume.</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Taille de cartouche : 512 kB</text>
+			<text>Taille de cartouche : 512 Ko</text>
 		</text>
 		
 	</view>

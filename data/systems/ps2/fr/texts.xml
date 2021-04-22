@@ -23,10 +23,10 @@
 			<text>GPU : "Graphics Synthesizer" @ 149 MHz</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>RAM : 32 MB PC800 32-bit dual-channel RDRAM @ 400 MHz</text>
+			<text>RAM : 32 Mo PC800 32-bit dual-channel RDRAM @ 400 MHz</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>RAM Vidéo : 4 MB</text>
+			<text>RAM Vidéo : 4 Mo</text>
 		</text>
 		<text name="info9" extra="true">
 			<text>Résolution : 256x224 à 1920x1080</text>

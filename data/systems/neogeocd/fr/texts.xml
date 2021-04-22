@@ -17,13 +17,13 @@
 			<text>CPU : 16-bit Motorolla 68000 @ 12MHz, 8-bit Zilog Z80 @ 4MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 7 MB RAM</text>
+			<text>RAM : 7 Mo RAM</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>SRAM : 2 KB</text>
+			<text>SRAM : 2 Ko</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>RAM Vidéo : 512 KB</text>
+			<text>RAM Vidéo : 512 Ko</text>
 		</text>
 		<text name="info8" extra="true">
 			<text>Puce audio : Yamaha YM2610 avec 13 canaux</text>

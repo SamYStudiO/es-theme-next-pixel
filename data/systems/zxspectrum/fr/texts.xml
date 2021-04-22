@@ -20,7 +20,7 @@
 			<text>CPU : Z80 @ 3.5 MHz et équivalent</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>Mémoire : 16 KB / 48 KB / 128 KB</text>
+			<text>Mémoire : 16 Ko / 48 Ko / 128 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Support : Cassette, Disquette 3" sur Spectrum +3</text>

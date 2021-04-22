@@ -17,10 +17,10 @@
 			<text>CPU : MOS Technology 6502B @ 1.8 Mhz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 8kB base, 48 kB max.</text>
+			<text>RAM : 8 Ko base, 48 Ko max.</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 8KB (Atari Basic)</text>
+			<text>ROM : 8 Ko (Atari Basic)</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Audio : 4× oscillateurs avec mixeur de son</text>

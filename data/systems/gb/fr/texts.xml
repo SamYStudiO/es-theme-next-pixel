@@ -20,7 +20,7 @@
 			<text>CPU : 8-bit Zilog Z80 @ 4.194304MHz</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 8kB / VRAM : 8kB</text>
+			<text>RAM : 8 Ko / VRAM : 8 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Video : PPU (intégré au CPU)</text>
@@ -32,7 +32,7 @@
 			<text>Audio : son 4 canaux stéréo</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Taille de cartouche 32kB - 1MB</text>
+			<text>Taille de cartouche 32 Ko - 1 Mo</text>
 		</text>
 		
 	</view>

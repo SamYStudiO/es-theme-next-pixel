@@ -17,10 +17,10 @@
 			<text>CPU : Motorola 68000 @ 7.16 MHz (NTSC) ou 7.09 (PAL)</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 1 MB (extensible)</text>
+			<text>RAM : 1 Mo (extensible)</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 256 KB Kickstart 2.5 et 256 KB CDTV firmware</text>
+			<text>ROM : 256 Ko Kickstart 2.5 et 256 Ko CDTV firmware</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU : Commodore's Enhanced Chip Set</text>

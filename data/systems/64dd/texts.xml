@@ -26,7 +26,7 @@
 			<text>RAM : 4 MB RAMBUS RDRAM (expandable up to 8 MB)</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Sound  : Stereo 16-Bit and 48 kHz</text>
+			<text>Sound : Stereo 16-Bit and 48 kHz</text>
 		</text>
 		
 	</view>

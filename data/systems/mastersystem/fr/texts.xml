@@ -20,7 +20,7 @@
 			<text>CPU : 8-Bit Zilog Z80 @ 3.58 MHz</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 8kB / VRAM : 16kB</text>
+			<text>RAM : 8 Ko / VRAM : 16 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Vidéo : Sega VDP (Texas Instruments TMS9918 personnalisé)</text>
@@ -32,7 +32,7 @@
 			<text>Audio : TI SN76489 PSG / add-on module YM2413 FM</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Taille de cartouche 32kB - 1MB</text>
+			<text>Taille de cartouche : 32 Ko - 1 Mo</text>
 		</text>
 		
 	</view>

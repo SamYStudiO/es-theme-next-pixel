@@ -20,10 +20,10 @@
 			<text>CPU : 32-bit MIPS RS4000 à at 333 Mhz </text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 32 Mbits</text>
+			<text>RAM : 32 Mo</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>DRAM : 4 Mbits</text>
+			<text>DRAM : 4 Mo</text>
 		</text>
 		<text name="info8" extra="true">
 			<text>Résolution : 480x272 px</text>

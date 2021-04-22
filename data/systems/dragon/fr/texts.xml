@@ -17,7 +17,7 @@
 			<text>CPU : Motorola 6809E @ 0.89 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 32/64 KB</text>
+			<text>RAM : 32/64 Ko</text>
 		</text>
 		<text name="info6" extra="true">
 			<text>Résolution : max 256 x 192, 8 couleurs</text>

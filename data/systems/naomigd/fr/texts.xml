@@ -20,7 +20,7 @@
 			<text>Audio : ARM7 Yamaha AICA 45 MHZ (avec CPU interne 32-bit RISC, 64 canaux ADPCM)</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 56 MB (64 MB avec GD-ROM)</text>
+			<text>RAM : 56 Mo (64 Mo avec GD-ROM)</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Support : ROM Board (taille max. de 168 MB) / GD-Rom</text>

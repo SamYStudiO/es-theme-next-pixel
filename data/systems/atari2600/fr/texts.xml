@@ -32,7 +32,7 @@
 			<text>Audio : 2 cannaux audio monaural de 1-bit avec u control du volume 4-bit</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Taille des cartouches : 2kB - 32kB </text>
+			<text>Taille des cartouches : 2 Ko - 32 Ko </text>
 		</text>
 		
 	</view>

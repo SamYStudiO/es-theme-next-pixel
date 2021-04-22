@@ -26,10 +26,10 @@
 			<text>Picture Processor Unit : 32-bit</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>RAM Vidéo : 8 Mbits</text>
+			<text>RAM Vidéo : 8 Mo</text>
 		</text>
 		<text name="info9" extra="true">
-			<text>RAM Audio : 4 Mbits</text>
+			<text>RAM Audio : 4 Mo</text>
 		</text>
 		<text name="info10" extra="true">
 			<text>GPU : GFX processor unit</text>

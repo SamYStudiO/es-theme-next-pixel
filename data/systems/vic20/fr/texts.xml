@@ -17,10 +17,10 @@
 			<text>CPU: MOS Technology 6502 @ 1.02 MHz (NTSC)/ 1.10 MHz (PAL)</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM: 5 KB RAM (extensible à 32 KB)</text>
+			<text>RAM: 5 Ko RAM (extensible à 32 Ko)</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM: 20KB</text>
+			<text>ROM: 20 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU: MOS Technology VIC-I 6561</text>

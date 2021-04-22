@@ -11,16 +11,16 @@
 			<text>Année de sortie : 1985</text>
 		</text>
 		<text name="info3" extra="true">
-			<text>OS : MSX BASIC V2.1 (16 kB)</text>
+			<text>OS : MSX BASIC V2.1 (16 Ko)</text>
 		</text>
 		<text name="info4" extra="true">
 			<text>CPU : Zilog Z80 compatible @ 3.58 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 64KB à 128KB / VRAM 128KB</text>
+			<text>RAM : 64 Ko à 128 Ko / VRAM 128 Ko</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 48KB</text>
+			<text>ROM : 48 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU : Yamaha V9958 (aka MSX-Video)</text>

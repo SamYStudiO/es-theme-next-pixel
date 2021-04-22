@@ -20,13 +20,13 @@
 			<text>CPU : Motorola 68000 @ 12MHz, Zilog Z80A @ 4MHz</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 64KB RAM</text>
+			<text>RAM : 64 Ko RAM</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>Ram Audio : 2KB</text>
+			<text>Ram Audio : 2 Ko</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>RAM Vidéo : 84KB</text>
+			<text>RAM Vidéo : 84 Ko</text>
 		</text>
 		<text name="info9" extra="true">
 			<text>Affichage : Résolution 320×224, 4096 couleurs sur 65536</text>

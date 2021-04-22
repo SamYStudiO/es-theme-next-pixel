@@ -17,7 +17,7 @@
 			<text>CPU : 8-Bit Zilog Z80 @ 3.58 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 8kB / VRAM : 16kB</text>
+			<text>RAM : 8 Ko / VRAM : 16 Ko</text>
 		</text>
 		<text name="info6" extra="true">
 			<text>Video : Sega VDP (Texas Instruments TMS9918 personalisé)</text>
@@ -29,10 +29,10 @@
 			<text>Audio : TI SN76489 PSG</text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Taille de cartouche 32kB - 1MB</text>
+			<text>Taille de cartouche 32 Ko - 1 Mo</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Ecran : 8.128cm (3.2 inches), LCD retro-éclairé</text>
+			<text>Ecran : 8.128cm (3.2 pouces), LCD retro-éclairé</text>
 		</text>
 		
 	</view>

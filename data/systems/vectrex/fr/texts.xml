@@ -14,13 +14,13 @@
 			<text>CPU : Motorola 68A09 @ 1.5 MHz</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>RAM : 1KB (2 puces 4-bit 2114)</text>
+			<text>RAM : 1 Ko (2 puces 4-bit 2114)</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>ROM :  8KB (1 puce 8-bit 2363)</text>
+			<text>ROM :  8 Ko (1 puce 8-bit 2363)</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>Support : Cartouche avec 32KB ROM</text>
+			<text>Support : Cartouche avec 32 Ko ROM</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Audio : General Instrument AY-3-8912</text>

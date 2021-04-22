@@ -17,7 +17,7 @@
 			<text>CPU : Motorola 68000 16-/32-bit CPU @ 8 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 512KB ou 1MB</text>
+			<text>RAM : 512 Ko ou 1 Mo</text>
 		</text>
 		<text name="info6" extra="true">
 			<text>Lecteur : lecteur de disquette une seule face de 3½"</text>

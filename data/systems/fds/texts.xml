@@ -20,10 +20,10 @@
 			<text>CPU : Ricoh 2A03 8 Bit processor</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 32 Ko</text>
+			<text>RAM : 32 KB</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>Disk space : 112 Ko</text>
+			<text>Disk space : 112 KB</text>
 		</text>
 		<text name="info8" extra="true">
 			<text>Audio/Video processor : Uses Famicom hardware</text>

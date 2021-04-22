@@ -17,10 +17,10 @@
 			<text>CPU : Sharp Z80 A à @ 4 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 64 KB / VRAM : 4 KB (up à 48 KB)</text>
+			<text>RAM : 64 Ko / VRAM : 4 Ko (up à 48 Ko)</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 6 KB</text>
+			<text>ROM : 6 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU : Sharp-Hudson Custom Chipset</text>

@@ -14,7 +14,7 @@
 			<text>CPU: 8-bit 65SC02 @ 4 MHz</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>RAM: 8kB / VRAM : 8kB</text>
+			<text>RAM: 8 Ko / VRAM : 8 Ko</text>
 		</text>
 		<text name="info5" extra="true">
 			<text>Affichage: 160x160 pixels, 4 niveaux de gris</text>

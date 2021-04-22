@@ -17,10 +17,10 @@
 			<text>CPU : MOS Technology 6502C 6502C @ 1.79 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 16kB</text>
+			<text>RAM : 16 Ko</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 2KB on-board BIOS; 32 KB pour les cartouches standards</text>
+			<text>ROM : 2 Ko BIOS intégré; 32 Ko pour les cartouches standards</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Audio : puce 4-cannaux POKEY</text>

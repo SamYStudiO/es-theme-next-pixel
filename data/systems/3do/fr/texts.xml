@@ -17,10 +17,10 @@
 			<text>CPU : 32-bit RISC (ARM60) à @ 12.5 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 2 MB / VRAM : 1 MB</text>
+			<text>RAM : 2 Mo / VRAM : 1 Mo</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 1 MB</text>
+			<text>ROM : 1 Mo</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU : 2 Accelerated Video Co-Processors @25MHz</text>
@@ -29,7 +29,7 @@
 			<text>Puce audio : Stéréo 16-bit avec un taux d'échantillonage à 44.1 KHz</text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Résolution : 640x480 (16.7 millionss couleurs)</text>
+			<text>Résolution : 640x480 (16.7 millions couleurs)</text>
 		</text>
 		
 	</view>

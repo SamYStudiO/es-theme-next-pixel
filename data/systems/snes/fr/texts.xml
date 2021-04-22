@@ -20,7 +20,7 @@
 			<text>CPU : 16-bit Custom 65C816 @ 3.58 MHz</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 128kB / VRAM : 64kB</text>
+			<text>RAM : 128 Ko / VRAM : 64 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Vidéo : 16-bit PPU (Picture Processor Unit)</text>
@@ -32,7 +32,7 @@
 			<text>Audio : 8-bit Sony SPC700, 8 canaux</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Taille de cartouche 256kB - 6MB</text>
+			<text>Taille de cartouche 256 Ko - 6 Mo</text>
 		</text>
 		
 	</view>

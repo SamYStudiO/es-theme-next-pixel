@@ -17,10 +17,10 @@
 			<text>CPU : K1801VM1 @ 3MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 32 KB</text>
+			<text>RAM : 32 Ko</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 8 KB</text>
+			<text>ROM : 8 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU : K1801VP1-037</text>

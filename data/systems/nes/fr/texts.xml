@@ -20,7 +20,7 @@
 			<text>CPU : 8-bit MOS 6502 @ 1.79MHz</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 2kB / VRAM : 2kB</text>
+			<text>RAM : 2 Ko / VRAM : 2 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Video : 8-Bit PPU (Picture Processing Unit)</text>
@@ -32,7 +32,7 @@
 			<text>Audio : PSG sound (2 Square Waves, 1 Triangle Wave, 1 White Noise)</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Taille de cartouche 8kB - 1MB</text>
+			<text>Taille de cartouche 8 Ko - 1 Mo</text>
 		</text>
 		
 	</view>

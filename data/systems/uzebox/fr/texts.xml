@@ -14,10 +14,10 @@
 			<text>CPU : Amtel ATmega644 microcontroller @ 28.6 Mhz</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>RAM : 4 K</text>
+			<text>RAM : 4 Ko</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>Mémoire : 64 K</text>
+			<text>Mémoire : 64 Ko</text>
 		</text>
 		<text name="info6" extra="true">
 			<text>Audio : 5 canaux wavetable synthesis , 8-bit mono, mixed à ~15Khz et sortie via PWM</text>

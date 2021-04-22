@@ -17,10 +17,10 @@
 			<text>CPU : Motorola 68EC020 @ 14.32 MHz (NTSC), 14.18 MHz (PAL)</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 2 MB</text>
+			<text>RAM : 2 Mo</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 1 MB Kickstart avec CD32 firmware, 1 KB EEPROM pour les sauvegardes de jeu</text>
+			<text>ROM : 1 Mo Kickstart avec CD32 firmware, 1 Ko EEPROM pour les sauvegardes de jeu</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>GPU : Advanced Graphics Architecture</text>

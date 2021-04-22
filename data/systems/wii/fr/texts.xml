@@ -20,7 +20,7 @@
 			<text>CPU : IBM PowerPC "Broadway" @ 729 MHz</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 88 MB</text>
+			<text>RAM : 88 Mo</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Vidéo : ATI "Hollywood" @ 243 MHz </text>
@@ -32,7 +32,7 @@
 			<text>Audio : Stéréo - Dolby Pro Logic II</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Support : DVD 4.7/8.54 GB </text>
+			<text>Support : DVD 4.7/8.54 Go </text>
 		</text>
 		
 	</view>

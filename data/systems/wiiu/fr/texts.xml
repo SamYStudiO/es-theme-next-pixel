@@ -23,7 +23,7 @@
 			<text>GPU : AMD Radeon-based "Latte" @ 550 MHz</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>RAM : 2 GB DDR3</text>
+			<text>RAM : 2 Go DDR3</text>
 		</text>
 		<text name="info8" extra="true">
 			<text>Audio : Processeur audio dédié 120 MHz</text>
@@ -32,7 +32,7 @@
 			<text>Résolution : 480i, 480p, 720p, 1080i, 1080p</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Support : Blu-ray based disc 25 GB</text>
+			<text>Support : Blu-ray based disc 25 Go</text>
 		</text>
 		
 	</view>

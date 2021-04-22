@@ -17,7 +17,7 @@
 			<text>CPU : µPD780c-1 (compatible Z80A) @ 4 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 64 KB (jusqu'à 576 KB) / VRAM : 48 KB</text>
+			<text>RAM : 64 Ko (jusqu'à 576 Ko) / VRAM : 48 Ko</text>
 		</text>
 		<text name="info6" extra="true">
 			<text>Audio : 3 canaux FM + 3 SSG + 6 rhythms + 1 ADPCM</text>

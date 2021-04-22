@@ -17,10 +17,10 @@
 			<text>CPU : Motorola 68000 @ 7.8336 MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 128 KB</text>
+			<text>RAM : 128 Ko</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>ROM : 64 KB</text>
+			<text>ROM : 64 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Audio : 8 puces TTL qui implémente un controlleur video and son DMA</text>

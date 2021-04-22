@@ -23,7 +23,7 @@
 			<text>CPU : MOS 6502A @ 1 MHz</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>Mémoire : 16 KB / 48 KB</text>
+			<text>Mémoire : 16 Ko / 48 Ko</text>
 		</text>
 		<text name="info8" extra="true">
 			<text>Stockage : Tape recorder, 300 and 2400 baud</text>

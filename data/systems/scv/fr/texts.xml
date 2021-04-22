@@ -14,13 +14,13 @@
 			<text>CPU : 8-bit NEC PD7801G</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>RAM : 128KB / VRAM : 4KB </text>
+			<text>RAM : 128 Ko / VRAM : 4 Ko </text>
 		</text>
 		<text name="info5" extra="true">
 			<text>Video : EPOCH TV-1</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>Résolution : 309×246 pixels, 16 couleurs, 128 on-screen sprites</text>
+			<text>Résolution : 309×246 pixels, 16 couleurs, 128 sprites sumultanés</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Puce audio : PD1771C @ 6 MHz</text>

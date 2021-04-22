@@ -17,10 +17,10 @@
 			<text>CPU : Atari SALLY 6502 ("6502C") @ 1.19-1.79MHz</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>RAM : 4KB</text>
+			<text>RAM : 4 Ko</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>Cartouche ROM : 48KB</text>
+			<text>Cartouche ROM : 48 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Processeur Audio/Video : Controlleur graphique modifié TIA/MARIA</text>

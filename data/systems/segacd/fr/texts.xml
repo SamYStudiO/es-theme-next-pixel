@@ -20,7 +20,7 @@
 			<text>CPU : 16-bit Motorola 68000 @ 12.5 MHz + Megadrive CPUs</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 512kB / VRAM : 256kB / sound RAM : 16kB</text>
+			<text>RAM : 512 Ko / VRAM : 256 Ko / sound RAM : 16 Ko</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Vidéo : Custom ASIC</text>
@@ -32,7 +32,7 @@
 			<text>Audio : Ricoh RF5C164 + Puce Megadrive audios </text>
 		</text>		
 		<text name="info10" extra="true">
-			<text>Support : CD-ROM discs 500MB</text>
+			<text>Support : CD-ROM discs 500 Mo</text>
 		</text>
 		
 	</view>

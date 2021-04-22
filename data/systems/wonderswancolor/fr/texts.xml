@@ -17,7 +17,7 @@
 			<text>CPU : SSPGY-1002 @ 3.072 MHz 16-bit NEC V30MZ duplicate</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>Mémoire : 64 kB shared VRAM/WRAM</text>
+			<text>Mémoire : 64 Ko shared VRAM/WRAM</text>
 		</text>
 		<text name="info6" extra="true">
 			<text>Résolution : 224 x 144 pixels</text>

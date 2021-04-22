@@ -20,7 +20,7 @@
 			<text>CPU : 16 MHz 32bit RISC-CPU + 8bit CISC-CPU</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 32KB WRAM + 256KB WRAM</text>
+			<text>RAM : 32 Ko WRAM + 256 Ko WRAM</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>Ecran : Reflective TFT Colour LCD</text>
@@ -29,7 +29,7 @@
 			<text>Résolution : 240 x 160 pixels</text>
 		</text>
 		<text name="info9" extra="true">
-			<text>RAM Vidéo : 256KB</text>
+			<text>RAM Vidéo : 256 Ko</text>
 		</text>
 		<text name="info10" extra="true">
 			<text>Affichage : 32 000 couleurs</text>

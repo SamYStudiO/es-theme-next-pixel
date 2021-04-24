@@ -7,6 +7,7 @@ pikmin_2
 pikmin_3
 rampart
 sd_gundam_colony_kakutouki
+stone_sling
 worms
 # Do not edit below this line
 )

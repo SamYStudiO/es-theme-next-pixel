@@ -66,6 +66,7 @@ gradius
 gta_san_andreas
 guzzler
 he_man
+helicopter_rescue
 hokuto_no_ken
 hunchback
 illusion_city
@@ -149,6 +150,7 @@ sorcery
 space_ace
 space_harrier_pcengine
 space_invaders
+stone_sling
 streets_of_rage_2_megadrive
 street_fighter
 street_fighter_zero_3

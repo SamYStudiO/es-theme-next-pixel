@@ -1,7 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-frogger
-kcs_krazy_chase
+helicopter_rescue
 stone_sling
 # Do not edit below this line
 )

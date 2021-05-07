@@ -1,16 +1,11 @@
-### ![fr](https://www.countryflags.io/fr/shiny/32.png) Pour les non anglophone la documentation en français est disponible [**ici**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LISEZMOI.md)!
+![fr](https://www.countryflags.io/fr/shiny/24.png) Pour les non anglophone la documentation en français est disponible [**ici**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LISEZMOI.md)!<br/>
+![es](https://www.countryflags.io/es/shiny/24.png) La documentación en español está disponible [**aquí**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEEME.md)!<br/>
+![de](https://www.countryflags.io/de/shiny/24.png) Eine Dokumentation in deutscher Sprache finden Sie [**hier**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LIESMICH.md)!<br/>
+![it](https://www.countryflags.io/it/shiny/24.png) La documentazione in italiano è disponibile [**qui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEGGIMI.md)!<br/>
+![pt](https://www.countryflags.io/pt/shiny/24.png) A documentação em português está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md)!<br/>
+![br](https://www.countryflags.io/br/shiny/24.png) A documentação em brasileira está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME_BR.md)!<br/>
 
-### ![es](https://www.countryflags.io/es/shiny/32.png) La documentación en español está disponible [**aquí**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEEME.md)!
-
-### ![de](https://www.countryflags.io/de/shiny/32.png) Eine Dokumentation in deutscher Sprache finden Sie [**hier**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LIESMICH.md)!
-
-### ![it](https://www.countryflags.io/it/shiny/32.png) La documentazione in italiano è disponibile [**qui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEGGIMI.md)!
-
-### ![pt](https://www.countryflags.io/pt/shiny/32.png) A documentação em português está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md)!
-
-### ![br](https://www.countryflags.io/br/shiny/32.png) A documentação em brasileira está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME_BR.md)!
-
-### ![gb](https://www.countryflags.io/gb/shiny/32.png)![us](https://www.countryflags.io/us/shiny/32.png) Hi and welcome to [Next Pixel theme](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)
+### ![gb](https://www.countryflags.io/gb/shiny/32.png)![us](https://www.countryflags.io/us/shiny/32.png)<br/>Hi and welcome to [Next Pixel theme](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)
 This theme is designed to display a full screen image for every system that matches a game box illustration or artwork at the time game was released. All systems will randomly display a different game theme each time Recalbox is started (at least 2 game themes are available for each system).
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 

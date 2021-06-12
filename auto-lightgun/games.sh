@@ -1,6 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-default
+operation_wolf
+time_crisis_ii
 # Do not edit below this line
 )
 

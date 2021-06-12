@@ -58,6 +58,7 @@ ms_pac_man
 nights_into_dreams
 night_slave
 one_piece_grand_battle_swan_colosseum
+operation_wolf
 pac_man
 pang
 pinball_challenge

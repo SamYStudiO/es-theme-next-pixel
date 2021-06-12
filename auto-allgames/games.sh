@@ -107,6 +107,7 @@ night_gunner
 night_slave
 okamoto_ayako_no_match_play_golf
 one_piece_grand_battle_swan_colosseum
+operation_wolf
 pac_man
 pang
 pichu_bros_mini

@@ -9,8 +9,8 @@
 - Add pico8 support
 - Add scv (super cassete vision) support
 - Add model3 support
-- Add board support
-- Add casino support
+- Add auto-board game themes
+- Add auto-casino game themes
 - Change most game themes to better match game box/artwork/music at the time game was released
 - System game themes are now randomly displayed when Recalbox start
 - System info now use Recalbox language setting to display info in your language (only if translation is available, otherwise fallback to english translation)

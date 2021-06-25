@@ -3,7 +3,7 @@ list=(
 frogger
 missile_command
 pitfall_atari800_atari2600
-river_raids
+river_raid
 # Do not edit below this line
 )
 

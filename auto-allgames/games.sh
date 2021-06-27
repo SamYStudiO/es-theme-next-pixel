@@ -174,6 +174,7 @@ the_legend_of_zelda_oracle_of_seasons
 the_legend_of_zelda_the_minish_cap
 the_legend_of_zelda_twilight_princess
 the_secret_of_monkey_island_macintosh_pc_scummvm
+time_crisis_ii
 turok
 turrican_ii_amiga600_amigacdtv
 uncharted_3

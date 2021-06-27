@@ -7,6 +7,7 @@ pac_man
 sega_rally
 space_invaders
 street_fighter
+time_crisis_ii
 # Do not edit below this line
 )
 

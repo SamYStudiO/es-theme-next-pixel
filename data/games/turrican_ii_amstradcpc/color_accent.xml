@@ -1,6 +1,6 @@
 ﻿<theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../_common/the_legend_of_zelda/color_accent.xml</include>
+	<include>./../_common/turrican_ii/color_accent.xml</include>
 	
 </theme>

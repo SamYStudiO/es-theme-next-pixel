@@ -160,7 +160,7 @@ Si vous ne voulez pas changer les paramètres de la mémoire ou si vous utilisez
 
 **480p [TELECHARGER es-next-pixel-480p-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-480p.zip)**
 
-[Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 6.1 ou inférieur.
+[Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 7.2.2 ou inférieur.
 
 #### 4:3 screens
 2 archives sont disponibles avec des images en 1024x768 et des images en 320x240, si vous utilisez un écran avec une résolution supérieure à 320x240 choisissez l'**archive crt**, si vous utilisez un écran 320x240 ou inférieur (comme le GPi CASE) choisissez l'**archive crt-small**. **Si vous utilisez l'archive 1024x768 avec un écran qui a une résolution supérieure, je recommande de forcer RecalBox à s'exécuter à la même resolution, cela va significativement améliorer les performances et la qualité des images**. Pour cela vous devez éditer le fichier [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) en utilisant PuTTy ou [WinSCP](https://github.com/recalbox/recalbox-os/wiki/Network-access-with-WinSCP-(EN)).
@@ -179,7 +179,7 @@ N'oubliez pas de retirer le caractère '#' s'il est présent sur ces lignes.
 
 **320x240 (GPi CASE) [TELECHARGER es-next-pixel-crt-small-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt-small.zip)**
 
-[Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 6.1 ou inférieur.
+[Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 7.2.2 ou inférieur.
 
 
 ### Derniers mots

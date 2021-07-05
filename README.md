@@ -5,13 +5,14 @@
 ![pt](https://www.countryflags.io/pt/shiny/24.png) A documentação em português está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md)!<br/>
 ![br](https://www.countryflags.io/br/shiny/24.png) A documentação em brasileira está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME_BR.md)!<br/>
 
-### ![gb](https://www.countryflags.io/gb/shiny/32.png)![us](https://www.countryflags.io/us/shiny/32.png)<br/>Hi and welcome to [Next Pixel theme](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)
-This theme is designed to display a full screen image for every system that matches a game box illustration or artwork at the time game was released. All systems will randomly display a different game theme each time Recalbox is started (at least 2 game themes are available for each system).
+### ![gb](https://www.countryflags.io/gb/shiny/32.png)![us](https://www.countryflags.io/us/shiny/32.png)<br/>Hi and welcome to [Next Pixel theme v2](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)
+### !!! More game themes, more retro, more emotional !!!
+This theme is designed to display a full screen image for every system that matches a game box illustration or artwork at the time game was released. All systems will randomly display a **different game theme each time Recalbox is started** (at least 2 game themes are available for each system).
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
 
 **Theme is configured by default to use a custom mix to scrap your game images, please read carefully documentation below to get more info even if you don't want to use it as you'll have to adjust theme GAMELISTVIEW option to get it work properly with others mixes**.
 
-**Theme is compatible with Recalbox 7.0+ and with 16:9, 4:3 and small 4:3 screens like GPi CASE**.
+**Theme is compatible with Recalbox 7.3+ and with 16:9, 4:3 and small 4:3 screens like GPi CASE**.
 
 Here are some screenshots of some available game themes :
 
@@ -87,15 +88,24 @@ Please do not modify anything outside of *# Edit game list below* and *# Do not 
 **Note editing file is not enough to make those changes available when you run Recalbox**, when you're done editing *games.sh* file close it and **execute it to apply your personnal list**, then restart Recalbox.
 
 
-### Custom Imageviewer
-Imageviewer system use a game theme that hightlights 3 games.
+### Custom Imageviewer and "last played" systems
+Imageviewer system uses a game theme that hightlights 3 games and "last played" system uses a game theme that hightlights 7 games. The idea behind "last played" system is to highlight 7 games you played in your game history, the smallest one is the older one and the bigger one is the most recent one.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/imageviewer.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/auto-lastplayed.png)
 
-All contributors and donators may ask for a custom version with 3 game themes of their choice (choice is limited to actual available game themes, complete list is available from *data/games* folder).
+All contributors and donators may ask for a custom version of both system with game themes of their choice (choice is limited to actual available game themes, complete list is available from *data/games* folder).
 
 Contact me to get it!
 
+### Custom 
+"last played" system use a game theme that hightlights 7 games.
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/imageviewer.png)
+
+All contributors and donators may ask for a custom version with 7 game themes of their choice (choice is limited to actual available game themes, complete list is available from *data/games* folder).
+
+Contact me to get it!
 
 ### Unofficial system support
 Next pixel theme support game themes for systems not or not anymore supported by Recalbox.
@@ -161,11 +171,11 @@ If you still have issues with 720p (mainly images replaced with white rectangle)
 
 If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
-**1080p [DOWNLOAD es-next-pixel-1080p-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-1080p.zip)**
+**1080p [DOWNLOAD es-next-pixel-1080p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-1080p.zip)**
 
-**720p [DOWNLOAD es-next-pixel-720p-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-720p.zip)**
+**720p [DOWNLOAD es-next-pixel-720p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-720p.zip)**
 
-**480p [DOWNLOAD es-next-pixel-480p-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-480p.zip)**
+**480p [DOWNLOAD es-next-pixel-480p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-480p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 6.1 or lower.
 
@@ -182,9 +192,9 @@ From this file search for *hdmi_group* and *hdmi_mode* and set both as following
 
 Don't forget to remove '#' char on those lines if present.
 
-**1024x768 [DOWNLOAD es-next-pixel-crt-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt.zip)**
+**1024x768 [DOWNLOAD es-next-pixel-crt-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt.zip)**
 
-**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-crt-small-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt-small.zip)**
+**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-crt-small-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt-small.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 6.1 or lower.
 

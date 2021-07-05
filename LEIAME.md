@@ -1,10 +1,11 @@
-### Olá e bem-vindo(a) ao tema [Next Pixel](https://samystudio.github.io/es-theme-next-pixel/) para [Recalbox](https://www.recalbox.com/)
-Este tema foi projetado para exibir uma imagem em tela cheia para cada sistema que corresponda a uma ilustração da caixa do jogo ou a um trabalho artístico da época em que o jogo foi lançado. Todos os sistemas exibirão aleatoriamente um tema de jogo diferente cada vez que a Recalbox for iniciado (pelo menos 2 temas de jogo estão disponíveis para cada sistema).
+### Olá e bem-vindo(a) ao tema [Next Pixel v2](https://samystudio.github.io/es-theme-next-pixel/) para [Recalbox](https://www.recalbox.com/)
+### !!! More game themes, more retro, more emotional !!!
+Este tema foi projetado para exibir uma imagem em tela cheia para cada sistema que corresponda a uma ilustração da caixa do jogo ou a um trabalho artístico da época em que o jogo foi lançado. Todos os sistemas exibirão aleatoriamente **um tema de jogo diferente cada vez que a Recalbox for iniciado** (pelo menos 2 temas de jogo estão disponíveis para cada sistema).
 É baseado no tema recalbox-next, terá então todas as vantagens (configurações de região, configurações de layout da lista de jogos, etc...) + várias opções para que você possa obter um visual que se adapte a você.
 
 **O tema está configurado por padrão para usar um mix personalizado ao fazer scrape das imagens dos jogos, por favor, leia atentamente a documentação abaixo para obter mais informações, mesmo se você não quiser usá-lo, pois terá que ajustar a opção GAMELISTVIEW do tema para que funcione corretamente com outros mixes**.
  
-**O tema é compativel com Recalbox 7.0+ e com telas 16:9, 4:3 ou mesmo pequenas telas 4:3 como o GPi CASE**.
+**O tema é compativel com Recalbox 7.3+ e com telas 16:9, 4:3 ou mesmo pequenas telas 4:3 como o GPi CASE**.
 
 Aqui estão algumas capturas de telas de alguns temas de jogos disponíveis:
 
@@ -80,12 +81,13 @@ Please do not modify anything outside of *# Edit game list below* and *# Do not 
 **Note editing file is not enough to make those changes available when you run Recalbox**, when you're done editing *games.sh* file close it and **execute it to apply your personnal list**, then restart Recalbox.
 
 
-### Custom Imageviewer
-Imageviewer system use a game theme that hightlights 3 games.
+### Custom Imageviewer and "last played" systems
+Imageviewer system uses a game theme that hightlights 3 games and "last played" system uses a game theme that hightlights 7 games. The idea behind "last played" system is to highlight 7 games you played in your game history, the smallest one is the older one and the bigger one is the most recent one.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/imageviewer.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/auto-lastplayed.png)
 
-All contributors and donators may ask for a custom version with 3 game themes of their choice (choice is limited to actual available game themes, complete list is available from *data/games* folder).
+All contributors and donators may ask for a custom version of both system with game themes of their choice (choice is limited to actual available game themes, complete list is available from *data/games* folder).
 
 Contact me to get it!
 
@@ -153,11 +155,11 @@ Se ainda tiver problemas com 720p (principalmente imagens substituídas por ret�
 
 Se não quiser alterar as configurações de memória ou se estiver usando o sistema PSP, então, você deve mudar para o pacote 480p, a qualidade das imagens será menos nítida, mas você poderá usar muitos sistemas sem problemas.
 
-**1080p [DOWNLOAD es-next-pixel-1080p-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-1080p.zip)**
+**1080p [DOWNLOAD es-next-pixel-1080p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-1080p.zip)**
 
-**720p [DOWNLOAD es-next-pixel-720p-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-720p.zip)**
+**720p [DOWNLOAD es-next-pixel-720p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-720p.zip)**
 
-**480p [DOWNLOAD es-next-pixel-480p-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-480p.zip)**
+**480p [DOWNLOAD es-next-pixel-480p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-480p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) pacotes anteriores para Recalbox 6.1 ou inferior.
 
@@ -173,9 +175,9 @@ Neste arquivo, pesquise por *hdmi_group* e *hdmi_mode* e defina ambos da seguint
 
 Não esqueça de remover o '#' do início dessas linha, se houver.
 
-**1024x768 [DOWNLOAD es-next-pixel-crt-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt.zip)**
+**1024x768 [DOWNLOAD es-next-pixel-crt-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt.zip)**
 
-**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-crt-small-2.0 for Recalbox 7.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt-small.zip)**
+**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-crt-small-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt-small.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) pacotes anteriores para Recalbox 6.1 ou inferior.
 

@@ -89,7 +89,7 @@ Imageviewer system uses a game theme that hightlights 3 games and "last played" 
 
 All contributors and donators may ask for a custom version of both system with game themes of their choice (choice is limited to actual available game themes, complete list is available from *data/games* folder).
 
-Contact me to get it!
+Contact me to get them!
 
 
 ### Suporte não-oficial ao sistema

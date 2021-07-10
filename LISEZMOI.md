@@ -89,7 +89,7 @@ Le système "Imageviewer" utilise un thème qui met en avant 3 jeux et le systè
 
 Tous les contributeurs et donateurs peuvent demander une version personnalisée des 2 systèmes avec les jeux de leur choix (le choix est limité aux thèmes de jeux actuellement disponible, une liste complète est visible dans le dossier *data/games*).
 
-Contactez moi pour l'obtenir!
+Contactez moi pour les obtenir!
 
 
 ### Support de systèmes non officiel

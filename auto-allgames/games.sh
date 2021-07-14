@@ -2,6 +2,9 @@ list=(
 # Edit game list below (full game list available from ./data/games folder)
 alex_kidd_in_miracle_world
 alien_breed_3d
+all
+all
+all
 another_world
 ara_fell
 armor_attack

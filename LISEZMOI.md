@@ -83,14 +83,13 @@ S'il vous plait ne modifiez rien en dehors de *# Edit game list below* et *# Do 
 Vous pouvez répéter ces mêmes étapes pour le système *auto-lastplayed*.
 
 ### Systèmes Imageviewer "last played" personnalisés
-Le système "Imageviewer" utilise un thème qui met en avant 3 jeux et le système "last played" met en avant 7 jeux. L'idée derrière le système "last played" est de mettre en avant 7 jeux que vous avez joué dans votre histoire de joueur, le plus petit mettant en avant le jeux le plus ancien et le plus grand le jeux le plus récent avec lequel vous avez joué.
+Le système "Imageviewer" utilise un thème qui met en avant 3 jeux. 
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/imageviewer.png)
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/auto-lastplayed.png)
 
-Tous les contributeurs et donateurs peuvent demander une version personnalisée des 2 systèmes avec les jeux de leur choix (le choix est limité aux thèmes de jeux actuellement disponible, une liste complète est visible dans le dossier *data/games*).
+Tous les contributeurs et donateurs peuvent demander une version personnalisée avec les jeux de leur choix (le choix est limité aux thèmes de jeux actuellement disponible, une liste complète est visible dans le dossier *data/games*).
 
-Contactez moi pour les obtenir!
+Contactez moi pour l'obtenir!
 
 
 ### Support de systèmes non officiel

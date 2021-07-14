@@ -78,18 +78,18 @@ Assez parlé, editons une liste de thèmes de jeux depuis notre système *favori
 
 S'il vous plait ne modifiez rien en dehors de *# Edit game list below* et *# Do not edit below this line* si vous ne savez pas ce que vous faîtes la suite ne pourrait plus fonctionner.
 
-** Notez qu'éditer le fichier n'est pas suffisant pour que vos changements soient disponibles lorsque vous démarrez Recalbox**, lorsque vous avez terminé d'éditer le fichier *games.sh*, fermez le et **exécutez le pour appliquer vos modifications**, ensuite redémarrez Recalbox.
+**Notez qu'éditer le fichier n'est pas suffisant pour que vos changements soient disponibles lorsque vous démarrez Recalbox**, lorsque vous avez terminé d'éditer le fichier *games.sh*, fermez le et **exécutez le pour appliquer vos modifications**, ensuite redémarrez Recalbox.
 
 
 ### Systèmes Imageviewer "last played" personnalisés
-Le système "Imageviewer" utilise un thème qui met en avant 3 jeux et le système "last played" met en avant 7 jeux. L'idée derri-re le système "last played" est de mettre en avant 7 jeux que vous avez joué dans votre histoire de joueur, le plus petit mettant en avant le jeux le plius ancien et le plus grand le jeux le plus récent avec le quel vous avez joué.
+Le système "Imageviewer" utilise un thème qui met en avant 3 jeux et le système "last played" met en avant 7 jeux. L'idée derrière le système "last played" est de mettre en avant 7 jeux que vous avez joué dans votre histoire de joueur, le plus petit mettant en avant le jeux le plus ancien et le plus grand le jeux le plus récent avec lequel vous avez joué.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/imageviewer.png)
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/auto-lastplayed.png)
 
 Tous les contributeurs et donateurs peuvent demander une version personnalisée des 2 systèmes avec les jeux de leur choix (le choix est limité aux thèmes de jeux actuellement disponible, une liste complète est visible dans le dossier *data/games*).
 
-Contactez moi pour l'obtenir!
+Contactez moi pour les obtenir!
 
 
 ### Support de systèmes non officiel

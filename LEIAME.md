@@ -69,27 +69,28 @@ O tema Next Pixel inclui seu próprio mix para tornar a integração das captura
 **Se não quiser usar o Mix Next Pixel, selecione qualqer opção de "others mixes" nas configurações de GAMELISTVIEW do tema, ou você terá alguns recursos gráficos estranhos sobrepondo suas imagens de scrape**. Aperte Start> CONFIGURAÇÕES DA INTERFACE> TEMA> CONFIGURAÇÃO DO TEMA> VISÃO GERAL DO TEMA> escolha qualquer layout com "others mixes".
 
 
-### Customize Next Pixel (Make your own favorites !)
-Next Pixel theme use random game theme lists for each systems. This game theme lists can be customized by editing each *[system name]/games.sh* files. For example you may want to customize favorites system game themes with your own favorites as by default Next Pixel theme comes up with **my** personal favorites.
+### Customize Next Pixel (Make your own favorites and last played games !)
+Next Pixel theme use random game theme lists for each systems. This game theme lists can be customized by editing each *[system name]/games.sh* files. For example you may want to customize favorites and auto-lastplayed system game themes with your own favorites and last played games as by default Next Pixel theme comes up with **my** personal favorites and last played games.
 
-Note by default game themes are all set up correctly with the right system (but favorites system of course). I made lots of researches to find out which game were available and most popular at the time system was running. **All game themes match an official game box for that system**, so you may notice for example that earthworm jim game theme is available for super nintendo and megadrive/genesis but not from sega cd though it was a pretty popular version. This is intented beacause sega cd version box used a different art than super nintendo and megadrive/genesis. Note as well that games chosen for a system may not always be the most popular due to the fact it may be very difficult to find a source image with the right quality for this theme. If you notice any mistake or think a game theme should be available from another system though, tell me i'll check it.
+Note by default game themes are all set up correctly with the right system (but favorites and auto-lastplayed systems of course). I made lots of researches to find out which game were available and most popular at the time system was running. **All game themes match an official game box for that system**, so you may notice for example that earthworm jim game theme is available for super nintendo and megadrive/genesis but not from sega cd though it was a pretty popular version. This is intented beacause sega cd version box used a different art than super nintendo and megadrive/genesis. Note as well that games chosen for a system may not always be the most popular due to the fact it may be very difficult to find a source image with the right quality for this theme. If you notice any mistake or think a game theme should be available from another system though, tell me i'll check it.
 
-Enough talking let's edit game theme list from favorites system. Open *games.sh* from *favorites* folder and edit game themes you want by removing everything between *# Edit game list below* and *# Do not edit below this line* and adding your own game themes. You can see all game theme available from *data/games/* folder, just copy game folder names you want in *games.sh* file.
+Enough talking let's edit game theme list from favorites system as an axample. Open *games.sh* from *favorites* folder and edit game themes you want by removing everything between *# Edit game list below* and *# Do not edit below this line* and adding your own game themes. You can see all game theme available from *data/games/* folder, just copy game folder names you want in *games.sh* file.
 
 Please do not modify anything outside of *# Edit game list below* and *# Do not edit below this line* if you don't know what you're doing this may break next step.
 
 **Note editing file is not enough to make those changes available when you run Recalbox**, when you're done editing *games.sh* file close it and **execute it to apply your personnal list**, then restart Recalbox.
 
+You may repeat the same steps to edit auto-lastplayed game themes.
 
-### Custom Imageviewer and "last played" systems
-Imageviewer system uses a game theme that hightlights 3 games and "last played" system uses a game theme that hightlights 7 games. The idea behind "last played" system is to highlight 7 games you played in your game history, the smallest one is the older one and the bigger one is the most recent one.
+
+### Custom Imageviewer
+Imageviewer system uses a game theme that hightlights 3 games.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/imageviewer.png)
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/auto-lastplayed.png)
 
-All contributors and donators may ask for a custom version of both system with game themes of their choice (choice is limited to actual available game themes, complete list is available from *data/games* folder).
+All contributors and donators may ask for a custom version with game themes of their choice (choice is limited to actual available game themes, complete list is available from *data/games* folder).
 
-Contact me to get them!
+Contact me to get it!
 
 
 ### Suporte não-oficial ao sistema

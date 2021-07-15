@@ -65,7 +65,7 @@ girls_garden
 god_of_war_2
 god_of_war_chains_of_olympus
 goldeneye_007
-gradius
+gradius_pcengine
 gridrunner
 gta_san_andreas
 guzzler

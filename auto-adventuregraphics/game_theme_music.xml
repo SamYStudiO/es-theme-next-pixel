@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>	
-	<include>./../data/games/$random(default)/music.xml</include>
-
-</theme>

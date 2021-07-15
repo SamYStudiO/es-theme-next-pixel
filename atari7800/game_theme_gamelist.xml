@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(donkey_kong_junior,galaga_atari7800,ms_pac_man)/gamelist.xml</include>
-
-</theme>

@@ -9,23 +9,23 @@ Este tema foi projetado para exibir uma imagem em tela cheia para cada sistema q
 
 Aqui estão algumas capturas de telas de alguns temas de jogos disponíveis:
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/super_mario_64_no_info.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64_no_info.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/super_mario_64_gamelist_standard.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64_gamelist_standard.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/teenage_mutant_ninja_turtles.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/teenage_mutant_ninja_turtles.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/street_of_rage_2.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/street_of_rage_2.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/robocop_2.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/robocop_2.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/ms_pac_man.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/ms_pac_man.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/metal_slug_3.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/metal_slug_3.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/the_secret_of_monkey_island.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/the_secret_of_monkey_island.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/space_harrier.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/space_harrier.png)
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
 
@@ -50,7 +50,7 @@ Para instalar o tema, arraste e solte a pasta es-theme-next-pixel-xxx em sua pas
 
 - **THEME GAMELISTVIEW** : escolha o layout da visualização da lista de jogos, você pode exibir / ocultar elementos diferentes e para cada um pode ajustar para **Next Pixel mix** ou outros mixes. **Se você não quiser usar o Next Pixel mix, selecione qualquer opção  de "other mixes" aqui ou obterá alguns recursos gráficos estranhos sobrepondo suas imagens de scrape** (verifique *Scraping/Next Pixel mix* abaixo para obter mais informações).
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/gamelistview.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelistview.gif)
 
 - **THEME REGION** : escolha sua região para ajustar o logotipo / console para corresponder à sua região preferida.
 
@@ -66,23 +66,23 @@ O tema Next Pixel inclui seu próprio mix para tornar a integração das captura
 
 ![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes.gif)
 
-**Para obter mais informações sobre como usar o Mix Next Pixel, verifique a [documentação](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/data/mix/LEIAME.md).**
+**Para obter mais informações sobre como usar o Mix Next Pixel, verifique a [documentação](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/mix/LEIAME.md).**
 
 **Se não quiser usar o Mix Next Pixel, selecione qualqer opção de "others mixes" nas configurações de GAMELISTVIEW do tema, ou você terá alguns recursos gráficos estranhos sobrepondo suas imagens de scrape**. Aperte Start> CONFIGURAÇÕES DA INTERFACE> TEMA> CONFIGURAÇÃO DO TEMA> VISÃO GERAL DO TEMA> escolha qualquer layout com "others mixes".
 
 
 ### Customize Next Pixel (Make your own favorites and last played games !)
-Next Pixel theme use random game theme lists for each systems. This game theme lists can be customized by editing each *[system name]/games.sh* files. For example you may want to customize *favorites* and *auto-lastplayed* system game themes with your own favorites and last played games as by default Next Pixel theme comes up with **my** personal favorites and last played games.
+Next Pixel theme use random game theme lists for each systems. This game theme lists can be customized by editing each *systems/[system name]/games.sh* files. For example you may want to customize *favorites* and *auto-lastplayed* system game themes with your own favorites and last played games as by default Next Pixel theme comes up with **my** personal favorites and last played games.
 
 Note by default game themes are all set up correctly with the right system (but *favorites* and *auto-lastplayed* systems of course). I made lots of researches to find out which game were available and most popular at the time system was running. **All game themes match an official game box for that system**, so you may notice for example that earthworm jim game theme is available for super nintendo and megadrive/genesis but not from sega cd though it was a pretty popular version. This is intented beacause sega cd version box used a different art than super nintendo and megadrive/genesis. Note as well that games chosen for a system may not always be the most popular due to the fact it may be very difficult to find a source image with the right quality for this theme. If you notice any mistake or think a game theme should be available from another system though, tell me i'll check it.
 
-Enough talking let's edit game theme list from favorites system as an axample. Open *games.sh* from *favorites* folder and edit game themes you want by removing everything between *# Edit game list below* and *# Do not edit below this line* and adding your own game themes. You can see all game theme available from *data/games/* folder, just copy game folder names you want in *games.sh* file.
+Enough talking let's edit game theme list from favorites system as an axample. Open *games.sh* with a text editor from *systems/favorites* folder and edit game themes you want by removing everything between *# Edit game list below* and *# Do not edit below this line* and adding your own game themes. You can see all game theme available from *games* folder, just copy game folder names you want in *games.sh* file.
 
 Please do not modify anything outside of *# Edit game list below* and *# Do not edit below this line* if you don't know what you're doing this may break next step.
 
 **Note editing file is not enough to make those changes available when you run Recalbox**, when you're done editing *games.sh* file close it and **execute it to apply your personnal list**, then restart Recalbox.
 
-You may repeat the same steps to edit auto-lastplayed game themes.
+You may repeat the same steps to edit auto-lastplayed game themes or any other system.
 
 
 ### Custom Imageviewer
@@ -90,7 +90,7 @@ Imageviewer system uses a game theme that hightlights 3 games.
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/imageviewer.png)
 
-All contributors and donators may ask for a custom version with game themes of their choice (choice is limited to actual available game themes, complete list is available from *data/games* folder).
+All contributors and donators may ask for a custom version with game themes of their choice (choice is limited to actual available game themes, complete list is available from *games* folder).
 
 Contact me to get it!
 

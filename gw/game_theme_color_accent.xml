@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(donkey_kong_ii,donkey_kong_junior)/color_accent.xml</include>
-
-</theme>

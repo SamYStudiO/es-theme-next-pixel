@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(blue_wing_blitz,one_piece_grand_battle_swan_colosseum)/horizontal_legacy.xml</include>
-
-</theme>

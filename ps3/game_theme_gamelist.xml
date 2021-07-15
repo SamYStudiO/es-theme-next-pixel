@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(last_of_us,uncharted_3)/gamelist.xml</include>
-
-</theme>

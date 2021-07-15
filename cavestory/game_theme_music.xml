@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>	
-	<include>./../data/games/$random(cavestory,cavestory_a0)/music.xml</include>
-
-</theme>

@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(night_slave,puyo_puyo_2)/gamelist.xml</include>
-
-</theme>

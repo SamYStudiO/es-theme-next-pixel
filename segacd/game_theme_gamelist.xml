@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(snatcher,sonic_cd)/gamelist.xml</include>
-
-</theme>

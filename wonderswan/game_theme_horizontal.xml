@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(buffers_evolution,ganso_jajamaru_kun)/horizontal.xml</include>
-
-</theme>

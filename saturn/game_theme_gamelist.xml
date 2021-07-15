@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(gex,nights_into_dreams,rayman)/gamelist.xml</include>
-
-</theme>

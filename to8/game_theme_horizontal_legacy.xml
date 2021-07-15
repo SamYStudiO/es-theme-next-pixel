@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(laigle_dor,le_5eme_axe,sorcery)/horizontal_legacy.xml</include>
-
-</theme>

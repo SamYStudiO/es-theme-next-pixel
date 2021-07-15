@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(cauliflower_power,lavender_woods)/horizontal.xml</include>
-
-</theme>

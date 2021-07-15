@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(king_of_fighters_r1,pocket_tennis)/gamelist.xml</include>
-
-</theme>

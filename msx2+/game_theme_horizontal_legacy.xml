@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(metal_gear_2_solid_snake)/horizontal_legacy.xml</include>
-
-</theme>

@@ -1,11 +1,11 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./data/config.xml</include>
-	<include>./data/systems/$system/texts.xml</include>
-	<include>./data/systems/$system/$language/texts.xml</include>
-	<include>./data/systems/$system/$language_$country/texts.xml</include>
-	<include>./data/systems/$system/custom.xml</include>
+	<include>./options.xml</include>
+	<include>./systems/$system/texts.xml</include>
+	<include>./systems/$system/$language/texts.xml</include>
+	<include>./systems/$system/$language_$country/texts.xml</include>
+	<include>./systems/$system/custom.xml</include>
 
 	<view name="system">
 
@@ -19,7 +19,7 @@
 	<view name="system">
 
 		<image name="help_background" extra="true">
-			<path>./data/arts/system_help_background.png</path>
+			<path>./assets/system_help_background.png</path>
 			<pos>0 1</pos>
 			<origin>0 1</origin>
 			<size>.75 .068</size>

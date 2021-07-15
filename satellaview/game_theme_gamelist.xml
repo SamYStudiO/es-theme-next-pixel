@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(f_zero,the_legend_of_zelda_satellaview)/gamelist.xml</include>
-
-</theme>

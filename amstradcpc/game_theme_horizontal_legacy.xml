@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(chase_hq,prince_of_persia_amiga600_apple2_amstradcpc_c64,sorcery,turrican_ii_amstradcpc)/horizontal_legacy.xml</include>
-
-</theme>

@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(chuckie_egg,leggit,lunar_rover_patrol)/gamelist.xml</include>
-
-</theme>

@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(mazogs,night_gunner)/horizontal.xml</include>
-
-</theme>

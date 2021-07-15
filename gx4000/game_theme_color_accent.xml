@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(pang,robocop_2)/color_accent.xml</include>
-
-</theme>

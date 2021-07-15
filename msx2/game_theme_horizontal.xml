@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(bubble_bobble,metal_gear_2_solid_snake)/horizontal.xml</include>
-
-</theme>

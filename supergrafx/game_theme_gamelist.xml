@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(daimakai_mura_supergrafx,madou_king_granzort)/gamelist.xml</include>
-
-</theme>

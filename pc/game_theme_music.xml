@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>	
-	<include>./../data/games/$random(doom,lemmings_pc,myst,prince_of_persia_atarist_pc,sim_city_2000,the_secret_of_monkey_island_macintosh_pc_scummvm,worms)/music.xml</include>
-
-</theme>

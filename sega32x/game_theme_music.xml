@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>	
-	<include>./../data/games/$random(blackthorne,doom)/music.xml</include>
-
-</theme>

@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(choplifter,girls_garden)/vertical_wheel.xml</include>
-
-</theme>

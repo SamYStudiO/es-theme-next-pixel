@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(samurai_shodown,the_king_of_fighters_98)/vertical_wheel.xml</include>
-
-</theme>

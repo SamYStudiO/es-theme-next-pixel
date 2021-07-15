@@ -19,11 +19,11 @@ etc...
 If you want to translate a language that doesn't exist yet just duplicate *README.md* and rename it to match your language then translate content. **You don't need to translate the license at the end of file.**
 
 ##### Mix documentation files are located here :
-*data/mix/README.md*
+*mix/README.md*
 
-*data/mix/LISEZMOI.md*
+*mix/LISEZMOI.md*
 
-*data/mix/LEEME.md*
+*mix/LEEME.md*
 
 etc...
 
@@ -32,8 +32,8 @@ Same if you want to translate a language that doesn't exist yet just duplicate *
 
 ### System info files
 
-System infos files are located in *data/systems/[system]/[language]*, for example for 3do french its is located at *data/systems/3do/fr*.
-If your language doesn't exist yet a shell script is available to generate all files for all systems. This script is located at *data/systems/generate_language.sh*. To add your own language you need to get your language code from this [list](https://www.andiamo.co.uk/resources/iso-language-codes/), then open *generate_language.sh* file and replace *language="xx"* with your code, for example *language="fr"*. Finally you can execute this script and all files will be generated in *data/systems/[system]/[your_language_code]* using the english version. You "just" have to translate now :).
+System infos files are located in *systems/[system]/[language]*, for example for 3do french its is located at *systems/3do/fr*.
+If your language doesn't exist yet a shell script is available to generate all files for all systems. This script is located at *systems/generate_language.sh*. To add your own language you need to get your language code from this [list](https://www.andiamo.co.uk/resources/iso-language-codes/), then open *generate_language.sh* file and replace *language="xx"* with your code, for example *language="fr"*. Finally you can execute this script and all files will be generated in *systems/[system]/[your_language_code]* using the english version. You "just" have to translate now :).
 
 **Beware**
 Don't make lines to long as it will not render properly, to make sure everything is ok run your recalbox with your translation before making your pull request as I won't check translations myself.
@@ -50,19 +50,19 @@ Portuguese
 	* Custom Imageviewer part
 	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#customize-next-pixel-make-your-own-favorites-
 	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#download (donwload from all download links)
-- *data/systems/[all recalbox v7+ new systems]/pt*
+- *systems/[all recalbox v7+ new systems]/pt*
 
 Brazilan
 - *LEIAME_BR.md*
 	* Custom Imageviewer part
 	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#customize-next-pixel-make-your-own-favorites-
 	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#download (donwload from all download links)
-- *data/systems/[all recalbox v7+ new systems]/pt_br*
+- *systems/[all recalbox v7+ new systems]/pt_br*
 		
 German
 - *LIESMICH.md*
-- *data/mix/LIESMICH.md*
-- *data/systems/[all recalbox v7+ new systems]/de*
+- *mix/LIESMICH.md*
+- *systems/[all recalbox v7+ new systems]/de*
 
 Ialien 
 - Everything need to be translated

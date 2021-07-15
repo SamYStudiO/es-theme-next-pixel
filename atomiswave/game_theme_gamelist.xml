@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(dolphin_blue,hokuto_no_ken,metal_slug_6)/gamelist.xml</include>
-
-</theme>

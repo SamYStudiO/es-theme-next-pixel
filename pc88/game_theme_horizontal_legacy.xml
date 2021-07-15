@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(gradius_msx_nes_pc88_x1,popful_mail)/horizontal_legacy.xml</include>
-
-</theme>

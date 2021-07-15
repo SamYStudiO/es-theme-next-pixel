@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(captain_comic,prince_of_persia_samcoupe)/gamelist.xml</include>
-
-</theme>

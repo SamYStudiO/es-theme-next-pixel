@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>	
-	<include>./../data/games/$random(illusion_city,ranma_hiryu_densetsu)/music.xml</include>
-
-</theme>

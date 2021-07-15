@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(bowling,pinball_challenge)/vertical_wheel.xml</include>
-
-</theme>

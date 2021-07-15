@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(red_alarm,virtual_boy_wario_land)/horizontal.xml</include>
-
-</theme>

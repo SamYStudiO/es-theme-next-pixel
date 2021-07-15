@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(alien_breed_3d,doom,goldeneye_007,turok)/horizontal_legacy.xml</include>
-
-</theme>

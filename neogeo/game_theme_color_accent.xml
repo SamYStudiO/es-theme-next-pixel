@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(metal_slug_3,samurai_shodown)/color_accent.xml</include>
-
-</theme>

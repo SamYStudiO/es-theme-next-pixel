@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(burgertime,frogger,pitfall_atari5200_colecovision)/horizontal.xml</include>
-
-</theme>

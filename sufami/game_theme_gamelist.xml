@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(gegege_no_kitarou,sd_gundam_colony_kakutouki)/gamelist.xml</include>
-
-</theme>

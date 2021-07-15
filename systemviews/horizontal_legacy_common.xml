@@ -1,0 +1,45 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+	<include>./common.xml</include>
+	<include>./../systems/$system/game_theme_horizontal_legacy.xml</include>
+
+	<feature supported="carousel">
+
+		<view name="system">
+
+			<image name="system_carousel_background" extra="true">
+				<pos>0 .405</pos>
+				<size>1 .184</size>
+				<path>./../assets/white70.png</path>
+			</image>
+
+			<carousel name="systemcarousel">
+				<pos>0 .405</pos>
+				<size>1 .185</size>
+			</carousel>
+
+			<image name="system_carousel_border" extra="true">
+				<size>1 .05</size>
+				<pos>0 .590</pos>
+			</image>
+
+			<text name="systemInfo">
+				<pos>.5 .615</pos>
+			</text>
+
+		</view>
+
+	</feature>
+
+	<view name="system">
+
+		<image name="console" extra="true">
+			<pos>.98 .82</pos>
+			<maxSize>.20 .20</maxSize>
+			<origin>1 .5</origin>
+		</image>
+
+	</view>
+
+</theme>

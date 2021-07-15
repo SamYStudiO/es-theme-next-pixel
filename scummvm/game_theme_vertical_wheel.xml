@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(maniac_mansion_apple2_scummvm,myst,simon_the_sorcerer,the_secret_of_monkey_island_macintosh_pc_scummvm)/vertical_wheel.xml</include>
-
-</theme>

@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(nier_automata)/horizontal.xml</include>
-
-</theme>

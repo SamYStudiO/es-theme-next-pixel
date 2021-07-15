@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>	
-	<include>./../data/games/$random(fire_emblem_awakening,metroid_samus_returns)/music.xml</include>
-
-</theme>

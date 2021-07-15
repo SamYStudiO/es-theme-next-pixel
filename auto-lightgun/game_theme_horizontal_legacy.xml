@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(operation_wolf,time_crisis_ii)/horizontal_legacy.xml</include>
-
-</theme>

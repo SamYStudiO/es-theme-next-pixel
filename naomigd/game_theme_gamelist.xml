@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(capcom_vs_snk_2_millenium_fight_2001,street_fighter_zero_3)/gamelist.xml</include>
-
-</theme>

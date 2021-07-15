@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(helicopter_rescue,stone_sling)/gamelist.xml</include>
-
-</theme>

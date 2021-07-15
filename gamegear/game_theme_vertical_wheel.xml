@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(castle_of_illusion_gamegear_mastersystem,sonic_2,streets_of_rage_2_gamegear_mastersystem)/vertical_wheel.xml</include>
-
-</theme>

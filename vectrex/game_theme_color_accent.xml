@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(armor_attack,scramble)/color_accent.xml</include>
-
-</theme>

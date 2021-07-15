@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(gex,samurai_shodown)/gamelist.xml</include>
-
-</theme>

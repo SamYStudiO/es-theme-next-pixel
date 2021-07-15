@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(beats_of_rage,he_man)/gamelist.xml</include>
-
-</theme>

@@ -17,6 +17,7 @@
 - System info now use Recalbox language setting to display info in your language (only if translation is available, otherwise fallback to english translation)
 - Remove random system support as it is not maintained anymore by its creator
 - Musics are now using mp3 format instead of ogg
+- Rework project structure
 - Behind the scene : 
 	- Rearrange theme files structure to better handle random game themes display 
 	- Rearrange all PSD files to make it easier adding new game theme

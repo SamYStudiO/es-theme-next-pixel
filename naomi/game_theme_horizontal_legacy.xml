@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(capcom_vs_snk_millenium_fight_2000,crazy_taxi)/horizontal_legacy.xml</include>
-
-</theme>

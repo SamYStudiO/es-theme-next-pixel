@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../data/games/$random(gradius_pcengine,space_harrier_pcengine)/color_accent.xml</include>
-
-</theme>

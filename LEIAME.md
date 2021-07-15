@@ -9,23 +9,25 @@ Este tema foi projetado para exibir uma imagem em tela cheia para cada sistema q
 
 Aqui estão algumas capturas de telas de alguns temas de jogos disponíveis:
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/nes.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/super_mario_64_no_info.png)
 
-![1](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/megadrive.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/super_mario_64_gamelist_standard.png)
 
-![2](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gx4000.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/teenage_mutant_ninja_turtles.png)
 
-![3](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/atari5200.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/street_of_rage_2.png)
 
-![4](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/neogeo.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/robocop_2.png)
 
-![5](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/atarist.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/ms_pac_man.png)
 
-![6](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/pcengine.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/metal_slug_3.png)
 
-![7](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelist.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/the_secret_of_monkey_island.png)
 
-![vectrex](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/space_harrier.png)
+
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
 
 Veja todas as imagens de temas de jogos no [website Next Pixel](https://samystudio.github.io/es-theme-next-pixel/).
 
@@ -48,7 +50,7 @@ Para instalar o tema, arraste e solte a pasta es-theme-next-pixel-xxx em sua pas
 
 - **THEME GAMELISTVIEW** : escolha o layout da visualização da lista de jogos, você pode exibir / ocultar elementos diferentes e para cada um pode ajustar para **Next Pixel mix** ou outros mixes. **Se você não quiser usar o Next Pixel mix, selecione qualquer opção  de "other mixes" aqui ou obterá alguns recursos gráficos estranhos sobrepondo suas imagens de scrape** (verifique *Scraping/Next Pixel mix* abaixo para obter mais informações).
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelistview.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/gamelistview.gif)
 
 - **THEME REGION** : escolha sua região para ajustar o logotipo / console para corresponder à sua região preferida.
 

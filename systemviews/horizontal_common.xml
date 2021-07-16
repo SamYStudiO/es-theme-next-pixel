@@ -18,19 +18,14 @@
 			<carousel name="systemcarousel">
 				<pos>0 .432</pos>
 				<size>1 .18</size>
+				<maxLogoCount>2</maxLogoCount>
 			</carousel>
 
 			<image name="system_carousel_border" extra="true">
 				<size>1 .028</size>
 				<pos>0 .613</pos>
 			</image>
-
-			<text name="systemInfo">
-				<pos>.5 .628</pos>
-				<fontSize>.021</fontSize>
-				<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
-			</text>
-
+			
 		</view>
 
 	</feature>

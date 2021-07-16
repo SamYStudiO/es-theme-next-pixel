@@ -34,22 +34,6 @@
 				<path>./../assets/system_carousel_vertical_wheel_border.png</path>
 			</image>
 
-			<image name="system_count_background" extra="true">
-				<pos>.9 .57</pos>
-				<origin>.5 0</origin>
-				<size>.2 .03</size>
-				<path>./../assets/system_info_gradient_background.png</path>
-			</image>
-
-			<text name="systemInfo">
-				<origin>.5 0</origin>
-				<pos>.9 .58</pos>
-				<size>.16 .01</size>
-				<color>ffffff</color>
-				<fontSize>.021</fontSize>
-				<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
-			</text>
-
 		</view>
 
 	</feature>

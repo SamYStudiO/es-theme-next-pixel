@@ -24,10 +24,6 @@
 				<pos>0 .590</pos>
 			</image>
 
-			<text name="systemInfo">
-				<pos>.5 .615</pos>
-			</text>
-
 		</view>
 
 	</feature>

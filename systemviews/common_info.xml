@@ -12,7 +12,7 @@
 			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
 			<fontSize>.021</fontSize>
 			<origin>.5 .5</origin>
-			<size>.44 .02</size>
+			<size>.5 .02</size>
 			<zIndex>200</zIndex>
 		</text>
 

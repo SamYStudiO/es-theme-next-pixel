@@ -7,23 +7,23 @@
 	<view name="system">
 
 		<image name="system_info_background" extra="true">
-			<pos>.5 .819</pos>
+			<pos>.391 .819</pos>
 			<origin>.5 0</origin>
-			<size>.4 .1</size>
+			<size>.5 .1</size>
 			<path>./../assets/system_info_gradient_background.png</path>
 		</image>
 
 		<text name="info1" extra="true">
-			<pos>.5 .838</pos>
+			<pos>.391 .838</pos>
 		</text>
 		<text name="info2" extra="true">
-			<pos>.5 .858</pos>
+			<pos>.391 .858</pos>
 		</text>
 		<text name="info3" extra="true">
-			<pos>.5 .878</pos>
+			<pos>.391 .878</pos>
 		</text>
 		<text name="info4" extra="true">
-			<pos>.5 .898</pos>
+			<pos>.391 .898</pos>
 		</text>
 		<text name="info5" extra="true">
 			<pos>2 2</pos>

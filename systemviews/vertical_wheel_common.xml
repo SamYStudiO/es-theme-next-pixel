@@ -17,11 +17,11 @@
 
 			<carousel name="systemcarousel">
 				<type>vertical_wheel</type>
-				<pos>.9 .5</pos>
+				<pos>.874 .5</pos>
 				<origin>1 .5</origin>
 				<size>1 1</size>
-				<logoRotation>-10</logoRotation>
-				<logoRotationOrigin>2.8 .5</logoRotationOrigin>
+				<logoRotation>-8</logoRotation>
+				<logoRotationOrigin>3.9 .5</logoRotationOrigin>
 				<maxLogoCount>7</maxLogoCount>
 				<logoAlignment>right</logoAlignment>
 				<defaultTransition>instant</defaultTransition>
@@ -30,19 +30,20 @@
 			<image name="system_carousel_border" extra="true">
 				<origin>1 .5</origin>
 				<maxSize>2 1</maxSize>
-				<pos>.999 .5</pos>
+				<pos>.998 .5</pos>
 				<path>./../assets/system_carousel_vertical_wheel_border.png</path>
 			</image>
 
 			<image name="system_count_background" extra="true">
-				<pos>.91 .57</pos>
+				<pos>.9 .57</pos>
 				<origin>.5 0</origin>
 				<size>.2 .03</size>
 				<path>./../assets/system_info_gradient_background.png</path>
 			</image>
 
 			<text name="systemInfo">
-				<pos>.91 .585</pos>
+				<origin>.5 0</origin>
+				<pos>.9 .58</pos>
 				<size>.16 .01</size>
 				<color>ffffff</color>
 				<fontSize>.021</fontSize>
@@ -74,7 +75,7 @@
 		</image>
 
 		<image name="console" extra="true">
-			<pos>.91 .55</pos>
+			<pos>.9 .55</pos>
 			<maxSize>.15 .24</maxSize>
 			<origin>.5 1</origin>
 		</image>

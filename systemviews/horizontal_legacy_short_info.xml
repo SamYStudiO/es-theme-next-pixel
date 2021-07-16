@@ -9,7 +9,7 @@
 		<image name="system_info_background" extra="true">
 			<pos>.5 .667</pos>
 			<origin>.5 0</origin>
-			<size>.4 .1</size>
+			<size>.5 .1</size>
 			<path>./../assets/system_info_gradient_background.png</path>
 		</image>
 		

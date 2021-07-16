@@ -5,12 +5,12 @@
 	<view name="menu">
 
 		<menuText name="menufooter">
-			<fontSize>.025</fontSize>
+			<fontSize>.035</fontSize>
 			<color>ffffffff</color>
 		</menuText>
 
 		<menuText name="menutext">
-			<fontSize>.035</fontSize>
+			<fontSize>.042</fontSize>
 			<color>ffffffff</color>
 			<separatorColor>ffffffff</separatorColor>
 			<selectorColor>ffffffff</selectorColor>
@@ -18,12 +18,12 @@
 		</menuText>
 
 		<menuTextSmall name="menutextsmall">
-			<fontSize>.028</fontSize>
+			<fontSize>.04</fontSize>
 			<color>ffffffff</color>
 		</menuTextSmall>
 
 		<menuText name="menutitle">
-			<fontSize>.04</fontSize>
+			<fontSize>.045</fontSize>
 			<color>ffffffff</color>
 		</menuText>
 

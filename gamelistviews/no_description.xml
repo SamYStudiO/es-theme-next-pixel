@@ -7,8 +7,8 @@
 
 		<!-- for debugging -->
 		<!--<image name="template" extra="true">
-			<pos>.31 .48</pos>
-			<size>.55 .85</size>
+			<pos>.3 .48</pos>
+			<size>.5 .85</size>
 			<zIndex>69</zIndex>
 			<origin>.5 .5</origin>
 			<path>./../arts/white.png</path>
@@ -16,13 +16,13 @@
 		</image>-->
 
 		<image name="md_image">
-			<pos>.31 .48</pos>
-			<maxSize>.55 .85</maxSize>
+			<pos>.3 .48</pos>
+			<maxSize>.5 .85</maxSize>
 		</image>
 
 		<video name="md_video">
-			<pos>.31 .48</pos>
-			<maxSize>.55 .85</maxSize>
+			<pos>.3 .48</pos>
+			<maxSize>.5 .85</maxSize>
 		</video>
 
 	</view>

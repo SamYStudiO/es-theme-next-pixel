@@ -11,15 +11,15 @@
 		<image name="md_image">
 			<origin>0 .5</origin>
 			<pos>0 .5</pos>
-			<maxSize>1 .9</maxSize>
+			<maxSize>.55 1</maxSize>
 		</image>
 
 		<video name="md_video">
-			<pos>.3375 .36917</pos>
+			<pos>.31429 .40789</pos>
 		</video>
 
 		<image name="shadow" extra="true">
-			<pos>.3375 .36917</pos>
+			<pos>.31429 .40789</pos>
 		</image>
 
 	</view>

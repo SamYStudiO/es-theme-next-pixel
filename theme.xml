@@ -31,7 +31,7 @@
 
 		<helpsystem name="help">
 			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/steelfishrg.ttf</fontPath>
-			<fontSize>.035</fontSize>
+			<fontSize>.03</fontSize>
 		</helpsystem>
 
 	</view>
@@ -40,7 +40,7 @@
 
 		<helpsystem name="help">
 			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/steelfishrg.ttf</fontPath>
-			<fontSize>.032</fontSize>
+			<fontSize>.025</fontSize>
 		</helpsystem>
 
 	</view>

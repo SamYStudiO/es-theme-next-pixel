@@ -5,7 +5,7 @@
 	<view name="detailed">
 		
 		<video name="md_video">
-			<maxSize>.46875 .54</maxSize>
+			<maxSize>.43651 .38016</maxSize>
 		</video>
 		
 		<image name="shadow" extra="true">

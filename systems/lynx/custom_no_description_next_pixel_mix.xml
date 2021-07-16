@@ -5,11 +5,11 @@
 	<view name="detailed">
 		
 		<video name="md_video">
-			<size>.3 .34</size>
+			<size>.27937 .23936</size>
 		</video>
 		
 		<image name="shadow" extra="true">
-			<size>.30469 .34833</size>
+			<size>.28373 .24523</size>
 		</image>
 		
 	</view>

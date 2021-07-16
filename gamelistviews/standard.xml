@@ -2,14 +2,13 @@
 	<formatVersion>4</formatVersion>
 	<include>./common.xml</include>
 	<include>./common_info.xml</include>
-	<include>./common_description.xml</include>
 
 	<view name="detailed">
 
 		<!-- for debugging -->
 		<!--<image name="template" extra="true">
-			<pos>.3 .4</pos>
-			<size>.5 .7</size>
+			<pos>.33 .53</pos>
+			<size>.6 .8</size>
 			<zIndex>69</zIndex>
 			<origin>.5 .5</origin>
 			<path>./../arts/white.png</path>
@@ -17,20 +16,14 @@
 		</image>-->
 
 		<image name="md_image">
-			<pos>.3 .4</pos>
-			<maxSize>.5 .7</maxSize>
+			<pos>.33 .53</pos>
+			<maxSize>.6 .8</maxSize>
 		</image>
 
 		<video name="md_video">
-			<pos>.3 .4</pos>
-			<maxSize>.5 .7</maxSize>
+			<pos>.33 .53</pos>
+			<maxSize>.6 .8</maxSize>
 		</video>
-
-		<text name="md_description">
-			<pos>.3 .77</pos>
-			<origin>.5 0</origin>
-			<size>.5 .15</size>
-		</text>
 
 	</view>
 

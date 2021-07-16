@@ -3,32 +3,15 @@
 	<formatVersion>4</formatVersion>
 	<include>./common.xml</include>
 	<include>./common_info.xml</include>
-	<include>./common_description.xml</include>
 	<include>./common_next_pixel_mix.xml</include>
 	<include>./../systems/$system/custom_standard_next_pixel_mix.xml</include>
 
 
 	<view name="detailed">
 
-		<image name="md_image">
-			<origin>0 .5</origin>
-			<pos>0 .4</pos>
-			<maxSize>.55 1</maxSize>
-		</image>
-
-		<video name="md_video">
-			<pos>.31429 .30789</pos>
-		</video>
-
-		<image name="shadow" extra="true">
-			<pos>.31429 .30789</pos>
-		</image>
-
-		<text name="md_description">
-			<pos>.31429 .68</pos>
-			<origin>.5 0</origin>
-			<size>.5 .24</size>
-		</text>
+		<rating name="md_rating">
+			<pos>.371 .09</pos>
+		</rating>
 
 	</view>
 

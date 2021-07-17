@@ -5,8 +5,8 @@ galaga_arcade_fba_fbneo_mame
 operation_wolf
 pac_man
 space_invaders
-street_fighter
 time_crisis_ii
+street_fighter
 # Do not edit below this line
 )
 

@@ -14,13 +14,13 @@ final_fantasy_vii
 f_zero
 gex
 goldeneye_007
-gradius
+gradius_pcengine
 last_of_us
 lemmings_pc
 missile_command
 myst
 pac_man
-pitfall_a0
+pitfall_atari5200_colecovision
 rayman
 rayman_legends
 secret_of_mana

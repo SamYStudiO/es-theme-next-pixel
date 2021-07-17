@@ -18,6 +18,14 @@
 	<include subset="iconset" name="5-psx">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/psx.xml</include>
 	<include subset="iconset" name="6-xbox one">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/xboxone.xml</include>
 	<include subset="iconset" name="7-arcade">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/iconsets/arcade.xml</include>
+	
+	<include subset="menu" name="1-next pixel">./menus/next_pixel.xml</include>
+	<include subset="menu" name="2-light blue icons">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/recalbox_icons.xml</include>
+	<include subset="menu" name="3-light blue">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/recalbox.xml</include>
+	<include subset="menu" name="4-standard menus">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/default.xml</include>
+	<include subset="menu" name="5-standard - small font">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/small.xml</include>
+	<include subset="menu" name="6-clean">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/clean.xml</include>
+	<include subset="menu" name="7-clean light">/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/menus/cleanlight.xml</include>
 
 	<include subset="systemview" name="1-vertical wheel">./systemviews/vertical_wheel_common.xml</include>
 	<include subset="systemview" name="2-horizontal">./systemviews/horizontal_common.xml</include>

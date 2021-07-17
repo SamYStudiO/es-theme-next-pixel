@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text></text>
+		</text>
+		
+	</view>
+	
+</theme>

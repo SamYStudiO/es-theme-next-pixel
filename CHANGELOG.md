@@ -1,11 +1,12 @@
 ### Changelog
 2021/XX/XX - 2.0
+- Add lowresnx support (but no game theme)
 - Add videopacplus support
 - Add bk support
 - Add vic20 support
 - Add supervision support
 - Add auto-lightgun support
-- Add pcv2 (pocket challenge v2) support
+- Add pcv2 (pocket challenge v2) support (but no game theme)
 - Add pico8 support
 - Add scv (super cassete vision) support
 - Add model3 support

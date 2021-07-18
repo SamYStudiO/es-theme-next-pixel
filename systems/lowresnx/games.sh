@@ -1,12 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-donkey_kong
-galaga_arcade_fba_fbneo_mame
-operation_wolf
-pac_man
-space_invaders
-time_crisis_ii
-street_fighter
+default
 # Do not edit below this line
 )
 

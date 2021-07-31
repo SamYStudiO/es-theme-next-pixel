@@ -156,11 +156,11 @@ Si vous avez toujours des problèmes avec l'archive 720p (principalement des ima
 
 Si vous ne voulez pas changer les paramètres de la mémoire ou si vous utilisez le système PSP alors vous devriez passer sur l'archive 480p, la qualité des images sera moindre mais vous devriez pouvoir utiliser beaucoup de systèmes sans problème.
 
-**1080p [TELECHARGER es-next-pixel-1080p-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-1080p.zip)**
+**1080p [TELECHARGER es-next-pixel-2.0-16x9-1080p pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-1080p.zip)**
 
-**720p [TELECHARGER es-next-pixel-720p-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-720p.zip)**
+**720p [TELECHARGER es-next-pixel-2.0-16x9-720p pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-720p.zip)**
 
-**480p [TELECHARGER es-next-pixel-480p-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-480p.zip)**
+**480p [TELECHARGER es-next-pixel-2.0-16x9-480p pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-480p.zip)**
 
 [Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 7.2.2 ou inférieur.
 
@@ -177,9 +177,9 @@ Dans le fichier recherchez *hdmi_group* et *hdmi_mode* et modidiez les ainsi :
 
 N'oubliez pas de retirer le caractère '#' s'il est présent sur ces lignes.
 
-**1024x768 [TELECHARGER es-next-pixel-crt-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt.zip)**
+**1024x768 [TELECHARGER es-next-pixel-2.0-4x3-768p pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-4x3-768p.zip)**
 
-**320x240 (GPi CASE) [TELECHARGER es-next-pixel-crt-small-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt-small.zip)**
+**320x240 (GPi CASE) [TELECHARGER es-next-pixel-2.0-4x3-240p pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-4x3-240p.zip)**
 
 [Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 7.2.2 ou inférieur.
 

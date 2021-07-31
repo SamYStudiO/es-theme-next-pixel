@@ -2,18 +2,18 @@
 
 	<formatVersion>4</formatVersion>
 
-	<!-- color 615066 -->
+	<!-- color 594b60 -->
 
 	<view name="system">
 	
 		<image name="background" extra="true" />
 	
 		<image name="system_carousel_background" extra="true">
-			<color>615066</color>
+			<color>594b60</color>
 		</image>
 		
 		<image name="system_carousel_border" extra="true">
-			<color>615066</color>
+			<color>594b60</color>
 		</image>
 		
 	</view>
@@ -21,15 +21,15 @@
 	<view name="basic, detailed">
 
 		<image name="gamelist_background" extra="true">
-			<color>615066</color>
+			<color>594b60</color>
 		</image>
 	
 		<textlist name="gamelist">
-			<selectorColor>615066</selectorColor>
+			<selectorColor>594b60</selectorColor>
 		</textlist>
 		
 		<image name="gamelist_border" extra="true">
-			<color>615066</color>
+			<color>594b60</color>
 		</image>
 	 
 	</view>

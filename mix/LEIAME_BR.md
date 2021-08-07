@@ -23,23 +23,23 @@ Primeiro, verifique se o tema Next Pixel está instalado, pois os arquivos de mi
 - Inicie o Skraper e selecione a guia **MEDIA**.
 - Se existir alguma mídia, remova-a usando os botões **menos** ou **tesoura** à esquerda e clique no botão **mais** para adicionar uma mídia.
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/0.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/0.png)
 
 - Selecione **MISTURA FORNECIDA PELO USUÁRIO** na caixa de listagem na mídia e navegue até a pasta de instalação do tema Next Pixel e selecione **data/mix/next_pixel_screenshot.xml** ou **data/mix/next_pixel_screenshot_title.xml** . A versão da captura de tela exibirá uma imagem usando o conteúdo do jogo, retornando com a captura de tela do título, se não estiver disponível.
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/1.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/1.png)
 
 - O nome do mix deve corresponder ao seu pacote Next Pixel, se você instalou **1080p** o nome do mix de pacotes deve ser **NEXT PIXEL MIX 1080**, para 720p> **NEXT PIXEL MIX 720**, etc ...
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/2.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/2.png)
 
 **Atenção, isso significa que, se você trocar o pacote posteriormente, deverá descartar seus jogos novamente, pois cada pacote usa um mix otimizado para sua resolução**.
 Para **usuários do Raspberry Pi** com pouca memória (2go ou menos) usando o **pacote 720p**, se você tiver problemas de memória, poderá reduzir a resolução da imagem residual. Para fazer isso, redimensione as imagens da seguinte maneira (observe que isso não é necessário se você estiver usando o pacote 480p, pois o mix já estará configurado para gerar imagens 480p):
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/3.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/3.png)
 **Não se esqueça de verificar Manter a proporção da imagem**
 - Se você não deseja adicionar vídeos, basta iniciar seu recado.
 - Se você deseja adicionar vídeos, clique no botão **plus** para adicionar um média e selecione **VIDEO** na caixa de listagem abaixo do media.
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/4.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/4.png)
 
  - Você terminou, pode lançar seu recado.
 

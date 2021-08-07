@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 armor_attack
-scrumble
+scramble
 # Do not edit below this line
 )
 

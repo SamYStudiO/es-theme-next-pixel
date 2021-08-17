@@ -64,7 +64,7 @@ O tema Next Pixel inclui seu próprio mix para tornar a integração das captura
 
 **Mix Next Pixel**
 
-![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes.gif)
+![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64.gif)
 
 **Para obter mais informações sobre como usar o Mix Next Pixel, verifique a [documentação](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/mix/LEIAME_BR.md).**
 
@@ -132,6 +132,7 @@ Obrigado pela sua contribuição:
  - rastaware (tradução para o português)
  - MarbleMad (tema padrão de jogo)
  - kainsamara (russian systems info translation)
+ - butchgames (snap video captures for documentation)
 
 
 ### Download

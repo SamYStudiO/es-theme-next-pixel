@@ -71,7 +71,7 @@ Next Pixel theme includes its own custom mix to make your game screenshots and v
 
 **Next Pixel mix**
 
-![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes.gif)
+![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64.gif)
 
 **To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/mix/README.md).**
 
@@ -139,6 +139,7 @@ Thank you for contributing:
  - rastaware (portuguese translation)
  - MarbleMad (default game theme)
  - kainsamara (russian systems info translation)
+ - butchgames (snap video captures for documentation)
 
 
 ### Download

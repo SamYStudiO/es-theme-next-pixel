@@ -1,15 +1,15 @@
 ### Mix Next Pixel
 Le thème Next Pixel inclut maintenant son propre "mix" pour que les captures et lesvidéos de vos jeux soit encore mieux intégrées. Si vous n'avez jamais entendu parler des "mix", ce sont juste ces images que vous pouvez télécharger avec les informations de vos jeux en utilisant le scraper interne de Recalbox ou en utilisant un sraper comme Skraper. Mieux qu'une longue description voici plusieurs captures d'écran :
 
-![gamegear](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamegear.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/tetris.gif)
 
-![gb](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gb.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/donkey_kong_ii.gif)
 
-![gba](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gba.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/metroid_zero_mission.gif)
 
-![gw](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gw.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_kart.gif)
 
-![pokemini](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/pokemini.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/god_of_war_chains_of_olympus.gif)
 
 Problèmes connus avec le "mix" Next Pixel :
 - le "mix" Next Pixel utilise des surcouches sur les images scrapées pour donner l'impression que vos images/vidéos sont intégrées dans un écran (tv/moniteur), malheureusement ces surcouches apparaitront aussi sur les dossiers dans vos listes de jeux. Si vous n'utilisez pas de dossier ça ne sera donc pas un problème. Notez que ce problème sera probablement résolu dans une future version de Recalbox.

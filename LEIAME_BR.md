@@ -132,7 +132,7 @@ Obrigado pela sua contribuição:
  - rastaware (tradução para o português)
  - MarbleMad (tema padrão de jogo)
  - kainsamara (russian systems info translation)
- - butchgames (snap video captures for documentation)
+ - [butchgames](https://www.youtube.com/channel/UCu9MV260UNjmCRhr0kBGqDw) (snap video captures for documentation)
 
 
 ### Download

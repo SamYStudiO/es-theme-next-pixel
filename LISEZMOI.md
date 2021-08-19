@@ -129,7 +129,7 @@ Merci pour votre contribution:
  - rastaware (traduction en portugais)
  - MarbleMad (thème du système default)
  - kainsamara (traduction des informations systèmes en russe)
- - butchgames (captures *snap video* pour la documentation)
+ - [butchgames](https://www.youtube.com/channel/UCu9MV260UNjmCRhr0kBGqDw) (captures *snap video* pour la documentation)
 
 
 ### Téléchargement

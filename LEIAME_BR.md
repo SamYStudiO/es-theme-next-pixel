@@ -27,7 +27,7 @@ Aqui estão algumas capturas de telas de alguns temas de jogos disponíveis:
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/space_harrier.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/scramble.gif)
 
 Veja todas as imagens de temas de jogos no [website Next Pixel](https://samystudio.github.io/es-theme-next-pixel/).
 
@@ -60,7 +60,7 @@ O tema Next Pixel inclui seu próprio mix para tornar a integração das captura
 
 **Mix Padrão**
 
-![snes_old](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes_old.gif)
+![snes_old](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64_others_mixes.gif)
 
 **Mix Next Pixel**
 

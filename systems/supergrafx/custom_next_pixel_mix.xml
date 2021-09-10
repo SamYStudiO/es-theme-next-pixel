@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="detailed">
+
+		<image name="shadow" extra="true">
+			<path>./../../mix/overlay/console.png</path>
+		</image>
+
+	</view>
+	
+</theme>

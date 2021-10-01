@@ -1,15 +1,15 @@
 ### Next Pixel mix
 Next Pixel theme now includes its own custom mix to make your game screenshots and video snaps integration even better. If you never heard of mixes, they're just these images you may download along with game info/description using Recalbox internal scraper or using an external scraper like Skraper. Better than a long description here some captures :
 
-![gamegear](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamegear.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/tetris.gif)
 
-![gb](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gb.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/donkey_kong_ii.gif)
 
-![gba](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gba.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/metroid_zero_mission.gif)
 
-![gw](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gw.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_kart.gif)
 
-![pokemini](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/pokemini.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/god_of_war_chains_of_olympus.gif)
 
 Known issues using Next Pixel mix :
 - Next Pixel mix uses some overlay on top of your scraped images to make your screenshots/videos appear like they were displayed on a screen (tv/monitor), unfortunately these overlay will appear also for your folders. If you don't use folders this won't be a issue. Note this issue may be fixed in a future Recalbox release.
@@ -23,26 +23,26 @@ First you need to make sure Next Pixel theme is installed since custom mix files
 - Launch Skraper and select **MEDIA** tab.
 - If any media exists remove them all using **minus** or **scissors** buttons on the left, then click **plus** button to add a media.
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/0.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/0.png)
 
 - Select **USER PROVIDED MIX** from list box under your media and then browse to your Next Pixel theme installation folder and select **data/mix/next_pixel_screenshot.xml** or **data/mix/next_pixel_screenshot_title.xml**. *next_pixel_screenshot* version will display an image using ingame content falling back with title screenshot if not available, *next_pixel_screenshot_title* title will display an image using game title screenshot falling back with ingame content if not available. I recommand using *next_pixel_screenshot_title* version if you're going to scrap video as well otherwise i recommand to use *next_pixel_screenshot* version.
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/1.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/1.png)
 
 - Mix name should match your Next Pixel package, if you installed **1080p** package mix name should be **NEXT PIXEL MIX 1080**, for 720p > **NEXT PIXEL MIX 720**, etc...
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/2.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/2.png)
 
 **Warning this means that if you switch package later on you should scrap your games again, since each packages use an optimized mix for its resolution**.
 For **Raspberry Pi users** with low memory (2go or less) using **720p package**, if you have memory issues you may reduce scrap image resolution. To do so resize images as following (note this is not required if you are using 480p package since its mix will already be set to generate 480p images): 
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/3.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/3.png)
 
 **Don't forget to check Keep image ratio**
 - If you doesn't want to add videos you're done, just launch your scrap.
 - If you want to add videos click **plus** button to add a media and Select **VIDEO** from list box under your media.
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/4.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/4.png)
 
 - You're done, you can launch your scrap.
 

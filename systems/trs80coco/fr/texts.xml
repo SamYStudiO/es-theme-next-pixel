@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Constructeur : Tandy Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie : 1980</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Microsoft Color Basic v1.0</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : MC6809E @ 0.89 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 4Ko - 16Ko</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Lecteur : Cassette, Disquette 5.25"</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Résolution: Affichage 32 colones</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>32 x 16 4 couleurs / 256 x 192 2 couleurs / 128 x 96 8 couleurs / 128 x 192 4 couleurs</text>
+		</text>
+
+	</view>
+	
+</theme>

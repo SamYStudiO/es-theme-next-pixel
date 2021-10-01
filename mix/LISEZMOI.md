@@ -1,15 +1,15 @@
 ### Mix Next Pixel
 Le thème Next Pixel inclut maintenant son propre "mix" pour que les captures et lesvidéos de vos jeux soit encore mieux intégrées. Si vous n'avez jamais entendu parler des "mix", ce sont juste ces images que vous pouvez télécharger avec les informations de vos jeux en utilisant le scraper interne de Recalbox ou en utilisant un sraper comme Skraper. Mieux qu'une longue description voici plusieurs captures d'écran :
 
-![gamegear](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamegear.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/tetris.gif)
 
-![gb](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gb.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/donkey_kong_ii.gif)
 
-![gba](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gba.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/metroid_zero_mission.gif)
 
-![gw](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gw.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_kart.gif)
 
-![pokemini](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/pokemini.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/god_of_war_chains_of_olympus.gif)
 
 Problèmes connus avec le "mix" Next Pixel :
 - le "mix" Next Pixel utilise des surcouches sur les images scrapées pour donner l'impression que vos images/vidéos sont intégrées dans un écran (tv/moniteur), malheureusement ces surcouches apparaitront aussi sur les dossiers dans vos listes de jeux. Si vous n'utilisez pas de dossier ça ne sera donc pas un problème. Notez que ce problème sera probablement résolu dans une future version de Recalbox.
@@ -23,26 +23,26 @@ Premièrement vous devez vous assurer que le thème Next Pixel est installé car
 - Démarrez Skraper et sélectionnez l'onglet **MEDIA**.
 - Si des médias sont déjà présents retirez les en utilisant les boutons **moins** ou **ciseaux** à gauche, ensuite cliquez sur le bouton **plus** pour ajouter un média.
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/0.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/0.png)
 
 - Sélectionnez **USER PROVIDED MIX** depuis la liste sous le média et ensuite parcourez vers le dossier d'installation de votre thème Next Pixel et selectionnez **data/mix/next_pixel.xml** ou **data/mix/next_pixel_screenshot_title.xml**. La version *next_pixel_screenshot* affiche une image ingame si elle existe sinon elle affiche une image de l'écran de titre du jeu, La version *next_pixel_screenshot_title* affiche une image avec l'écran de titre du jeu si elle existe sinon elle affiche une image ingame. Je recommande d'utiliser la version *next_pixel_screenshot_title* si vous scrapper aussi les vidéos, sinon je recommande la version*next_pixel_screenshot*.
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/1.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/1.png)
 
 - Le nom du "Mix" devrait correspondre à l'archive que vous avez téléchargé, si vous avez installé la version 1080p le nom du "mix" devrait être **NEXT PIXEL MIX 1080**, pour la version 720p > **NEXT PIXEL MIX 720**, etc...
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/2.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/2.png)
 
 ** Avertissement : cela signifie que si vous changez d'archive plus tard vous devriez scraper vos jeux de nouveau puisque chaque archive contient un "mix" optimisé pour sa résolution**.
 Pour les **utilisateurs de Raspberry Pi** avec peu de mémoire (2go ou moins) et qui utilisent l'**archive 720p**, si vous avez des problèmes mémoire vous pouvez réduire la taille de vos images scrapées. Pour cela faites comme suit (notez que cela n'est pas nécessaire si vous utilisez l'archive 480p puisque avec cette archive les "mix" sont déjà configurés pour générer des images en 480p) :
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/3.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/3.png)
 
 **N'oubliez pas de cocher Conserver le ratio de l'image** 
 - Si vous ne voulez pas ajouter de vidéos vous avez fini, démarez votre scrap.
 - Si vous voulez ajouter des vidéos cliquez sur le bouton **plus** pour ajouter un média et sélectionnez **VIDEO** depuis la liste sous le média.
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/data/mix/help/4.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/mix/help/4.png)
 
 - Vous avez terminé, vous pouvez démarez votre scrap.
 

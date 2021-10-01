@@ -2,6 +2,7 @@ list=(
 # Edit game list below (full game list available from ./data/games folder)
 gradius_msx_nes_pc88_x1
 space_harrier_x1_x68000
+thexder
 # Do not edit below this line
 )
 

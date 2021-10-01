@@ -34,7 +34,7 @@ Here are some screenshots of some available game themes :
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/space_harrier.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/scramble.gif)
 
 Watch all game theme pictures from [Next Pixel website](https://samystudio.github.io/es-theme-next-pixel/).
 
@@ -67,11 +67,11 @@ Next Pixel theme includes its own custom mix to make your game screenshots and v
 
 **Standard mix**
 
-![snes_old](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes_old.gif)
+![snes_old](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64_others_mixes.gif)
 
 **Next Pixel mix**
 
-![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes.gif)
+![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64.gif)
 
 **To get more info on how to use Next Pixel mix, check [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/mix/README.md).**
 
@@ -139,6 +139,7 @@ Thank you for contributing:
  - rastaware (portuguese translation)
  - MarbleMad (default game theme)
  - kainsamara (russian systems info translation)
+ - [butchgames](https://www.youtube.com/channel/UCu9MV260UNjmCRhr0kBGqDw) (snap video captures for documentation)
 
 
 ### Download
@@ -166,11 +167,11 @@ If you still have issues with 720p (mainly images replaced with white rectangle)
 
 If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
-**1080p [DOWNLOAD es-next-pixel-1080p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-1080p.zip)**
+**1080p [DOWNLOAD es-next-pixel-2.0-16x9-1080p for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-1080p.zip)**
 
-**720p [DOWNLOAD es-next-pixel-720p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-720p.zip)**
+**720p [DOWNLOAD es-next-pixel-2.0-16x9-720p for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-720p.zip)**
 
-**480p [DOWNLOAD es-next-pixel-480p-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-480p.zip)**
+**480p [DOWNLOAD es-next-pixel-2.0-16x9-480p for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-480p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 7.2.2 or lower.
 
@@ -187,9 +188,9 @@ From this file search for *hdmi_group* and *hdmi_mode* and set both as following
 
 Don't forget to remove '#' char on those lines if present.
 
-**1024x768 [DOWNLOAD es-next-pixel-crt-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt.zip)**
+**1024x768 [DOWNLOAD es-next-pixel-2.0-4x3-768p for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-4x3-768p.zip)**
 
-**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-crt-small-2.0 for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt-small.zip)**
+**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-2.0-4x3-240p for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-4x3-240p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 7.2.2 or lower.
 

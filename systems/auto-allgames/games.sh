@@ -5,8 +5,10 @@ alien_breed_3d
 all
 all
 all
+amazeing
 another_world
 ara_fell
+arkanoid
 armor_attack
 battle_heat
 bayonetta_2
@@ -49,6 +51,7 @@ dragon_ball
 dragons_lair
 duck_tales
 earthworm_jim
+exile
 f_zero
 f_zero_x
 final_fantasy_vi
@@ -161,6 +164,7 @@ space_harrier_pcengine
 space_invaders
 stone_sling
 street_fighter
+street_fighter_ii
 street_fighter_zero_3
 streets_of_rage_2_megadrive
 super_mario_64
@@ -182,6 +186,8 @@ the_legend_of_zelda_oracle_of_seasons
 the_legend_of_zelda_the_minish_cap
 the_legend_of_zelda_twilight_princess
 the_secret_of_monkey_island_macintosh_pc_scummvm
+thexder
+ti_invaders
 time_crisis_ii
 turok
 turrican_ii_amiga600_amigacdtv

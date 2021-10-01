@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<image name="system_info_background" extra="true">
+			<pos>2 2</pos>
+		</image>
+		
+	</view>
+	
+</theme>

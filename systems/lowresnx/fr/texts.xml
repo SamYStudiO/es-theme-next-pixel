@@ -5,9 +5,33 @@
 	<view name="system">
 	
 		<text name="info1" extra="true">
-			<text></text>
+			<text>Auteur : Timo Kloss</text>
 		</text>
-		
+		<text name="info2" extra="true">
+			<text>Lancement initial : 2017</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Website : https://lowresnx.inutilis.com/</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Une coonsole de jeu rétro qui peut être programmé avec le language BASIC</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Caractéristiques : Gfx Designer pour l'édition de "sprites", "tiles", "fonts" et "maps", </text>
+		</text>
+        <text name="info6" extra="true">
+			<text>ainsi qu'un Sound Composer pour la musique et les effets sonores.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Affichage : 160x128 pixels, 60 Hz, 8 palettes dynaliques 6-bit avec 4 couleurs chacune</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sprites :  64, max 32x32 pixels</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Audio : 4 voix, saw/tri/pulse/noise, pulse width, volume, ADSR, LFO</text>
+		</text>
+
 	</view>
 	
 </theme>

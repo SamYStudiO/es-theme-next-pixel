@@ -1,5 +1,8 @@
 ### Changelog
 2021/XX/XX - 2.0
+- Add bbcmicro support
+- Add trs80coco support
+- Add ti-994a support
 - Add lowresnx support (but no game theme)
 - Add videopacplus support
 - Add bk support

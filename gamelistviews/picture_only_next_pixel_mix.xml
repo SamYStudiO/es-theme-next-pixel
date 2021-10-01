@@ -3,6 +3,7 @@
 	<formatVersion>4</formatVersion>
 	<include>./common.xml</include>
 	<include>./common_next_pixel_mix.xml</include>
+	<include>./../systems/$system/custom_next_pixel_mix.xml</include>
 	<include>./../systems/$system/custom_picture_only_next_pixel_mix.xml</include>
 
 </theme>

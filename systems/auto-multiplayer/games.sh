@@ -51,6 +51,7 @@ shark_shark
 space_invaders
 stone_sling
 street_fighter
+street_fighter_ii
 street_fighter_zero_3
 streets_of_rage_2_megadrive
 super_mario_bros_3

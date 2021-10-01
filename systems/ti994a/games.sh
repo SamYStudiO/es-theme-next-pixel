@@ -1,6 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 amazeing
+ti_invaders
 # Do not edit below this line
 )
 

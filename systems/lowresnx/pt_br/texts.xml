@@ -5,9 +5,33 @@
 	<view name="system">
 	
 		<text name="info1" extra="true">
-			<text></text>
+			<text>Author : Timo Kloss</text>
 		</text>
-		
+		<text name="info2" extra="true">
+			<text>Initial release : 2017</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Website : https://lowresnx.inutilis.com/</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>A simulated retro game console, which can be programmed in the classic BASIC language.</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Built-in features : Gfx Designer for editing sprites, tiles, fonts and maps, as</text>
+		</text>
+        <text name="info6" extra="true">
+			<text>well as the Sound Composer for music and sound effects.</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Display : 160x128 pixels, 60 Hz, 8 dynamic 6-bit palettes with 4 colors each</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sprites :  64, max 32x32 pixels</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Sound : 4 voices, saw/tri/pulse/noise, pulse width, volume, ADSR, LFO</text>
+		</text>
+
 	</view>
 	
 </theme>

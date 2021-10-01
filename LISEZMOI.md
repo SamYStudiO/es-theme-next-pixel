@@ -27,7 +27,7 @@ Voici quelques captures d'écran des thèmes de jeu disponibles:
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/space_harrier.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/vectrex.gif)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/scramble.gif)
 
 Regardez toutes les images des jeux sur le [site Next Pixel](https://samystudio.github.io/es-theme-next-pixel/).
 
@@ -60,11 +60,11 @@ Le thème Next Pixel inclut son propre "mix" pour que les captures de vos jeux e
 
 **Mix standard**
 
-![snes_old](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes_old.gif)
+![snes_old](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64_others_mixes.gif)
 
 **Mix Next Pixel**
 
-![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/snes.gif)
+![snes](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64.gif)
 
 **Pour obtenir plus d'informations sur l'utilisation du "mix" Next Pixel, lisez la [documentation](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/mix/LISEZMOI.md)**.
 
@@ -129,6 +129,7 @@ Merci pour votre contribution:
  - rastaware (traduction en portugais)
  - MarbleMad (thème du système default)
  - kainsamara (traduction des informations systèmes en russe)
+ - [butchgames](https://www.youtube.com/channel/UCu9MV260UNjmCRhr0kBGqDw) (captures *snap video* pour la documentation)
 
 
 ### Téléchargement
@@ -156,11 +157,11 @@ Si vous avez toujours des problèmes avec l'archive 720p (principalement des ima
 
 Si vous ne voulez pas changer les paramètres de la mémoire ou si vous utilisez le système PSP alors vous devriez passer sur l'archive 480p, la qualité des images sera moindre mais vous devriez pouvoir utiliser beaucoup de systèmes sans problème.
 
-**1080p [TELECHARGER es-next-pixel-1080p-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-1080p.zip)**
+**1080p [TELECHARGER es-next-pixel-2.0-16x9-1080p pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-1080p.zip)**
 
-**720p [TELECHARGER es-next-pixel-720p-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-720p.zip)**
+**720p [TELECHARGER es-next-pixel-2.0-16x9-720p pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-720p.zip)**
 
-**480p [TELECHARGER es-next-pixel-480p-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-480p.zip)**
+**480p [TELECHARGER es-next-pixel-2.0-16x9-480p pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-480p.zip)**
 
 [Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 7.2.2 ou inférieur.
 
@@ -177,9 +178,9 @@ Dans le fichier recherchez *hdmi_group* et *hdmi_mode* et modidiez les ainsi :
 
 N'oubliez pas de retirer le caractère '#' s'il est présent sur ces lignes.
 
-**1024x768 [TELECHARGER es-next-pixel-crt-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt.zip)**
+**1024x768 [TELECHARGER es-next-pixel-2.0-4x3-768p pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-4x3-768p.zip)**
 
-**320x240 (GPi CASE) [TELECHARGER es-next-pixel-crt-small-2.0 pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-crt-small.zip)**
+**320x240 (GPi CASE) [TELECHARGER es-next-pixel-2.0-4x3-240p pour Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-4x3-240p.zip)**
 
 [Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 7.2.2 ou inférieur.
 

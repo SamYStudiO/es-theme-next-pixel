@@ -1,0 +1,31 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Manufacturer : Texas Instruments</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1981</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Basic owner</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Texas Instruments TMS9900 @ 3.3 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 16/24 KB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Resolution : max 256 x 192, 16 colours</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Sound : 3 voices on 5 octaves and noise channel</text>
+		</text>
+
+	</view>
+	
+</theme>

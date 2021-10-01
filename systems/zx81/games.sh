@@ -1,5 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
+frogger_dragon_trs80coco_zx81
 mazogs
 night_gunner
 # Do not edit below this line

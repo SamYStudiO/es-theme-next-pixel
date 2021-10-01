@@ -9,6 +9,7 @@ one_piece_grand_battle_swan_colosseum
 rockman_battle_and_fighters
 samurai_shodown
 street_fighter
+street_fighter_ii
 street_fighter_zero_3
 the_king_of_fighters_98
 # Do not edit below this line

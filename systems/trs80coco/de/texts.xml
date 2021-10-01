@@ -1,0 +1,34 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Manufacturer : Tandy Corporation</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1980</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : Microsoft Color Basic v1.0</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : MC6809E @ 0.89 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 4KB - 16KB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>Drive : Cassette tape, Floppy disk 5.25"</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Resolution: 32 Column Display Ability</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>32 x 16 4 Colors / 256 x 192 2 Colors / 128 x 96 8 Colors / 128 x 192 4 Colors</text>
+		</text>
+
+	</view>
+	
+</theme>

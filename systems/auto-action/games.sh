@@ -2,6 +2,7 @@ list=(
 # Edit game list below (full game list available from ./data/games folder)
 alex_kidd_in_miracle_world
 alien_breed_3d
+amazeing
 battle_heat
 bayonetta_2
 beats_of_rage
@@ -29,6 +30,7 @@ doom
 dragons_lair
 duck_tales
 earthworm_jim
+exile
 frogger
 galaga_arcade_fba_fbneo_mame
 ganso_jajamaru_kun
@@ -84,6 +86,7 @@ space_ace
 space_harrier_pcengine
 space_invaders
 street_fighter
+street_fighter_ii
 street_fighter_zero_3
 streets_of_rage_2_megadrive
 super_mario_64
@@ -96,6 +99,7 @@ the_king_of_fighters_98
 the_last_ninja
 the_legend_of_zelda_link_to_the_past
 the_legend_of_zelda_oracle_of_seasons
+thexder
 turok
 turrican_ii_amiga600_amigacdtv
 virtual_boy_wario_land

@@ -36,7 +36,7 @@
 
 	</view>
 
-	<view name="basic, detailed">
+	<view name="detailed">
 
 		<helpsystem name="help">
 			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/steelfishrg.ttf</fontPath>

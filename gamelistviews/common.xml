@@ -3,7 +3,7 @@
 	<formatVersion>4</formatVersion>
 	<include>./../systems/$system/game_theme_gamelist.xml</include>	
 
-	<view name="basic, detailed">
+	<view name="detailed">
 
 		<image name="background_right" extra="true">
 			<maxSize>2 1</maxSize>
@@ -90,6 +90,37 @@
 			<alignment>center</alignment>
 			<zIndex>45</zIndex>
 		</text>
+		
+		<image name="md_image">
+			<origin>.5 .5</origin>
+			<zIndex>70</zIndex>
+		</image>
+
+		<video name="md_video">
+			<origin>.5 .5</origin>
+			<zIndex>71</zIndex>
+		</video>
+
+		<rating name="md_rating">
+			<filledPath>./../assets/icon_filled.svg</filledPath>
+			<unfilledPath>./../assets/icon_empty.svg</unfilledPath>
+		</rating>
+
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
+			<pos>2 2</pos>
+		</text>
+
+		<text name="md_rating, md_publisher, md_developer, md_genre, md_players, md_playcount, md_favorite, md_description">
+			<pos>2 2</pos>
+			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<fontSize>.027</fontSize>
+		</text>
+
+		<datetime name="md_releasedate, md_lastplayed">
+			<pos>2 2</pos>
+			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
+			<fontSize>.027</fontSize>
+		</datetime>
 
 		<image name="md_folder_image_0, md_folder_image_1, md_folder_image_2, md_folder_image_3, md_folder_image_4, md_folder_image_5, md_folder_image_6, md_folder_image_7, md_folder_image_8">
 			<maxSize>.2 .2</maxSize>
@@ -123,62 +154,6 @@
 		</image>
 		<image name="md_folder_image_8">
 			<pos>.54 .7</pos>
-		</image>
-
-	</view>
-
-	<view name="detailed">
-
-		<image name="md_image">
-			<origin>.5 .5</origin>
-			<zIndex>70</zIndex>
-		</image>
-
-		<video name="md_video">
-			<origin>.5 .5</origin>
-			<zIndex>71</zIndex>
-		</video>
-
-		<rating name="md_rating">
-			<filledPath>./../assets/icon_filled.svg</filledPath>
-			<unfilledPath>./../assets/icon_empty.svg</unfilledPath>
-		</rating>
-
-		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
-			<pos>2 2</pos>
-		</text>
-
-		<text name="md_rating, md_publisher, md_developer, md_genre, md_players, md_playcount, md_favorite, md_description">
-			<pos>2 2</pos>
-			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
-			<fontSize>.027</fontSize>
-		</text>
-
-		<datetime name="md_releasedate, md_lastplayed">
-			<pos>2 2</pos>
-			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/Exo2-SemiBoldCondensed.otf</fontPath>
-			<fontSize>.027</fontSize>
-		</datetime>
-
-	</view>
-
-	<view name="basic">
-
-		<image name="consolegame" extra="true">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/consolegame.svg</path>
-			<pos>.02 .9</pos>
-			<maxSize>1 .2</maxSize>
-			<origin>0 1</origin>
-			<zIndex>50</zIndex>
-		</image>
-		<image name="consolegame" extra="true" region="eu">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/eu/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="jp">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/jp/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="us">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/us/consolegame.svg</path>
 		</image>
 
 	</view>

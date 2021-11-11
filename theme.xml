@@ -13,11 +13,7 @@
 		<sound name="directory">
 			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/music</path>
 		</sound>
-
-	</view>
-	
-	<view name="system">
-
+		
 		<image name="help_background" extra="true">
 			<path>./assets/system_help_background.png</path>
 			<pos>0 1</pos>

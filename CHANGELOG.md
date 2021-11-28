@@ -1,5 +1,5 @@
 ### Changelog
-2021/XX/XX - 2.0
+2021/11/28 - 2.0
 - Add bbcmicro support
 - Add trs80coco support
 - Add ti-994a support

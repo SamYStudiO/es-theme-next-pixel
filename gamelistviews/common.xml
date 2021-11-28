@@ -1,9 +1,9 @@
 <theme>
 
-	<formatVersion>4</formatVersion>	
+	<formatVersion>4</formatVersion>
 	<include>./../systems/$system/game_theme_gamelist.xml</include>
-	
-	<view name="basic, detailed">
+
+	<view name="detailed">
 
 		<image name="background_right" extra="true">
 			<maxSize>2 1</maxSize>
@@ -18,13 +18,13 @@
 			<maxSize>.4 1</maxSize>
 			<origin>1 1</origin>
 			<zIndex>5</zIndex>
-		</image> 
+		</image>
 		<image name="logo" region="eu">
 			<path>./../systems/$system/eu/logo_right.svg</path>
-		</image> 
+		</image>
 		<image name="logo" region="us">
 			<path>./../systems/$system/us/logo_right.svg</path>
-		</image> 
+		</image>
 		<image name="logo" region="jp">
 			<path>./../systems/$system/jp/logo_right.svg</path>
 		</image>
@@ -55,7 +55,7 @@
 		</image>
 
 		<textlist name="gamelist">
-			<pos>.64 0</pos> 
+			<pos>.64 0</pos>
 			<size>.48 1</size>
 			<alignment>left</alignment>
 			<horizontalMargin>.12</horizontalMargin>
@@ -91,44 +91,6 @@
 			<zIndex>45</zIndex>
 		</text>
 
-		<image name="md_folder_image_0, md_folder_image_1, md_folder_image_2, md_folder_image_3, md_folder_image_4, md_folder_image_5, md_folder_image_6, md_folder_image_7, md_folder_image_8">
-			<maxSize>.2 .2</maxSize>
-			<zIndex>45</zIndex>
-			<origin>.5 .5</origin>
-		</image>
-
-		<image name="md_folder_image_0">
-			<pos>.14429 .2</pos>
-		</image>
-		<image name="md_folder_image_1">
-			<pos>.31429 .2</pos>
-		</image>
-		<image name="md_folder_image_2">
-			<pos>.48429 .2</pos>
-		</image>
-		<image name="md_folder_image_3">
-			<pos>.14429 .45</pos>
-		</image>
-		<image name="md_folder_image_4">
-			<pos>.31429 .45</pos>
-		</image>
-		<image name="md_folder_image_5">
-			<pos>.48429 .45</pos>
-		</image>
-		<image name="md_folder_image_6">
-			<pos>.14429 .7</pos>
-		</image>
-		<image name="md_folder_image_7">
-			<pos>.31429 .7</pos>
-		</image>
-		<image name="md_folder_image_8">
-			<pos>.48429 .7</pos>
-		</image>
-
-	</view>
-
-	<view name="detailed">
-
 		<image name="md_image">
 			<origin>.5 .5</origin>
 			<zIndex>70</zIndex>
@@ -160,26 +122,39 @@
 			<fontSize>.042</fontSize>
 		</datetime>
 
-	</view>
+		<image name="md_folder_image_0, md_folder_image_1, md_folder_image_2, md_folder_image_3, md_folder_image_4, md_folder_image_5, md_folder_image_6, md_folder_image_7, md_folder_image_8">
+			<maxSize>.2 .2</maxSize>
+			<zIndex>45</zIndex>
+			<origin>.5 .5</origin>
+		</image>
 
-	<view name="basic">
-
-		<image name="consolegame" extra="true">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/consolegame.svg</path>
-			<pos>.02 .91</pos>
-			<maxSize>1 .2</maxSize>
-			<origin>0 1</origin>
-			<zIndex>50</zIndex>
-		</image>
-		<image name="consolegame" extra="true" region="eu">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/eu/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="jp">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/jp/consolegame.svg</path>
-		</image>
-		<image name="consolegame" extra="true" region="us">
-			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/$system/data/us/consolegame.svg</path>
-		</image>
+		<image name="md_folder_image_0">
+            <pos>.14429 .2</pos>
+        </image>
+		<image name="md_folder_image_1">
+            <pos>.31429 .2</pos>
+        </image>
+		<image name="md_folder_image_2">
+            <pos>.48429 .2</pos>
+        </image>
+		<image name="md_folder_image_3">
+            <pos>.14429 .45</pos>
+        </image>
+		<image name="md_folder_image_4">
+            <pos>.31429 .45</pos>
+        </image>
+		<image name="md_folder_image_5">
+            <pos>.48429 .45</pos>
+        </image>
+		<image name="md_folder_image_6">
+            <pos>.14429 .7</pos>
+        </image>
+		<image name="md_folder_image_7">
+            <pos>.31429 .7</pos>
+        </image>
+		<image name="md_folder_image_8">
+            <pos>.48429 .7</pos>
+        </image>
 
 	</view>
 

@@ -12,7 +12,7 @@ It is based on recabox-next theme so you'll get all advantages of it (region set
 
 **Theme is configured by default to use a custom mix to scrap your game images, please read carefully documentation below to get more info even if you don't want to use it as you'll have to adjust theme GAMELISTVIEW option to get it work properly with others mixes**.
 
-**Theme is compatible with Recalbox 7.3+ and with 16:9, 4:3 and small 4:3 screens like GPi CASE**.
+**Theme is compatible with Recalbox 8.0+ and with 16:9, 4:3 and small 4:3 screens like GPi CASE**.
 
 Here are some screenshots of some available game themes :
 
@@ -167,11 +167,11 @@ If you still have issues with 720p (mainly images replaced with white rectangle)
 
 If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
-**1080p [DOWNLOAD es-next-pixel-2.0-16x9-1080p for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-1080p.zip)**
+**1080p [DOWNLOAD es-next-pixel-2.0-16x9-1080p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-1080p.zip)**
 
-**720p [DOWNLOAD es-next-pixel-2.0-16x9-720p for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-720p.zip)**
+**720p [DOWNLOAD es-next-pixel-2.0-16x9-720p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-720p.zip)**
 
-**480p [DOWNLOAD es-next-pixel-2.0-16x9-480p for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-480p.zip)**
+**480p [DOWNLOAD es-next-pixel-2.0-16x9-480p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-16x9-480p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 7.2.2 or lower.
 
@@ -188,9 +188,9 @@ From this file search for *hdmi_group* and *hdmi_mode* and set both as following
 
 Don't forget to remove '#' char on those lines if present.
 
-**1024x768 [DOWNLOAD es-next-pixel-2.0-4x3-768p for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-4x3-768p.zip)**
+**1024x768 [DOWNLOAD es-next-pixel-2.0-4x3-768p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-4x3-768p.zip)**
 
-**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-2.0-4x3-240p for Recalbox 7.3+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-4x3-240p.zip)**
+**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-2.0-4x3-240p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-next-pixel-2.0-4x3-240p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 7.2.2 or lower.
 

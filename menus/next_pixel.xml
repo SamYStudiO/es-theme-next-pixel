@@ -47,7 +47,8 @@
 			<iconQuit>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Quit.png</iconQuit>
 			<iconRestart>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Restart.png</iconRestart>
 			<iconShutdown>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Shutdown.png</iconShutdown>
-			<iconFastShutdown>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Fastshutdown.png</iconFastShutdown>			
+			<iconFastShutdown>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Fastshutdown.png</iconFastShutdown>
+			<iconLicense>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/License.png</iconLicense>
 		</menuIcons>
 
 	</view>

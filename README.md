@@ -167,11 +167,11 @@ If you still have issues with 720p (mainly images replaced with white rectangle)
 
 If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
-**1080p [DOWNLOAD es-next-pixel-2.0-16x9-1080p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-16x9-1080p.zip)**
+**1080p [DOWNLOAD es-next-pixel-v2-16x9-1080p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-16x9-1080p.zip)**
 
-**720p [DOWNLOAD es-next-pixel-2.0-16x9-720p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-16x9-720p.zip)**
+**720p [DOWNLOAD es-next-pixel-v2-16x9-720p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-16x9-720p.zip)**
 
-**480p [DOWNLOAD es-next-pixel-2.0-16x9-480p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-16x9-480p.zip)**
+**480p [DOWNLOAD es-next-pixel-v2-16x9-480p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-16x9-480p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 7.2.2 or lower.
 
@@ -188,9 +188,9 @@ From this file search for *hdmi_group* and *hdmi_mode* and set both as following
 
 Don't forget to remove '#' char on those lines if present.
 
-**1024x768 [DOWNLOAD es-next-pixel-2.0-4x3-768p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-4x3-768p.zip)**
+**1024x768 [DOWNLOAD es-next-pixel-v2-4x3-768p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-4x3-768p.zip)**
 
-**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-2.0-4x3-240p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-4x3-240p.zip)**
+**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-v2-4x3-240p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-4x3-240p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 7.2.2 or lower.
 

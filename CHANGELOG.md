@@ -1,5 +1,6 @@
 ### Changelog
 2022/xx/xx - 2.1
+- Fix game list from ti994a system
 - Fix missing frogger game from zx81 system
 - Fix frogger color accent
 - Fix thexder game id from various systems

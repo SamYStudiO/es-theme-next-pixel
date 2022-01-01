@@ -1,6 +1,7 @@
 ### Changelog
 2022/xx/xx - 2.1
 - Fix frogger color accent
+- Fix thexder game id from various systems
 - Update game by genre lists
 
 2021/11/28 - 2.0

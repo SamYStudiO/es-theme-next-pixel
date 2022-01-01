@@ -102,16 +102,6 @@ All contributors and donators may ask for a custom version with game themes of t
 Contact me to get it!
 
 
-### Unofficial system support
-Next pixel theme support game themes for systems not or not anymore supported by Recalbox.
-Actual extra supported system are:
-- cavestory
-- doom
-- msx2+
-
-To add these systems to Recalbox check this [documentation](https://recalbox.gitbook.io/documentation/other/configuration/display-of-systems#add-a-custom-system)
-
-
 ### Copyright
 - All game theme images are exclusive for Recalbox distribution, if you want to redistribute this theme you'll have to replace these images.
 - Theme is based on recabox-next theme so some assets may be licensed by [Recalbox](https://gitlab.com/recalbox/recalbox-themes), Recalbox license always prevail for these assets (so this theme **MIT license is only applicable for xml files**).

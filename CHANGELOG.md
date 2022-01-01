@@ -7,6 +7,7 @@
 - Fix frogger color accent
 - Fix thexder game id from various systems
 - Update game by genre lists
+- Remove unofficial system support
 
 2021/11/28 - 2.0
 - Add bbcmicro support

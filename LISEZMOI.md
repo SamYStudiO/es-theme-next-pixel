@@ -94,15 +94,6 @@ Tous les contributeurs et donateurs peuvent demander une version personnalisée 
 Contactez moi pour l'obtenir!
 
 
-### Support de systèmes non officiel
-Le thème Next Pixel supporte des thèmes de jeu pour des systèmes qui ne sont pas/plus supportés par Recalbox.
-Actuellement les systèmes supplémentaires supportés sont:
-- cavestory
-- doom
-- msx2+
-
-Pour ajouter ces systèmes à Recalbox lisez cette [documentation](https://recalbox.gitbook.io/documentation/v/francais/utilisateur-avance/configurations/affichage-des-systemes#ajouter-un-systeme-custom)
-
 ### Copyright
 - Toutes les images des thèmes de jeux sont une exlcusivité pour la distribution Recalbox, si vous voulez redistribuer ce thème vous devez remplacer ces images.
 - Le thème est basé sur le thème recalbox-next il y a donc des éléments qui peuvent déjà être sous license par [Recalbox](https://gitlab.com/recalbox/recalbox-themes), la license de Recalbox est toujours prioritaire pour ces éléments (la license du thème Next Pixel **MIT est donc seulement applicable pour les fichiers xml**).

@@ -1,14 +1,13 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 bowling
-buffers_evolution
 chase_hq
 crazy_taxi
 daytona_usa_2_power_edition
 f_zero
 f_zero_x
+lunar_rover_patrol
 mario_kart_8
-metroid_zero_mission
 okamoto_ayako_no_match_play_golf
 pocket_tennis
 sega_rally

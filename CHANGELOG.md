@@ -1,4 +1,8 @@
 ### Changelog
+2022/xx/xx - 2.1
+- Fix frogger color accent
+- Update game by genre lists
+
 2021/11/28 - 2.0
 - Add bbcmicro support
 - Add trs80coco support

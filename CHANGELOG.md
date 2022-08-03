@@ -6,6 +6,7 @@
 - Fix missing frogger game from zx81 system
 - Fix frogger color accent
 - Fix thexder game id from various systems
+- Fix naomigd mix was not using right arcade assets
 - Update game by genre lists
 - Remove unofficial system support
 

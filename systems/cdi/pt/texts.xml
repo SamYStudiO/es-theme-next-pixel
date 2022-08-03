@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+		
+		<text name="info1" extra="true">
+			<text>Manufacturer : Philips, Magnavox</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1991 (US) 1992 (EU)</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : CD-RTOS (Compact Disc Real Time Operating System)</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : 16-bit CISC (680070) running @ 15.5 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 1 MB / VRAM : 1 MB</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : 512 KB</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : SCC66470, later MCD 212</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound chip : 16-bit Stereo Sound with 44.1 KHz Sound Sampling Rate</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolution : 384x280 to 768x560 (16.7 million colours)</text>
+		</text>
+
+	</view>
+	
+</theme>

@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(cavestory,cavestory_a0)/vertical_wheel.xml</include>
-
-</theme>

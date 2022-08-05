@@ -1,16 +1,17 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 another_world
-laigle_dor
+defender_of_the_crown_amigacdtv
+girls_garden
 maniac_mansion_apple2_scummvm
 myst
 pirate_cove
-the_secret_of_monkey_island_macintosh_pc_scummvm
+ranma_hiryu_densetsu
 shenmue
 simon_the_sorcerer
 snatcher
-the_legend_of_zelda_the_minish_cap
 the_legend_of_zelda_twilight_princess
+the_secret_of_monkey_island_macintosh_pc_scummvm
 # Do not edit below this line
 )
 

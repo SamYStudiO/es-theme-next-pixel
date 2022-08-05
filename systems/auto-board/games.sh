@@ -1,5 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
+gegege_no_kitarou
 monopoly
 risk
 # Do not edit below this line

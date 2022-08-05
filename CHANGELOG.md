@@ -1,4 +1,18 @@
 ### Changelog
+2022/xx/xx - 2.1
+- Add cdi support
+- Add megaduck support
+- Fix game list from bbcmicro system
+- Fix missing frogger game from dragon system
+- Fix game list from ti994a system
+- Fix missing frogger game from zx81 system
+- Fix frogger color accent
+- Fix thexder game id from various systems
+- Fix naomigd mix was not using right arcade assets
+- Fix typo in neogeocd texts
+- Update game by genre lists
+- Remove unofficial system support
+
 2021/11/28 - 2.0
 - Add bbcmicro support
 - Add trs80coco support

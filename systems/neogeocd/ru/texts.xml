@@ -14,7 +14,7 @@
 			<text>Продано устройств : 570000</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>CPU : 16-бит Motorolla 68000 на 12МГц, 8-бит Zilog Z80 на 4МГц</text>
+			<text>CPU : 16-бит Motorola 68000 на 12МГц, 8-бит Zilog Z80 на 4МГц</text>
 		</text>
 		<text name="info5" extra="true">
 			<text>ОЗУ : 7 МБ ОЗУ</text>

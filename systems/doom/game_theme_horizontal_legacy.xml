@@ -1,6 +1,0 @@
-<theme>
-
-	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(doom)/horizontal_legacy.xml</include>
-
-</theme>

@@ -3,6 +3,8 @@ list=(
 defender_of_the_crown_amigacdtv
 der_langrisser
 fire_emblem_awakening
+lemmings_lynx
+monopoly
 pikmin_2
 pikmin_3
 rampart

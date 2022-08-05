@@ -8,7 +8,6 @@ seirei_senshi_spriggan
 space_harrier_pcengine
 space_invaders
 super_stardust
-
 # Do not edit below this line
 )
 

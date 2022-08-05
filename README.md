@@ -1,11 +1,11 @@
-![fr](https://www.countryflags.io/fr/shiny/24.png) Pour les non anglophone la documentation en français est disponible [**ici**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LISEZMOI.md)!<br/>
-![es](https://www.countryflags.io/es/shiny/24.png) La documentación en español está disponible [**aquí**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEEME.md)!<br/>
-![de](https://www.countryflags.io/de/shiny/24.png) Eine Dokumentation in deutscher Sprache finden Sie [**hier**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LIESMICH.md)!<br/>
-![it](https://www.countryflags.io/it/shiny/24.png) La documentazione in italiano è disponibile [**qui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEGGIMI.md)!<br/>
-![pt](https://www.countryflags.io/pt/shiny/24.png) A documentação em português está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md)!<br/>
-![br](https://www.countryflags.io/br/shiny/24.png) A documentação em brasileira está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME_BR.md)!<br/>
+![fr](https://flagcdn.com/24x18/fr.png) Pour les non anglophone la documentation en français est disponible [**ici**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LISEZMOI.md)!  
+![es](https://flagcdn.com/24x18/es.png) La documentación en español está disponible [**aquí**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEEME.md)!  
+![de](https://flagcdn.com/24x18/de.png) Eine Dokumentation in deutscher Sprache finden Sie [**hier**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LIESMICH.md)!  
+![it](https://flagcdn.com/24x18/it.png) La documentazione in italiano è disponibile [**qui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEGGIMI.md)!  
+![pt](https://flagcdn.com/24x18/pt.png) A documentação em português está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md)!  
+![br](https://flagcdn.com/24x18/br.png) A documentação em brasileira está disponível [**aqui**](https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME_BR.md)!  
 
-### ![gb](https://www.countryflags.io/gb/shiny/32.png)![us](https://www.countryflags.io/us/shiny/32.png)<br/>Hi and welcome to [Next Pixel theme v2](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)
+### ![gb](https://flagcdn.com/24x18/gb.png) ![us](https://flagcdn.com/24x18/us.png) Hi and welcome to [Next Pixel theme v2](https://samystudio.github.io/es-theme-next-pixel/) for [Recalbox](https://www.recalbox.com/)
 ### !!! More game themes, more retro, more emotional !!!
 This theme is designed to display a full screen image for every system that matches a game box illustration or artwork at the time game was released. All systems will randomly display a **different game theme each time Recalbox is started** (at least 2 game themes are available for each system).
 It is based on recabox-next theme so you'll get all advantages of it (region settings, game list layout settings, etc..) + several options so you can get a visual that suits you. 
@@ -102,16 +102,6 @@ All contributors and donators may ask for a custom version with game themes of t
 Contact me to get it!
 
 
-### Unofficial system support
-Next pixel theme support game themes for systems not or not anymore supported by Recalbox.
-Actual extra supported system are:
-- cavestory
-- doom
-- msx2+
-
-To add these systems to Recalbox check this [documentation](https://recalbox.gitbook.io/documentation/other/configuration/display-of-systems#add-a-custom-system)
-
-
 ### Copyright
 - All game theme images are exclusive for Recalbox distribution, if you want to redistribute this theme you'll have to replace these images.
 - Theme is based on recabox-next theme so some assets may be licensed by [Recalbox](https://gitlab.com/recalbox/recalbox-themes), Recalbox license always prevail for these assets (so this theme **MIT license is only applicable for xml files**).
@@ -167,11 +157,11 @@ If you still have issues with 720p (mainly images replaced with white rectangle)
 
 If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
-**1080p [DOWNLOAD es-next-pixel-2.0-16x9-1080p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-16x9-1080p.zip)**
+**1080p [DOWNLOAD es-next-pixel-v2-16x9-1080p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-16x9-1080p.zip)**
 
-**720p [DOWNLOAD es-next-pixel-2.0-16x9-720p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-16x9-720p.zip)**
+**720p [DOWNLOAD es-next-pixel-v2-16x9-720p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-16x9-720p.zip)**
 
-**480p [DOWNLOAD es-next-pixel-2.0-16x9-480p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-16x9-480p.zip)**
+**480p [DOWNLOAD es-next-pixel-v2-16x9-480p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-16x9-480p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 7.2.2 or lower.
 
@@ -188,9 +178,9 @@ From this file search for *hdmi_group* and *hdmi_mode* and set both as following
 
 Don't forget to remove '#' char on those lines if present.
 
-**1024x768 [DOWNLOAD es-next-pixel-2.0-4x3-768p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-4x3-768p.zip)**
+**1024x768 [DOWNLOAD es-next-pixel-v2-4x3-768p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-4x3-768p.zip)**
 
-**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-2.0-4x3-240p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-4x3-240p.zip)**
+**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-v2-4x3-240p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-4x3-240p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 7.2.2 or lower.
 

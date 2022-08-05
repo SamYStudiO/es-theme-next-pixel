@@ -1,6 +1,6 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(default)/gamelist.xml</include>
+	<include>./../../games/$random(pichu_bros_mini)/gamelist.xml</include>
 
 </theme>

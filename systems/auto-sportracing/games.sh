@@ -1,13 +1,12 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-buffers_evolution
 chase_hq
 crazy_taxi
 daytona_usa_2_power_edition
 f_zero
 f_zero_x
+lunar_rover_patrol
 mario_kart_8
-metroid_zero_mission
 sega_rally
 super_mario_kart
 vs_excitebike

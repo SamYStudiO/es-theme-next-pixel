@@ -1,6 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-alien_breed_3d
+armor_attack
 bayonetta_2
 beats_of_rage
 bowling
@@ -9,6 +9,7 @@ burgertime
 capcom_vs_snk_2_millenium_fight_2001
 capcom_vs_snk_millenium_fight_2000
 chuckie_egg
+daimakai_mura_x68000
 dolphin_blue
 donkey_kong_country
 donkey_kong_junior
@@ -41,16 +42,18 @@ pichu_bros_mini
 pikmin_2
 pinball_challenge
 pocket_tennis
+prince_of_persia_atarist_pc
 rampart
 rayman_legends
 river_raid
 samurai_shodown
 scramble
+sd_gundam_colony_kakutouki
 secret_of_mana
 shark_shark
+sonic_3
 space_invaders
 stone_sling
-street_fighter
 street_fighter_ii
 street_fighter_zero_3
 streets_of_rage_2_megadrive

@@ -1,6 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-default
+pichu_bros_mini
 # Do not edit below this line
 )
 

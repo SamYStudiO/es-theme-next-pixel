@@ -18,11 +18,15 @@ duck_tales
 earthworm_jim
 gex
 hunchback
+leggit
 lode_runner
+lupin_sansei
 madou_king_granzort
 metal_slug_3
 metal_slug_6
 metroid_samus_return
+metroid_zero_mission
+new_super_mario_bros
 pitfall_atari5200_colecovision
 prince_of_persia_atarist_pc
 prince_of_persia_the_sands_of_time
@@ -39,6 +43,7 @@ super_mario_64
 super_mario_bros_3
 super_mario_galaxy
 super_mario_land
+teenage_mutant_ninja_turtles
 turrican_ii_amiga600_amigacdtv
 virtual_boy_wario_land
 # Do not edit below this line

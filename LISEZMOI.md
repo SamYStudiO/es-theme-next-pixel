@@ -9,23 +9,23 @@ Il est basé sur le thème recalbox-next, vous aurez donc tous ses avantages (pa
 
 Voici quelques captures d'écran des thèmes de jeu disponibles:
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/super_mario_64_no_info.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64_no_info.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/super_mario_64_gamelist_standard.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64_gamelist_standard.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/teenage_mutant_ninja_turtles.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/teenage_mutant_ninja_turtles.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/street_of_rage_2.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/street_of_rage_2.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/robocop_2.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/robocop_2.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/ms_pac_man.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/ms_pac_man.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/metal_slug_3.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/metal_slug_3.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/the_secret_of_monkey_island.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/the_secret_of_monkey_island.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/_screenshots/space_harrier.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/space_harrier.png)
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/scramble.gif)
 
@@ -94,15 +94,6 @@ Tous les contributeurs et donateurs peuvent demander une version personnalisée 
 Contactez moi pour l'obtenir!
 
 
-### Support de systèmes non officiel
-Le thème Next Pixel supporte des thèmes de jeu pour des systèmes qui ne sont pas/plus supportés par Recalbox.
-Actuellement les systèmes supplémentaires supportés sont:
-- cavestory
-- doom
-- msx2+
-
-Pour ajouter ces systèmes à Recalbox lisez cette [documentation](https://recalbox.gitbook.io/documentation/v/francais/utilisateur-avance/configurations/affichage-des-systemes#ajouter-un-systeme-custom)
-
 ### Copyright
 - Toutes les images des thèmes de jeux sont une exlcusivité pour la distribution Recalbox, si vous voulez redistribuer ce thème vous devez remplacer ces images.
 - Le thème est basé sur le thème recalbox-next il y a donc des éléments qui peuvent déjà être sous license par [Recalbox](https://gitlab.com/recalbox/recalbox-themes), la license de Recalbox est toujours prioritaire pour ces éléments (la license du thème Next Pixel **MIT est donc seulement applicable pour les fichiers xml**).
@@ -157,11 +148,11 @@ Si vous avez toujours des problèmes avec l'archive 720p (principalement des ima
 
 Si vous ne voulez pas changer les paramètres de la mémoire ou si vous utilisez le système PSP alors vous devriez passer sur l'archive 480p, la qualité des images sera moindre mais vous devriez pouvoir utiliser beaucoup de systèmes sans problème.
 
-**1080p [TELECHARGER es-next-pixel-2.0-16x9-1080p pour Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-16x9-1080p.zip)**
+**1080p [TELECHARGER es-next-pixel-v2-16x9-1080p pour Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-16x9-1080p.zip)**
 
-**720p [TELECHARGER es-next-pixel-2.0-16x9-720p pour Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-16x9-720p.zip)**
+**720p [TELECHARGER es-next-pixel-v2-16x9-720p pour Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-16x9-720p.zip)**
 
-**480p [TELECHARGER es-next-pixel-2.0-16x9-480p pour Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-16x9-480p.zip)**
+**480p [TELECHARGER es-next-pixel-v2-16x9-480p pour Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-16x9-480p.zip)**
 
 [Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 7.2.2 ou inférieur.
 
@@ -178,9 +169,9 @@ Dans le fichier recherchez *hdmi_group* et *hdmi_mode* et modidiez les ainsi :
 
 N'oubliez pas de retirer le caractère '#' s'il est présent sur ces lignes.
 
-**1024x768 [TELECHARGER es-next-pixel-2.0-4x3-768p pour Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-4x3-768p.zip)**
+**1024x768 [TELECHARGER es-next-pixel-v2-4x3-768p pour Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-4x3-768p.zip)**
 
-**320x240 (GPi CASE) [TELECHARGER es-next-pixel-2.0-4x3-240p pour Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-2.0-4x3-240p.zip)**
+**320x240 (GPi CASE) [TELECHARGER es-next-pixel-v2-4x3-240p pour Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.0/es-theme-next-pixel-v2-4x3-240p.zip)**
 
 [Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 7.2.2 ou inférieur.
 

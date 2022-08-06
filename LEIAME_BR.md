@@ -13,20 +13,6 @@ Aqui estão algumas capturas de telas de alguns temas de jogos disponíveis:
 
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/super_mario_64_gamelist_standard.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/teenage_mutant_ninja_turtles.png)
-
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/street_of_rage_2.png)
-
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/robocop_2.png)
-
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/ms_pac_man.png)
-
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/metal_slug_3.png)
-
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/the_secret_of_monkey_island.png)
-
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/space_harrier.png)
-
 ![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/scramble.gif)
 
 Veja todas as imagens de temas de jogos no [website Next Pixel](https://samystudio.github.io/es-theme-next-pixel/).

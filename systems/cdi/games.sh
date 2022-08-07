@@ -1,6 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-default
+pac_panic
+the_apprentice
 # Do not edit below this line
 )
 

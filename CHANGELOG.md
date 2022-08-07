@@ -1,5 +1,5 @@
 ### Changelog
-2022/xx/xx - 2.1
+2022/08/xx - 2.1
 - Add cdi support
 - Add megaduck support
 - Fix game list from bbcmicro system
@@ -10,7 +10,7 @@
 - Fix thexder game id from various systems
 - Fix naomigd mix was not using right arcade assets
 - Fix typo in neogeocd texts
-- Update game by genre lists
+- Update game by genre game lists
 - Remove unofficial system support
 
 2021/11/28 - 2.0

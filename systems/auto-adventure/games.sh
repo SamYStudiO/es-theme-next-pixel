@@ -7,6 +7,7 @@ maniac_mansion_apple2_scummvm
 myst
 pirate_cove
 ranma_hiryu_densetsu
+second_space
 shenmue
 simon_the_sorcerer
 snatcher

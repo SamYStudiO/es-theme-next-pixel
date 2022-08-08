@@ -6,6 +6,7 @@ lode_runner
 lumines_ii
 prince_of_persia_amiga600_apple2_amstradcpc_c64
 puyo_puyo_2
+railway
 tetris_gb
 # Do not edit below this line
 )

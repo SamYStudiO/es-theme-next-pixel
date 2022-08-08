@@ -118,6 +118,7 @@ okamoto_ayako_no_match_play_golf
 one_piece_grand_battle_swan_colosseum
 operation_wolf
 pac_man
+pac_panic
 pang
 pichu_bros_mini
 pikmin_2
@@ -134,6 +135,7 @@ popful_mail
 prince_of_persia_atarist_pc
 prince_of_persia_the_sands_of_time
 puyo_puyo_2
+railway
 rampart
 ranma_hiryu_densetsu
 rayman
@@ -146,6 +148,7 @@ rockman_battle_and_fighters
 samurai_shodown
 scramble
 sd_gundam_colony_kakutouki
+second_space
 secret_of_mana
 sega_rally
 seirei_senshi_spriggan
@@ -176,6 +179,7 @@ super_stardust
 teenage_mutant_ninja_turtles
 tele_bunny
 tetris_gb
+the_apprentice
 the_king_of_fighters_98
 the_last_ninja
 the_legend_of_zelda_nes

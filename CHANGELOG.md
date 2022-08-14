@@ -1,5 +1,5 @@
 ### Changelog
-2022/08/xx - 2.1
+2022/08/14 - 2.1
 - Add cdi support
 - Add megaduck support
 - Fix game list from bbcmicro system

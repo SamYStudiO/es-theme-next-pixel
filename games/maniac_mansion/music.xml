@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+		
+		<sound name="bgsound">
+			<path>./$random(maniac_mansion_a0,maniac_mansion_a1)/music.mp3</path>
+		</sound>
+
+	</view>
+
+</theme>

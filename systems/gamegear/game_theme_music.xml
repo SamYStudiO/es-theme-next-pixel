@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(castle_of_illusion_gamegear_mastersystem,sonic_2,streets_of_rage_2_gamegear_mastersystem)/music.xml</include>
+	<include>./../../games/$random(castle_of_illusion,sonic_2,streets_of_rage_2)/music.xml</include>
+	<include>./../../games/$random(castle_of_illusion,sonic_2,streets_of_rage_2)/$system/music.xml</include>
 
 </theme>

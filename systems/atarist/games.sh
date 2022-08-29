@@ -2,10 +2,10 @@ list=(
 # Edit game list below (full game list available from ./data/games folder)
 another_world
 bubble_bobble
-defender_of_the_crown_amiga600_atarist_c64
-prince_of_persia_atarist_pc
-the_secret_of_monkey_island_atarist
-turrican_ii_atarist
+defender_of_the_crown
+prince_of_persia
+the_secret_of_monkey_island
+turrican_ii
 # Do not edit below this line
 )
 

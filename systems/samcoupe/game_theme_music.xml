@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(captain_comic,prince_of_persia_samcoupe)/music.xml</include>
+	<include>./../../games/$random(captain_comic,prince_of_persia)/music.xml</include>
+	<include>./../../games/$random(captain_comic,prince_of_persia)/$system/music.xml</include>
 
 </theme>

@@ -1,8 +1,8 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 lode_runner
-maniac_mansion_apple2_scummvm
-prince_of_persia_amiga600_apple2_amstradcpc_c64
+maniac_mansion
+prince_of_persia
 # Do not edit below this line
 )
 

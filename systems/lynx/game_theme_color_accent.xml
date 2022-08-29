@@ -1,6 +1,6 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(lemmings_lynx,rampart)/color_accent.xml</include>
+	<include>./../../games/$random(lemmings,rampart)/color_accent.xml</include>
 
 </theme>

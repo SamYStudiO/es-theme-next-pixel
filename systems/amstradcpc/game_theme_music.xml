@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(chase_hq,prince_of_persia_amiga600_apple2_amstradcpc_c64,sorcery,turrican_ii_amstradcpc)/music.xml</include>
+	<include>./../../games/$random(chase_hq,prince_of_persia,sorcery,turrican_ii)/music.xml</include>
+	<include>./../../games/$random(chase_hq,prince_of_persia,sorcery,turrican_ii)/$system/music.xml</include>
 
 </theme>

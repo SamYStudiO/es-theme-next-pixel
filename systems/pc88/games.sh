@@ -1,8 +1,8 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-gradius_msx_nes_pc88_x1
+gradius
 popful_mail
-thexder_pc88
+thexder
 # Do not edit below this line
 )
 

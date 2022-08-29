@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(defender_of_the_crown_amigacdtv,turrican_ii_amiga600_amigacdtv)/music.xml</include>
+	<include>./../../games/$random(defender_of_the_crown,turrican_ii)/music.xml</include>
+	<include>./../../games/$random(defender_of_the_crown,turrican_ii)/$system/music.xml</include>
 
 </theme>

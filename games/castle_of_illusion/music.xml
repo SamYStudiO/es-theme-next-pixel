@@ -1,0 +1,6 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+	<include>./$random(castle_of_illusion_a0,castle_of_illusion_a1)/music.mp3</include>
+
+</theme>

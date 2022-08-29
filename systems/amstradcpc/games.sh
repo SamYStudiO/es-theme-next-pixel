@@ -1,9 +1,9 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 chase_hq
-prince_of_persia_amiga600_apple2_amstradcpc_c64
+prince_of_persia
 sorcery
-turrican_ii_amstradcpc
+turrican_ii
 # Do not edit below this line
 )
 

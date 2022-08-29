@@ -23,12 +23,12 @@ frogger
 galaga
 gegege_no_kitarou
 goldeneye_007
-gradius_pcengine
+gradius
 gta_san_andreas
 he_man
 hokuto_no_ken
 king_of_fighters_r1
-lemmings_pc
+lemmings
 lupin_sansei
 mario_kart_8
 metal_slug_3
@@ -41,7 +41,7 @@ pichu_bros_mini
 pikmin_2
 pinball_challenge
 pocket_tennis
-prince_of_persia_atarist_pc
+prince_of_persia
 rampart
 rayman_legends
 river_raid
@@ -55,11 +55,11 @@ space_invaders
 stone_sling
 street_fighter_ii
 street_fighter_zero_3
-streets_of_rage_2_megadrive
+streets_of_rage_2
 super_mario_bros_3
 super_mario_galaxy
 super_mario_kart
-tetris_gb
+streets_of_rage_2
 the_king_of_fighters_98
 virtua_striker_2
 vs_excitebike

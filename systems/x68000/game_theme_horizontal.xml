@@ -1,7 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(daimakai_mura,space_harrier_x1_x68000)/horizontal.xml</include>
-	<include>./../../games/$random(daimakai_mura,space_harrier_x1_x68000)/$system/horizontal.xml</include>
+	<include>./../../games/$random(daimakai_mura,space_harrier)/horizontal.xml</include>
+	<include>./../../games/$random(daimakai_mura,space_harrier)/$system/horizontal.xml</include>
 
 </theme>

@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+		
+		<sound name="bgsound">
+			<path>./../defender_of_the_crown_a0/music.mp3</path>
+		</sound>
+
+	</view>
+
+</theme>

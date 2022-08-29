@@ -13,7 +13,7 @@ burgertime
 capcom_vs_snk_2_millenium_fight_2001
 capcom_vs_snk_millenium_fight_2000
 captain_comic
-castle_of_illusion_megadrive
+castle_of_illusion
 castlevania
 castlevania_rondo_of_blood
 celeste
@@ -39,7 +39,7 @@ gex
 god_of_war_2
 god_of_war_chains_of_olympus
 goldeneye_007
-gradius_pcengine
+gradius
 gridrunner
 guzzler
 he_man
@@ -68,7 +68,7 @@ pang
 pinball_challenge
 pitfall
 popful_mail
-prince_of_persia_atarist_pc
+prince_of_persia
 prince_of_persia_the_sands_of_time
 rayman
 rayman_legends
@@ -84,12 +84,12 @@ sonic_3
 sonic_cd
 sorcery
 space_ace
-space_harrier_pcengine
+space_harrier
 space_invaders
 street_fighter
 street_fighter_ii
 street_fighter_zero_3
-streets_of_rage_2_megadrive
+streets_of_rage_2
 super_mario_64
 super_mario_bros_3
 super_mario_galaxy
@@ -101,7 +101,7 @@ the_last_ninja
 thexder
 time_crisis_ii
 turok
-turrican_ii_amiga600_amigacdtv
+turrican_ii
 virtual_boy_wario_land
 # Do not edit below this line
 )

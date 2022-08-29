@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(maniac_mansion_apple2_scummvm,myst,simon_the_sorcerer,the_secret_of_monkey_island_macintosh_pc_scummvm)/music.xml</include>
+	<include>./../../games/$random(maniac_mansion,myst,simon_the_sorcerer,the_secret_of_monkey_island)/music.xml</include>
+	<include>./../../games/$random(maniac_mansion,myst,simon_the_sorcerer,the_secret_of_monkey_island)/$system/music.xml</include>
 
 </theme>

@@ -1,10 +1,10 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-maniac_mansion_apple2_scummvm
+maniac_mansion
 myst
 ranma_hiryu_densetsu
 simon_the_sorcerer
-the_secret_of_monkey_island_macintosh_pc_scummvm
+the_secret_of_monkey_island
 # Do not edit below this line
 )
 

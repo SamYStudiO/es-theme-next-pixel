@@ -1,6 +1,6 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(cauliflower_power,lemmings_pc,lode_runner,lumines_ii,prince_of_persia_amiga600_apple2_amstradcpc_c64,puyo_puyo_2,railway,tetris_gb)/music.xml</include>
+	<include>./../../games/$random(cauliflower_power,lemmings,lode_runner,lumines_ii,prince_of_persia,puyo_puyo_2,railway,streets_of_rage_2)/music.xml</include>
 
 </theme>

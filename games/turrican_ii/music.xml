@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+		
+		<sound name="bgsound">
+			<path>./$random(turrican_ii_a0,turrican_ii_a1,turrican_ii_a2,turrican_ii_a3)/music.mp3</path>
+		</sound>
+
+	</view>
+
+</theme>

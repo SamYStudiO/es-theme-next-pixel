@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(bubble_bobble,metal_gear_2_solid_snake,thexder_msx_msx2_x1)/music.xml</include>
+	<include>./../../games/$random(bubble_bobble,metal_gear_2_solid_snake,thexder)/music.xml</include>
+	<include>./../../games/$random(bubble_bobble,metal_gear_2_solid_snake,thexder)/$system/music.xml</include>
 
 </theme>

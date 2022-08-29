@@ -1,7 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(arkanoid,frogger,thexder_trs80coco)/gamelist.xml</include>
-	<include>./../../games/$random(arkanoid,frogger,thexder_trs80coco)/$system/gamelist.xml</include>
+	<include>./../../games/$random(arkanoid,frogger,thexder)/gamelist.xml</include>
+	<include>./../../games/$random(arkanoid,frogger,thexder)/$system/gamelist.xml</include>
 
 </theme>

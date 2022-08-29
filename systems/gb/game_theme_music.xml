@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(super_mario_land,tetris_gb,the_legend_of_zelda_links_awakening)/music.xml</include>
+	<include>./../../games/$random(super_mario_land,streets_of_rage_2,the_legend_of_zelda_links_awakening)/music.xml</include>
+	<include>./../../games/$random(super_mario_land,streets_of_rage_2,the_legend_of_zelda_links_awakening)/$system/music.xml</include>
 
 </theme>

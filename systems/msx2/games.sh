@@ -2,7 +2,7 @@ list=(
 # Edit game list below (full game list available from ./data/games folder)
 bubble_bobble
 metal_gear_2_solid_snake
-thexder_msx_msx2_x1
+thexder
 # Do not edit below this line
 )
 

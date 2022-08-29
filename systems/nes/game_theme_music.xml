@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(castlevania,duck_tales,gradius_msx_nes_pc88_x1,super_mario_bros_3,teenage_mutant_ninja_turtles,tetris_nes,the_legend_of_zelda_nes)/music.xml</include>
+	<include>./../../games/$random(castlevania,duck_tales,gradius,super_mario_bros_3,teenage_mutant_ninja_turtles,streets_of_rage_2,the_legend_of_zelda)/music.xml</include>
+	<include>./../../games/$random(castlevania,duck_tales,gradius,super_mario_bros_3,teenage_mutant_ninja_turtles,streets_of_rage_2,the_legend_of_zelda)/$system/music.xml</include>
 
 </theme>

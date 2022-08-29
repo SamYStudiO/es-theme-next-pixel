@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 bubble_bobble
-castle_of_illusion_megadrive
+castle_of_illusion
 crash_bandicoot_2
 donkey_kong
 donkey_kong_country
@@ -14,9 +14,9 @@ final_fantasy_vii
 f_zero
 gex
 goldeneye_007
-gradius_pcengine
+gradius
 last_of_us
-lemmings_pc
+lemmings
 missile_command
 myst
 pac_man
@@ -27,15 +27,15 @@ secret_of_mana
 sega_rally
 sim_city_2000
 sonic_2
-streets_of_rage_2_megadrive
+streets_of_rage_2
 street_fighter
 super_mario_64
 super_mario_bros_3
 super_mario_kart
 super_mario_land
 teenage_mutant_ninja_turtles
-tetris_gb
-the_legend_of_zelda_nes
+streets_of_rage_2
+the_legend_of_zelda
 the_legend_of_zelda_breath_of_the_wild
 the_legend_of_zelda_links_awakening
 the_legend_of_zelda_link_to_the_past

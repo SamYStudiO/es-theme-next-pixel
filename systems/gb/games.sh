@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 super_mario_land
-tetris_gb
+streets_of_rage_2
 the_legend_of_zelda_links_awakening
 # Do not edit below this line
 )

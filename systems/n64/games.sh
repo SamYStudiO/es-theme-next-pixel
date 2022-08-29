@@ -1,12 +1,8 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 f_zero_x
-f_zero_x_a0
-goldeneye_007
 goldeneye_007
 super_mario_64
-super_mario_64
-turok
 turok
 # Do not edit below this line
 )

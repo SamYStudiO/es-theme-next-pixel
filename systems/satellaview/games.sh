@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 f_zero
-the_legend_of_zelda_satellaview
+the_legend_of_zelda
 # Do not edit below this line
 )
 

@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(castle_of_illusion_megadrive,earthworm_jim,sonic_3,streets_of_rage_2_megadrive)/music.xml</include>
+	<include>./../../games/$random(castle_of_illusion,earthworm_jim,sonic_3,streets_of_rage_2)/music.xml</include>
+	<include>./../../games/$random(castle_of_illusion,earthworm_jim,sonic_3,streets_of_rage_2)/$system/music.xml</include>
 
 </theme>

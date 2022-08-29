@@ -4,7 +4,7 @@ alex_kidd_in_miracle_world
 blackthorne
 bubble_bobble
 captain_comic
-castle_of_illusion_megadrive
+castle_of_illusion
 castlevania_rondo_of_blood
 celeste
 chuckie_egg
@@ -28,7 +28,7 @@ metroid_samus_return
 metroid_zero_mission
 new_super_mario_bros
 pitfall
-prince_of_persia_atarist_pc
+prince_of_persia
 prince_of_persia_the_sands_of_time
 rayman
 rayman_legends
@@ -44,7 +44,7 @@ super_mario_bros_3
 super_mario_galaxy
 super_mario_land
 teenage_mutant_ninja_turtles
-turrican_ii_amiga600_amigacdtv
+turrican_ii
 virtual_boy_wario_land
 # Do not edit below this line
 )

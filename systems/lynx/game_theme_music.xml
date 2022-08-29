@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(lemmings_lynx,rampart)/music.xml</include>
+	<include>./../../games/$random(lemmings,rampart)/music.xml</include>
+	<include>./../../games/$random(lemmings,rampart)/$system/music.xml</include>
 
 </theme>

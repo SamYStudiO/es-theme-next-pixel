@@ -1,6 +1,6 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(another_world,defender_of_the_crown_amigacdtv,girls_garden,maniac_mansion_apple2_scummvm,myst,pirate_cove,ranma_hiryu_densetsu,second_space,shenmue,simon_the_sorcerer,snatcher,the_legend_of_zelda_twilight_princess,the_secret_of_monkey_island_macintosh_pc_scummvm)/horizontal_legacy.xml</include>
+	<include>./../../games/$random(another_world,defender_of_the_crown,girls_garden,maniac_mansion,myst,pirate_cove,ranma_hiryu_densetsu,second_space,shenmue,simon_the_sorcerer,snatcher,the_legend_of_zelda_twilight_princess,the_secret_of_monkey_island)/horizontal_legacy.xml</include>
 
 </theme>

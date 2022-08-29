@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-defender_of_the_crown_amigacdtv
-turrican_ii_amiga600_amigacdtv
+defender_of_the_crown
+turrican_ii
 # Do not edit below this line
 )
 

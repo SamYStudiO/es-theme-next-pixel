@@ -11,7 +11,7 @@ mystery_of_solarus_dx
 pokemon
 secret_of_mana
 the_legend_of_zelda_link_to_the_past
-the_legend_of_zelda_nes
+the_legend_of_zelda
 the_legend_of_zelda_links_awakening
 the_legend_of_zelda_oracle_of_seasons
 the_legend_of_zelda_the_minish_cap

@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(f_zero,the_legend_of_zelda_satellaview)/music.xml</include>
+	<include>./../../games/$random(f_zero,the_legend_of_zelda)/music.xml</include>
+	<include>./../../games/$random(f_zero,the_legend_of_zelda)/$system/music.xml</include>
 
 </theme>

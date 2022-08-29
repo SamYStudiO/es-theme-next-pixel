@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+		
+		<sound name="bgsound">
+			<path>./$random(gradius_a0,gradius_a1)/music.xml</path>
+		</sound>
+
+	</view>
+
+</theme>

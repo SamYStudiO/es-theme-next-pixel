@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(gradius_msx_nes_pc88_x1,popful_mail,thexder_pc88)/music.xml</include>
+	<include>./../../games/$random(gradius,popful_mail,thexder)/music.xml</include>
+	<include>./../../games/$random(gradius,popful_mail,thexder)/$system/music.xml</include>
 
 </theme>

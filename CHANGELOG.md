@@ -1,4 +1,8 @@
 ### Changelog
+2022/xx/xx - 2.1.1
+- Fix some game ids
+- Change way of handling alternate game theme medias, this makes game folder more readable as _common folder and xxx_a0 doesn 't exists anymore.
+
 2022/08/14 - 2.1
 - Add cdi support
 - Add megaduck support

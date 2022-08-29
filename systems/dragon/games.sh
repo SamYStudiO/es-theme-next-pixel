@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 chuckie_egg
-frogger_dragon_trs80coco_zx81
+frogger
 leggit
 lunar_rover_patrol
 # Do not edit below this line

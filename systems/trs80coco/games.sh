@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 arkanoid
-frogger_dragon_trs80coco_zx81
+frogger
 thexder_trs80coco
 # Do not edit below this line
 )

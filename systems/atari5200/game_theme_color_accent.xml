@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(frogger,ms_pac_man,pitfall_atari5200_colecovision)/color_accent.xml</include>
+	<include>./../../games/$random(frogger,ms_pac_man,pitfall)/color_accent.xml</include>
+	<include>./../../games/$random(frogger,ms_pac_man,pitfall)/$system/color_accent.xml</include>
 
 </theme>

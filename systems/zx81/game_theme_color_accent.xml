@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(frogger_dragon_trs80coco_zx81,mazogs,night_gunner)/color_accent.xml</include>
+	<include>./../../games/$random(frogger,mazogs,night_gunner)/color_accent.xml</include>
+	<include>./../../games/$random(frogger,mazogs,night_gunner)/$system/color_accent.xml</include>
 
 </theme>

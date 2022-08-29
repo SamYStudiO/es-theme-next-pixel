@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(burgertime,frogger,pitfall_atari5200_colecovision)/music.xml</include>
+	<include>./../../games/$random(burgertime,frogger,pitfall)/music.xml</include>
+	<include>./../../games/$random(burgertime,frogger,pitfall)/$system/music.xml</include>
 
 </theme>

@@ -2,5 +2,6 @@
 
 	<formatVersion>4</formatVersion>
 	<include>./../../games/$random(frogger,shark_shark)/color_accent.xml</include>
+	<include>./../../games/$random(frogger,shark_shark)/$system/color_accent.xml</include>
 
 </theme>

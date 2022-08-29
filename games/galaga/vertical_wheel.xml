@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./$random(galaga_a0,galaga_a1)/background_wheel.jpg</path>
+		</image>
+
+	</view>
+
+</theme>

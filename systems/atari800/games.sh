@@ -3,7 +3,7 @@ list=(
 donkey_kong_junior
 frogger
 lode_runner
-pitfall_atari800_atari2600
+pitfall
 # Do not edit below this line
 )
 

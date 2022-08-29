@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(donkey_kong,galaga_arcade_fba_fbneo_mame,operation_wolf,pac_man,space_invaders,time_crisis_ii,street_fighter)/horizontal.xml</include>
+	<include>./../../games/$random(donkey_kong,galaga,operation_wolf,pac_man,space_invaders,time_crisis_ii,street_fighter)/horizontal.xml</include>
+	<include>./../../games/$random(donkey_kong,galaga,operation_wolf,pac_man,space_invaders,time_crisis_ii,street_fighter)/$system/horizontal.xml</include>
 
 </theme>

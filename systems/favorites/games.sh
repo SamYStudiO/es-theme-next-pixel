@@ -20,7 +20,7 @@ lemmings_pc
 missile_command
 myst
 pac_man
-pitfall_atari5200_colecovision
+pitfall
 rayman
 rayman_legends
 secret_of_mana

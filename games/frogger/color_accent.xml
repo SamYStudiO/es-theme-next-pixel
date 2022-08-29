@@ -1,37 +1,6 @@
 ﻿<theme>
 
 	<formatVersion>4</formatVersion>
-	
-	<!-- color 48726a -->
-
-	<view name="system">
-	
-		<image name="background" extra="true" />
-	
-		<image name="system_carousel_background" extra="true">
-			<color>48726a</color>
-		</image>
-		
-		<image name="system_carousel_border" extra="true">
-			<color>48726a</color>
-		</image>
-		
-	</view>
-	
-	<view name="basic, detailed">
-
-		<image name="gamelist_background" extra="true">
-			<color>48726a</color>
-		</image>
-	
-		<textlist name="gamelist">
-			<selectorColor>48726a</selectorColor>
-		</textlist>
-		
-		<image name="gamelist_border" extra="true">
-			<color>48726a</color>
-		</image>
-	 
-	</view>
+	<include>./$random(frogger_a0,frogger_a1)/color_accent.xml</include>
 	
 </theme>

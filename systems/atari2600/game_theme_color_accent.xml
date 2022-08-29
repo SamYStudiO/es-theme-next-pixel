@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(frogger,missile_command,pitfall_atari800_atari2600,river_raid)/color_accent.xml</include>
+	<include>./../../games/$random(frogger,missile_command,pitfall,river_raid)/color_accent.xml</include>
+	<include>./../../games/$random(frogger,missile_command,pitfall,river_raid)/$system/color_accent.xml</include>
 
 </theme>

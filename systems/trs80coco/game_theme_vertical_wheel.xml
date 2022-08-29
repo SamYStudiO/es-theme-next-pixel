@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(arkanoid,frogger_dragon_trs80coco_zx81,thexder_trs80coco)/vertical_wheel.xml</include>
+	<include>./../../games/$random(arkanoid,frogger,thexder_trs80coco)/vertical_wheel.xml</include>
+	<include>./../../games/$random(arkanoid,frogger,thexder_trs80coco)/$system/vertical_wheel.xml</include>
 
 </theme>

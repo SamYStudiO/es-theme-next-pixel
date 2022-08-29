@@ -4,12 +4,12 @@
 
 	<view name="basic, detailed">
 		
-		<image name="background" extra="true">
-			<path>./background_gamelist_left.png</path>
+		<image name="background_left" extra="true">
+			<path>./$random(frogger_a0,frogger_a1)/background_gamelist_left.png</path>
 		</image>
 		
 		<image name="background_right" extra="true">
-			<path>./background_gamelist_right.jpg</path>
+			<path>./$random(frogger_a0,frogger_a1)/background_gamelist_right.jpg</path>
 		</image>
 
 	</view>

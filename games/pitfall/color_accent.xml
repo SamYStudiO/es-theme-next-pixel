@@ -1,0 +1,6 @@
+﻿<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./$random(pitfall_a0,pitfall_a1)/color_accent.xml</include>
+	
+</theme>

@@ -1,8 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 cavestory
-cavestory_a0
-doom
 doom
 # Do not edit below this line
 )

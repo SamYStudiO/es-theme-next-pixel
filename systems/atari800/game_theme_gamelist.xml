@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(donkey_kong_junior,frogger,lode_runner,pitfall_atari800_atari2600)/gamelist.xml</include>
+	<include>./../../games/$random(donkey_kong_junior,frogger,lode_runner,pitfall)/gamelist.xml</include>
+	<include>./../../games/$random(donkey_kong_junior,frogger,lode_runner,pitfall)/$system/gamelist.xml</include>
 
 </theme>

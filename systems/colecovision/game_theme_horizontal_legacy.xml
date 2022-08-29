@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(burgertime,frogger,pitfall_atari5200_colecovision)/horizontal_legacy.xml</include>
+	<include>./../../games/$random(burgertime,frogger,pitfall)/horizontal_legacy.xml</include>
+	<include>./../../games/$random(burgertime,frogger,pitfall)/$system/horizontal_legacy.xml</include>
 
 </theme>

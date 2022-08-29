@@ -2,5 +2,6 @@
 
 	<formatVersion>4</formatVersion>
 	<include>./../../games/$random(frogger,shark_shark)/vertical_wheel.xml</include>
+	<include>./../../games/$random(frogger,shark_shark)/$system/vertical_wheel.xml</include>
 
 </theme>

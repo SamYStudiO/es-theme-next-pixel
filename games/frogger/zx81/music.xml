@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+		
+		<sound name="bgsound">
+			<path>./../frogger_a1/music.mp3</path>
+		</sound>
+
+	</view>
+
+</theme>

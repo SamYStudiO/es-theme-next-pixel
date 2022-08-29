@@ -27,7 +27,7 @@ metal_slug_6
 metroid_samus_return
 metroid_zero_mission
 new_super_mario_bros
-pitfall_atari5200_colecovision
+pitfall
 prince_of_persia_atarist_pc
 prince_of_persia_the_sands_of_time
 rayman

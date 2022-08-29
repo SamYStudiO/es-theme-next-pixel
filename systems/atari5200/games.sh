@@ -2,7 +2,7 @@ list=(
 # Edit game list below (full game list available from ./data/games folder)
 frogger
 ms_pac_man
-pitfall_atari5200_colecovision
+pitfall
 # Do not edit below this line
 )
 

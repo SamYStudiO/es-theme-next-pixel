@@ -33,7 +33,7 @@ duck_tales
 earthworm_jim
 exile
 frogger
-galaga_arcade_fba_fbneo_mame
+galaga
 ganso_jajamaru_kun
 gex
 god_of_war_2
@@ -66,8 +66,7 @@ one_piece_grand_battle_swan_colosseum
 operation_wolf
 pang
 pinball_challenge
-pitfall_atari800_atari2600
-pitfall_atari5200_colecovision
+pitfall
 popful_mail
 prince_of_persia_atarist_pc
 prince_of_persia_the_sands_of_time

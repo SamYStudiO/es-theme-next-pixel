@@ -1,0 +1,6 @@
+﻿<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./$random(galaga_a0,galaga_a1)/color_accent.xml</include>
+	
+</theme>

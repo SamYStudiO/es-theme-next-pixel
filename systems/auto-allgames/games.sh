@@ -28,7 +28,6 @@ castlevania
 castlevania_rondo_of_blood
 cauliflower_power
 cavestory
-cavestory_a0
 celeste
 chase_hq
 choplifter
@@ -58,8 +57,7 @@ final_fantasy_vii
 fire_emblem_awakening
 frantic_freddy
 frogger
-galaga_arcade_fba_fbneo_mame
-galaga_atari7800
+galaga
 ganso_jajamaru_kun
 gegege_no_kitarou
 gex
@@ -125,8 +123,7 @@ pikmin_3
 pinball_challenge
 pirate_cove
 pirates
-pitfall_atari800_atari2600
-pitfall_atari5200_colecovision
+pitfall
 pocket_tennis
 pokemon
 pokemon_breeder_mini

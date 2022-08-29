@@ -2,5 +2,6 @@
 
 	<formatVersion>4</formatVersion>	
 	<include>./../../games/$random(frogger,shark_shark)/music.xml</include>
+	<include>./../../games/$random(frogger,shark_shark)/$system/music.xml</include>
 
 </theme>

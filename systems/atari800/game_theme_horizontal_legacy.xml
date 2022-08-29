@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(donkey_kong_junior,frogger,lode_runner,pitfall_atari800_atari2600)/horizontal_legacy.xml</include>
+	<include>./../../games/$random(donkey_kong_junior,frogger,lode_runner,pitfall)/horizontal_legacy.xml</include>
+	<include>./../../games/$random(donkey_kong_junior,frogger,lode_runner,pitfall)/$system/horizontal_legacy.xml</include>
 
 </theme>

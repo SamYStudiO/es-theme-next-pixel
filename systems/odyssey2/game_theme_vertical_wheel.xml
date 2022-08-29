@@ -2,5 +2,6 @@
 
 	<formatVersion>4</formatVersion>
 	<include>./../../games/$random(frogger,kcs_krazy_chase,stone_sling)/vertical_wheel.xml</include>
+	<include>./../../games/$random(frogger,kcs_krazy_chase,stone_sling)/$system/vertical_wheel.xml</include>
 
 </theme>

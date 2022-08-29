@@ -1,7 +1,7 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 donkey_kong
-galaga_arcade_fba_fbneo_mame
+galaga
 operation_wolf
 pac_man
 sega_rally

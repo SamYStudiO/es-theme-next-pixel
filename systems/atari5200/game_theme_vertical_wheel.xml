@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(frogger,ms_pac_man,pitfall_atari5200_colecovision)/vertical_wheel.xml</include>
+	<include>./../../games/$random(frogger,ms_pac_man,pitfall)/vertical_wheel.xml</include>
+	<include>./../../games/$random(frogger,ms_pac_man,pitfall)/$system/vertical_wheel.xml</include>
 
 </theme>

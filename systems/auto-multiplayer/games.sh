@@ -20,8 +20,7 @@ f_zero_x
 final_fantasy_vi
 fire_emblem_awakening
 frogger
-galaga_arcade_fba_fbneo_mame
-galaga_atari7800
+galaga
 gegege_no_kitarou
 goldeneye_007
 gradius_pcengine

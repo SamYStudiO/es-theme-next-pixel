@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>	
-	<include>./../../games/$random(chuckie_egg,frogger_dragon_trs80coco_zx81,leggit,lunar_rover_patrol)/music.xml</include>
+	<include>./../../games/$random(chuckie_egg,frogger,leggit,lunar_rover_patrol)/music.xml</include>
+	<include>./../../games/$random(chuckie_egg,frogger,leggit,lunar_rover_patrol)/$system/music.xml</include>
 
 </theme>

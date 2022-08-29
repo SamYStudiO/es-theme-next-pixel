@@ -1,6 +1,6 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
-daimakai_mura_x68000
+daimakai_mura
 space_harrier_x1_x68000
 # Do not edit below this line
 )

@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+
+		<image name="background" extra="true">
+			<path>./../daimakai_mura_a1/background_wheel.jpg</path>
+		</image>
+
+	</view>
+
+</theme>

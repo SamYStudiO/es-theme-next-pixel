@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(daimakai_mura_supergrafx,madou_king_granzort)/color_accent.xml</include>
+	<include>./../../games/$random(daimakai_mura,madou_king_granzort)/color_accent.xml</include>
+	<include>./../../games/$random(daimakai_mura,madou_king_granzort)/$system/color_accent.xml</include>
 
 </theme>

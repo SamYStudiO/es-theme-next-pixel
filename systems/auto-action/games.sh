@@ -20,8 +20,7 @@ celeste
 choplifter
 chuckie_egg
 crash_bandicoot_2
-daimakai_mura_supergrafx
-daimakai_mura_x68000
+daimakai_mura
 dolphin_blue
 donkey_kong
 donkey_kong_country

@@ -9,7 +9,7 @@ burgertime
 capcom_vs_snk_2_millenium_fight_2001
 capcom_vs_snk_millenium_fight_2000
 chuckie_egg
-daimakai_mura_x68000
+daimakai_mura
 dolphin_blue
 donkey_kong_country
 donkey_kong_junior

@@ -35,8 +35,7 @@ choplifter
 chuckie_egg
 crash_bandicoot_2
 crazy_taxi
-daimakai_mura_supergrafx
-daimakai_mura_x68000
+daimakai_mura
 daytona_usa_2_power_edition
 defender_of_the_crown_amigacdtv
 der_langrisser

@@ -1,0 +1,6 @@
+﻿<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./$random(daimakai_mura_a0,daimakai_mura_a1)/color_accent.xml</include>
+	
+</theme>

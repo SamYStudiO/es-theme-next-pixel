@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(daimakai_mura_x68000,space_harrier_x1_x68000)/gamelist.xml</include>
+	<include>./../../games/$random(daimakai_mura,space_harrier_x1_x68000)/gamelist.xml</include>
+	<include>./../../games/$random(daimakai_mura,space_harrier_x1_x68000)/$system/gamelist.xml</include>
 
 </theme>

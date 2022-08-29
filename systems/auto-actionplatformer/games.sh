@@ -9,7 +9,7 @@ castlevania_rondo_of_blood
 celeste
 chuckie_egg
 crash_bandicoot_2
-daimakai_mura_supergrafx
+daimakai_mura
 donkey_kong
 donkey_kong_country
 donkey_kong_junior

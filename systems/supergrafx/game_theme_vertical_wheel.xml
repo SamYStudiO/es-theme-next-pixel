@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(daimakai_mura_supergrafx,madou_king_granzort)/vertical_wheel.xml</include>
+	<include>./../../games/$random(daimakai_mura,madou_king_granzort)/vertical_wheel.xml</include>
+	<include>./../../games/$random(daimakai_mura,madou_king_granzort)/$system/vertical_wheel.xml</include>
 
 </theme>

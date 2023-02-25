@@ -1,4 +1,8 @@
 ### Changelog
+1.3
+- Add vg5000 support
+- Add zmachine support
+
 1.2
 - Add megaduck support
 - Add cdi support

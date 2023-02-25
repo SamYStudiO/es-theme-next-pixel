@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true">
+			<text>Dévelopeur: Joel Berez et Marc Blank</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Année de sortie: 1979</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Appareil: Keyboard</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Affichage: 640x480 pixels</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>Z-Machine est une machine virtuelle utilisée par Infocom</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>pour ses jeux d'aventure "texte". Infocom compilait le code des jeux</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>dans des fichiers contenant des instructions Z-machine et pouvait donc</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>porter ses jeux d'aventures "texte" sur une nouvelle platforme simplement</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>en écrivant une implémentation Z-machine pour cette platforme.</text>
+		</text>
+
+	</view>
+	
+</theme>

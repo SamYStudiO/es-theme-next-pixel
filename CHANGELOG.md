@@ -2,6 +2,7 @@
 2023/xx/xx - 2.2
 - Fix some game ids
 - Fix auto-xxx systems shouldn't use any mix overlay
+- Fix supervision mix overlay size
 - Change way of handling alternate game theme medias, this makes game folder more readable and easier to maintain as _common folder and xxx_a0 doesn 't exists anymore.
 
 2022/08/14 - 2.1

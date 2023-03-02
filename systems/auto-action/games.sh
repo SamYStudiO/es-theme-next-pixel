@@ -100,6 +100,7 @@ the_king_of_fighters_98
 the_last_ninja
 thexder
 time_crisis_ii
+tortues
 turok
 turrican_ii
 virtual_boy_wario_land

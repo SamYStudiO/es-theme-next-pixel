@@ -17,6 +17,7 @@ bejeweled
 blackthorne
 blue_wing_blitz
 bowling
+bris_de_glace
 bubble_bobble
 buffers_evolution
 burgertime
@@ -189,6 +190,7 @@ the_secret_of_monkey_island
 thexder
 ti_invaders
 time_crisis_ii
+tortues
 turok
 turrican_ii
 uncharted_3

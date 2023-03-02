@@ -4,6 +4,7 @@ armor_attack
 bayonetta_2
 beats_of_rage
 bowling
+bris_de_glace
 bubble_bobble
 burgertime
 capcom_vs_snk_2_millenium_fight_2001

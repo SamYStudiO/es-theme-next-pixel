@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="detailed">
+
+		<image name="shadow" extra="true">
+			<path>./../../overlay/computer_flat.png</path>
+		</image>
+
+	</view>
+	
+</theme>

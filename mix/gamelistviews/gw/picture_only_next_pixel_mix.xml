@@ -1,0 +1,14 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./common.xml</include>
+	
+	<view name="detailed">
+		
+		<video name="md_video">
+			<maxSize>.52083 .6</maxSize>
+		</video>
+		
+	</view>
+	
+</theme>

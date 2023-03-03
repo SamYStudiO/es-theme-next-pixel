@@ -6,18 +6,32 @@
 
 	<view name="system">
 	
-		<image name="logo_background" extra="true">
+		<image name="background" extra="true" />
+	
+		<image name="system_carousel_background" extra="true">
+			<color>48726a</color>
+		</image>
+		
+		<image name="system_carousel_border" extra="true">
 			<color>48726a</color>
 		</image>
 		
 	</view>
+	
+	<view name="basic, detailed">
 
-	<view name="detailed">
-
-		<image name="background_left_overlay, background_right_overlay, info_background" extra="true">
+		<image name="gamelist_background" extra="true">
 			<color>48726a</color>
 		</image>
-
+	
+		<textlist name="gamelist">
+			<selectorColor>48726a</selectorColor>
+		</textlist>
+		
+		<image name="gamelist_border" extra="true">
+			<color>48726a</color>
+		</image>
+	 
 	</view>
 	
 </theme>

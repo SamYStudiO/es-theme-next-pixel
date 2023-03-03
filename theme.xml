@@ -2,7 +2,7 @@
 
 	<formatVersion>4</formatVersion>
 	<include>./options.xml</include>
-	<include>./systems/$system/texts.xml</include>
+	<include>./systems/$system/en/texts.xml</include>
 	<include>./systems/$system/$language/texts.xml</include>
 	<include>./systems/$system/$language_$country/texts.xml</include>
 	<include>./systems/$system/custom.xml</include>

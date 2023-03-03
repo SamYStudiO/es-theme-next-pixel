@@ -1,8 +1,8 @@
 #!/bin/sh
 # Generate all language files with the code specified below for each systems.
-language="pt_br"
-# Generate file with specified language precede by slash "/" (e.g. /fr), to use english as source leave an empty string ""
-copyFrom=""
+language="en"
+# Generate file with specified language precede by slash "/" (e.g. /fr).
+copyFrom="/en"
 for d in * ; do
 	echo "$d"
 	if [[ ! -d "${d}/${language}" ]]; then

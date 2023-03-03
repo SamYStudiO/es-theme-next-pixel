@@ -8,6 +8,7 @@
 - Fix bbcmicro mix overlay size
 - Change way of handling alternate game theme medias, this makes game folder more readable and easier to maintain as _common folder and xxx_a0 doesn 't exists anymore.
 - Improve mix xmls organization to avoid duplicating content
+- Move systems english texts.xml to its own *en* folder as others languages
 
 2022/08/14 - 2.1
 - Add cdi support

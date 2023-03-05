@@ -7,7 +7,6 @@ lumines_ii
 prince_of_persia
 puyo_puyo_2
 railway
-streets_of_rage_2
 # Do not edit below this line
 )
 

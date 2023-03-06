@@ -39,39 +39,6 @@ If your language doesn't exist yet a shell script is available to generate all f
 Don't make lines to long as it will not render properly, to make sure everything is ok run your recalbox with your translation before making your pull request as I won't check translations myself.
 Theme has an option to display 4 info lines or all lines. For most system this is ok beacause system info are organized as one hardware info per line, but a few systems have just a random text. In this case make sure you don't cut off a sentence on fourth line. The fourth line should have a terminated sentence.
 	
-### Status of translated languages
-
-English **OK** 
-
-French **OK**
-
-Portuguese
-- *LEIAME.md*
-	* Custom Imageviewer part
-	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#customize-next-pixel-make-your-own-favorites-
-	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#download (donwload from all download links)
-- *systems/[all recalbox v7+ new systems]/pt*
-
-Brazilan
-- *LEIAME_BR.md*
-	* Custom Imageviewer part
-	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#customize-next-pixel-make-your-own-favorites-
-	* https://github.com/SamYStudiO/es-theme-next-pixel/blob/master/LEIAME.md#download (donwload from all download links)
-- *systems/[all recalbox v7+ new systems]/pt_br*
-		
-German
-- *LIESMICH.md*
-- *mix/LIESMICH.md*
-- *systems/[all recalbox v7+ new systems]/de*
-
-Ialien 
-- Everything need to be translated
-
-Spanish
-- Everything need to be translated
-	
-Please if you see something wrong even with **OK** languages, just tell me or make a pull request.
-
 **THX FOR CONTRIBUTING!!!**
 	
 	

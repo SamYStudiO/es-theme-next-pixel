@@ -120,20 +120,20 @@ Several packages are available depending on your screen ratio and resolution. Ac
 **If you are a Raspberry Pi user please read carefully next lines (PC/Odroid users can skip to download links and grab package that match best their screen resolution)**.
 Raspberry Pi may lead to memory issues when using a lot of images. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. If your screen has a resolution above 720p you also need to set recalbox to run at 720p resolution. To do so open recalbox MENU > ADVANCED SETTINGS > RESOLUTIONS > EMULATIONSTATION RESOLUTION > pick a 1280x720 resolution.
 
-**1080p [DOWNLOAD es-next-pixel-v2-16x9-1080p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-1080p.zip)**
+**1080p [DOWNLOAD es-next-pixel-v2-16x9-1080p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.2/es-theme-next-pixel-v2-16x9-1080p.zip)**
 
-**720p [DOWNLOAD es-next-pixel-v2-16x9-720p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-720p.zip)**
+**720p [DOWNLOAD es-next-pixel-v2-16x9-720p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.2/es-theme-next-pixel-v2-16x9-720p.zip)**
 
-**480p [DOWNLOAD es-next-pixel-v2-16x9-480p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-480p.zip)**
+**480p [DOWNLOAD es-next-pixel-v2-16x9-480p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.2/es-theme-next-pixel-v2-16x9-480p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages.
 
 #### 4:3 screens
 2 packages are available with 1024x768 images and 320x240 images, if you're using a screen with higher resolution than 320x240 pick **crt package**, if you're using 320x240 or lower screen (like GPi CASE) pick **crt-small package**. If you're using 1024x768 and your screen has a resolution above 768p you also need to set recalbox to run at 768p resolution. To do so open recalbox MENU > ADVANCED SETTINGS > RESOLUTIONS > EMULATIONSTATION RESOLUTION > pick a 1024x768 resolution.
 
-**1024x768 [DOWNLOAD es-next-pixel-v2-4x3-768p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-768p.zip)**
+**1024x768 [DOWNLOAD es-next-pixel-v2-4x3-768p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.2/es-theme-next-pixel-v2-4x3-768p.zip)**
 
-**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-v2-4x3-240p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-240p.zip)**
+**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-v2-4x3-240p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.2/es-theme-next-pixel-v2-4x3-240p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages.
 

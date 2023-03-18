@@ -118,20 +118,20 @@ Plusieurs archives sont disponibles en fonction de la résolution et du ratio de
 **Si vous utilisez un Raspberry Pi lisez attentivement les lignes suivantes (les utilisateurs de PC/Odroid peuvent passer jusqu'aux liens de téléchargement et choisir l'archive qui correspond le mieux à leur taille d'écran)**.
 Le Raspberry Pi peut engendrer des problèmes mémoires quand vous utilisez beaucoup d'images. L'archive 720p est à privilégier même si vous êtes sur un grand écran 1080p/4K/8K. Si votre écran à une résolution supérieure à 720p vous devez également changer la résolution de recalbox en 720p. Pour cela rendez-vous dans les options MENU > PARAMÈTRES AVANCÉS > RÉSOLUTIONS > EMULATIONSTATION > choisir alors une résolution en 1280x720
 
-**1080p [TELECHARGER es-next-pixel-v2-16x9-1080p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-1080p.zip)**
+**1080p [TELECHARGER es-next-pixel-v2-16x9-1080p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.2/es-theme-next-pixel-v2-16x9-1080p.zip)**
 
-**720p [TELECHARGER es-next-pixel-v2-16x9-720p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-720p.zip)**
+**720p [TELECHARGER es-next-pixel-v2-16x9-720p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.2/es-theme-next-pixel-v2-16x9-720p.zip)**
 
-**480p [TELECHARGER es-next-pixel-v2-16x9-480p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-480p.zip)**
+**480p [TELECHARGER es-next-pixel-v2-16x9-480p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.2/es-theme-next-pixel-v2-16x9-480p.zip)**
 
 [Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes.
 
 #### 4:3 screens
 2 archives sont disponibles avec des images en 1024x768 et des images en 320x240, si vous utilisez un écran avec une résolution supérieure à 320x240 choisissez l'**archive crt**, si vous utilisez un écran 320x240 ou inférieur (comme le GPi CASE) choisissez l'**archive crt-small**. Si vous utilisez l'archive 1024x768 avec un écran qui a une résolution supérieure, vous devez également changer la résolution de recalbox en 768p. Pour cela rendez-vous dans les options MENU > PARAMÈTRES AVANCÉS > RÉSOLUTIONS > EMULATIONSTATION > choisir alors une résolution en 1024x768
 
-**1024x768 [TELECHARGER es-next-pixel-v2-4x3-768p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-768p.zip)**
+**1024x768 [TELECHARGER es-next-pixel-v2-4x3-768p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.2/es-theme-next-pixel-v2-4x3-768p.zip)**
 
-**320x240 (GPi CASE) [TELECHARGER es-next-pixel-v2-4x3-240p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-240p.zip)**
+**320x240 (GPi CASE) [TELECHARGER es-next-pixel-v2-4x3-240p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.2/es-theme-next-pixel-v2-4x3-240p.zip)**
 
 [Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes.
 

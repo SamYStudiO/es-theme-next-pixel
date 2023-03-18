@@ -5,7 +5,7 @@ Il est basé sur le thème recalbox-next, vous aurez donc tous ses avantages (pa
 
 **Le thème est configuré par défaut pour utiliser un "mix" personnalisé pour scraper les images de vos jeux, lisez attentivement la documentation ci-dessous pour obtenir plus d'informations, même si vous ne voulez pas l'utilisez car vous devrez ajuster l'option LISTE DE JEUX du thème pour que celui-ci fonctionne correctement avec d'autres "mix"**.
 
-**Le thème est compatible avec RecalBox 8.1+ et avec des écrans 16:9, 4:3 et 4:3 de petites tailles comme le GPi CASE**.
+**Le thème est compatible avec RecalBox 9.1+ et avec des écrans 16:9, 4:3 et 4:3 de petites tailles comme le GPi CASE**.
 
 Voici quelques captures d'écran des thèmes de jeu disponibles:
 

@@ -5,7 +5,7 @@ Este tema foi projetado para exibir uma imagem em tela cheia para cada sistema q
 
 **O tema está configurado por padrão para usar um mix personalizado ao fazer scrape das imagens dos jogos, por favor, leia atentamente a documentação abaixo para obter mais informações, mesmo se você não quiser usá-lo, pois terá que ajustar a opção GAMELISTVIEW do tema para que funcione corretamente com outros mixes**.
  
-**O tema é compativel com Recalbox 8.1+ e com telas 16:9, 4:3 ou mesmo pequenas telas 4:3 como o GPi CASE**.
+**O tema é compativel com Recalbox 9.1+ e com telas 16:9, 4:3 ou mesmo pequenas telas 4:3 como o GPi CASE**.
 
 Aqui estão algumas capturas de telas de alguns temas de jogos disponíveis:
 

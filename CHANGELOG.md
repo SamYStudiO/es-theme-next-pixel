@@ -6,7 +6,7 @@
 - Fix ti994a mix overlay size
 - Fix trs80coco mix overlay size
 - Fix bbcmicro mix overlay size
-- Change way of handling alternate game theme medias, this makes game folder more readable and easier to maintain as _common folder and xxx_a0 doesn 't exists anymore.
+- Change way of handling alternate game theme medias, this makes game folder more readable and easier to maintain as _common folder and xxx_a0 doesn't exists anymore.
 - Improve mix xmls organization to avoid duplicating content
 - Move systems english texts.xml to its own *en* folder as others languages
 

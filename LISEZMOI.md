@@ -113,53 +113,27 @@ Merci pour votre contribution:
 Plusieurs archives sont disponibles en fonction de la résolution et du ratio de votre écran. Actuellement le thème est compatible avec le format 16:9 et 4:3.
 
 #### Ecrans 16:9
-3 archives sont disponibles avec des images en 1080p (écrans full hd, 4K,8K), des images en 720p (écrans hd) ou des images en 480p (en principe uniquement pour les utilisateurs de Raspberry).
+3 archives sont disponibles avec des images en 1080p (écrans full hd, 4K,8K), des images en 720p (écrans hd) ou des images en 480p (en principe uniquement pour les utilisateurs de Raspberry avec beaucoup de systèmes actifs).
 
 **Si vous utilisez un Raspberry Pi lisez attentivement les lignes suivantes (les utilisateurs de PC/Odroid peuvent passer jusqu'aux liens de téléchargement et choisir l'archive qui correspond le mieux à leur taille d'écran)**.
-Le Raspberry Pi peut engendrer des problèmes mémoires quand vous utilisez beaucoup d'images. L'archive 720p est à privilégier même si vous êtes sur un grand écran 1080p/4K/8K. **Je recommande également de forcer RecalBox à s'exécuter en 720p si votre écran à une plus grande résolution, cela va significativement améliorer les performances et la qualité des images**. Pour cela vous devez éditer le fichier [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) en utilisant PuTTy ou [WinSCP](https://github.com/recalbox/recalbox-os/wiki/Network-access-with-WinSCP-(EN)).
+Le Raspberry Pi peut engendrer des problèmes mémoires quand vous utilisez beaucoup d'images. L'archive 720p est à privilégier même si vous êtes sur un grand écran 1080p/4K/8K. Si votre écran à une résolution supérieure à 720p vous devez également changer la résolution de recalbox en 720p. Pour cela rendez-vous dans les options MENU > PARAMÈTRES AVANCÉS > RÉSOLUTIONS > EMULATIONSTATION > choisir alors une résolution en 1280x720
 
-**N'oubliez pas d'autoriser les droits en écriture pour modifier le fichier**.
-- Si vous utilisez PuTTy utilisez la commande *mount -o remount,rw /boot*
-- Si vous utilisez WinSCP ouvrez une console (Ctrl + T), entrez la commande *mount -o remount,rw /boot* et cliquez sur Exécuter.
+**1080p [TELECHARGER es-next-pixel-v2-16x9-1080p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-1080p.zip)**
 
-Dans le fichier recherchez *hdmi_group* et *hdmi_mode* et modidiez les ainsi :
-- hdmi_group=1
-- hdmi_mode=4
+**720p [TELECHARGER es-next-pixel-v2-16x9-720p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-720p.zip)**
 
-N'oubliez pas de retirer le caractère '#' s'il est présent sur ces lignes.
+**480p [TELECHARGER es-next-pixel-v2-16x9-480p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-480p.zip)**
 
-Si vous avez toujours des problèmes avec l'archive 720p (principalement des images remplacées par des rectangles blancs) **et que vous avez déjà forcer Recalbox à s'exécuter en 720p** vous pouvez essayer d'allouer plus de mémoire au gpu. Modifier le même fichier [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)), cette fois recherchez *gpu_mem_1024=448* et mofifiez le en *gpu_mem_1024=512*, encore une fois **N'oubliez pas d'autoriser les droits en écriture pour modifier le fichier**.
-
-**Avertissment : l'émulateur PSP peut ne plus fonctionner avec cette manipulation, si vous n'utilisez pas cette émulateur ça ne sera donc pas un problème**.
-
-Si vous ne voulez pas changer les paramètres de la mémoire ou si vous utilisez le système PSP alors vous devriez passer sur l'archive 480p, la qualité des images sera moindre mais vous devriez pouvoir utiliser beaucoup de systèmes sans problème.
-
-**1080p [TELECHARGER es-next-pixel-v2-16x9-1080p pour Recalbox 8.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-1080p.zip)**
-
-**720p [TELECHARGER es-next-pixel-v2-16x9-720p pour Recalbox 8.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-720p.zip)**
-
-**480p [TELECHARGER es-next-pixel-v2-16x9-480p pour Recalbox 8.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-480p.zip)**
-
-[Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 8.0 ou inférieur.
+[Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes.
 
 #### 4:3 screens
-2 archives sont disponibles avec des images en 1024x768 et des images en 320x240, si vous utilisez un écran avec une résolution supérieure à 320x240 choisissez l'**archive crt**, si vous utilisez un écran 320x240 ou inférieur (comme le GPi CASE) choisissez l'**archive crt-small**. **Si vous utilisez l'archive 1024x768 avec un écran qui a une résolution supérieure, je recommande de forcer RecalBox à s'exécuter à la même resolution, cela va significativement améliorer les performances et la qualité des images**. Pour cela vous devez éditer le fichier [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) en utilisant PuTTy ou [WinSCP](https://github.com/recalbox/recalbox-os/wiki/Network-access-with-WinSCP-(EN)).
+2 archives sont disponibles avec des images en 1024x768 et des images en 320x240, si vous utilisez un écran avec une résolution supérieure à 320x240 choisissez l'**archive crt**, si vous utilisez un écran 320x240 ou inférieur (comme le GPi CASE) choisissez l'**archive crt-small**. Si vous utilisez l'archive 1024x768 avec un écran qui a une résolution supérieure, vous devez également changer la résolution de recalbox en 768p. Pour cela rendez-vous dans les options MENU > PARAMÈTRES AVANCÉS > RÉSOLUTIONS > EMULATIONSTATION > choisir alors une résolution en 1024x768
 
-**N'oubliez pas d'autoriser les droits en écriture pour modifier le fichier**.
-- Si vous utilisez PuTTy utilisez la commande *mount -o remount,rw /boot*
-- Si vous utilisez WinSCP ouvrez une console (Ctrl + T), entrez la commande *mount -o remount,rw /boot* et cliquez sur Exécuter.
+**1024x768 [TELECHARGER es-next-pixel-v2-4x3-768p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-768p.zip)**
 
-Dans le fichier recherchez *hdmi_group* et *hdmi_mode* et modidiez les ainsi :
-- hdmi_group=2
-- hdmi_mode=16
+**320x240 (GPi CASE) [TELECHARGER es-next-pixel-v2-4x3-240p pour Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-240p.zip)**
 
-N'oubliez pas de retirer le caractère '#' s'il est présent sur ces lignes.
-
-**1024x768 [TELECHARGER es-next-pixel-v2-4x3-768p pour Recalbox 8.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-768p.zip)**
-
-**320x240 (GPi CASE) [TELECHARGER es-next-pixel-v2-4x3-240p pour Recalbox 8.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-240p.zip)**
-
-[Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes pour Recalbox 8.0 ou inférieur.
+[Télécharger](https://github.com/SamYStudiO/es-theme-next-pixel/releases) les archives précédentes.
 
 
 ### Derniers mots

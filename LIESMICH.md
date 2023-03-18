@@ -115,53 +115,27 @@ Thank you for contributing:
 Several packages are available depending on your screen ratio and resolution. Actually theme fully supports 16:9 and 4:3 screens.
 
 #### 16:9 screens
-3 packages are available with 1080p images (full hd screens, 4K, 8K), 720p images (hd screens) or 480p images (intended for Raspberry users).
+3 packages are available with 1080p images (full hd screens, 4K, 8K), 720p images (hd screens) or 480p images (intended for Raspberry users with lots of systems active).
 
 **If you are a Raspberry Pi user please read carefully next lines (PC/Odroid users can skip to download links and grab package that match best their screen resolution)**.
-Raspberry Pi may lead to memory issues when using a lot of images. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. **I highly recommend to force Recalbox to run at 720p if your screen is running higher resolution, as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) using PuTTy or WinSCP.
+Raspberry Pi may lead to memory issues when using a lot of images. 720p package is the right way to go even if you're on a big screen tv 1080p/4K/8K. If your screen has a resolution above 720p you also need to set recalbox to run at 720p resolution. To do so open recalbox MENU > ADVANCED SETTINGS > RESOLUTIONS > EMULATIONSTATION RESOLUTION > pick a 1280x720 resolution.
 
-**Don't forget to allow write access before modify your file**.
-- If you're using PuTTy use *mount -o remount,rw /boot* commmand.
-- If you're using WinSCP open console (Ctrl + T), enter command *mount -o remount,rw /boot* and click Execute.
+**1080p [DOWNLOAD es-next-pixel-v2-16x9-1080p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-1080p.zip)**
 
-From this file search for *hdmi_group* and *hdmi_mode* and set both as following :
-- hdmi_group=1
-- hdmi_mode=4
+**720p [DOWNLOAD es-next-pixel-v2-16x9-720p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-720p.zip)**
 
-Don't forget to remove '#' char on those lines if present.
+**480p [DOWNLOAD es-next-pixel-v2-16x9-480p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-480p.zip)**
 
-If you still have issues with 720p (mainly images replaced with white rectangle) **and you already have forced Recalbox to run at 720p** you may try to allocate more gpu memory. Edit the same [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) file, this time search for *gpu_mem_1024=448* and set it to *gpu_mem_1024=512* and once again **Don't forget to allow write access before modify your file**.
-
-**Warning : PSP emulator may not work anymore, so if you're not using PSP system this shouldn't be a problem**.
-
-If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
-
-**1080p [DOWNLOAD es-next-pixel-v2-16x9-1080p for Recalbox 8.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-1080p.zip)**
-
-**720p [DOWNLOAD es-next-pixel-v2-16x9-720p for Recalbox 8.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-720p.zip)**
-
-**480p [DOWNLOAD es-next-pixel-v2-16x9-480p for Recalbox 8.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-16x9-480p.zip)**
-
-[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 8.0 or lower.
+[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages.
 
 #### 4:3 screens
-2 packages are available with 1024x768 images and 320x240 images, if you're using a screen with higher resolution than 320x240 pick **crt package**, if you're using 320x240 or lower screen (like GPi CASE) pick **crt-small package**. **If you're using 1024x768 package with a screen with higher resolution than 1024x768, I highly recommend to force Recalbox to run at the same resolution as it will improve performances and images quality**. To do so you'll have to edit [config.txt](https://github.com/recalbox/recalbox-os/wiki/Edit-the-config.txt-file-(EN)) using PuTTy or [WinSCP](https://github.com/recalbox/recalbox-os/wiki/Network-access-with-WinSCP-(EN)).
+2 packages are available with 1024x768 images and 320x240 images, if you're using a screen with higher resolution than 320x240 pick **crt package**, if you're using 320x240 or lower screen (like GPi CASE) pick **crt-small package**. If you're using 1024x768 and your screen has a resolution above 768p you also need to set recalbox to run at 768p resolution. To do so open recalbox MENU > ADVANCED SETTINGS > RESOLUTIONS > EMULATIONSTATION RESOLUTION > pick a 1024x768 resolution.
 
-**Don't forget to allow write access before modify your file**.
-- If you're using PuTTy use *mount -o remount,rw /boot* commmand.
-- If you're using WinSCP open console (Ctrl + T), enter command *mount -o remount,rw /boot* and click Execute.
+**1024x768 [DOWNLOAD es-next-pixel-v2-4x3-768p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-768p.zip)**
 
-From this file search for *hdmi_group* and *hdmi_mode* and set both as following :
-- hdmi_group=2
-- hdmi_mode=16
+**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-v2-4x3-240p for Recalbox 9.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-240p.zip)**
 
-Don't forget to remove '#' char on those lines if present.
-
-**1024x768 [DOWNLOAD es-next-pixel-v2-4x3-768p for Recalbox 8.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-768p.zip)**
-
-**320x240 (GPi CASE) [DOWNLOAD es-next-pixel-v2-4x3-240p for Recalbox 8.1+](https://github.com/SamYStudiO/es-theme-next-pixel/releases/download/v2.1/es-theme-next-pixel-v2-4x3-240p.zip)**
-
-[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages for Recalbox 8.0 or lower.
+[Download](https://github.com/SamYStudiO/es-theme-next-pixel/releases) previous packages.
 
 
 ### Final words
@@ -190,5 +164,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-

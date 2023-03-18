@@ -1,5 +1,7 @@
 ### Changelog
 2023/xx/xx - 2.2
+- Add vg5000 support
+- Add zmachine support (no game theme as no official media exists)
 - Fix some game ids
 - Fix auto-xxx systems shouldn't use any mix overlay
 - Fix supervision mix overlay size
